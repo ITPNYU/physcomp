@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="83.963px"
+	 height="228.441px" viewBox="0 3.038 83.963 228.441" enable-background="new 0 3.038 83.963 228.441" xml:space="preserve">
+<g transform="translate(39.759,57.6)">
+	<g id="schematicLabel">
+		<text transform="matrix(1 0 0 1 -2.136230e-04 6.7491)" font-family="'DroidSans'" font-size="9">R1</text>
+	</g>
+</g>
+<g transform="translate(6.4,54.4)">
+	<g id="schematic">
+		<rect id="connector0pin" x="5.474" y="1.089" width="1.893" height="9.783"/>
+		<rect id="connector0terminal" x="5.952" y="0.406" width="0.866" height="0.686"/>
+		<rect id="connector1pin" x="5.477" y="54.369" width="1.894" height="9.783"/>
+		<rect id="connector1terminal" x="5.956" y="64.082" width="0.866" height="0.688"/>
+		<g>
+			<polyline fill="#FFFFFF" stroke="#000000" stroke-width="2.2284" stroke-linecap="round" points="6.405,1.132 6.405,20.392 
+				9.905,22.255 2.655,26.291 9.905,30.324 2.655,34.359 9.905,38.392 2.655,42.427 6.405,44.599 6.405,63.861 			"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(38.966,105.6)">
+	<g id="schematicLabel_1_">
+		<text transform="matrix(1 0 0 1 4.9998 50.7491)" enable-background="new    "><tspan x="0" y="0" font-family="'DroidSans'" font-size="9">LED1</tspan><tspan x="0" y="10.8" font-family="'DroidSans'" font-size="9">2V, 20 mA</tspan></text>
+	</g>
+</g>
+<g transform="translate(2.4,125.6)">
+	<g id="schematic_1_">
+		<rect id="connector1terminal_1_" x="10.632" y="0.525" width="0.208" height="0.209"/>
+		<rect id="connector0terminal_1_" x="10.648" y="64.314" width="0.208" height="0.207"/>
+		<rect id="connector1pin_1_" x="10.028" y="0.421" width="1.375" height="10.339"/>
+		<rect id="connector0pin_1_" x="10.028" y="53" width="1.375" height="11.767"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="10.752" y1="41.171" x2="10.752" y2="64.123"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="21.171" y1="41.683" x2="0.333" y2="41.683"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="10.752" y1="0.732" x2="10.752" y2="22.394"/>
+		<polygon fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" points="10.752,41.638 
+			5.486,32.515 0.218,23.394 10.752,23.394 21.285,23.394 16.02,32.515 		"/>
+		<path d="M27.775,47.148l2.558-2.037l1.465-1.168l1.091-0.871l3.461,9.58L27.775,47.148L27.775,47.148z"/>
+		<path d="M21.226,52.138l2.556-2.039l1.464-1.168l1.09-0.869l3.469,9.58L21.226,52.138L21.226,52.138z"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="24.281" y1="37.577" x2="32.948" y2="48.062"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="19.948" y1="45.54" x2="25.515" y2="52.275"/>
+	</g>
+</g>
+<g transform="translate(4,207.2)">
+	<g id="schematic_2_">
+		<path id="connector0pin_2_" fill="none" stroke="#000000" stroke-width="1.92" d="M8.971,17.008V0.001"/>
+		<rect id="connector0terminal_2_" x="8.592" y="0.001" fill="none" width="0.756" height="0.762"/>
+		<path id="path4098" fill="none" stroke="#000000" stroke-width="1.92" d="M0,17.008h17.941"/>
+		<path id="path4100" fill="none" stroke="#000000" stroke-width="1.92" d="M2.989,20.165H14.95"/>
+		<path id="path4102" fill="none" stroke="#000000" stroke-width="1.92" d="M11.956,23.319H5.981"/>
+	</g>
+</g>
+<g id="schematic_3_">
+	<rect id="connector0pin_3_" x="11.555" y="15.739" width="2.4" height="10.836"/>
+	<rect id="connector0terminal_3_" x="12.755" y="25.775" width="0" height="0.8"/>
+	<path fill="none" stroke="#000000" stroke-width="2.3998" d="M0,15.739h25.51"/>
+	<text id="label" transform="matrix(1 0 0 1 7.5 10.7495)" font-family="'DroidSans'" font-size="8.9992">5V</text>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="12.789" y1="118.826" x2="13.136" y2="126.229"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="12.755" y1="26.175" x2="12.785" y2="55.149"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="13.152" y1="190.018" x2="12.97" y2="207.582"/>
+</svg>
