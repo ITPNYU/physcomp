@@ -1,16 +1,21 @@
 /*
-  Simple mouse control from analog inputs
+  Simple mouse control from potentiometers
  
- This sketch uses two analog inputs, A0, and A1, to control the 
- horizontal axis of the mouse. It only runs on a Leonardo, Micro, or Yun.
+ This sketch uses two potentiometers, A0, and A1, to control the 
+ horizontal axis of the mouse, and a digital one, Digital in 3,
+ to control the mouse button.
+ It only runs on a Leonardo, Micro, or Yun.
  
  A pushbutton on digital pin 2 controls whether or not
  the Arduino takes control of the mouse.
  
- When there's a significant difference between the two analog sensors
- (i.e. more than 100), the mouse moves left or right, 
- depending on which sensor is greater.
+ When the potentiometers go below 512, the mouse moves up or left,
+ and when they go above 512, the mouse moves down or right.
  
+ When the pushbutton on digital pin 3 goes low, the mouse clicks. 
+ When it goes high, the mouse releases.
+ 
+ This works well with an Adafruit Analog Thumb Joystick.
  
  created 11 September 2013
  by Tom Igoe
@@ -78,19 +83,5 @@ void loop() {
     // save switch state for next comparison:
     lastButton2State = button2State;
   }
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
 
