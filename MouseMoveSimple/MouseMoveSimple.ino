@@ -17,7 +17,7 @@
   
 */
 
-// Global varibles:
+// Global variables:
 int lastButtonState = LOW;        // state of the button last time you checked
 boolean mouseIsActive = false;    // whether or not the Arduino is controlling the mouse
 
@@ -51,23 +51,23 @@ void loop() {
   int sensor2 = analogRead(A1);
 
   // print their values. Remove this when you have things working:
-  //Serial.print(sensor1);
-  //Serial.print("  ");
-  //Serial.println(sensor2); 
+  Serial.print(sensor1);
+  Serial.print("  ");
+  Serial.println(sensor2); 
 
   // if there's a significant difference to the right:
   if (sensor1 > sensor2 + 100){
-    //  Serial.println("R"); 
+    //  Serial.println("L"); 
     if (mouseIsActive == true) {
-      Mouse.move(1, 0, 0);
+      Mouse.move(-1, 0, 0);
     }
   } 
 
   // if there's a significant difference to the left:
   else if (sensor2 > sensor1 + 100) {
-    // Serial.println("L");
+    // Serial.println("R");
     if (mouseIsActive == true) {
-      Mouse.move(-1, 0, 0);
+      Mouse.move(1, 0, 0);
     }
   }
 }
