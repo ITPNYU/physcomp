@@ -17,8 +17,9 @@
   
 */
 
-int lastButtonState = LOW;
-boolean mouseIsActive = false;
+// Global varibles:
+int lastButtonState = LOW;        // state of the button last time you checked
+boolean mouseIsActive = false;    // whether or not the Arduino is controlling the mouse
 
 void setup() {
   // initialize mouse control:
@@ -36,10 +37,12 @@ void loop() {
   // if it's changed and it's high, toggle the mouse state:
   if (buttonState != lastButtonState) {
     if (buttonState == HIGH) {
+      // if mouseIsActive is true, make it false;
+      // if it's false, make it true:
       mouseIsActive = !mouseIsActive;
     }
   }
-  // save switch state for next comparison:
+  // save button state for next comparison:
   lastButtonState = buttonState;
 
   // read the analog sensors:
@@ -68,13 +71,3 @@ void loop() {
     }
   }
 }
-
-
-
-
-
-
-
-
-
-

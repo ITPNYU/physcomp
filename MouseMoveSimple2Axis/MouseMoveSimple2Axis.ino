@@ -16,8 +16,9 @@
  
  */
 
-int lastButtonState = LOW;
-boolean mouseIsActive = false;
+// Global varibles:
+int lastButtonState = LOW;        // state of the button last time you checked
+boolean mouseIsActive = false;    // whether or not the Arduino is controlling the mouse
 
 void setup() {
   // initialize mouse control:
@@ -35,15 +36,17 @@ void loop() {
   // if it's changed and it's high, toggle the mouse state:
   if (buttonState != lastButtonState) {
     if (buttonState == HIGH) {
+      // if mouseIsActive is true, make it false;
+      // if it's false, make it true:
       mouseIsActive = !mouseIsActive;
     }
   }
-  // save switch state for next comparison:
+  // save button state for next comparison:
   lastButtonState = buttonState;
 
   // read the analog sensors:
   int sensor1 = analogRead(A0);
-  delay(1);
+  delay(1);            // short delay helps get good readings
   int sensor2 = analogRead(A1);
 
   // print their values. Remove this when you have things working:
@@ -51,8 +54,8 @@ void loop() {
   Serial.print("  ");
   Serial.println(sensor2); 
 
-  int xMove = 0;
-  int yMove = 0;
+  int xMove = 0;    // amount to move the mouse horizontally
+  int yMove = 0;    // amount to move the mouse vertically
 
   // if sensor1 crosses a high threshold:
   if (sensor1 > 800){
@@ -62,8 +65,8 @@ void loop() {
   if (sensor1 < 400) {
     xMove = -2; 
   }
-  
-    // if sensor2 crosses a high threshold:
+
+  // if sensor2 crosses a high threshold:
   if (sensor2 > 800){
     yMove = 2;
   } 
@@ -75,17 +78,4 @@ void loop() {
   if (mouseIsActive == true) {
     Mouse.move(xMove, yMove, 0);
   }
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
