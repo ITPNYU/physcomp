@@ -32,8 +32,8 @@ void setup() {
   Mouse.begin();
   // initialize serial communication:
   Serial.begin(9600);
-  // make pin 2 an input:
-  pinMode(2, INPUT);
+  // make pin 2 an input, using the built-in pullup resistor:
+  pinMode(2, INPUT_PULLUP);
 }
 
 void loop() {
@@ -57,8 +57,8 @@ void loop() {
   delay(1);
   int sensor2 = analogRead(A1);
 
-  int xAxis = (sensor1 / 100) - 5;
-  int yAxis = (sensor2 / 100) - 5;
+  int xAxis = map(sensor1, 0, 1023, -5, 5);
+  int yAxis = map(sensor2, 0, 1023, -5, 5);
   // print their values. Remove this when you have things working:
   Serial.print(xAxis);
   Serial.print("  ");
