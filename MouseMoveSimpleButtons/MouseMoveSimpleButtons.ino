@@ -15,7 +15,7 @@
  by Tom Igoe
  
  */
-// Global varibles:
+// Global variables:
 int lastButtonState = LOW;        // state of the button last time you checked
 boolean mouseIsActive = false;    // whether or not the Arduino is controlling the mouse
 
@@ -59,16 +59,16 @@ void loop() {
     int button5State = digitalRead(6);
 
     if (button2State == HIGH) {
-      Mouse.move(2, 0, 0);
+      Mouse.move(2, 0, 0);      // move right
     } 
     if (button3State == HIGH) {
-      Mouse.move(-2, 0, 0);
+      Mouse.move(-2, 0, 0);     // move left
     } 
     if (button4State == HIGH) {
-      Mouse.move(0, 2, 0);
+      Mouse.move(0, 2, 0);      // move down
     } 
     if (button5State == HIGH) {
-      Mouse.move(0, -2, 0);
+      Mouse.move(0, -2, 0);      // move up
     } 
   }
 }
