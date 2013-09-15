@@ -46,6 +46,8 @@ void loop() {
       // if mouseIsActive is true, make it false;
       // if it's false, make it true:
       mouseIsActive = !mouseIsActive;
+      Serial.print("Mouse control state" );
+      Serial.println(mouseIsActive);
     }
   }
   // save button state for next comparison:
@@ -74,9 +76,11 @@ void loop() {
     // if it's changed and it's high, toggle the mouse state:
     if (button2State != lastButton2State) {
       if (button2State == LOW) {
+        Serial.println("mouse pressed");
         Mouse.press();
       } 
       else {
+        Serial.println("mouse released");
         Mouse.release(); 
       }
     }
@@ -84,4 +88,5 @@ void loop() {
     lastButton2State = button2State;
   }
 }
+
 
