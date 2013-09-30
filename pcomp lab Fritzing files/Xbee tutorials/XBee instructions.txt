@@ -1,0 +1,27 @@
+XBee Lab:
+
+Each group will build two physical devices:
+	* The first  will listen for serial input. 
+		- When the device receives its group number (ASCII-encoded) in the serial input (which is attached to its XBee radio), 
+			the device will generate a physical output. It will also echo that serial input to its serial output.
+		- All other incoming serial messages will be ignored.
+	* The second device will read the physical output from the first through an appropriate input sensor.  
+		When it receives an input, it will send (group number + 1) out the serial output to its XBee radio. 
+
+Each group will have two XBee radios, one on the input device and one on the output device.
+	
+Radios will be configured as follows:
+	* Radio on the first device: 
+		* my address = group number + (group number -1)
+		* destination address = 0
+	* Radio on on the second device: 
+		* my address: (group number-1) * 2
+		* destination address: group number * 2
+
+Teachers will build a device that can receive from every group, and send to any chosen group:
+	* Arduino attached to an XBee Radio, configured as follows:
+		* my address: 0
+		* transmit address: FF
+	* Arduino will have one pushbutton for every group in the class
+	* If an ASCII-encoded number is received in the serial port, the Arduino will display the number visibly
+	* If a group's pushbutton is pressed, the Arduino will send that group's number serially to the XBee radio.
