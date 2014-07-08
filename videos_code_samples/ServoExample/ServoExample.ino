@@ -1,5 +1,7 @@
 /*
   This code sample goes with the video https://vimeo.com/93608912
+  created 2014
+  by Tom Igoe
 */
 
 #include <Servo.h>    // add the servo library

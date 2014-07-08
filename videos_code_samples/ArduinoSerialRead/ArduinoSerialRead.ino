@@ -1,3 +1,9 @@
+/*
+  This code sample goes with the video https://vimeo.com/XXXX
+  created 2014
+  by Tom Igoe
+*/
+
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);

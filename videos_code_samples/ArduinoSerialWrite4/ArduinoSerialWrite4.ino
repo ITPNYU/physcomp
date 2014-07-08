@@ -1,3 +1,8 @@
+/*
+  This code sample goes with the video https://vimeo.com/XXXX
+  created 2014
+  by Tom Igoe
+*/
 void setup() {
   Serial.begin(9600);
   Serial.println("0,0");  

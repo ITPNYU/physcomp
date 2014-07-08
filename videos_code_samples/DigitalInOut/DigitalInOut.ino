@@ -1,5 +1,7 @@
 /*
   This code sample goes with the video https://vimeo.com/86548673
+  created 2014
+  by Tom Igoe
 */
 void setup() {
   // configure the input and output pins:
