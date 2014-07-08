@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="225.641px" height="278.205px" viewBox="102.68 239.218 225.641 278.205"
+	 enable-background="new 102.68 239.218 225.641 278.205" xml:space="preserve">
+<g>
+	<g transform="translate(46.5692,160.233)">
+		<g id="schematic_8_">
+			<path id="connector0pin_8_" fill="none" stroke="#000000" stroke-linecap="round" d="M137.889,293.886v-26.08"/>
+			<g id="connector0terminal_8_">
+			</g>
+			<path id="path4098" fill="none" stroke="#000000" stroke-linecap="round" d="M113.615,294.382h48.541"/>
+			<path id="path4100" fill="none" stroke="#000000" stroke-linecap="round" d="M121.7,304.322h32.368"/>
+			<path id="path4102" fill="none" stroke="#000000" stroke-linecap="round" d="M145.967,314.175h-16.17"/>
+		</g>
+	</g>
+</g>
+<line id="connector0pin_10_" fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="184.451" y1="274.576" x2="184.451" y2="300.66"/>
+<g id="connector0terminal_10_">
+</g>
+<path fill="none" stroke="#000000" stroke-linecap="round" d="M159.999,273.794h48.904"/>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	<text id="label" transform="matrix(1 0 0 1 174.8672 263.0981)" font-family="'HelveticaNeue'" font-size="16.2983">+V</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	<text id="label_1_" transform="matrix(1 0 0 1 119.1299 365.5981)" font-family="'HelveticaNeue'" font-size="16.2983">Load</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	<text id="label_3_" transform="matrix(1 0 0 1 153.9502 497.6499)" font-family="'HelveticaNeue'" font-size="16.2983">Ground</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	<text id="label_2_" transform="matrix(1 0 0 1 242.0059 338.0981)" enable-background="new    "><tspan x="0" y="0" font-family="'HelveticaNeue'" font-size="16.2983">Direction </tspan><tspan x="-0.302" y="19.558" font-family="'HelveticaNeue'" font-size="16.2983">of current</tspan><tspan x="19.786" y="39.116" font-family="'HelveticaNeue'" font-size="16.2983">flow</tspan></text>
+</g>
+<g>
+	<g transform="translate(91.6785,50.587)">
+		<g id="schematic_2_">
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" points="92.776,357.958 92.776,353.526 83.938,346.911 
+				103.821,335.855 83.938,324.812 103.821,313.771 83.938,302.723 103.821,291.677 83.938,280.632 92.776,274.006 92.776,269.588 
+							"/>
+			
+				<line id="connector1pin_2_" fill="none" stroke="#000000" stroke-linecap="round" x1="92.776" y1="380.04" x2="92.776" y2="357.958"/>
+			<g id="connector1terminal_4_">
+			</g>
+			
+				<line id="connector0pin_1_" fill="none" stroke="#000000" stroke-linecap="round" x1="92.776" y1="247.499" x2="92.776" y2="269.588"/>
+			<g id="connector0terminal_4_">
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="225.337" y="425.518" fill="none" width="15.326" height="28.602"/>
+	<g>
+		<polygon fill="#231F20" points="225.337,425.518 232.999,454.119 240.663,425.518 		"/>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-linecap="round" x1="233" y1="425.518" x2="233" y2="273.794"/>
+</svg>

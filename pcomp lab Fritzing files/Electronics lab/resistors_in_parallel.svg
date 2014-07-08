@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="383.333px" height="278.667px" viewBox="0 0 383.333 278.667" enable-background="new 0 0 383.333 278.667"
+	 xml:space="preserve">
+<line stroke="#000000" stroke-width="0.9" stroke-linecap="round" x1="118.526" y1="166.19" x2="18.95" y2="166.19"/>
+<line stroke="#000000" stroke-width="0.9" stroke-linecap="round" x1="85.34" y1="182.784" x2="52.141" y2="182.784"/>
+<line stroke="#000000" stroke-width="0.9" stroke-linecap="round" x1="118.526" y1="199.379" x2="18.95" y2="199.379"/>
+<line stroke="#000000" stroke-width="0.9" stroke-linecap="round" x1="85.34" y1="215.979" x2="52.141" y2="215.979"/>
+<line stroke="#000000" stroke-width="0.75" stroke-linecap="round" x1="68.738" y1="149.591" x2="68.738" y2="166.19"/>
+<line id="connector1pin_8_" stroke="#000000" stroke-width="0.75" stroke-linecap="round" x1="68.738" y1="249.172" x2="68.738" y2="215.979"/>
+<line id="connector0pin_9_" stroke="#000000" stroke-width="0.75" stroke-linecap="round" x1="68.738" y1="85.931" x2="68.738" y2="149.591"/>
+<text transform="matrix(1 0 0 1 44.064 141.1548)" font-family="'HelveticaNeue-Bold'" font-size="27.6607">+</text>
+<text transform="matrix(1 0 0 1 48.1841 239.4175)" font-family="'HelveticaNeue-Bold'" font-size="27.6607">-</text>
+<g>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="162.755" y1="55.464" x2="167.725" y2="42.188"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="167.725" y1="42.188" x2="176.027" y2="68.74"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="176.027" y1="68.74" x2="184.33" y2="42.188"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="184.33" y1="42.188" x2="192.622" y2="68.74"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="192.622" y1="68.74" x2="200.923" y2="42.188"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="200.923" y1="42.188" x2="209.225" y2="68.74"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="209.225" y1="68.74" x2="217.518" y2="42.188"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="217.518" y1="42.188" x2="225.82" y2="68.74"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="225.82" y1="68.74" x2="229.134" y2="55.464"/>
+	
+		<line id="connector1pin_1_" stroke="#000000" stroke-width="0.7" stroke-linecap="round" x1="262.333" y1="55.464" x2="229.134" y2="55.464"/>
+	
+		<line id="connector0pin_1_" stroke="#000000" stroke-width="0.7" stroke-linecap="round" x1="129.556" y1="55.464" x2="162.755" y2="55.464"/>
+</g>
+<g>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="163.583" y1="116.397" x2="168.553" y2="103.121"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="168.553" y1="103.121" x2="176.854" y2="129.674"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="176.854" y1="129.674" x2="185.157" y2="103.121"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="185.157" y1="103.121" x2="193.449" y2="129.674"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="193.449" y1="129.674" x2="201.751" y2="103.121"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="201.751" y1="103.121" x2="210.052" y2="129.674"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="210.052" y1="129.674" x2="218.347" y2="103.121"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="218.347" y1="103.121" x2="226.648" y2="129.674"/>
+	<line stroke="#000000" stroke-width="0.432" stroke-linecap="round" x1="226.648" y1="129.674" x2="229.961" y2="116.397"/>
+	
+		<line id="connector1pin_2_" stroke="#000000" stroke-width="0.7" stroke-linecap="round" x1="263.16" y1="116.397" x2="229.961" y2="116.397"/>
+	
+		<line id="connector0pin_2_" stroke="#000000" stroke-width="0.7" stroke-linecap="round" x1="130.384" y1="116.397" x2="163.583" y2="116.397"/>
+</g>
+<line fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round" x1="68.738" y1="85.931" x2="129.556" y2="85.931"/>
+<line fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round" x1="337.937" y1="85.931" x2="337.937" y2="249.172"/>
+<line fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round" x1="337.937" y1="249.172" x2="68.738" y2="249.172"/>
+<circle cx="129.556" cy="85.931" r="3.968"/>
+<circle cx="262.333" cy="85.931" r="3.968"/>
+<text transform="matrix(1 0 0 1 194.9795 31.9961)" font-family="'HelveticaNeue'" font-size="10.6363">R</text>
+<text transform="matrix(0.583 0 0 0.583 202.2651 35.5381)" font-family="'HelveticaNeue'" font-size="10.6363">1</text>
+<text transform="matrix(1 0 0 1 35.8789 112.4297)" font-family="'HelveticaNeue'" font-size="10.6363">V</text>
+<text transform="matrix(1 0 0 1 193.4487 92.9297)" font-family="'HelveticaNeue'" font-size="10.6363">R</text>
+<text transform="matrix(0.583 0 0 0.583 200.7349 96.4717)" font-family="'HelveticaNeue'" font-size="10.6363">2</text>
+<line fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round" x1="130.384" y1="116.397" x2="130.384" y2="55.464"/>
+<line fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round" x1="262.333" y1="55.464" x2="262.333" y2="116.397"/>
+<line fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round" x1="262.333" y1="85.931" x2="337.937" y2="85.931"/>
+</svg>

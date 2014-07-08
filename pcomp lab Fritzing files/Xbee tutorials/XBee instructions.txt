@@ -2,9 +2,10 @@ XBee Lab:
 
 Each group will build two physical devices:
 	* The first  will listen for serial input. 
-		- When the device receives its group number (ASCII-encoded) in the serial input (which is attached to its XBee radio), 
-			the device will generate a physical output. It will also echo that serial input to its serial output.
+		- When the device receives its group number (ASCII-encoded) in the serial input (which is attached to its XBee radio), the device will generate a physical output. It will also echo the serial input to its serial output.
+
 		- All other incoming serial messages will be ignored.
+	
 	* The second device will read the physical output from the first through an appropriate input sensor.  
 		When it receives an input, it will send (group number + 1) out the serial output to its XBee radio. 
 

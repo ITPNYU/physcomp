@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="307.333px" height="219.333px" viewBox="0 0 307.333 219.333" enable-background="new 0 0 307.333 219.333"
+	 xml:space="preserve">
+<text transform="matrix(1 0 0 1 150.2822 88.0229)" font-family="'HelveticaNeue-Bold'" font-size="18">V</text>
+<text transform="matrix(1 0 0 1 120.7441 25.4478)" font-family="'HelveticaNeue-Bold'" font-size="18">V = I * R</text>
+<text transform="matrix(1 0 0 1 11.8442 198.5801)" font-family="'HelveticaNeue-Bold'" font-size="18">I = V / R</text>
+<text transform="matrix(1 0 0 1 226.1826 198.5801)" font-family="'HelveticaNeue-Bold'" font-size="18">R = V / I</text>
+<text transform="matrix(1 0 0 1 115.7441 151.4839)" font-family="'HelveticaNeue-Bold'" font-size="18">I</text>
+<text transform="matrix(1 0 0 1 184.6387 151.4839)" font-family="'HelveticaNeue-Bold'" font-size="18">R</text>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="154.949" cy="127.347" r="71.233"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="154.949" y1="127.347" x2="104.839" y2="77.237"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="154.949" y1="127.347" x2="205.315" y2="76.981"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="154.949" y1="127.347" x2="154.949" y2="198.58"/>
+</svg>

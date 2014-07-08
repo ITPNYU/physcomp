@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="529.333px" height="314.667px" viewBox="0 0 529.333 314.667" enable-background="new 0 0 529.333 314.667"
+	 xml:space="preserve">
+<g>
+	<g transform="translate(14.3461,54.0599)">
+		<g transform="matrix(0,1,-1,0,0,0)">
+			<g id="connector1terminal">
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(91.6785,50.587)">
+		<g id="schematic_2_">
+			<polyline fill="none" stroke="#231F20" stroke-linecap="round" points="-43.489,89.496 -43.489,85.066 -52.327,78.449 
+				-32.444,67.394 -52.327,56.351 -32.444,45.31 -52.327,34.261 -32.444,23.216 -52.327,12.171 -43.489,5.545 -43.489,1.127 			"/>
+			
+				<line id="connector1pin_2_" fill="none" stroke="#231F20" stroke-linecap="round" x1="-43.489" y1="111.579" x2="-43.489" y2="89.496"/>
+			<g id="connector1terminal_4_">
+			</g>
+			
+				<line id="connector0pin_1_" fill="none" stroke="#231F20" stroke-linecap="round" x1="-43.489" y1="-20.962" x2="-43.489" y2="1.127"/>
+			<g id="connector0terminal_4_">
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(39.3712,54.2417)">
+	<g id="schematic_6_">
+		<line fill="none" stroke="#231F20" stroke-linecap="round" x1="104.565" y1="28.179" x2="158.183" y2="58.603"/>
+		<polygon fill="#010101" stroke="#231F20" stroke-miterlimit="10" points="104.889,34.152 91.843,20.909 109.765,25.854 		"/>
+		<polyline fill="none" stroke="#231F20" stroke-linecap="round" points="136.096,84.767 136.096,80.343 127.258,73.716 
+			147.141,62.671 127.258,51.626 147.141,40.583 127.258,29.538 147.141,18.488 127.258,7.443 136.096,0.816 136.096,-3.601 		"/>
+		<g id="connector1terminal_6_">
+		</g>
+		
+			<line id="connector0pin_6_" fill="none" stroke="#231F20" stroke-linecap="round" x1="136.091" y1="105.781" x2="136.091" y2="84.767"/>
+		<g id="connector0terminal_6_">
+		</g>
+		
+			<line id="connector2pin_2_" fill="none" stroke="#231F20" stroke-linecap="round" x1="136.091" y1="-24.618" x2="136.091" y2="-2.528"/>
+		<g id="connector2terminal_2_">
+		</g>
+	</g>
+</g>
+<g id="connector1terminal_2_">
+</g>
+<g id="connector0terminal_2_">
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#231F20" stroke-linecap="round" x1="461.821" y1="90.836" x2="478.653" y2="100.387"/>
+		<polygon fill="#010101" stroke="#231F20" stroke-miterlimit="10" points="461.977,93.725 455.667,87.319 464.336,89.711 		"/>
+		<line fill="none" stroke="#231F20" stroke-linecap="round" x1="458.997" y1="103.903" x2="475.829" y2="113.454"/>
+		<polygon fill="#010101" stroke="#231F20" stroke-miterlimit="10" points="459.153,106.793 452.842,100.387 461.512,102.778 		"/>
+	</g>
+	<polyline fill="none" stroke="#231F20" stroke-linecap="round" points="436.417,139.008 436.417,134.584 427.579,127.958 
+		447.461,116.913 427.579,105.868 447.461,94.825 427.579,83.78 447.461,72.731 427.579,61.686 436.417,55.059 436.417,50.641 	"/>
+	
+		<line id="connector0pin_2_" fill="none" stroke="#231F20" stroke-linecap="round" x1="436.411" y1="160.024" x2="436.411" y2="139.008"/>
+	
+		<line id="connector2pin_3_" fill="none" stroke="#231F20" stroke-linecap="round" x1="436.411" y1="29.625" x2="436.411" y2="51.714"/>
+</g>
+<g id="connector2terminal_3_">
+</g>
+<g id="connector1terminal_1_">
+</g>
+<g id="connector0terminal_1_">
+</g>
+<g id="connector2terminal_1_">
+</g>
+<g>
+	<polyline fill="none" stroke="#231F20" stroke-linecap="round" points="299.178,139.006 299.178,134.584 290.342,127.956 
+		310.223,116.913 290.342,105.868 310.223,94.823 290.342,83.78 310.223,72.729 290.342,61.684 299.178,55.055 299.178,50.64 	"/>
+	
+		<line id="connector0pin_4_" fill="none" stroke="#231F20" stroke-linecap="round" x1="299.174" y1="160.022" x2="299.174" y2="139.006"/>
+	
+		<line id="connector2pin_4_" fill="none" stroke="#231F20" stroke-linecap="round" x1="299.174" y1="29.625" x2="299.174" y2="51.714"/>
+	
+		<line fill="none" stroke="#231F20" stroke-linecap="round" stroke-miterlimit="10" x1="310.223" y1="94.823" x2="361.491" y2="94.823"/>
+	<polygon fill="#010101" stroke="#231F20" stroke-miterlimit="10" points="328.143,99.635 310.223,94.69 328.215,90.01 	"/>
+</g>
+<text transform="matrix(1 0 0 1 30.6943 208.9839)" font-family="'HelveticaNeue'" font-size="18">fixed</text>
+<text transform="matrix(1 0 0 1 27.0225 230.5835)" font-family="'HelveticaNeue'" font-size="18">value</text>
+<text transform="matrix(1 0 0 1 18.3643 252.1851)" font-family="'HelveticaNeue'" font-size="18">resistor</text>
+<text transform="matrix(1 0 0 1 144.1343 208.9839)" font-family="'HelveticaNeue'" font-size="18">variable</text>
+<text transform="matrix(1 0 0 1 145.6372 230.5835)" font-family="'HelveticaNeue'" font-size="18">resistor</text>
+<text transform="matrix(1 0 0 1 242.8267 208.9839)" font-family="'HelveticaNeue'" font-size="18">potentiometer</text>
+<text transform="matrix(1 0 0 1 383.0786 208.9839)" font-family="'HelveticaNeue'" font-size="18">photoresistor</text>
+<text transform="matrix(1 0 0 1 428.2485 230.5835)" font-family="'HelveticaNeue'" font-size="18">or</text>
+<text transform="matrix(1 0 0 1 372.5571 252.1851)" font-family="'HelveticaNeue'" font-size="18">light-dependent</text>
+<text transform="matrix(1 0 0 1 406.5864 273.7847)" font-family="'HelveticaNeue'" font-size="18">resistor</text>
+</svg>

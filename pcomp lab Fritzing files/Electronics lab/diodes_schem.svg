@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="250.667px" height="281.333px" viewBox="0 0 250.667 281.333" enable-background="new 0 0 250.667 281.333"
+	 xml:space="preserve">
+<g id="connector0terminal_12_">
+</g>
+<line fill="none" stroke="#010101" stroke-linecap="round" x1="204.083" y1="120.209" x2="182" y2="120.209"/>
+<line fill="none" stroke="#010101" stroke-linecap="round" x1="182" y1="120.209" x2="159.907" y2="120.209"/>
+<polygon stroke="#010101" stroke-linecap="round" points="182,120.209 159.907,76.033 182,76.033 204.083,76.033 "/>
+<line fill="none" stroke="#010101" stroke-linecap="round" x1="182" y1="76.033" x2="182" y2="120.209"/>
+<line id="connector0pin_2_" fill="none" stroke="#797979" stroke-linecap="round" x1="182" y1="164.385" x2="182" y2="120.209"/>
+<line id="connector1pin_1_" fill="none" stroke="#797979" stroke-linecap="round" x1="182" y1="31.845" x2="182" y2="76.033"/>
+<line fill="none" stroke="#010101" stroke-linecap="round" x1="81.823" y1="120.209" x2="59.741" y2="120.209"/>
+<line fill="none" stroke="#010101" stroke-linecap="round" x1="59.741" y1="120.209" x2="37.647" y2="120.209"/>
+<polygon stroke="#010101" stroke-linecap="round" points="59.741,120.209 37.647,76.033 59.741,76.033 81.823,76.033 "/>
+<line fill="none" stroke="#010101" stroke-linecap="round" x1="59.741" y1="76.033" x2="59.741" y2="120.209"/>
+<line id="connector0pin_3_" fill="none" stroke="#797979" stroke-linecap="round" x1="59.741" y1="164.385" x2="59.741" y2="120.209"/>
+<line id="connector1pin_3_" fill="none" stroke="#797979" stroke-linecap="round" x1="59.741" y1="31.845" x2="59.741" y2="76.033"/>
+<g id="connector1terminal_10_">
+</g>
+<text transform="matrix(1 0 0 1 40.1392 226.0005)" fill="#010101" font-family="'HelveticaNeue'" font-size="18">diode</text>
+<text transform="matrix(1 0 0 1 161.4995 194.3989)" enable-background="new    "><tspan x="0" y="0" fill="#010101" font-family="'HelveticaNeue'" font-size="18">light-</tspan><tspan x="-11.844" y="21.6" fill="#010101" font-family="'HelveticaNeue'" font-size="18">emitting</tspan><tspan x="-2.169" y="43.201" fill="#010101" font-family="'HelveticaNeue'" font-size="18">diode</tspan><tspan x="-0.999" y="64.801" fill="#010101" font-family="'HelveticaNeue'" font-size="18">(LED)</tspan></text>
+<g id="connector1terminal_6_">
+</g>
+<g id="connector0terminal_6_">
+</g>
+<g id="connector2terminal_2_">
+</g>
+<line fill="none" stroke="#231F20" stroke-linecap="round" x1="154.163" y1="109.944" x2="137.331" y2="119.495"/>
+<polygon fill="#020202" stroke="#231F20" stroke-miterlimit="10" points="139.846,120.62 131.176,123.012 137.487,116.606 "/>
+<line fill="none" stroke="#231F20" stroke-linecap="round" x1="151.338" y1="96.876" x2="134.506" y2="106.428"/>
+<polygon fill="#020202" stroke="#231F20" stroke-miterlimit="10" points="137.022,107.553 128.352,109.944 134.663,103.538 "/>
+</svg>
