@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.575px" height="315.929px" viewBox="0 0 595.575 315.929" enable-background="new 0 0 595.575 315.929"
+	 xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="49.559" y1="49.559" x2="49.559" y2="280.532"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="49.559" y1="280.532" x2="409.735" y2="280.532"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="62.83" y1="269.027" x2="104.426" y2="269.027"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="105.426" y1="269.027" x2="105.426" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="124.443" y1="269.029" x2="124.443" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="167.054" y1="269.027" x2="167.054" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="186.072" y1="269.029" x2="186.072" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="229.748" y1="108.851" x2="248.765" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="229.748" y1="269.027" x2="229.748" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="248.765" y1="269.029" x2="248.765" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="292.273" y1="110.213" x2="311.291" y2="110.213"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="292.273" y1="269.027" x2="292.273" y2="110.213"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="311.291" y1="269.027" x2="311.291" y2="110.213"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="124.461" y1="269.027" x2="166.054" y2="269.027"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="187.072" y1="269.027" x2="228.665" y2="269.027"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="249.682" y1="269.027" x2="291.274" y2="269.027"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="311.291" y1="269.027" x2="352.884" y2="269.027"/>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="51.563" y1="215.929" x2="57.563" y2="215.929"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="11.7168,11.7168" x1="69.28" y1="215.929" x2="414.925" y2="215.929"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="420.783" y1="215.929" x2="426.783" y2="215.929"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 63.832 31.3726)" font-family="'HelveticaNeue'" font-size="14">Pulse width = 0.33ms</text>
+<text transform="matrix(1 0 0 1 171.332 56.3726)" font-family="'HelveticaNeue'" font-size="14">Period = 1ms</text>
+<text transform="matrix(1 0 0 1 262.4609 31.3726)" font-family="'HelveticaNeue'" font-size="14">Duty Cycle = 33.3%</text>
+<text transform="matrix(1 0 0 1 220.7979 297.3462)" font-family="'HelveticaNeue'" font-size="14">Time</text>
+<text transform="matrix(1 0 0 1 441.1523 221.2397)" font-family="'HelveticaNeue'" font-size="14">Effective voltage</text>
+<text transform="matrix(4.489659e-11 -1 1 4.489659e-11 41.1514 208.4077)" font-family="'HelveticaNeue'" font-size="14">Voltage</text>
+<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="124.443" y1="93.806" x2="104.426" y2="93.806"/>
+<g>
+	<g>
+		<polygon fill="#010101" points="49.559,40.142 45.252,51.625 53.865,51.625 		"/>
+		<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="49.559,40.142 45.252,51.625 53.865,51.625 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#010101" points="114.935,90.293 117.776,82.713 112.092,82.713 		"/>
+		<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="114.935,90.293 117.776,82.713 112.092,82.713 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#010101" points="207.869,91.562 210.71,83.982 205.026,83.982 		"/>
+		<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="207.869,91.562 210.71,83.982 205.026,83.982 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#010101" points="421.218,280.532 409.735,276.226 409.735,284.837 		"/>
+		<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="421.218,280.532 409.735,276.226 409.735,284.837 		"/>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="104.426" y1="98.898" x2="104.426" y2="88.713"/>
+<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="124.443" y1="98.898" x2="124.443" y2="88.713"/>
+<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="166.054" y1="93.806" x2="228.665" y2="93.806"/>
+<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="166.054" y1="98.898" x2="166.054" y2="88.713"/>
+<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="228.665" y1="98.898" x2="228.665" y2="88.713"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="114.935" y1="33.213" x2="114.935" y2="88.713"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="207.868" y1="59.213" x2="207.868" y2="88.713"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="167.054" y1="108.851" x2="186.072" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="105.426" y1="108.851" x2="124.443" y2="108.851"/>
+</svg>

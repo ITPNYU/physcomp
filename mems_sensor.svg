@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="356px" height="460px" viewBox="-27.667 0 356 460" enable-background="new -27.667 0 356 460" xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="44.563" y1="58.5" x2="253.059" y2="58.5"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="253.059" y1="58.5" x2="253.059" y2="181.412"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="253.059" y1="181.412" x2="166.565" y2="181.412"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="166.565" y1="181.412" x2="166.565" y2="258.801"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="166.565" y1="258.801" x2="148.811" y2="258.801"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="148.811" y1="258.801" x2="148.811" y2="181.412"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="44.563" y1="181.412" x2="44.563" y2="58.5"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="148.811" y1="181.412" x2="44.563" y2="181.412"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="111.938" y1="384.253" x2="111.938" y2="193.248"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="111.938" y1="193.248" x2="130.146" y2="193.248"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="130.146" y1="193.248" x2="130.146" y2="384.253"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="182.953" y1="384.253" x2="182.953" y2="193.248"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="182.953" y1="193.248" x2="201.164" y2="193.248"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="201.164" y1="193.248" x2="201.164" y2="384.253"/>
+<text transform="matrix(1 0 0 1 103.6567 103.1133)" font-family="'HelveticaNeue'" font-size="32.7765">Moving</text>
+<text transform="matrix(1 0 0 1 118.5205 142.4453)" font-family="'HelveticaNeue'" font-size="32.7765">mass</text>
+<text transform="matrix(1 0 0 1 0 420.5596)" font-family="'HelveticaNeue'" font-size="32.7765">variable capacitance</text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="111.938" y1="385.65" x2="130.146" y2="385.65"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="182.953" y1="385.65" x2="201.164" y2="385.65"/>
+<g>
+	
+		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="164.812" y1="362.588" x2="159.393" y2="362.588"/>
+	
+		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="148.124" y1="362.588" x2="153.542" y2="362.588"/>
+	<rect x="152.675" y="340.924" fill="#010101" width="2.176" height="43.329"/>
+	<rect x="158.447" y="340.924" fill="#010101" width="1.891" height="43.329"/>
+	
+		<line id="connector1pin_7_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="191.894" y1="362.588" x2="164.812" y2="362.588"/>
+	
+		<line id="connector0pin_7_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="121.042" y1="362.588" x2="148.124" y2="362.588"/>
+	<g>
+		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="166.619" y1="347.82" x2="145.15" y2="385.65"/>
+		<polygon fill="#010101" points="162.401,348.049 171.748,338.846 168.257,351.489 		"/>
+	</g>
+</g>
+<line fill="none" stroke="#231F20" stroke-width="2" stroke-miterlimit="10" x1="38.558" y1="29.359" x2="269.533" y2="29.359"/>
+<g>
+	<g>
+		<polygon fill="#010101" points="29.141,29.359 40.625,33.667 40.625,25.053 		"/>
+		<polygon fill="none" stroke="#010101" stroke-width="2" stroke-miterlimit="10" points="29.141,29.359 40.625,33.667 
+			40.625,25.053 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#010101" points="258.046,25.053 258.046,33.667 269.533,29.359 		"/>
+		<polygon fill="none" stroke="#010101" stroke-width="2" stroke-miterlimit="10" points="258.046,25.053 258.046,33.667 
+			269.533,29.359 		"/>
+	</g>
+</g>
+</svg>

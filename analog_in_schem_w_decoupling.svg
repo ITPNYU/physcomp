@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="365px" height="278.333px" viewBox="-134.667 0 365 278.333" enable-background="new -134.667 0 365 278.333"
+	 xml:space="preserve">
+<line fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="-7.231" y1="74.166" x2="60.353" y2="74.166"/>
+<g>
+	<g transform="translate(91.6785,50.587)">
+		<g id="schematic_5_">
+			<polyline fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" points="-31.102,170.477 -31.102,167.776 
+				-36.489,163.744 -24.372,157.005 -36.489,150.279 -24.372,143.546 -36.489,136.815 -24.372,130.083 -36.489,123.354 
+				-31.102,119.315 -31.102,116.621 			"/>
+			
+				<line id="connector1pin_5_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="-31.102" y1="183.934" x2="-31.102" y2="170.477"/>
+			<g id="connector1terminal_5_">
+			</g>
+			
+				<line id="connector0pin_5_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="-31.102" y1="103.16" x2="-31.102" y2="116.621"/>
+			<g id="connector0terminal_5_">
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(46.5692,160.233)">
+		<g id="schematic_8_">
+			<path id="connector0pin_8_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" d="M14.14,86.747V73.286"/>
+			<g id="connector0terminal_8_">
+			</g>
+			<path id="path4098" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M1.611,87.003h25.055"/>
+			<path id="path4100" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M5.784,92.135h16.708"/>
+			<path id="path4102" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M18.31,97.221H9.963"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(46.5692,160.233)">
+		<g id="schematic_1_">
+			<path id="connector0pin_1_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" d="M-53.8-1.177v-13.461"/>
+			<g id="connector0terminal_1_">
+			</g>
+			<path id="path4098_1_" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M-66.329-0.921h25.055"/>
+			<path id="path4100_1_" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M-62.156,4.211h16.708"/>
+			<path id="path4102_1_" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M-49.63,9.297h-8.347"/>
+		</g>
+	</g>
+</g>
+<g>
+	
+		<line id="connector0pin_10_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="60.353" y1="57.323" x2="60.353" y2="71.37"/>
+	<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M47.731,56.902h25.243"/>
+	<text id="label" transform="matrix(0.9585 0 0 1 47.7314 50.0688)" fill="#020202" font-family="'ArialMT'" font-size="14.6067">+V</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 117.9517 149.0796)" fill="#020202" font-family="'ArialMT'" font-size="14">Input to </text>
+	<text transform="matrix(1 0 0 1 117.9517 165.8794)" fill="#020202" font-family="'ArialMT'" font-size="14">microcontroller</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 75.9526 104.313)" fill="#020202" font-family="'ArialMT'" font-size="14">Variable</text>
+	<text transform="matrix(1 0 0 1 75.9526 121.1128)" fill="#020202" font-family="'ArialMT'" font-size="14">Resistor</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 -102.0957 100.4771)" enable-background="new    "><tspan x="0" y="0" fill="#020202" font-family="'ArialMT'" font-size="14">Decoupling</tspan><tspan x="10.131" y="16.8" fill="#020202" font-family="'ArialMT'" font-size="14">Capacitor</tspan><tspan x="-29.039" y="33.6" fill="#020202" font-family="'ArialMT'" font-size="14">(typically 0.1µF)</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 75.9526 191.979)" fill="#020202" font-family="'ArialMT'" font-size="14">Fixed</text>
+	<text transform="matrix(1 0 0 1 75.9526 208.7798)" fill="#020202" font-family="'ArialMT'" font-size="14">Resistor</text>
+</g>
+<line fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" x1="60.573" y1="153.743" x2="114.854" y2="153.743"/>
+<g id="schematic_6_">
+	<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="40.437" y1="104.72" x2="74.306" y2="123.942"/>
+	<polygon fill="#010101" points="40.641,108.496 32.399,100.128 43.721,103.253 	"/>
+	<polyline fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" points="60.353,140.465 60.353,137.672 
+		54.773,133.489 67.332,126.509 54.773,119.533 67.332,112.556 54.773,105.578 67.332,98.6 54.773,91.624 60.353,87.437 
+		60.353,84.646 	"/>
+	<g id="connector1terminal_6_">
+	</g>
+	
+		<line id="connector0pin_6_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="60.353" y1="153.743" x2="60.353" y2="140.465"/>
+	<g id="connector0terminal_6_">
+	</g>
+	
+		<line id="connector2pin_2_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="60.353" y1="71.37" x2="60.353" y2="85.325"/>
+	<g id="connector2terminal_2_">
+	</g>
+</g>
+<circle fill="#020202" cx="60.353" cy="153.743" r="3.82"/>
+<circle fill="#020202" cx="60.353" cy="74.166" r="3.82"/>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-7.232" y1="100.477" x2="-7.232" y2="105.805"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-7.232" y1="122.107" x2="-7.232" y2="116.783"/>
+	<rect x="-28.537" y="114.118" width="42.61" height="2.667"/>
+	<rect x="-28.537" y="105.803" width="42.61" height="2.696"/>
+	
+		<line id="connector1pin_7_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-7.232" y1="73.845" x2="-7.232" y2="100.477"/>
+	
+		<line id="connector0pin_7_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-7.232" y1="148.743" x2="-7.232" y2="122.107"/>
+</g>
+</svg>

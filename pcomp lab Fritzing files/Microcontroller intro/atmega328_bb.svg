@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="579px" height="532px"
+	 viewBox="130.5 0 579 532" enable-background="new 130.5 0 579 532" xml:space="preserve">
+<g>
+	<g transform="translate(23.76,0)">
+		<g transform="matrix(0,1,-1,0,0,0)">
+			<g id="breadboard">
+				
+					<rect id="middle" x="231.162" y="-516.094" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -14.187 -564.0566)" fill="#303030" width="87.548" height="453.945"/>
+				
+					<rect id="top" x="270.946" y="-555.88" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -53.9731 -603.8412)" fill="#3D3D3D" width="7.978" height="453.945"/>
+				
+					<rect id="bottom" x="270.947" y="-476.308" transform="matrix(2.578893e-06 1 -1 2.578893e-06 25.5984 -524.2699)" width="7.976" height="453.945"/>
+				<polygon id="right" fill="#141414" points="501.908,-332.896 499.471,-324.919 499.471,-253.323 501.908,-245.348 				"/>
+				<polygon id="left" fill="#1F1F1F" points="47.962,-332.896 50.394,-324.919 50.394,-253.323 47.962,-245.348 				"/>
+				<polygon id="left-upper-rect" fill="#1C1C1C" points="64.175,-305.331 50.394,-305.463 49.779,-298.589 49.779,-289.12 
+					64.175,-289.12 				"/>
+				<polygon id="left-lower-rect" fill="#383838" points="50.394,-272.747 64.175,-272.747 64.175,-289.12 49.779,-289.12 
+					49.779,-279.654 				"/>
+				<path id="slot" fill="#262626" d="M49.779-298.589v18.904c4.765-0.552,8.495-4.541,8.495-9.469
+					C58.274-294.082,54.577-298.039,49.779-298.589z"/>
+				<path id="cover" fill="#303030" d="M50.394-324.919v19.421c7.716,1.46,13.585,8.207,13.585,16.345
+					c0,8.139-5.836,14.916-13.585,16.375v0.031h16.213v-52.172H50.394z"/>
+				<circle fill="#212121" cx="69.039" cy="-266.521" r="6.679"/>
+				<text id="label" transform="matrix(1 0 0 1 193.873 -289.1189)" fill="#E6E6E6" font-family="'ArialMT'" font-size="25.9396">ATMEGA328</text>
+				
+					<rect id="connector0pin" x="57.14" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -178.4801 -306.8324)" fill="#8C8C8C" width="14.073" height="9.728"/>
+				<g id="connector0terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="59.311,-249.693 59.311,-243.206 69.039,-243.206 75.524,-246.19 75.524,-249.693 				"/>
+				
+					<rect id="connector27pin" x="57.142" y="-340.45" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -271.4098 -399.7614)" fill="#8C8C8C" width="14.068" height="9.728"/>
+				<g id="connector27terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="75.524,-328.552 75.524,-332.052 69.039,-335.034 59.311,-335.034 59.311,-328.552 				"/>
+				
+					<rect id="connector13pin" x="478.66" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 243.0378 -728.3529)" fill="#8C8C8C" width="14.073" height="9.729"/>
+				<g id="connector13terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="474.346,-249.693 474.346,-246.19 480.833,-243.206 490.561,-243.206 490.561,-249.693 				"/>
+				
+					<rect id="connector14pin" x="478.662" y="-340.449" transform="matrix(2.578893e-06 1 -1 2.578893e-06 150.1089 -821.2806)" fill="#8C8C8C" width="14.068" height="9.728"/>
+				<g id="connector14terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="490.561,-328.552 490.561,-335.034 480.833,-335.034 474.346,-332.052 474.346,-328.552 				"/>
+				
+					<rect id="connector26pin" x="89.564" y="-340.45" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -238.9878 -432.1835)" fill="#8C8C8C" width="14.068" height="9.728"/>
+				<g id="connector26terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="107.947,-328.552 107.947,-332.052 101.462,-335.034 91.735,-335.034 85.252,-332.052 
+					85.252,-328.552 				"/>
+				
+					<rect id="connector25pin" x="121.991" y="-340.449" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -206.5611 -464.6093)" fill="#8C8C8C" width="14.068" height="9.728"/>
+				<g id="connector25terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="140.372,-328.552 140.372,-332.052 133.888,-335.034 124.16,-335.034 117.675,-332.052 
+					117.675,-328.552 				"/>
+				
+					<rect id="connector24pin" x="154.416" y="-340.45" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -174.1364 -497.035)" fill="#8C8C8C" width="14.068" height="9.728"/>
+				<g id="connector24terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="172.796,-328.552 172.796,-332.052 166.313,-335.034 156.585,-335.034 150.101,-332.052 
+					150.101,-328.552 				"/>
+				
+					<rect id="connector23pin" x="186.839" y="-340.45" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -141.7136 -529.4589)" fill="#8C8C8C" width="14.068" height="9.728"/>
+				<g id="connector23terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="205.221,-328.552 205.221,-332.052 198.737,-335.034 189.009,-335.034 182.524,-332.052 
+					182.524,-328.552 				"/>
+				
+					<rect id="connector22pin" x="219.264" y="-340.449" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -109.2877 -561.8829)" fill="#8C8C8C" width="14.068" height="9.728"/>
+				<g id="connector22terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="237.647,-328.552 237.647,-332.052 231.162,-335.034 221.434,-335.034 214.95,-332.052 
+					214.95,-328.552 				"/>
+				
+					<rect id="connector21pin" x="251.688" y="-340.45" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -76.8649 -594.3068)" fill="#8C8C8C" width="14.068" height="9.729"/>
+				<g id="connector21terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="270.07,-328.552 270.07,-332.052 263.585,-335.034 253.857,-335.034 247.375,-332.052 
+					247.375,-328.552 				"/>
+				
+					<rect id="connector20pin" x="284.11" y="-340.45" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -44.4431 -626.7286)" fill="#8C8C8C" width="14.068" height="9.729"/>
+				<g id="connector20terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="302.495,-328.552 302.495,-332.052 296.008,-335.034 286.281,-335.034 279.799,-332.052 
+					279.799,-328.552 				"/>
+				
+					<rect id="connector19pin" x="316.541" y="-340.451" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -12.0123 -659.16)" fill="#8C8C8C" width="14.068" height="9.729"/>
+				<g id="connector19terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="334.921,-328.552 334.921,-332.052 328.439,-335.034 318.71,-335.034 312.225,-332.052 
+					312.225,-328.552 				"/>
+				
+					<rect id="connector18pin" x="348.961" y="-340.45" transform="matrix(2.578893e-06 1 -1 2.578893e-06 20.4083 -691.5802)" fill="#8C8C8C" width="14.068" height="9.729"/>
+				<g id="connector18terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="367.342,-328.552 367.342,-332.052 360.86,-335.034 351.131,-335.034 344.649,-332.052 
+					344.649,-328.552 				"/>
+				
+					<rect id="connector17pin" x="381.385" y="-340.449" transform="matrix(2.578893e-06 1 -1 2.578893e-06 52.833 -724.004)" fill="#8C8C8C" width="14.068" height="9.728"/>
+				<g id="connector17terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="399.771,-328.552 399.771,-332.052 393.285,-335.034 383.557,-335.034 377.07,-332.052 
+					377.07,-328.552 				"/>
+				
+					<rect id="connector16pin" x="413.811" y="-340.45" transform="matrix(2.578893e-06 1 -1 2.578893e-06 85.2587 -756.4298)" fill="#8C8C8C" width="14.068" height="9.729"/>
+				<g id="connector16terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="432.193,-328.552 432.193,-332.052 425.71,-335.034 415.982,-335.034 409.499,-332.052 
+					409.499,-328.552 				"/>
+				
+					<rect id="connector15pin" x="446.233" y="-340.45" transform="matrix(2.578893e-06 1 -1 2.578893e-06 117.6795 -788.8517)" fill="#8C8C8C" width="14.068" height="9.729"/>
+				<g id="connector15terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="464.618,-328.552 464.618,-332.052 458.131,-335.034 448.404,-335.034 441.921,-332.052 
+					441.921,-328.552 				"/>
+				
+					<rect id="connector1pin" x="89.562" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -146.0583 -339.2543)" fill="#8C8C8C" width="14.073" height="9.728"/>
+				<g id="connector1terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="85.252,-249.693 85.252,-246.19 91.735,-243.206 101.462,-243.206 107.947,-246.19 
+					107.947,-249.693 				"/>
+				
+					<rect id="connector2pin" x="121.989" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -113.6324 -371.6818)" fill="#8C8C8C" width="14.073" height="9.728"/>
+				<g id="connector2terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="117.675,-249.693 117.675,-246.19 124.16,-243.206 133.888,-243.206 140.372,-246.19 
+					140.372,-249.693 				"/>
+				
+					<rect id="connector3pin" x="154.413" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -81.207 -404.1058)" fill="#8C8C8C" width="14.073" height="9.728"/>
+				<g id="connector3terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="150.101,-249.693 150.101,-246.19 156.585,-243.206 166.313,-243.206 172.796,-246.19 
+					172.796,-249.693 				"/>
+				
+					<rect id="connector4pin" x="186.837" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -48.784 -436.5294)" fill="#8C8C8C" width="14.073" height="9.728"/>
+				<g id="connector4terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="182.524,-249.693 182.524,-246.19 189.009,-243.206 198.737,-243.206 205.221,-246.19 
+					205.221,-249.693 				"/>
+				
+					<rect id="connector5pin" x="219.262" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -16.359 -468.955)" fill="#8C8C8C" width="14.073" height="9.728"/>
+				<g id="connector5terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="214.95,-249.693 214.95,-246.19 221.434,-243.206 231.162,-243.206 237.647,-246.19 
+					237.647,-249.693 				"/>
+				
+					<rect id="connector6pin" x="251.685" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 16.0648 -501.3778)" fill="#8C8C8C" width="14.073" height="9.728"/>
+				<g id="connector6terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="247.375,-249.693 247.375,-246.19 253.857,-243.206 263.585,-243.206 270.07,-246.19 
+					270.07,-249.693 				"/>
+				
+					<rect id="connector7pin" x="284.107" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 48.4863 -533.7994)" fill="#8C8C8C" width="14.073" height="9.729"/>
+				<g id="connector7terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="279.799,-249.693 279.799,-246.19 286.281,-243.206 296.008,-243.206 302.495,-246.19 
+					302.495,-249.693 				"/>
+				
+					<rect id="connector8pin" x="316.538" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 80.9171 -566.2308)" fill="#8C8C8C" width="14.073" height="9.729"/>
+				<g id="connector8terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="312.225,-249.693 312.225,-246.19 318.71,-243.206 328.439,-243.206 334.921,-246.19 
+					334.921,-249.693 				"/>
+				
+					<rect id="connector9pin" x="348.958" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 113.3377 -598.651)" fill="#8C8C8C" width="14.073" height="9.729"/>
+				<g id="connector9terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="344.649,-249.693 344.649,-246.19 351.131,-243.206 360.86,-243.206 367.342,-246.19 
+					367.342,-249.693 				"/>
+				
+					<rect id="connector10pin" x="381.384" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 145.7624 -631.0768)" fill="#8C8C8C" width="14.073" height="9.728"/>
+				<g id="connector10terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="377.07,-249.693 377.07,-246.19 383.557,-243.206 393.285,-243.206 399.771,-246.19 
+					399.771,-249.693 				"/>
+				
+					<rect id="connector11pin" x="413.809" y="-247.522" transform="matrix(2.578893e-06 1 -1 2.578893e-06 178.1869 -663.5018)" fill="#8C8C8C" width="14.073" height="9.729"/>
+				<g id="connector11terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="409.499,-249.693 409.499,-246.19 415.982,-243.206 425.71,-243.206 432.193,-246.19 
+					432.193,-249.693 				"/>
+				
+					<rect id="connector12pin" x="446.23" y="-247.521" transform="matrix(2.578893e-06 1 -1 2.578893e-06 210.6089 -695.9225)" fill="#8C8C8C" width="14.073" height="9.729"/>
+				<g id="connector12terminal">
+				</g>
+				<polygon fill="#8C8C8C" points="441.921,-249.693 441.921,-246.19 448.404,-243.206 458.131,-243.206 464.618,-246.19 
+					464.618,-249.693 				"/>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 64.1758 -390.155)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">A5</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 96.5996 -390.155)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">A4</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 129.0244 -390.155)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">A3</text>
+			</g>
+			<g enable-background="new    ">
+				<text transform="matrix(0 -1 1 0 161.4492 -390.155)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">A2</text>
+			</g>
+			<g enable-background="new    ">
+				<text transform="matrix(0 -1 1 0 193.874 -390.155)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">A1</text>
+			</g>
+			<text transform="matrix(0 -1 1 0 226.2988 -390.155)" fill="#231F20" font-family="'HelveticaNeue'" font-size="13.1561">A0</text>
+			<g>
+				<text transform="matrix(0 -1 1 0 258.7236 -390.0769)" fill="#A83223" font-family="'HelveticaNeue'" font-size="13.16">GND</text>
+			</g>
+			<g enable-background="new    ">
+				<text transform="matrix(0 -1 1 0 291.1484 -390.155)" fill="#8A0083" font-family="'HelveticaNeue'" font-size="13.1561">AREF</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 323.5742 -390.155)" fill="#A83223" font-family="'HelveticaNeue'" font-size="13.16">AVCC</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 355.998 -390.0769)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D13</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 388.4219 -390.0769)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D12</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 420.8477 -390.0769)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D11 (PWM)</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 453.2705 -390.0769)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D10 (PWM)</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 487.2148 -390.155)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D9 (PWM)</text>
+			</g>
+			<g enable-background="new    ">
+				<text transform="matrix(0 -1 1 0 64.1758 -166.4104)" fill="#8A0083" font-family="'HelveticaNeue'" font-size="13.1561">RESET</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 96.6006 -163.4636)" fill="#009F18" font-family="'HelveticaNeue'" font-size="13.16">D0 (RX)</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 129.0254 -164.9246)" fill="#009F18" font-family="'HelveticaNeue'" font-size="13.16">D1 (TX)</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 161.4502 -190.9988)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D2</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 193.874 -148.3606)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D3 (PWM)</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 226.2988 -190.9988)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D4</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 258.7246 -180.532)" fill="#A83223" font-family="'HelveticaNeue'" font-size="13.16">VCC</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 291.1494 -178.8215)" fill="#A83223" font-family="'HelveticaNeue'" font-size="13.16">GND</text>
+			</g>
+			<g enable-background="new    ">
+				<text transform="matrix(0 -1 1 0 323.5742 -170.0413)" fill="#8A0083" font-family="'HelveticaNeue'" font-size="13.1561">XLAT1</text>
+			</g>
+			<g enable-background="new    ">
+				<text transform="matrix(0 -1 1 0 355.998 -170.0413)" fill="#8A0083" font-family="'HelveticaNeue'" font-size="13.1561">XLAT2</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 388.4219 -148.3606)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D5 (PWM)</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 420.8477 -148.3606)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D6 (PWM)</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 453.2705 -190.9988)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D7</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 491.2148 -190.9988)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="13.1561">D8</text>
+			</g>
+			<text transform="matrix(0 -1 1 0 69.1895 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">28</text>
+			<text transform="matrix(0 -1 1 0 101.4844 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">27</text>
+			<text transform="matrix(0 -1 1 0 133.7793 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">26</text>
+			<text transform="matrix(0 -1 1 0 166.0752 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">25</text>
+			<text transform="matrix(0 -1 1 0 198.3691 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">24</text>
+			<text transform="matrix(0 -1 1 0 230.6641 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">23</text>
+			<text transform="matrix(0 -1 1 0 262.958 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">22</text>
+			<text transform="matrix(0 -1 1 0 295.2539 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">21</text>
+			<text transform="matrix(0 -1 1 0 327.5488 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">20</text>
+			<text transform="matrix(0 -1 1 0 359.8438 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">19</text>
+			<text transform="matrix(0 -1 1 0 392.1377 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">18</text>
+			<text transform="matrix(0 -1 1 0 424.4316 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">17</text>
+			<text transform="matrix(0 -1 1 0 456.7266 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">16</text>
+			<text transform="matrix(0 -1 1 0 489.0215 -358.4343)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">15</text>
+			<text transform="matrix(0 -1 1 0 69.1895 -215.9729)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">1</text>
+			<text transform="matrix(0 -1 1 0 101.4844 -215.9729)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">2</text>
+			<text transform="matrix(0 -1 1 0 133.7793 -215.9729)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">3</text>
+			<text transform="matrix(0 -1 1 0 166.0752 -215.9729)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">4</text>
+			<text transform="matrix(0 -1 1 0 198.3691 -215.9729)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">5</text>
+			<text transform="matrix(0 -1 1 0 230.6641 -215.9729)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">6</text>
+			<text transform="matrix(0 -1 1 0 262.958 -215.9729)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">7</text>
+			<text transform="matrix(0 -1 1 0 295.2539 -215.9729)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">8</text>
+			<text transform="matrix(0 -1 1 0 327.5488 -215.9729)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">9</text>
+			<text transform="matrix(0 -1 1 0 359.8438 -213.3596)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">10</text>
+			<text transform="matrix(0 -1 1 0 392.1377 -213.7092)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">11</text>
+			<text transform="matrix(0 -1 1 0 424.4316 -213.3596)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">12</text>
+			<text transform="matrix(0 -1 1 0 456.7266 -213.3596)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">13</text>
+			<text transform="matrix(0 -1 1 0 489.0215 -213.3596)" fill="#231F20" font-family="'HelveticaNeue'" font-size="9.3972">14</text>
+			<g>
+				<text transform="matrix(0 -1 1 0 163.9961 -509.6199)" fill="#A83223" font-family="'HelveticaNeue'" font-size="18">Power connectors</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 226.2988 -509.6199)" fill="#0010DF" font-family="'HelveticaNeue'" font-size="18">GPIO connectors</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 274.4072 -509.6199)" fill="#009F18" font-family="'HelveticaNeue'" font-size="18">Communication</text>
+				<text transform="matrix(0 -1 1 0 296.0068 -509.6199)" fill="#009F18" font-family="'HelveticaNeue'" font-size="18">connectors </text>
+				<text transform="matrix(0 -1 1 0 317.6084 -509.6199)" fill="#009F18" font-family="'HelveticaNeue'" font-size="18">(also GPIO)</text>
+			</g>
+			<g>
+				<text transform="matrix(0 -1 1 0 381.3379 -509.6199)" fill="#8A0083" font-family="'HelveticaNeue'" font-size="18">Special function</text>
+				<text transform="matrix(0 -1 1 0 402.9375 -509.6199)" fill="#8A0083" font-family="'HelveticaNeue'" font-size="18">connectors</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

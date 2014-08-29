@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.575px" height="315.929px" viewBox="0 0 595.575 315.929" enable-background="new 0 0 595.575 315.929"
+	 xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="49.559" y1="49.559" x2="49.559" y2="280.532"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="49.559" y1="280.532" x2="409.735" y2="280.532"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="104.426" y1="108.851" x2="146.019" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="62.833" y1="269.027" x2="104.426" y2="269.027"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="104.426" y1="269.027" x2="104.426" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="146.019" y1="269.027" x2="146.019" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="188.054" y1="108.851" x2="229.647" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="146.461" y1="269.027" x2="188.054" y2="269.027"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="188.054" y1="269.027" x2="188.054" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="229.647" y1="269.027" x2="229.647" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="271.24" y1="108.851" x2="312.833" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="229.647" y1="269.027" x2="271.24" y2="269.027"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="271.24" y1="269.027" x2="271.24" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="312.833" y1="269.027" x2="312.833" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="354.426" y1="108.851" x2="396.019" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="312.833" y1="269.027" x2="354.426" y2="269.027"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="354.426" y1="269.027" x2="354.426" y2="108.851"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="396.019" y1="269.027" x2="396.019" y2="108.851"/>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="62.833" y1="188.939" x2="68.833" y2="188.939"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="11.7168,11.7168" x1="80.55" y1="188.939" x2="426.195" y2="188.939"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="432.054" y1="188.939" x2="438.054" y2="188.939"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 98.231 66.3726)" font-family="'HelveticaNeue'" font-size="14">Pulse width</text>
+<text transform="matrix(1 0 0 1 220.7979 297.3462)" font-family="'HelveticaNeue'" font-size="14">Time</text>
+<text transform="matrix(1 0 0 1 448.2324 192.9214)" font-family="'HelveticaNeue'" font-size="14">Effective voltage</text>
+<text transform="matrix(4.489659e-11 -1 1 4.489659e-11 41.1514 208.4077)" font-family="'HelveticaNeue'" font-size="14">Voltage</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="146.461" y1="93.806" x2="104.426" y2="93.806"/>
+</svg>

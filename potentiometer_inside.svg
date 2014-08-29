@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="292px" height="375px" viewBox="0 0 292 375" enable-background="new 0 0 292 375" xml:space="preserve">
+<path fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M62.28,219.309
+	c-25.14-20.747-41.164-52.145-41.164-87.285c0-62.472,50.643-113.116,113.116-113.116c62.472,0,113.115,50.644,113.115,113.116
+	c0,35.015-15.909,66.313-40.893,87.062l-0.003-0.003l-25.576-29.059l0.002,0.002c16.944-13.643,27.783-34.556,27.783-58.002
+	c0-41.106-33.322-74.429-74.429-74.429c-41.105,0-74.429,33.323-74.429,74.429c0,23.446,12.409,41.681,27.789,58l-25.58,29.059"/>
+<path fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M140.118,219.613
+	c0,4.75-3.2,8.599-7.149,8.599l0,0c-3.946,0-7.147-3.85-7.147-8.599V34.987c0-4.75,3.201-8.599,7.147-8.599l0,0
+	c3.949,0,7.149,3.85,7.149,8.599V219.613z"/>
+<text transform="matrix(1 0 0 1 212.3926 22.9092)"><tspan x="0" y="0" font-family="'HelveticaNeue'" font-size="18">Carbon</tspan><tspan x="0" y="21.6" font-family="'HelveticaNeue'" font-size="18">resistor</tspan></text>
+<text transform="matrix(1 0 0 1 73.7852 356.9092)" font-family="'HelveticaNeue'" font-size="18">Variable resistance</text>
+<text transform="matrix(1 0 0 1 72.5386 142.1172)" font-family="'HelveticaNeue'" font-size="18">Wiper</text>
+<g>
+	<line fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" x1="133.046" y1="294.06" x2="133.011" y2="265.93"/>
+	<polygon fill="#020202" points="138.485,290.566 133.011,309.885 128.092,290.415 	"/>
+</g>
+<polyline fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" points="180.729,324.773 175.953,324.773 
+	168.802,334.316 156.866,312.841 144.939,334.316 133.011,312.841 121.079,334.316 109.146,312.841 97.22,334.316 90.062,324.773 
+	85.289,324.773 "/>
+<line id="connector2pin_2_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="180.648" y1="324.773" x2="206.452" y2="324.773"/>
+<line id="connector2pin_1_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="62.28" y1="324.773" x2="85.289" y2="324.773"/>
+<line fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="62.28" y1="219.309" x2="62.28" y2="257.336"/>
+<line fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="206.452" y1="219.083" x2="206.452" y2="257.336"/>
+<line fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="132.969" y1="228.212" x2="132.97" y2="257.336"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="62.281" cy="257.336" r="7.281"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="132.97" cy="257.336" r="7.281"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="206.452" cy="257.336" r="7.281"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="62.28" y1="264.618" x2="62.28" y2="324.773"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="206.452" y1="264.618" x2="206.452" y2="324.773"/>
+</svg>

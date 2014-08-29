@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="230.333px" height="196px" viewBox="0 0 230.333 196" enable-background="new 0 0 230.333 196" xml:space="preserve">
+<g>
+	<g transform="translate(46.5692,160.233)">
+		<g id="schematic_8_">
+			<path id="connector0pin_8_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" d="M13.784,6.971V-6.49"/>
+			<g id="connector0terminal_8_">
+			</g>
+			<path id="path4098" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M1.256,7.226h25.055"/>
+			<path id="path4100" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M5.428,12.357h16.708"/>
+			<path id="path4102" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M17.955,17.443H9.608"/>
+		</g>
+	</g>
+</g>
+<g>
+	
+		<line id="connector0pin_10_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="60.353" y1="57.323" x2="60.353" y2="71.37"/>
+	<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M47.731,56.902h25.243"/>
+	<text id="label" transform="matrix(0.9585 0 0 1 47.7314 50.0684)" fill="#020202" font-family="'ArialMT'" font-size="14.6067">+V</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 120.2852 107.3589)" fill="#020202" font-family="'ArialMT'" font-size="14">Input to </text>
+	<text transform="matrix(1 0 0 1 120.2852 124.1587)" fill="#020202" font-family="'ArialMT'" font-size="14">microcontroller</text>
+</g>
+<g>
+	<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="78.317" y1="112.577" x2="117.261" y2="112.556"/>
+	<polygon fill="#010101" points="80.36,115.759 69.061,112.556 80.448,109.679 	"/>
+</g>
+<polyline fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" points="60.353,140.465 60.353,137.672 
+	54.773,133.489 67.332,126.509 54.773,119.533 67.332,112.556 54.773,105.578 67.332,98.6 54.773,91.624 60.353,87.437 
+	60.353,84.646 "/>
+<g id="connector1terminal_6_">
+</g>
+<line id="connector0pin_6_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="60.353" y1="153.743" x2="60.353" y2="140.465"/>
+<g id="connector0terminal_6_">
+</g>
+<line id="connector2pin_2_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="60.353" y1="71.37" x2="60.353" y2="85.325"/>
+<g id="connector2terminal_2_">
+</g>
+</svg>

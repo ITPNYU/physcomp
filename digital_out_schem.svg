@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="257.895px" height="214.035px" viewBox="0 0 257.895 214.035" enable-background="new 0 0 257.895 214.035"
+	 xml:space="preserve">
+<g>
+	<g transform="translate(213.948,11.3336)">
+		<g id="schematic_11_">
+			<g>
+				<path fill="#010101" d="M-9.906,144.921h-9.226c-0.496,0-0.896-0.4-0.896-0.898c0-0.496,0.4-0.896,0.896-0.896h9.226
+					c0.493,0,0.896,0.4,0.896,0.896C-9.009,144.521-9.407,144.921-9.906,144.921z"/>
+			</g>
+			<g>
+				<path fill="#010101" d="M-19.132,144.921h-9.224c-0.496,0-0.896-0.4-0.896-0.898c0-0.496,0.4-0.896,0.896-0.896h9.224
+					c0.496,0,0.898,0.4,0.898,0.896C-18.233,144.521-18.636,144.921-19.132,144.921z"/>
+			</g>
+			<g>
+				<polygon fill="#FFFFFF" points="-19.132,144.023 -28.356,125.575 -19.132,125.575 -9.906,125.575 				"/>
+				<path fill="#010101" d="M-19.132,146.027l-10.675-21.351h21.355L-19.132,146.027z M-26.905,126.471l7.773,15.55l7.775-15.55
+					H-26.905z"/>
+			</g>
+			<g>
+				<path fill="#010101" d="M-19.132,144.601c-0.315,0-0.576-0.261-0.576-0.578v-18.448c0-0.318,0.26-0.578,0.576-0.578
+					c0.32,0,0.578,0.26,0.578,0.578v18.448C-18.556,144.34-18.811,144.601-19.132,144.601z"/>
+			</g>
+			<g>
+				<path fill="#010101" d="M-39.887,137.682c-0.15,0-0.295-0.055-0.408-0.168c-0.226-0.225-0.226-0.588,0-0.813l5.998-5.999
+					c0.225-0.228,0.588-0.228,0.813,0c0.225,0.225,0.225,0.588,0,0.813l-5.996,5.998C-39.592,137.626-39.737,137.682-39.887,137.682
+					z"/>
+			</g>
+			<g>
+				<path fill="#010101" d="M-38.966,145.985c-0.147,0-0.293-0.055-0.405-0.168c-0.226-0.225-0.226-0.588,0-0.813l5.996-5.998
+					c0.225-0.225,0.591-0.225,0.816,0s0.225,0.59,0,0.816l-5.996,5.996C-38.666,145.927-38.816,145.985-38.966,145.985z"/>
+			</g>
+			<g id="connector0pin_11_">
+				<path fill="#797979" d="M-19.132,163.371c-0.496,0-0.896-0.4-0.896-0.898v-18.45c0-0.493,0.4-0.896,0.896-0.896
+					c0.498,0,0.898,0.4,0.898,0.896v18.45C-18.236,162.971-18.636,163.371-19.132,163.371z"/>
+			</g>
+			<g id="connector0terminal_11_">
+				<rect x="-19.132" y="162.473" fill="none" width="0.005" height="0.003"/>
+			</g>
+			<g id="connector1pin_9_">
+				<path fill="#797979" d="M-19.132,126.471c-0.496,0-0.896-0.403-0.896-0.896v-18.451c0-0.495,0.4-0.898,0.896-0.898
+					c0.498,0,0.898,0.403,0.898,0.898v18.451C-18.236,126.068-18.636,126.471-19.132,126.471z"/>
+			</g>
+			<g id="connector1terminal_9_">
+				<polygon fill="none" points="-19.132,107.124 -19.127,107.124 -19.127,107.124 				"/>
+			</g>
+			<g>
+				<path fill="#010101" d="M-44.038,141.255l2.768-6.458l3.691,3.684L-44.038,141.255z"/>
+			</g>
+			<g>
+				<path fill="#010101" d="M-43.115,149.558l2.768-6.459l3.684,3.684L-43.115,149.558z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(91.6785,50.587)">
+		<g id="schematic_5_">
+			<polyline fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" points="103.138,54.413 103.138,51.712 
+				97.751,47.679 109.868,40.943 97.751,34.214 109.868,27.484 97.751,20.751 109.868,14.021 97.751,7.29 103.138,3.251 
+				103.138,0.556 			"/>
+			
+				<line id="connector1pin_5_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="103.138" y1="67.871" x2="103.138" y2="54.413"/>
+			<g id="connector1terminal_5_">
+			</g>
+			
+				<line id="connector0pin_5_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="103.138" y1="-12.905" x2="103.138" y2="0.556"/>
+			<g id="connector0terminal_5_">
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(46.5692,160.233)">
+		<g id="schematic_8_">
+			<path id="connector0pin_8_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" d="M148.247,27.933V14.472"/>
+			<g id="connector0terminal_8_">
+			</g>
+			<path id="path4098" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M135.718,28.189h25.055"/>
+			<path id="path4100" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M139.891,33.32h16.708"/>
+			<path id="path4102" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M152.418,38.406h-8.347"/>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" x1="140.195" y1="37.682" x2="194.476" y2="37.682"/>
+<text transform="matrix(1 0 0 1 93.6484 33.4033)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="14">Output</tspan><tspan x="-79.001" y="16.8" font-family="'MyriadPro-Regular'" font-size="14">from microcontroller</tspan></text>
+<text transform="matrix(1 0 0 1 205.541 80.4033)" font-family="'MyriadPro-Regular'" font-size="14">220Ω</text>
+</svg>

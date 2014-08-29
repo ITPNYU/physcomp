@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="562.821px" height="351.282px" viewBox="0 0 562.821 351.282" enable-background="new 0 0 562.821 351.282"
+	 xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="29.461" y1="279.026" x2="522.461" y2="279.026"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="59.461" y1="290.026" x2="59.461" y2="271.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="113.128" y1="290.026" x2="113.128" y2="271.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="435.127" y1="290.026" x2="435.127" y2="271.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="381.461" y1="290.026" x2="381.461" y2="271.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="327.794" y1="290.026" x2="327.794" y2="271.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="274.128" y1="290.026" x2="274.128" y2="271.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="220.461" y1="290.026" x2="220.461" y2="271.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="166.794" y1="290.026" x2="166.794" y2="271.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="29.461" y1="249.359" x2="83.128" y2="249.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="83.128" y1="249.359" x2="83.128" y2="136.692"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="83.128" y1="136.692" x2="136.794" y2="136.692"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="136.794" y1="136.692" x2="136.794" y2="249.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="136.794" y1="249.359" x2="190.461" y2="249.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="190.461" y1="249.359" x2="190.461" y2="136.692"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="190.461" y1="136.692" x2="244.128" y2="136.692"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="244.128" y1="136.692" x2="297.794" y2="136.692"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="297.794" y1="136.692" x2="297.794" y2="249.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="297.794" y1="249.359" x2="351.461" y2="249.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="351.461" y1="249.359" x2="351.461" y2="136.692"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="351.461" y1="136.692" x2="405.127" y2="136.692"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="405.127" y1="136.692" x2="405.127" y2="249.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="405.127" y1="249.359" x2="458.794" y2="249.359"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="29.461" y1="279.026" x2="29.461" y2="41.359"/>
+<g>
+	<g>
+		<polygon fill="#010101" points="29.462,35.617 25.155,47.101 33.768,47.101 		"/>
+		<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="29.462,35.617 25.155,47.101 33.768,47.101 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#010101" points="530.852,279.026 519.368,274.719 519.368,283.333 		"/>
+		<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="530.852,279.026 519.368,274.719 519.368,283.333 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 42.4614 306.0259)" font-family="'MyriadPro-Regular'" font-size="12">1/9600</text>
+<text transform="matrix(1 0 0 1 249.7949 330.6929)" font-family="'MyriadPro-Regular'" font-size="12">Time (sec)</text>
+<text transform="matrix(4.489659e-11 -1 1 4.489659e-11 22.4619 197.3608)" font-family="'MyriadPro-Regular'" font-size="12">Voltage</text>
+<text transform="matrix(1 0 0 1 96.1279 306.0259)" font-family="'MyriadPro-Regular'" font-size="12">2/9600</text>
+<text transform="matrix(1 0 0 1 149.7944 306.0259)" font-family="'MyriadPro-Regular'" font-size="12">3/9600</text>
+<text transform="matrix(1 0 0 1 203.4609 306.0259)" font-family="'MyriadPro-Regular'" font-size="12">4/9600</text>
+<text transform="matrix(1 0 0 1 257.1274 306.0259)" font-family="'MyriadPro-Regular'" font-size="12">5/9600</text>
+<text transform="matrix(1 0 0 1 310.7935 306.0259)" font-family="'MyriadPro-Regular'" font-size="12">6/9600</text>
+<text transform="matrix(1 0 0 1 364.4614 306.0259)" font-family="'MyriadPro-Regular'" font-size="12">7/9600</text>
+<text transform="matrix(1 0 0 1 418.1274 306.0259)" font-family="'MyriadPro-Regular'" font-size="12">8/9600</text>
+<text transform="matrix(1 0 0 1 52.4614 110.0264)" font-family="'MyriadPro-Regular'" font-size="12">0</text>
+<text transform="matrix(1 0 0 1 106.1279 110.0264)" font-family="'MyriadPro-Regular'" font-size="12">1</text>
+<text transform="matrix(1 0 0 1 159.7944 110.0264)" font-family="'MyriadPro-Regular'" font-size="12">0</text>
+<text transform="matrix(1 0 0 1 213.4609 110.0264)" font-family="'MyriadPro-Regular'" font-size="12">1</text>
+<text transform="matrix(1 0 0 1 267.1274 110.0264)" font-family="'MyriadPro-Regular'" font-size="12">1</text>
+<text transform="matrix(1 0 0 1 320.7935 110.0264)" font-family="'MyriadPro-Regular'" font-size="12">0</text>
+<text transform="matrix(1 0 0 1 374.4614 110.0264)" font-family="'MyriadPro-Regular'" font-size="12">1</text>
+<text transform="matrix(1 0 0 1 428.1274 110.0264)" font-family="'MyriadPro-Regular'" font-size="12">0</text>
+</svg>

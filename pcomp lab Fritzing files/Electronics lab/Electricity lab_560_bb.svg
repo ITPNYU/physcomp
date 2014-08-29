@@ -18,30 +18,30 @@
 			</g>
 		</g>
 		<g id="text">
-			<text id="text443" transform="matrix(1 0 0 1 24.4596 30.9951)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">1</text>
-			<text id="text445" transform="matrix(1 0 0 1 53.1139 30.9951)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">5</text>
-			<text id="text447" transform="matrix(1 0 0 1 87.5094 30.9951)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">10</text>
-			<text id="text449" transform="matrix(1 0 0 1 123.5172 30.9951)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">15</text>
-			<text id="text451" transform="matrix(1 0 0 1 159.695 30.9951)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">20</text>
-			<text id="text453" transform="matrix(1 0 0 1 195.9313 30.9951)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">25</text>
-			<text id="text455" transform="matrix(1 0 0 1 231.7497 30.9951)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">30</text>
-			<text id="text469" transform="matrix(1 0 0 1 24.4596 122.3955)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">1</text>
-			<text id="text471" transform="matrix(1 0 0 1 53.1139 122.3955)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">5</text>
-			<text id="text473" transform="matrix(1 0 0 1 87.5094 122.3955)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">10</text>
-			<text id="text475" transform="matrix(1 0 0 1 123.5172 122.3955)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">15</text>
-			<text id="text477" transform="matrix(1 0 0 1 159.695 122.3955)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">20</text>
-			<text id="text479" transform="matrix(1 0 0 1 195.9313 122.3955)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">25</text>
-			<text id="text481" transform="matrix(1 0 0 1 231.7497 122.3955)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">30</text>
-			<text id="text495" transform="matrix(1 0 0 1 4.0612 37.2139)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">A</text>
-			<text id="text497" transform="matrix(1 0 0 1 4.0612 44.4678)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">B</text>
-			<text id="text499" transform="matrix(1 0 0 1 4.1051 51.7188)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">C</text>
-			<text id="text501" transform="matrix(1 0 0 1 4.0197 58.9697)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">D</text>
-			<text id="text503" transform="matrix(1 0 0 1 4.234 66.2217)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">E</text>
-			<text id="text505" transform="matrix(1 0 0 1 4.2755 87.9766)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">F</text>
-			<text id="text507" transform="matrix(1 0 0 1 4.0612 95.2266)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">G</text>
-			<text id="text509" transform="matrix(1 0 0 1 4.0612 102.4795)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">H</text>
-			<text id="text511" transform="matrix(1 0 0 1 4.7472 109.7314)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">I</text>
-			<text id="text513" transform="matrix(1 0 0 1 4.2755 116.9834)" fill="#B3B0B0" font-family="'DroidSans'" font-size="4.6035">J</text>
+			<text id="text443" transform="matrix(1 0 0 1 24.4596 30.9951)" fill="#B3B0B0"  font-size="4.6035">1</text>
+			<text id="text445" transform="matrix(1 0 0 1 53.1139 30.9951)" fill="#B3B0B0"  font-size="4.6035">5</text>
+			<text id="text447" transform="matrix(1 0 0 1 87.5094 30.9951)" fill="#B3B0B0"  font-size="4.6035">10</text>
+			<text id="text449" transform="matrix(1 0 0 1 123.5172 30.9951)" fill="#B3B0B0"  font-size="4.6035">15</text>
+			<text id="text451" transform="matrix(1 0 0 1 159.695 30.9951)" fill="#B3B0B0"  font-size="4.6035">20</text>
+			<text id="text453" transform="matrix(1 0 0 1 195.9313 30.9951)" fill="#B3B0B0"  font-size="4.6035">25</text>
+			<text id="text455" transform="matrix(1 0 0 1 231.7497 30.9951)" fill="#B3B0B0"  font-size="4.6035">30</text>
+			<text id="text469" transform="matrix(1 0 0 1 24.4596 122.3955)" fill="#B3B0B0"  font-size="4.6035">1</text>
+			<text id="text471" transform="matrix(1 0 0 1 53.1139 122.3955)" fill="#B3B0B0"  font-size="4.6035">5</text>
+			<text id="text473" transform="matrix(1 0 0 1 87.5094 122.3955)" fill="#B3B0B0"  font-size="4.6035">10</text>
+			<text id="text475" transform="matrix(1 0 0 1 123.5172 122.3955)" fill="#B3B0B0"  font-size="4.6035">15</text>
+			<text id="text477" transform="matrix(1 0 0 1 159.695 122.3955)" fill="#B3B0B0"  font-size="4.6035">20</text>
+			<text id="text479" transform="matrix(1 0 0 1 195.9313 122.3955)" fill="#B3B0B0"  font-size="4.6035">25</text>
+			<text id="text481" transform="matrix(1 0 0 1 231.7497 122.3955)" fill="#B3B0B0"  font-size="4.6035">30</text>
+			<text id="text495" transform="matrix(1 0 0 1 4.0612 37.2139)" fill="#B3B0B0"  font-size="4.6035">A</text>
+			<text id="text497" transform="matrix(1 0 0 1 4.0612 44.4678)" fill="#B3B0B0"  font-size="4.6035">B</text>
+			<text id="text499" transform="matrix(1 0 0 1 4.1051 51.7188)" fill="#B3B0B0"  font-size="4.6035">C</text>
+			<text id="text501" transform="matrix(1 0 0 1 4.0197 58.9697)" fill="#B3B0B0"  font-size="4.6035">D</text>
+			<text id="text503" transform="matrix(1 0 0 1 4.234 66.2217)" fill="#B3B0B0"  font-size="4.6035">E</text>
+			<text id="text505" transform="matrix(1 0 0 1 4.2755 87.9766)" fill="#B3B0B0"  font-size="4.6035">F</text>
+			<text id="text507" transform="matrix(1 0 0 1 4.0612 95.2266)" fill="#B3B0B0"  font-size="4.6035">G</text>
+			<text id="text509" transform="matrix(1 0 0 1 4.0612 102.4795)" fill="#B3B0B0"  font-size="4.6035">H</text>
+			<text id="text511" transform="matrix(1 0 0 1 4.7472 109.7314)" fill="#B3B0B0"  font-size="4.6035">I</text>
+			<text id="text513" transform="matrix(1 0 0 1 4.2755 116.9834)" fill="#B3B0B0"  font-size="4.6035">J</text>
 		</g>
 		<g id="sockets">
 			<g id="A98pin">

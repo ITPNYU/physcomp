@@ -44,30 +44,30 @@
      </g>
     </g>
     <g  id="text" stroke-width="0">
-     <text x="24.4595" y="30.9946" fill="#B3B0B0" font-family="DroidSans"  id="text443" stroke-width="0" font-size="4.60355">1</text>
-     <text x="53.114" y="30.9946" fill="#B3B0B0" font-family="DroidSans"  id="text445" stroke-width="0" font-size="4.60355">5</text>
-     <text x="87.5093" y="30.9946" fill="#B3B0B0" font-family="DroidSans"  id="text447" stroke-width="0" font-size="4.60355">10</text>
-     <text x="123.517" y="30.9946" fill="#B3B0B0" font-family="DroidSans"  id="text449" stroke-width="0" font-size="4.60355">15</text>
-     <text x="159.695" y="30.9946" fill="#B3B0B0" font-family="DroidSans"  id="text451" stroke-width="0" font-size="4.60355">20</text>
-     <text x="195.932" y="30.9946" fill="#B3B0B0" font-family="DroidSans"  id="text453" stroke-width="0" font-size="4.60355">25</text>
-     <text x="231.75" y="30.9946" fill="#B3B0B0" font-family="DroidSans"  id="text455" stroke-width="0" font-size="4.60355">30</text>
-     <text x="24.4595" y="122.395" fill="#B3B0B0" font-family="DroidSans"  id="text469" stroke-width="0" font-size="4.60355">1</text>
-     <text x="53.114" y="122.395" fill="#B3B0B0" font-family="DroidSans"  id="text471" stroke-width="0" font-size="4.60355">5</text>
-     <text x="87.5093" y="122.395" fill="#B3B0B0" font-family="DroidSans"  id="text473" stroke-width="0" font-size="4.60355">10</text>
-     <text x="123.517" y="122.395" fill="#B3B0B0" font-family="DroidSans"  id="text475" stroke-width="0" font-size="4.60355">15</text>
-     <text x="159.695" y="122.395" fill="#B3B0B0" font-family="DroidSans"  id="text477" stroke-width="0" font-size="4.60355">20</text>
-     <text x="195.932" y="122.395" fill="#B3B0B0" font-family="DroidSans"  id="text479" stroke-width="0" font-size="4.60355">25</text>
-     <text x="231.75" y="122.395" fill="#B3B0B0" font-family="DroidSans"  id="text481" stroke-width="0" font-size="4.60355">30</text>
-     <text x="4.06132" y="37.2141" fill="#B3B0B0" font-family="DroidSans"  id="text495" stroke-width="0" font-size="4.60355">A</text>
-     <text x="4.06132" y="44.4672" fill="#B3B0B0" font-family="DroidSans"  id="text497" stroke-width="0" font-size="4.60355">B</text>
-     <text x="4.105" y="51.7187" fill="#B3B0B0" font-family="DroidSans"  id="text499" stroke-width="0" font-size="4.60355">C</text>
-     <text x="4.01988" y="58.9695" fill="#B3B0B0" font-family="DroidSans"  id="text501" stroke-width="0" font-size="4.60355">D</text>
-     <text x="4.23396" y="66.2211" fill="#B3B0B0" font-family="DroidSans"  id="text503" stroke-width="0" font-size="4.60355">E</text>
-     <text x="4.27532" y="87.9766" fill="#B3B0B0" font-family="DroidSans"  id="text505" stroke-width="0" font-size="4.60355">F</text>
-     <text x="4.06132" y="95.2266" fill="#B3B0B0" font-family="DroidSans"  id="text507" stroke-width="0" font-size="4.60355">G</text>
-     <text x="4.06132" y="102.479" fill="#B3B0B0" font-family="DroidSans"  id="text509" stroke-width="0" font-size="4.60355">H</text>
-     <text x="4.74723" y="109.731" fill="#B3B0B0" font-family="DroidSans"  id="text511" stroke-width="0" font-size="4.60355">I</text>
-     <text x="4.27532" y="116.983" fill="#B3B0B0" font-family="DroidSans"  id="text513" stroke-width="0" font-size="4.60355">J</text>
+     <text x="24.4595" y="30.9946" fill="#B3B0B0"   id="text443" stroke-width="0" font-size="4.60355">1</text>
+     <text x="53.114" y="30.9946" fill="#B3B0B0"   id="text445" stroke-width="0" font-size="4.60355">5</text>
+     <text x="87.5093" y="30.9946" fill="#B3B0B0"   id="text447" stroke-width="0" font-size="4.60355">10</text>
+     <text x="123.517" y="30.9946" fill="#B3B0B0"   id="text449" stroke-width="0" font-size="4.60355">15</text>
+     <text x="159.695" y="30.9946" fill="#B3B0B0"   id="text451" stroke-width="0" font-size="4.60355">20</text>
+     <text x="195.932" y="30.9946" fill="#B3B0B0"   id="text453" stroke-width="0" font-size="4.60355">25</text>
+     <text x="231.75" y="30.9946" fill="#B3B0B0"   id="text455" stroke-width="0" font-size="4.60355">30</text>
+     <text x="24.4595" y="122.395" fill="#B3B0B0"   id="text469" stroke-width="0" font-size="4.60355">1</text>
+     <text x="53.114" y="122.395" fill="#B3B0B0"   id="text471" stroke-width="0" font-size="4.60355">5</text>
+     <text x="87.5093" y="122.395" fill="#B3B0B0"   id="text473" stroke-width="0" font-size="4.60355">10</text>
+     <text x="123.517" y="122.395" fill="#B3B0B0"   id="text475" stroke-width="0" font-size="4.60355">15</text>
+     <text x="159.695" y="122.395" fill="#B3B0B0"   id="text477" stroke-width="0" font-size="4.60355">20</text>
+     <text x="195.932" y="122.395" fill="#B3B0B0"   id="text479" stroke-width="0" font-size="4.60355">25</text>
+     <text x="231.75" y="122.395" fill="#B3B0B0"   id="text481" stroke-width="0" font-size="4.60355">30</text>
+     <text x="4.06132" y="37.2141" fill="#B3B0B0"   id="text495" stroke-width="0" font-size="4.60355">A</text>
+     <text x="4.06132" y="44.4672" fill="#B3B0B0"   id="text497" stroke-width="0" font-size="4.60355">B</text>
+     <text x="4.105" y="51.7187" fill="#B3B0B0"   id="text499" stroke-width="0" font-size="4.60355">C</text>
+     <text x="4.01988" y="58.9695" fill="#B3B0B0"   id="text501" stroke-width="0" font-size="4.60355">D</text>
+     <text x="4.23396" y="66.2211" fill="#B3B0B0"   id="text503" stroke-width="0" font-size="4.60355">E</text>
+     <text x="4.27532" y="87.9766" fill="#B3B0B0"   id="text505" stroke-width="0" font-size="4.60355">F</text>
+     <text x="4.06132" y="95.2266" fill="#B3B0B0"   id="text507" stroke-width="0" font-size="4.60355">G</text>
+     <text x="4.06132" y="102.479" fill="#B3B0B0"   id="text509" stroke-width="0" font-size="4.60355">H</text>
+     <text x="4.74723" y="109.731" fill="#B3B0B0"   id="text511" stroke-width="0" font-size="4.60355">I</text>
+     <text x="4.27532" y="116.983" fill="#B3B0B0"   id="text513" stroke-width="0" font-size="4.60355">J</text>
     </g>
     <g  id="sockets" stroke-width="0">
      <g  id="A98pin" stroke-width="0">
@@ -2180,158 +2180,158 @@
     <path fill="#00929F"  stroke-width="0" d="M206.665,36.72L206.665,4.32L202.345,0L19.465,0l0,151.2l187.2,0L206.665,144l7.20001,-7.2L213.865,43.92L206.665,36.72zM59.0651,148.535c-2.505,0,-4.536,-2.03,-4.536,-4.535s2.03,-4.536,4.536,-4.536s4.536,2.031,4.536,4.536S61.5701,148.535,59.0651,148.535zM62.6651,11.736c-2.505,0,-4.536,-2.031,-4.536,-4.536c0,-2.505,2.03,-4.536,4.536,-4.536c2.505,0,4.536,2.031,4.536,4.536C67.2011,9.705,65.1701,11.736,62.6651,11.736zM206.665,134.136c-2.505,0,-4.536,-2.031,-4.536,-4.536s2.031,-4.535,4.536,-4.535c2.506,0,4.536,2.03,4.536,4.535S209.171,134.136,206.665,134.136zM206.665,54.936c-2.505,0,-4.536,-2.03,-4.536,-4.536c0,-2.505,2.031,-4.536,4.536,-4.536c2.506,0,4.536,2.031,4.536,4.536C211.201,52.905,209.171,54.936,206.665,54.936z"/>
     <g  id="text_and_graphic" stroke-width="0">
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 200.983, 22.8252)" font-size="4.0186">RX</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 200.983, 22.8252)" font-size="4.0186">RX</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(1, 0, 0, 1, 170.199, 87.1328)" font-size="4">RESET</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(1, 0, 0, 1, 170.199, 87.1328)" font-size="4">RESET</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(1, 0, 0, 1, 199.309, 87.1328)" font-size="4">ICSP</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(1, 0, 0, 1, 199.309, 87.1328)" font-size="4">ICSP</text>
      </g>
      <g  stroke-width="0">
       <text x="0" y="0"  stroke-width="0" transform="matrix(1, 0, 0, 1, 146.196, 26.9526)" font-size="0">
-       <tspan x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="5.0233">DIGITAL</tspan>
-       <tspan x="20.653" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="1.0046"/>
+       <tspan x="0" y="0" fill="#FFFFFF"   font-size="5.0233">DIGITAL</tspan>
+       <tspan x="20.653" y="0" fill="#FFFFFF"   font-size="1.0046"/>
       </text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(1, 0, 0, 1, 103.454, 55.4292)" font-size="9.00001">ARDUINO UNO</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(1, 0, 0, 1, 103.454, 55.4292)" font-size="9.00001">ARDUINO UNO</text>
      </g>
      <g  stroke-width="0">
       <text x="0" y="0"  stroke-width="0" transform="matrix(1, 0, 0, 1, 169.77, 26.9526)" font-size="0">
-       <tspan x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="5.0233">(</tspan>
-       <tspan x="1.451" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="5.0233">PWM</tspan>
-       <tspan x="14.074" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="6.0279">~</tspan>
-       <tspan x="17.093" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="5.0233">)</tspan>
-       <tspan x="18.795" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="6.0279"/>
+       <tspan x="0" y="0" fill="#FFFFFF"   font-size="5.0233">(</tspan>
+       <tspan x="1.451" y="0" fill="#FFFFFF"   font-size="5.0233">PWM</tspan>
+       <tspan x="14.074" y="0" fill="#FFFFFF"   font-size="6.0279">~</tspan>
+       <tspan x="17.093" y="0" fill="#FFFFFF"   font-size="5.0233">)</tspan>
+       <tspan x="18.795" y="0" fill="#FFFFFF"   font-size="6.0279"/>
       </text>
      </g>
      <g  stroke-width="0">
       <text x="0" y="0"  stroke-width="0" transform="matrix(1, 0, 0, 1, 173.497, 128.53)" font-size="0">
-       <tspan x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="5.0233">ANALOG</tspan>
-       <tspan x="21.34" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="3.014"/>
-       <tspan x="22.197" y="0" fill="#FFFFFF" font-family="DroidSans"  font-size="5.0233">IN</tspan>
+       <tspan x="0" y="0" fill="#FFFFFF"   font-size="5.0233">ANALOG</tspan>
+       <tspan x="21.34" y="0" fill="#FFFFFF"   font-size="3.014"/>
+       <tspan x="22.197" y="0" fill="#FFFFFF"   font-size="5.0233">IN</tspan>
       </text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 193.604, 22.8252)" font-size="4.0186">TX</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 193.604, 22.8252)" font-size="4.0186">TX</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(1, 0, 0, 1, 191.285, 48.2837)" font-size="4.5209">ON</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(1, 0, 0, 1, 191.285, 48.2837)" font-size="4.5209">ON</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 187.036, 16.3184)" font-size="6.02791">2</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 187.036, 16.3184)" font-size="6.02791">2</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 179.796, 16.3184)" font-size="6.02791">3</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 179.796, 16.3184)" font-size="6.02791">3</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 172.613, 16.3184)" font-size="6.02791">4</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 172.613, 16.3184)" font-size="6.02791">4</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 165.46, 16.3184)" font-size="6.02791">5</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 165.46, 16.3184)" font-size="6.02791">5</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 158.189, 16.3184)" font-size="6.02791">6</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 158.189, 16.3184)" font-size="6.02791">6</text>
      </g>
      <g  stroke-width="0">
       <text x="0" y="0"  stroke-width="0" transform="matrix(0, -1, 1, 0, 165.441, 138.17)" font-size="0">
-       <tspan x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="5">A</tspan>
-       <tspan x="4.04" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="6.0279">0</tspan>
+       <tspan x="0" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="5">A</tspan>
+       <tspan x="4.04" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="6.0279">0</tspan>
       </text>
      </g>
      <g  stroke-width="0">
       <text x="0" y="0"  stroke-width="0" transform="matrix(0, -1, 1, 0, 172.648, 138.17)" font-size="0">
-       <tspan x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="5">A</tspan>
-       <tspan x="4.04" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="6.0279">1</tspan>
+       <tspan x="0" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="5">A</tspan>
+       <tspan x="4.04" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="6.0279">1</tspan>
       </text>
      </g>
      <g  stroke-width="0">
       <text x="0" y="0"  stroke-width="0" transform="matrix(0, -1, 1, 0, 179.854, 138.17)" font-size="0">
-       <tspan x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="5">A</tspan>
-       <tspan x="4.04" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="6.0279">2</tspan>
+       <tspan x="0" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="5">A</tspan>
+       <tspan x="4.04" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="6.0279">2</tspan>
       </text>
      </g>
      <g  stroke-width="0">
       <text x="0" y="0"  stroke-width="0" transform="matrix(0, -1, 1, 0, 187.06, 138.17)" font-size="0">
-       <tspan x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="5">A</tspan>
-       <tspan x="4.04" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="6.0279">3</tspan>
+       <tspan x="0" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="5">A</tspan>
+       <tspan x="4.04" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="6.0279">3</tspan>
       </text>
      </g>
      <g  stroke-width="0">
       <text x="0" y="0"  stroke-width="0" transform="matrix(0, -1, 1, 0, 194.268, 138.17)" font-size="0">
-       <tspan x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="5">A</tspan>
-       <tspan x="4.04" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="6.0279">4</tspan>
+       <tspan x="0" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="5">A</tspan>
+       <tspan x="4.04" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="6.0279">4</tspan>
       </text>
      </g>
      <g  stroke-width="0">
       <text x="0" y="0"  stroke-width="0" transform="matrix(0, -1, 1, 0, 201.473, 138.17)" font-size="0">
-       <tspan x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="5">A</tspan>
-       <tspan x="4.04" y="0" fill="#FFFFFF" font-family="DroidSans"  letter-spacing="1" font-size="6.0279">5</tspan>
+       <tspan x="0" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="5">A</tspan>
+       <tspan x="4.04" y="0" fill="#FFFFFF"   letter-spacing="1" font-size="6.0279">5</tspan>
       </text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 151.065, 16.3184)" font-size="6.02791">7</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 151.065, 16.3184)" font-size="6.02791">7</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 139.523, 16.3184)" font-size="6.02791">8</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 139.523, 16.3184)" font-size="6.02791">8</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 132.295, 16.3184)" font-size="6.02791">9</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 132.295, 16.3184)" font-size="6.02791">9</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 125.011, 19.9385)" font-size="6.02791">10</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 125.011, 19.9385)" font-size="6.02791">10</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 117.918, 19.9385)" font-size="6.02791">11</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 117.918, 19.9385)" font-size="6.02791">11</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 110.75, 19.9385)" font-size="6.02791">12</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 110.75, 19.9385)" font-size="6.02791">12</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 103.562, 19.9385)" font-size="6.02791">13</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 103.562, 19.9385)" font-size="6.02791">13</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 96.0328, 23.3047)" font-size="4.5">GND</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 96.0328, 23.3047)" font-size="4.5">GND</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 150.34, 138.17)" font-size="4.0186">Vin</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 150.34, 138.17)" font-size="4.0186">Vin</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 88.7965, 24.3447)" font-size="4.5">AREF</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 88.7965, 24.3447)" font-size="4.5">AREF</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 114.453, 138.17)" font-size="4">RESET</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 114.453, 138.17)" font-size="4">RESET</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 121.705, 138.17)" font-size="4">3.3V</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 121.705, 138.17)" font-size="4">3.3V</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 128.904, 138.17)" font-size="4">5V</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 128.904, 138.17)" font-size="4">5V</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(1, 0, 0, 1, 132.762, 128.596)" font-size="5.0233">POWER</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(1, 0, 0, 1, 132.762, 128.596)" font-size="5.0233">POWER</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 135.953, 138.17)" font-size="3">GND</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 135.953, 138.17)" font-size="3">GND</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 143.054, 138.17)" font-size="3">GND</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 143.054, 138.17)" font-size="3">GND</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 201.42, 16.3184)" font-size="6.02791">0</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 201.42, 16.3184)" font-size="6.02791">0</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(0, -1, 1, 0, 194.228, 16.3184)" font-size="6.02791">1</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(0, -1, 1, 0, 194.228, 16.3184)" font-size="6.02791">1</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(1, 0, 0, 1, 82.9391, 55.5439)" font-size="4.5209">RX</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(1, 0, 0, 1, 82.9391, 55.5439)" font-size="4.5209">RX</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(1, 0, 0, 1, 82.9396, 48.3604)" font-size="4.5209">TX</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(1, 0, 0, 1, 82.9396, 48.3604)" font-size="4.5209">TX</text>
      </g>
      <g  stroke-width="0">
-      <text x="0" y="0" fill="#FFFFFF" font-family="DroidSans"  stroke-width="0" transform="matrix(1, 0, 0, 1, 85.8785, 35.9932)" font-size="4.5209">L</text>
+      <text x="0" y="0" fill="#FFFFFF"   stroke-width="0" transform="matrix(1, 0, 0, 1, 85.8785, 35.9932)" font-size="4.5209">L</text>
      </g>
      <path fill="#FFFFFF"  stroke-width="0" d="M163.86,19.704c0,0.165,0.0900001,0.334,0.339,0.573l-0.253,0.335c-0.512,-0.404,-0.587001,-0.685,-0.587001,-0.993c0,-0.483,0.361,-0.86,0.361,-1.078c0,-0.175,-0.0920001,-0.265,-0.402,-0.52l0.258,-0.345c0.555001,0.409,0.649001,0.733,0.649001,0.977C164.226,19.151,163.86,19.369,163.86,19.704z"/>
      <path fill="#FFFFFF"  stroke-width="0" d="M178.197,19.704c0,0.165,0.0900001,0.334,0.34,0.573l-0.254,0.335c-0.511,-0.404,-0.586001,-0.685,-0.586001,-0.993c0,-0.483,0.36,-0.86,0.36,-1.078c0,-0.175,-0.0910001,-0.265,-0.401,-0.52l0.256,-0.345c0.556001,0.409,0.650001,0.733,0.650001,0.977C178.562,19.151,178.197,19.369,178.197,19.704z"/>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="294.736px" height="242.982px" viewBox="0 0 294.736 242.982" enable-background="new 0 0 294.736 242.982"
+	 xml:space="preserve">
+<line id="connector0pin_10_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="229.563" y1="39.317" x2="229.563" y2="52.78"/>
+<line id="connector0pin_3_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="229.66" y1="109.028" x2="229.66" y2="122.491"/>
+<g id="connector0terminal_10_">
+</g>
+<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M216.942,38.913h25.243"/>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	<text id="label" transform="matrix(1 0 0 1 215.4439 27.3765)" fill="#020202" font-family="'ArialMT'" font-size="14">+V</text>
+</g>
+<g>
+	<g transform="translate(213.948,11.3336)">
+		<g id="schematic_11_">
+			<g>
+				<path fill="#020202" d="M24.838,79.244h-9.227c-0.496,0-0.896-0.4-0.896-0.898c0-0.496,0.399-0.896,0.896-0.896h9.227
+					c0.493,0,0.896,0.399,0.896,0.896C25.735,78.844,25.337,79.244,24.838,79.244z"/>
+			</g>
+			<g>
+				<path fill="#020202" d="M15.612,79.244H6.388c-0.496,0-0.896-0.4-0.896-0.898c0-0.496,0.4-0.896,0.896-0.896h9.224
+					c0.496,0,0.898,0.399,0.898,0.896C16.511,78.844,16.108,79.244,15.612,79.244z"/>
+			</g>
+			<g>
+				<polygon fill="#FFFFFF" points="15.612,78.346 6.388,59.897 15.612,59.897 24.838,59.897 				"/>
+				<path fill="#020202" d="M15.612,80.35L4.937,58.999h21.355L15.612,80.35z M7.839,60.794l7.772,15.55l7.775-15.55H7.839z"/>
+			</g>
+			<g>
+				<path fill="#020202" d="M15.612,78.924c-0.314,0-0.575-0.261-0.575-0.578V59.897c0-0.317,0.26-0.578,0.575-0.578
+					c0.32,0,0.578,0.261,0.578,0.578v18.448C16.188,78.663,15.933,78.924,15.612,78.924z"/>
+			</g>
+			<g>
+				<path fill="#020202" d="M-5.143,72.005c-0.149,0-0.295-0.055-0.408-0.168c-0.226-0.225-0.226-0.588,0-0.812l5.998-6
+					c0.226-0.228,0.588-0.228,0.813,0c0.225,0.226,0.225,0.588,0,0.813l-5.996,5.998C-4.848,71.948-4.993,72.005-5.143,72.005z"/>
+			</g>
+			<g>
+				<path fill="#020202" d="M-4.222,80.308c-0.146,0-0.293-0.055-0.404-0.168c-0.227-0.225-0.227-0.588,0-0.812l5.996-5.998
+					c0.225-0.225,0.591-0.225,0.815,0s0.225,0.59,0,0.816l-5.996,5.995C-3.922,80.25-4.072,80.308-4.222,80.308z"/>
+			</g>
+			<g id="connector0pin_11_">
+				<path fill="#7A7A7A" d="M15.612,97.694c-0.496,0-0.896-0.4-0.896-0.898v-18.45c0-0.493,0.399-0.896,0.896-0.896
+					c0.498,0,0.898,0.399,0.898,0.896v18.45C16.508,97.294,16.108,97.694,15.612,97.694z"/>
+			</g>
+			<g id="connector0terminal_11_">
+				<rect x="15.612" y="96.796" fill="none" width="0.005" height="0.003"/>
+			</g>
+			<g id="connector1pin_9_">
+				<path fill="#7A7A7A" d="M15.612,60.794c-0.496,0-0.896-0.403-0.896-0.896V41.446c0-0.494,0.399-0.897,0.896-0.897
+					c0.498,0,0.898,0.403,0.898,0.897v18.451C16.508,60.391,16.108,60.794,15.612,60.794z"/>
+			</g>
+			<g id="connector1terminal_9_">
+				<polygon fill="none" points="15.612,41.446 15.616,41.446 15.616,41.446 				"/>
+			</g>
+			<g>
+				<path fill="#020202" d="M-9.294,75.578l2.768-6.458l3.691,3.684L-9.294,75.578z"/>
+			</g>
+			<g>
+				<path fill="#020202" d="M-8.371,83.881l2.768-6.459l3.685,3.685L-8.371,83.881z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(91.6785,50.587)">
+		<g id="schematic_2_">
+			<polyline fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" points="123.239,72.575 120.538,72.575 
+				116.506,77.962 109.77,65.846 103.04,77.962 96.311,65.846 89.577,77.962 82.848,65.846 76.116,77.962 72.077,72.575 
+				69.383,72.575 			"/>
+			
+				<line id="connector1pin_1_" fill="none" stroke="#7B7B7B" stroke-width="2" stroke-linecap="round" x1="136.698" y1="72.575" x2="123.239" y2="72.575"/>
+			<g id="connector1terminal_1_">
+			</g>
+			
+				<line id="connector0pin_2_" fill="none" stroke="#7B7B7B" stroke-width="2" stroke-linecap="round" x1="55.922" y1="72.575" x2="69.383" y2="72.575"/>
+			<g id="connector0terminal_2_">
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(46.5692,160.233)">
+		<g id="schematic_1_">
+			<path id="connector0pin_1_" fill="none" stroke="#7B7B7B" stroke-width="2" stroke-linecap="round" d="M183.091,51.288V37.827"/>
+			<g id="connector0terminal_1_">
+			</g>
+			<path id="path4098_1_" fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" d="M170.562,51.544h25.055"/>
+			<path id="path4100_1_" fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" d="M174.735,56.675h16.708"/>
+			<path id="path4102_1_" fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" d="M187.262,61.761h-8.348"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 62.7183 116.4326)" fill="#010101" font-family="'MyriadPro-Regular'" font-size="14">PWM output</text>
+<text transform="matrix(1 0 0 1 15.7173 133.2324)" fill="#010101" font-family="'MyriadPro-Regular'" font-size="14">from microcontroller</text>
+<g>
+	
+		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="229.658" y1="149.794" x2="229.658" y2="155.123"/>
+	
+		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="229.658" y1="171.424" x2="229.658" y2="166.101"/>
+	<rect x="208.354" y="163.436" fill="#010101" width="42.609" height="2.667"/>
+	<rect x="208.354" y="155.12" fill="#010101" width="42.609" height="2.696"/>
+	
+		<line id="connector1pin_7_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="229.658" y1="123.162" x2="229.658" y2="149.794"/>
+	
+		<line id="connector0pin_7_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="229.658" y1="198.06" x2="229.658" y2="171.424"/>
+</g>
+<circle fill="#020202" cx="228.984" cy="122.491" r="3.821"/>
+</svg>

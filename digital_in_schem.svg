@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="278.261px" height="221.739px" viewBox="0 0 278.261 221.739" enable-background="new 0 0 278.261 221.739"
+	 xml:space="preserve">
+<g>
+	<g transform="translate(155.328,46.5354)">
+		<g id="schematic_4_">
+			
+				<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="-51.088" y1="17.181" x2="-51.088" y2="13.818"/>
+			
+				<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="-51.088" y1="40.744" x2="-57.815" y2="17.181"/>
+			<circle fill="none" stroke="#010101" stroke-width="2" cx="-51.088" cy="40.744" r="0.673"/>
+			<circle fill="none" stroke="#010101" stroke-width="2" cx="-51.088" cy="13.818" r="0.673"/>
+			
+				<line id="connector0pin_4_" fill="none" stroke="#565656" stroke-width="2" stroke-linecap="round" x1="-51.088" y1="54.208" x2="-51.088" y2="40.744"/>
+			<g id="connector0terminal_4_">
+			</g>
+			
+				<line id="connector1pin_4_" fill="none" stroke="#565656" stroke-width="2" stroke-linecap="round" x1="-51.088" y1="0.353" x2="-51.088" y2="13.818"/>
+			<g id="connector1terminal_4_">
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(91.6785,50.587)">
+		<g id="schematic_5_">
+			<polyline fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" points="12.565,117.477 12.565,114.777 
+				7.178,110.744 19.295,104.007 7.178,97.279 19.295,90.548 7.178,83.816 19.295,77.085 7.178,70.355 12.565,66.315 12.565,63.621 
+							"/>
+			
+				<line id="connector1pin_5_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="12.565" y1="130.935" x2="12.565" y2="117.477"/>
+			<g id="connector1terminal_5_">
+			</g>
+			
+				<line id="connector0pin_5_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="12.565" y1="50.159" x2="12.565" y2="63.621"/>
+			<g id="connector0terminal_5_">
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(46.5692,160.233)">
+		<g id="schematic_8_">
+			<path id="connector0pin_8_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" d="M57.807,33.747v-13.46"/>
+			<g id="connector0terminal_8_">
+			</g>
+			<path id="path4098" fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" d="M45.278,34.003h25.055"/>
+			<path id="path4100" fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" d="M49.451,39.135h16.708"/>
+			<path id="path4102" fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" d="M61.977,44.221H53.63"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(46.5882,125.476)">
+		<g id="schematic_10_">
+			
+				<line id="connector0pin_10_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="57.652" y1="-91.974" x2="57.652" y2="-78.511"/>
+			<g id="connector0terminal_10_">
+			</g>
+			<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" d="M45.031-92.378h25.243"/>
+			<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+				<text id="label" transform="matrix(1 0 0 1 43.5324 -103.9155)" fill="#010101" font-family="'ArialMT'" font-size="14">+V</text>
+			</g>
+			<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+				<text id="label_1_" transform="matrix(1 0 0 1 75.1989 10.6734)" fill="#010101" font-family="'ArialMT'" font-size="14">10kΩ</text>
+				<text transform="matrix(1 0 0 1 113.532 -35.0512)" fill="#010101" font-family="'ArialMT'" font-size="14">Input to </text>
+				<text transform="matrix(1 0 0 1 113.532 -18.2514)" fill="#010101" font-family="'ArialMT'" font-size="14">microcontroller</text>
+			</g>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="104.24" y1="100.743" x2="158.521" y2="100.743"/>
+<circle fill="#010101" cx="104.915" cy="100.746" r="3.821"/>
+</svg>

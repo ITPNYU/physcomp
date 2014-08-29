@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="340px" height="334px"
+	 viewBox="-195.873 -136.204 340 334" enable-background="new -195.873 -136.204 340 334" xml:space="preserve">
+<path fill="#FFFFFF" stroke="#000000" stroke-width="2" d="M57.171-35.672c0-6.863-3.79-12.837-9.402-15.944h2.573v-18.218H38.953
+	H27.567v18.218h2.57c-5.603,3.107-9.405,9.081-9.405,15.944s3.799,12.837,9.405,15.938h-2.57V-1.51h11.386h11.389v-18.224h-2.576
+	C53.375-22.835,57.171-28.809,57.171-35.672z"/>
+<text id="label" transform="matrix(1 0 0 1 33.2615 -30.8481)" font-family="'ArialMT'" font-size="13.4424">M</text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="27.567" y1="-69.834" x2="27.567" y2="-51.616"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="27.567" y1="-69.834" x2="38.953" y2="-69.834"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.953" y1="-69.834" x2="50.342" y2="-69.834"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="50.342" y1="-69.834" x2="50.342" y2="-51.616"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="50.342" y1="-1.51" x2="50.342" y2="-19.734"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="50.342" y1="-1.51" x2="38.953" y2="-1.51"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.953" y1="-1.51" x2="27.567" y2="-1.51"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="27.567" y1="-1.51" x2="27.567" y2="-19.734"/>
+<line id="connector0pin" fill="none" stroke="#8C8C8C" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="38.953" y1="-81.219" x2="38.953" y2="-69.834"/>
+<line id="connector1pin" fill="none" stroke="#8C8C8C" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="38.953" y1="9.875" x2="38.953" y2="-1.51"/>
+<circle fill="none" stroke="#000000" stroke-width="2" cx="38.953" cy="-35.672" r="18.218"/>
+<g>
+	<g transform="matrix(0, 1, -1, 0, -6.5263, 2.7464)">
+		<text transform="matrix(0 -1 1 0 -61.6961 -42.4206)" fill="#787878" font-family="'ArialMT'" font-size="11.0702">+</text>
+	</g>
+</g>
+<g>
+	<g transform="matrix(0, 1, -1, 0, -13.1007, 3.0257)">
+		<text transform="matrix(0 -1 1 0 -9.0477 -49.8759)" fill="#787878" font-family="'ArialMT'" font-size="11.0702">-</text>
+	</g>
+</g>
+<circle fill="none" stroke="#000000" stroke-width="2" cx="38.724" cy="93.219" r="1.14"/>
+<circle fill="none" stroke="#000000" stroke-width="2" cx="38.724" cy="59.059" r="1.138"/>
+<rect x="13.674" y="87.527" width="6.833" height="11.386"/>
+<rect x="13.674" y="53.365" width="6.833" height="11.385"/>
+<rect x="13.674" y="68.167" width="6.833" height="15.944"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="5.934" y1="54.505" x2="5.934" y2="98.913"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.724" y1="59.061" x2="20.735" y2="59.061"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.724" y1="76.139" x2="38.724" y2="93.216"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="20.507" y1="93.216" x2="38.724" y2="93.216"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.724" y1="53.365" x2="38.724" y2="59.061"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.724" y1="59.061" x2="61.498" y2="59.061"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="61.498" y1="93.216" x2="38.724" y2="93.216"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.724" y1="93.216" x2="38.724" y2="98.913"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="4.565" y1="76.139" x2="-6.82" y2="76.139"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="20.507" y1="76.139" x2="31.895" y2="80.695"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="31.895" y1="80.695" x2="31.895" y2="71.583"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="31.895" y1="71.583" x2="20.507" y2="76.139"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="30.756" y1="76.139" x2="38.724" y2="76.139"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="30.756" y1="73.862" x2="22.783" y2="76.139"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="22.783" y1="76.139" x2="30.756" y2="78.415"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="30.756" y1="78.415" x2="30.756" y2="76.139"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="30.756" y1="76.139" x2="28.478" y2="76.139"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="61.498" y1="59.061" x2="61.498" y2="69.309"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="61.498" y1="69.309" x2="61.498" y2="93.216"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="61.498" y1="69.309" x2="55.805" y2="81.832"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="55.805" y1="81.832" x2="67.193" y2="81.832"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="67.193" y1="81.832" x2="61.498" y2="69.309"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="55.805" y1="69.309" x2="61.498" y2="69.309"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="61.498" y1="69.309" x2="67.193" y2="69.309"/>
+<line id="connector1pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="38.724" y1="30.595" x2="38.724" y2="53.365"/>
+<line id="connector0pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-29.594" y1="76.139" x2="-6.82" y2="76.139"/>
+<line id="connector2pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="38.724" y1="121.686" x2="38.724" y2="98.913"/>
+<path id="connector0pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" d="M39.126,161.655v-22.773"/>
+<path id="path4098" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M17.93,162.083h42.384"/>
+<path id="path4100" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M24.991,170.766h28.259"/>
+<path id="path4102" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M46.18,179.369H32.058"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="38.727" y1="30.595" x2="38.953" y2="9.424"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="39.126" y1="139.203" x2="38.727" y2="121.689"/>
+<g>
+	<g transform="translate(46.5882,125.476)">
+		<g id="schematic_10_">
+			
+				<line id="connector0pin_10_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="-7.864" y1="-229.469" x2="-7.864" y2="-206.695"/>
+			<g id="connector0terminal_10_">
+			</g>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-29.213-230.151h42.699"/>
+			<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+				<text id="label_1_" transform="matrix(1 0 0 1 -14.8272 -240.1245)" font-family="'ArialMT'" font-size="14.2302">+V</text>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 -191.8674 73.8608)"><tspan x="0" y="0" fill="#231F20" font-family="'HelveticaNeue'" font-size="18">To microcontroller</tspan><tspan x="64.618" y="21.6" fill="#231F20" font-family="'HelveticaNeue'" font-size="18">output pin</tspan></text>
+<text transform="matrix(1 0 0 1 -53.7893 41.98)" fill="#231F20" font-family="'HelveticaNeue'" font-size="18">Transistor</text>
+<text transform="matrix(1 0 0 1 -42.071 -25.02)" fill="#231F20" font-family="'HelveticaNeue'" font-size="18">Motor</text>
+<text transform="matrix(1 0 0 1 80.7869 81.2627)" fill="#231F20" font-family="'HelveticaNeue'" font-size="18">Diode</text>
+</svg>
