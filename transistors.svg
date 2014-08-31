@@ -21,7 +21,7 @@
 		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="206.319" y1="270.191" x2="207.138" y2="272.038"/>
 	
 		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="205.289" y1="271.014" x2="205.907" y2="272.244"/>
-	<rect x="196.668" y="264.854" fill="#010101" width="6.159" height="41.06"/>
+	<rect x="196.668" y="264.854" fill="#010101" width="6.159" height="41.061"/>
 	
 		<line id="connector0pin_14_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="178.191" y1="285.384" x2="198.724" y2="285.384"/>
 	
@@ -95,8 +95,8 @@
 	
 		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="346.043" y1="285.382" x2="348.096" y2="285.382"/>
 	<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="324.49" y1="285.382" x2="314.225" y2="285.382"/>
-	<rect x="332.701" y="295.645" fill="#010101" width="6.158" height="10.268"/>
-	<rect x="332.701" y="264.854" fill="#010101" width="6.158" height="10.263"/>
+	<rect x="332.701" y="295.645" fill="#010101" width="6.158" height="10.269"/>
+	<rect x="332.701" y="264.854" fill="#010101" width="6.158" height="10.264"/>
 	<rect x="332.701" y="278.195" fill="#010101" width="6.158" height="14.369"/>
 	
 		<line id="connector0pin_16_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="293.698" y1="285.382" x2="314.225" y2="285.382"/>
@@ -129,28 +129,28 @@
 		<line id="connector1pin_13_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="219.25" y1="97.735" x2="219.25" y2="118.265"/>
 </g>
 <g id="schematicLabel_13_">
-	<text transform="matrix(1 0 0 1 222.2129 99.5327)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">collector</text>
+	<text transform="matrix(1 0 0 1 222.2129 99.5332)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">collector</text>
 </g>
 <g id="schematicLabel_4_">
 	<text transform="matrix(1 0 0 1 222.2129 190)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">emitter</text>
 </g>
 <g id="schematicLabel_5_">
-	<text transform="matrix(1 0 0 1 152.5464 134.687)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">base</text>
+	<text transform="matrix(1 0 0 1 152.5464 134.6875)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">base</text>
 </g>
 <g id="schematicLabel_11_">
-	<text transform="matrix(1 0 0 1 359.3242 102.7437)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">source</text>
+	<text transform="matrix(1 0 0 1 359.3242 172.7441)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">source</text>
 </g>
 <g id="schematicLabel_10_">
-	<text transform="matrix(1 0 0 1 359.3242 184.2109)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">drain</text>
+	<text transform="matrix(1 0 0 1 359.3242 102.2109)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">drain</text>
 </g>
 <g id="schematicLabel_9_">
-	<text transform="matrix(1 0 0 1 289.6572 133.8979)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">gate</text>
+	<text transform="matrix(1 0 0 1 289.6572 133.8975)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">gate</text>
 </g>
 <g id="schematicLabel_16_">
-	<text transform="matrix(1 0 0 1 359.3242 248.7559)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">source</text>
+	<text transform="matrix(1 0 0 1 359.3242 327.7559)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">source</text>
 </g>
 <g id="schematicLabel_15_">
-	<text transform="matrix(1 0 0 1 359.3242 330.2227)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">drain</text>
+	<text transform="matrix(1 0 0 1 359.3242 249.2227)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">drain</text>
 </g>
 <g id="schematicLabel_14_">
 	<text transform="matrix(1 0 0 1 289.6572 279.9102)" fill="#010101" font-family="'HelveticaNeue'" font-size="12">gate</text>
