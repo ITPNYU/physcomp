@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:xl="http://www.w3.org/1999/xlink"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="404.322px"
+	 height="244.444px" viewBox="85.678 329.876 404.322 244.444" enable-background="new 85.678 329.876 404.322 244.444"
+	 xml:space="preserve">
+<defs>
+	
+	
+		<font-face  font-weight="500" descent="-212.99744" ascent="951.99585" cap-height="714" x-height="517" slope="0" units-per-em="1000" panose-1="2 0 5 3 0 0 0 2 0 4" font-size="18" font-family="Helvetica Neue" underline-thickness="50" underline-position="-100">
+		<font-face-src>
+			<font-face-name  name="HelveticaNeue"></font-face-name>
+		</font-face-src>
+	</font-face>
+</defs>
+<path fill="none" d=""/>
+<path stroke="#000000" d="M485.7,570l-9.601-3.6v7.199L485.7,570z"/>
+<path marker-end="url(#FilledArrow_Marker)" stroke="#000000" d="M476.1,570"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M90,570
+	c52.995-68.66,109.005-201,159-206s101.004,146.836,141,176s66.003-0.667,99-1"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="293" y1="363" x2="217" y2="364"/>
+<text transform="matrix(1 0 0 1 313.3311 369)" font-family="'HelveticaNeue'" font-size="18">Peak</text>
+<path fill="none" d=""/>
+<path stroke="#000000" d="M90,331.3l-3.6,9.601h7.2L90,331.3z"/>
+<path marker-end="url(#FilledArrow_Marker)" stroke="#000000" d="M90,340.9"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="90" y1="485" x2="370" y2="485"/>
+<text transform="matrix(1 0 0 1 385.1572 490)" font-family="'HelveticaNeue'" font-size="18">Thr</text>
+<text transform="matrix(1 0 0 1 411.167 490)" font-family="'HelveticaNeue'" font-size="18">eshold</text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="90" y1="340.9" x2="90" y2="570"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="90" y1="570" x2="476.1" y2="570"/>
+</svg>

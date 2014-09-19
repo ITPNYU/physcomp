@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:xl="http://www.w3.org/1999/xlink"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="404.322px"
+	 height="244.445px" viewBox="82.678 1.875 404.322 244.445" enable-background="new 82.678 1.875 404.322 244.445"
+	 xml:space="preserve">
+<defs>
+	
+	
+		<font-face  font-weight="500" descent="-212.99744" ascent="951.99585" cap-height="714" x-height="517" slope="0" units-per-em="1000" panose-1="2 0 5 3 0 0 0 2 0 4" font-size="18" font-family="Helvetica Neue" underline-thickness="50" underline-position="-100">
+		<font-face-src>
+			<font-face-name  name="HelveticaNeue"></font-face-name>
+		</font-face-src>
+	</font-face>
+</defs>
+<path fill="none" d=""/>
+<path stroke="#000000" d="M482.7,242l-9.601-3.6v7.199L482.7,242z"/>
+<path marker-end="url(#FilledArrow_Marker)" stroke="#000000" d="M473.1,242"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M87,242
+	c19.998-11.332,38.835-14.002,60-34s50.085-83,67-86s21.334,79.166,34.5,68S274.585,53.167,293,55s33.837,120.002,66,146
+	s84.671,6.667,127,10"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="234" y1="121" x2="196" y2="121"/>
+<text transform="matrix(1 0 0 1 102.9951 127.5)" font-family="'HelveticaNeue'" font-size="18">Local Peak</text>
+<path fill="none" d=""/>
+<path stroke="#000000" d="M87,3.3l-3.6,9.6h7.2L87,3.3z"/>
+<path marker-end="url(#FilledArrow_Marker)" stroke="#000000" d="M87,12.9"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="324.5" y1="53" x2="248.5" y2="54"/>
+<text transform="matrix(1 0 0 1 338.9951 59.5)" font-family="'HelveticaNeue'" font-size="18">Highest Peak</text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="87" y1="167" x2="367" y2="167"/>
+<text transform="matrix(1 0 0 1 382.1572 172)" font-family="'HelveticaNeue'" font-size="18">Thr</text>
+<text transform="matrix(1 0 0 1 408.167 172)" font-family="'HelveticaNeue'" font-size="18">eshold</text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="87" y1="12.9" x2="87" y2="242"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="87" y1="242" x2="473.1" y2="242"/>
+</svg>

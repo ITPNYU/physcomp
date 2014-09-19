@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="92.193px"
+	 height="206.99px" viewBox="10.487 -184.596 92.193 206.99" enable-background="new 10.487 -184.596 92.193 206.99"
+	 xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="33.539" y1="-126.212" x2="40.431" y2="-123.627"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="40.431" y1="-123.627" x2="26.648" y2="-119.319"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="26.648" y1="-119.319" x2="40.431" y2="-115.012"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="40.431" y1="-115.012" x2="26.648" y2="-110.704"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="26.648" y1="-110.704" x2="40.431" y2="-106.396"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="40.431" y1="-106.396" x2="26.648" y2="-102.087"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="26.648" y1="-102.087" x2="40.431" y2="-97.78"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="40.431" y1="-97.78" x2="26.648" y2="-93.472"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="26.648" y1="-93.472" x2="33.539" y2="-91.749"/>
+<line id="connector1pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="33.539" y1="-74.517" x2="33.539" y2="-91.749"/>
+<line id="connector0pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="33.539" y1="-143.445" x2="33.539" y2="-126.212"/>
+<path d="M42.367-32.362H33.75c-0.461,0-0.837-0.374-0.837-0.836c0-0.465,0.373-0.837,0.837-0.837h8.617
+	c0.461,0,0.837,0.372,0.837,0.837C43.204-32.736,42.829-32.362,42.367-32.362z"/>
+<path d="M33.75-32.362h-8.614c-0.464,0-0.838-0.374-0.838-0.836c0-0.465,0.374-0.837,0.838-0.837h8.614
+	c0.462,0,0.838,0.372,0.838,0.837C34.588-32.736,34.212-32.362,33.75-32.362z"/>
+<polygon fill="#FFFFFF" points="33.75,-33.199 25.136,-50.431 33.75,-50.431 42.367,-50.431 "/>
+<path d="M33.75-31.33L23.78-51.271h19.944L33.75-31.33z M26.491-49.592l7.259,14.521l7.262-14.521H26.491z"/>
+<path d="M33.75-32.662c-0.298,0-0.538-0.243-0.538-0.537v-17.232c0-0.297,0.24-0.54,0.538-0.54c0.296,0,0.539,0.243,0.539,0.54
+	v17.232C34.288-32.904,34.046-32.662,33.75-32.662z"/>
+<path d="M14.365-39.121c-0.139,0-0.277-0.052-0.382-0.157c-0.21-0.213-0.21-0.549,0-0.761l5.601-5.603
+	c0.209-0.21,0.552-0.21,0.761,0c0.21,0.21,0.21,0.552,0,0.762l-5.599,5.602C14.64-39.172,14.503-39.121,14.365-39.121z"/>
+<path d="M15.227-31.369c-0.14,0-0.275-0.049-0.38-0.156c-0.211-0.211-0.211-0.55,0-0.759l5.599-5.601
+	c0.211-0.212,0.55-0.212,0.764,0c0.209,0.211,0.209,0.549,0,0.76l-5.603,5.601C15.503-31.422,15.365-31.369,15.227-31.369z"/>
+<path fill="#787878" d="M33.75-15.129c-0.461,0-0.837-0.373-0.837-0.839v-17.23c0-0.463,0.373-0.837,0.837-0.837
+	c0.465,0,0.838,0.372,0.838,0.837v17.23C34.585-15.501,34.212-15.129,33.75-15.129z"/>
+<rect x="33.75" y="-15.968" fill="none" width="0.001" height="0.005"/>
+<path fill="#787878" d="M33.75-49.592c-0.461,0-0.837-0.378-0.837-0.839v-17.233c0-0.462,0.373-0.836,0.837-0.836
+	c0.465,0,0.838,0.374,0.838,0.836v17.233C34.585-49.971,34.212-49.592,33.75-49.592z"/>
+<polygon fill="none" points="33.75,-67.664 33.751,-67.664 33.751,-67.664 "/>
+<path d="M10.487-35.784l2.585-6.035l3.447,3.443L10.487-35.784z"/>
+<path d="M11.35-28.029l2.585-6.035l3.44,3.441L11.35-28.029z"/>
+<g>
+	<g transform="translate(2.84,74.027)">
+		<g id="schematic_2_">
+			<path id="connector0pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" d="M31.248-66.034v-17.232"/>
+			<g id="connector0terminal_2_">
+			</g>
+			<path id="path4098" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M15.211-65.709h32.071"/>
+			<path id="path4100" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M20.554-59.139h21.382"/>
+			<path id="path4102" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M36.585-52.633H25.9"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(2.44522,0)">
+		<g id="schematic_3_">
+			
+				<line id="connector0pin_3_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="30.695" y1="-171.08" x2="30.695" y2="-153.849"/>
+			<g id="connector0terminal_3_">
+			</g>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M14.538-171.598H46.85"/>
+			<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+				<text id="label" transform="matrix(1 0 0 1 15.5526 -180.3555)" font-family="'HelveticaNeue'" font-size="10.7681">5V</text>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="33.096" y1="-153.865" x2="33.539" y2="-143.445"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="33.539" y1="-74.517" x2="33.751" y2="-67.664"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="33.751" y1="-15.966" x2="34.085" y2="-8.997"/>
+</g>
+<g id="partLabel">
+	<g transform="translate(15.8478,27.8101)">
+		<g id="schematicLabel">
+			<text transform="matrix(1 0 0 1 39.2892 -139.5811)" font-family="'HelveticaNeue'" font-size="11.967">R1</text>
+		</g>
+	</g>
+</g>
+<g id="partLabel_1_">
+	<g transform="translate(14.6358,54.346)">
+		<g id="schematicLabel_1_">
+			<text transform="matrix(1 0 0 1 37.6027 -102.6092)" enable-background="new    "><tspan x="0" y="0" font-family="'HelveticaNeue'" font-size="11.967">LED1</tspan><tspan x="0" y="14.36" font-family="'HelveticaNeue'" font-size="11.967">2V, 20mA</tspan></text>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:xl="http://www.w3.org/1999/xlink"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="405.043px"
+	 height="246.59px" viewBox="85.957 55.452 405.043 246.59" enable-background="new 85.957 55.452 405.043 246.59"
+	 xml:space="preserve">
+<defs>
+	
+	
+		<font-face  font-family="Helvetica Neue" font-size="18" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" slope="0" x-height="517" cap-height="714" ascent="951.99585" descent="-212.99744" font-weight="500" underline-thickness="50" underline-position="-100">
+		<font-face-src>
+			<font-face-name  name="HelveticaNeue"></font-face-name>
+		</font-face-src>
+	</font-face>
+</defs>
+<path stroke="#000000" stroke-width="2" d="M486.7,297l-9.602-3.601v7.199L486.7,297z"/>
+<path marker-end="url(#FilledArrow_Marker)" stroke="#000000" stroke-width="2" d="M477.1,297"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M91,297
+	c52.995-68.66,109.005-201,159-206s101.004,146.836,141,176s66.003-0.666,99-1"/>
+<text transform="matrix(1 0 0 1 234 82.5005)" font-family="'HelveticaNeue'" font-size="18">Peak</text>
+<path stroke="#000000" stroke-width="2" d="M91,58.3l-3.6,9.6h7.2L91,58.3z"/>
+<path marker-end="url(#FilledArrow_Marker)" stroke="#000000" stroke-width="2" d="M91,67.9"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="91" y1="212" x2="371" y2="212"/>
+<text transform="matrix(1 0 0 1 386.1572 217.0005)" font-family="'HelveticaNeue'" font-size="18">Thr</text>
+<text transform="matrix(1 0 0 1 412.167 217.0005)" font-family="'HelveticaNeue'" font-size="18">eshold</text>
+<circle cx="215" cy="111.815" r="3"/>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="215" cy="111.815" r="3"/>
+<circle cx="255" cy="90.5" r="3"/>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="255" cy="90.5" r="3"/>
+<text transform="matrix(1 0 0 1 318.6582 144.8159)" font-family="'HelveticaNeue'" font-size="18">Falling</text>
+<text transform="matrix(1 0 0 1 155.1582 115.8149)" font-family="'HelveticaNeue'" font-size="18">Rising</text>
+<circle cx="307" cy="139.409" r="3"/>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="307" cy="139.409" r="3"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="91" y1="67.9" x2="91" y2="297"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="91" y1="297" x2="477.1" y2="297"/>
+</svg>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="255.327px"
+	 height="206.99px" viewBox="-81.737 -0.911 255.327 206.99" enable-background="new -81.737 -0.911 255.327 206.99"
+	 xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="45.503" y1="57.473" x2="52.395" y2="60.058"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="52.395" y1="60.058" x2="38.612" y2="64.366"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.612" y1="64.366" x2="52.395" y2="68.673"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="52.395" y1="68.673" x2="38.612" y2="72.981"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.612" y1="72.981" x2="52.395" y2="77.289"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="52.395" y1="77.289" x2="38.612" y2="81.598"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.612" y1="81.598" x2="52.395" y2="85.905"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="52.395" y1="85.905" x2="38.612" y2="90.213"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="38.612" y1="90.213" x2="45.503" y2="91.936"/>
+<line id="connector1pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="45.503" y1="109.168" x2="45.503" y2="91.936"/>
+<line id="connector0pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="45.503" y1="40.24" x2="45.503" y2="57.473"/>
+<path d="M54.331,151.323h-8.617c-0.461,0-0.837-0.374-0.837-0.836c0-0.465,0.373-0.838,0.837-0.838h8.617
+	c0.461,0,0.837,0.373,0.837,0.838C55.168,150.949,54.793,151.323,54.331,151.323z"/>
+<path d="M45.714,151.323H37.1c-0.465,0-0.839-0.374-0.839-0.836c0-0.465,0.374-0.838,0.839-0.838h8.613
+	c0.462,0,0.838,0.373,0.838,0.838C46.552,150.949,46.176,151.323,45.714,151.323z"/>
+<polygon fill="#FFFFFF" points="45.714,150.485 37.1,133.254 45.714,133.254 54.331,133.254 "/>
+<path d="M45.714,152.354l-9.97-19.94h19.944L45.714,152.354z M38.455,134.093l7.259,14.521l7.263-14.521H38.455z"/>
+<path d="M45.714,151.022c-0.298,0-0.538-0.242-0.538-0.537v-17.231c0-0.297,0.24-0.54,0.538-0.54c0.296,0,0.539,0.243,0.539,0.54
+	v17.231C46.252,150.781,46.01,151.022,45.714,151.022z"/>
+<path d="M26.329,144.563c-0.139,0-0.277-0.051-0.382-0.156c-0.21-0.213-0.21-0.549,0-0.762l5.601-5.603
+	c0.209-0.21,0.553-0.21,0.762,0c0.21,0.21,0.21,0.552,0,0.763l-5.6,5.602C26.604,144.513,26.467,144.563,26.329,144.563z"/>
+<path d="M27.191,152.315c-0.141,0-0.275-0.049-0.38-0.155c-0.211-0.211-0.211-0.55,0-0.759l5.599-5.602
+	c0.211-0.212,0.55-0.212,0.764,0c0.209,0.211,0.209,0.549,0,0.76l-5.603,5.602C27.467,152.263,27.329,152.315,27.191,152.315z"/>
+<path fill="#787878" d="M45.714,168.556c-0.461,0-0.837-0.373-0.837-0.838v-17.23c0-0.463,0.373-0.838,0.837-0.838
+	c0.465,0,0.838,0.373,0.838,0.838v17.23C46.549,168.185,46.176,168.556,45.714,168.556z"/>
+<rect x="45.714" y="167.718" fill="none" width="0.001" height="0.004"/>
+<path fill="#787878" d="M45.714,134.093c-0.461,0-0.837-0.377-0.837-0.839v-17.233c0-0.461,0.373-0.836,0.837-0.836
+	c0.465,0,0.838,0.375,0.838,0.836v17.233C46.549,133.714,46.176,134.093,45.714,134.093z"/>
+<polygon fill="none" points="45.714,116.021 45.715,116.021 45.715,116.021 "/>
+<path d="M22.451,147.901l2.585-6.035l3.447,3.443L22.451,147.901z"/>
+<path d="M23.314,155.656l2.585-6.035l3.439,3.44L23.314,155.656z"/>
+<g>
+	<g transform="translate(2.84,74.027)">
+		<g id="schematic_2_">
+			<path id="connector0pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" d="M43.212,117.652v-17.232"
+				/>
+			<g id="connector0terminal_2_">
+			</g>
+			<path id="path4098" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M27.174,117.976h32.071"/>
+			<path id="path4100" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M32.518,124.546H53.9"/>
+			<path id="path4102" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M48.548,131.052H37.864"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(2.44522,0)">
+		<g id="schematic_3_">
+			
+				<line id="connector0pin_3_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="42.659" y1="12.605" x2="42.659" y2="29.836"/>
+			<g id="connector0terminal_3_">
+			</g>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M26.502,12.087h32.312"/>
+			<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+				<text id="label" transform="matrix(1 0 0 1 27.516 3.3301)" font-family="'HelveticaNeue'" font-size="10.7681">5V</text>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="45.06" y1="29.82" x2="45.503" y2="40.24"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="45.503" y1="109.168" x2="45.715" y2="116.021"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="45.715" y1="167.72" x2="46.049" y2="174.688"/>
+</g>
+<g id="partLabel">
+	<g transform="translate(15.8478,27.8101)">
+		<g id="schematicLabel">
+			<text transform="matrix(1 0 0 1 51.2525 44.1035)" font-family="'HelveticaNeue'" font-size="11.967">R2</text>
+		</g>
+	</g>
+</g>
+<g id="partLabel_1_">
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-36.497" y1="57.473" x2="-29.605" y2="60.058"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-29.605" y1="60.058" x2="-43.388" y2="64.366"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-43.388" y1="64.366" x2="-29.605" y2="68.673"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-29.605" y1="68.673" x2="-43.388" y2="72.981"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-43.388" y1="72.981" x2="-29.605" y2="77.289"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-29.605" y1="77.289" x2="-43.388" y2="81.598"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-43.388" y1="81.598" x2="-29.605" y2="85.905"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-29.605" y1="85.905" x2="-43.388" y2="90.213"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-43.388" y1="90.213" x2="-36.497" y2="91.936"/>
+<line id="connector1pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-36.497" y1="109.168" x2="-36.497" y2="91.936"/>
+<line id="connector0pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-36.497" y1="40.24" x2="-36.497" y2="57.473"/>
+<path d="M-27.669,151.323h-8.617c-0.461,0-0.837-0.374-0.837-0.836c0-0.465,0.373-0.838,0.837-0.838h8.617
+	c0.461,0,0.837,0.373,0.837,0.838C-26.832,150.949-27.207,151.323-27.669,151.323z"/>
+<path d="M-36.286,151.323H-44.9c-0.465,0-0.839-0.374-0.839-0.836c0-0.465,0.374-0.838,0.839-0.838h8.613
+	c0.462,0,0.838,0.373,0.838,0.838C-35.448,150.949-35.824,151.323-36.286,151.323z"/>
+<polygon fill="#FFFFFF" points="-36.286,150.485 -44.9,133.254 -36.286,133.254 -27.669,133.254 "/>
+<path d="M-36.286,152.354l-9.97-19.94h19.944L-36.286,152.354z M-43.545,134.093l7.259,14.521l7.263-14.521H-43.545z"/>
+<path d="M-36.286,151.022c-0.298,0-0.538-0.242-0.538-0.537v-17.231c0-0.297,0.24-0.54,0.538-0.54c0.296,0,0.539,0.243,0.539,0.54
+	v17.231C-35.748,150.781-35.99,151.022-36.286,151.022z"/>
+<path d="M-55.671,144.563c-0.139,0-0.277-0.051-0.382-0.156c-0.21-0.213-0.21-0.549,0-0.762l5.601-5.603
+	c0.209-0.21,0.553-0.21,0.762,0c0.21,0.21,0.21,0.552,0,0.763l-5.6,5.602C-55.396,144.513-55.533,144.563-55.671,144.563z"/>
+<path d="M-54.809,152.315c-0.141,0-0.275-0.049-0.38-0.155c-0.211-0.211-0.211-0.55,0-0.759l5.599-5.602
+	c0.211-0.212,0.55-0.212,0.764,0c0.209,0.211,0.209,0.549,0,0.76l-5.603,5.602C-54.533,152.263-54.671,152.315-54.809,152.315z"/>
+<path fill="#787878" d="M-36.286,168.556c-0.461,0-0.837-0.373-0.837-0.838v-17.23c0-0.463,0.373-0.838,0.837-0.838
+	c0.465,0,0.838,0.373,0.838,0.838v17.23C-35.451,168.185-35.824,168.556-36.286,168.556z"/>
+<path fill="#787878" d="M-36.286,134.093c-0.461,0-0.837-0.377-0.837-0.839v-17.233c0-0.461,0.373-0.836,0.837-0.836
+	c0.465,0,0.838,0.375,0.838,0.836v17.233C-35.451,133.714-35.824,134.093-36.286,134.093z"/>
+<polygon fill="none" points="-36.286,116.021 -36.285,116.021 -36.285,116.021 "/>
+<path d="M-59.549,147.901l2.585-6.035l3.447,3.443L-59.549,147.901z"/>
+<path d="M-58.686,155.656l2.585-6.035l3.439,3.44L-58.686,155.656z"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="-36.497" y1="109.168" x2="-36.285" y2="116.021"/>
+</g>
+<g id="partLabel_3_">
+	<g transform="translate(15.8478,27.8101)">
+		<g id="schematicLabel_3_">
+			<text transform="matrix(1 0 0 1 -30.747 44.1035)" font-family="'HelveticaNeue'" font-size="11.967">R1</text>
+		</g>
+	</g>
+</g>
+<g id="partLabel_2_">
+	<g transform="translate(14.6358,54.346)">
+		<g id="schematicLabel_2_">
+			<text transform="matrix(1 0 0 1 -32.4339 88.0397)" font-family="'HelveticaNeue'" font-size="11.967">LED1</text>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="125.846" y1="57.473" x2="132.739" y2="60.058"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="132.739" y1="60.058" x2="118.956" y2="64.366"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="118.956" y1="64.366" x2="132.739" y2="68.673"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="132.739" y1="68.673" x2="118.956" y2="72.981"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="118.956" y1="72.981" x2="132.739" y2="77.289"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="132.739" y1="77.289" x2="118.956" y2="81.598"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="118.956" y1="81.598" x2="132.739" y2="85.905"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="132.739" y1="85.905" x2="118.956" y2="90.213"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="118.956" y1="90.213" x2="125.846" y2="91.936"/>
+<line id="connector1pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="125.846" y1="109.168" x2="125.846" y2="91.936"/>
+<line id="connector0pin_4_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="125.846" y1="40.24" x2="125.846" y2="57.473"/>
+<path d="M134.675,151.323h-8.617c-0.461,0-0.837-0.374-0.837-0.836c0-0.465,0.373-0.838,0.837-0.838h8.617
+	c0.461,0,0.837,0.373,0.837,0.838C135.511,150.949,135.136,151.323,134.675,151.323z"/>
+<path d="M126.057,151.323h-8.613c-0.465,0-0.839-0.374-0.839-0.836c0-0.465,0.374-0.838,0.839-0.838h8.613
+	c0.462,0,0.838,0.373,0.838,0.838C126.895,150.949,126.519,151.323,126.057,151.323z"/>
+<polygon fill="#FFFFFF" points="126.057,150.485 117.444,133.254 126.057,133.254 134.675,133.254 "/>
+<path d="M126.057,152.354l-9.97-19.94h19.944L126.057,152.354z M118.799,134.093l7.259,14.521l7.263-14.521H118.799z"/>
+<path d="M126.057,151.022c-0.298,0-0.538-0.242-0.538-0.537v-17.231c0-0.297,0.24-0.54,0.538-0.54c0.296,0,0.539,0.243,0.539,0.54
+	v17.231C126.595,150.781,126.353,151.022,126.057,151.022z"/>
+<path d="M106.673,144.563c-0.139,0-0.277-0.051-0.382-0.156c-0.21-0.213-0.21-0.549,0-0.762l5.601-5.603
+	c0.209-0.21,0.553-0.21,0.762,0c0.21,0.21,0.21,0.552,0,0.763l-5.6,5.602C106.948,144.513,106.81,144.563,106.673,144.563z"/>
+<path d="M107.535,152.315c-0.141,0-0.275-0.049-0.38-0.155c-0.211-0.211-0.211-0.55,0-0.759l5.599-5.602
+	c0.211-0.212,0.55-0.212,0.764,0c0.209,0.211,0.209,0.549,0,0.76l-5.603,5.602C107.81,152.263,107.673,152.315,107.535,152.315z"/>
+<path fill="#787878" d="M126.057,168.556c-0.461,0-0.837-0.373-0.837-0.838v-17.23c0-0.463,0.373-0.838,0.837-0.838
+	c0.465,0,0.838,0.373,0.838,0.838v17.23C126.892,168.185,126.519,168.556,126.057,168.556z"/>
+<path fill="#787878" d="M126.057,134.093c-0.461,0-0.837-0.377-0.837-0.839v-17.233c0-0.461,0.373-0.836,0.837-0.836
+	c0.465,0,0.838,0.375,0.838,0.836v17.233C126.892,133.714,126.519,134.093,126.057,134.093z"/>
+<polygon fill="none" points="126.057,116.021 126.058,116.021 126.058,116.021 "/>
+<path d="M102.795,147.901l2.585-6.035l3.447,3.443L102.795,147.901z"/>
+<path d="M103.658,155.656l2.585-6.035l3.439,3.44L103.658,155.656z"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="125.846" y1="109.168" x2="126.058" y2="116.021"/>
+</g>
+<g id="partLabel_6_">
+	<g transform="translate(15.8478,27.8101)">
+		<g id="schematicLabel_5_">
+			<text transform="matrix(1 0 0 1 131.5963 44.1035)" font-family="'HelveticaNeue'" font-size="11.967">R3</text>
+		</g>
+	</g>
+</g>
+<g id="partLabel_5_">
+	<g transform="translate(14.6358,54.346)">
+		<g id="schematicLabel_4_">
+			<text transform="matrix(1 0 0 1 129.9099 88.0397)" font-family="'HelveticaNeue'" font-size="11.967">LED3</text>
+		</g>
+	</g>
+</g>
+<g id="partLabel_4_">
+	<g transform="translate(14.6358,54.346)">
+		<g id="schematicLabel_1_">
+			<text transform="matrix(1 0 0 1 47.4499 88.0397)" font-family="'HelveticaNeue'" font-size="11.967">LED2</text>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="-36.497" y1="40.24" x2="45.503" y2="40.24"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="125.846" y1="40.24" x2="45.503" y2="40.24"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="-36.284" y1="167.718" x2="45.714" y2="167.718"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="126.057" y1="167.718" x2="45.714" y2="167.718"/>
+<circle stroke="#231F20" stroke-width="2" stroke-linecap="round" cx="45.714" cy="167.718" r="1.693"/>
+<circle stroke="#231F20" stroke-width="2" stroke-linecap="round" cx="45.503" cy="40.24" r="1.693"/>
+</svg>
