@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <script type="text/javascript" src="js/p5.min.js"></script>
+    <script type="text/javascript" src="js/addons/p5.dom.js"></script>
+    <script type="text/javascript">
+    var text;		// variable for the text div you'll create
+    
+    function setup() {
+    	 // make a new div and position it at 10, 10:
+    	 text = createDiv("Sensor reading:");
+    	 text.position(10,10);
+    }
+    
+    function draw() {
+      // make a HTTP call to the server for the data:
+    	var sensorReading = loadStrings("/data", showData);
+    }
+    
+    function showData(result) {
+       // when the server returns, show the result in the div:
+	    text.html("Sensor reading:" + result);
+    }
+    </script>
+    </head>
+	<body>
+	</body>
+</html>
