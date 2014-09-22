@@ -12,12 +12,11 @@ var servi = require('servi'),
 	portName = process.argv[2],			 // get the serial port name from the command line
 	latestData = "-1";						 // latest data from the serial port
 	
-var app = new servi(true);		// servi instance
-port(8080);							// port number to run the server on
-
-serveFiles("/public");			// serve all static HTML files from /public
-route('/data', sendData);		// route requests for /data to sendData() function
-start();								// start the server
+var app = new servi(false);		// servi instance
+app.port(8080);						// port number to run the server on
+app.serveFiles("public");			// serve all static HTML files from /public
+app.route('/data', sendData);		// route requests for /data to sendData() function
+app.start();						   // start the server
 
 // if you've got a serial port name, open it:
 if (portName == null) {
