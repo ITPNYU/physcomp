@@ -19,10 +19,6 @@ app.port(8080);						// port number to run the server on
 app.serveFiles("public");			// serve all static HTML files from /public
 app.route('/data', sendData);		// route requests for /data to sendData() function
 
-// configure the serial port's behavior:
-myPort.on('open', showPortOpen);		// when the port opens, call the showPortOpen function  
-myPort.on('data', saveLatestData);	// when new data comes in, call the saveLatestData function
-
 // start serial communications. if you've got a serial port name, open it:
 if (portName == null) {
 	// if the user doesn't give a serial port when they launch this script,
@@ -38,6 +34,12 @@ if (portName == null) {
 		parser: serialport.parsers.readline("\r\n") 
 	});
 }
+
+
+// configure the serial port's behavior:
+myPort.on('open', showPortOpen);		// when the port opens, call the showPortOpen function  
+myPort.on('data', saveLatestData);	// when new data comes in, call the saveLatestData function
+
 
 // now that everything is configured, start the server:
 app.start();						  
