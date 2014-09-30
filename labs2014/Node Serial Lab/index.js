@@ -14,11 +14,16 @@ var servi = require('servi'),
 	
 var app = new servi(false);		// servi instance
 app.port(8080);						// port number to run the server on
+
+// configure the server's behavior:
 app.serveFiles("public");			// serve all static HTML files from /public
 app.route('/data', sendData);		// route requests for /data to sendData() function
-app.start();						   // start the server
 
-// if you've got a serial port name, open it:
+// configure the serial port's behavior:
+myPort.on('open', showPortOpen);		// when the port opens, call the showPortOpen function  
+myPort.on('data', saveLatestData);	// when new data comes in, call the saveLatestData function
+
+// start serial communications. if you've got a serial port name, open it:
 if (portName == null) {
 	// if the user doesn't give a serial port when they launch this script,
 	// tell them, then quit the program:
@@ -34,21 +39,31 @@ if (portName == null) {
 	});
 }
 
+// now that everything is configured, start the server:
+app.start();						  
+
+
 // ------------------------ Serial Port functions 
 
-// called when the serial port opens:
-myPort.on('open', function() {
+// called by the myport.on(open) function:
+function showPortOpen() {
+	// print out the fact that the port opened:
 	console.log('port open. Data rate: ' + myPort.options.baudRate);
-});
+}
 
-// called when there's new incoming serial data:  
-myPort.on('data', function (data) {
+// called by the myport.on(data) function:
+function saveLatestData(data) {
+	// save the latest serial string in a global variable
+	// so that other functions can use it:
 	latestData = data;
-});
+}
 
 // ------------------------ Server functions 
-function sendData(request) {
-    request.respond(latestData);
+function sendData(request) {	
+	// print out the fact that a client HTTP request came in to the server:
+	console.log("Got a client request, sending them the data.");
+	// respond to the client request with the latest serial string:
+   request.respond(latestData);
 }
 
 
