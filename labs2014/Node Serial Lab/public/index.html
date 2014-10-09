@@ -10,17 +10,21 @@
     	 // make a new div and position it at 10, 10:
     	 text = createDiv("Sensor reading:");
     	 text.position(10,10);
+    	 // make a HTTP call to the server for the data:
+	    var sensorReading = loadStrings("/data", showData);
     }
     
-    function draw() {
-      // make a HTTP call to the server for the data:
-    	var sensorReading = loadStrings("/data", showData);
-    }
+    /* 
+    	showData(), below, will continually call itself as a callback
+    	in loadStrings(), so there is no need for a loop: 
+    */
     
     function showData(result) {
        // when the server returns, show the result in the div:
 	    text.html("Sensor reading:" + result);
 	    text.position(result, 10);
+	    // make a HTTP call to the server for the data:
+	    var sensorReading = loadStrings("/data", showData);
     }
     </script>
     </head>
