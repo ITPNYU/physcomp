@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="606px" height="276px" viewBox="0 0 606 276" enable-background="new 0 0 606 276" xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="14.223" y1="69.712" x2="452.556" y2="240.175"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M274.984,161.057
+	c3.83-14.292-4.651-25.878-18.945-25.878c-14.291,0-28.981,11.586-32.812,25.878c-3.829,14.291,4.653,25.876,18.944,25.876
+	C256.466,186.933,271.154,175.348,274.984,161.057z"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M294.876,161.055
+	c6.771-25.276-8.228-45.766-33.505-45.766c-25.278,0-51.258,20.49-58.032,45.766c-6.773,25.278,8.228,45.769,33.504,45.769
+	C262.123,206.824,288.102,186.333,294.876,161.055z"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M314.795,161.055
+	c9.721-36.277-11.81-65.687-48.088-65.687c-36.278,0-73.568,29.41-83.289,65.687c-9.721,36.278,11.809,65.688,48.087,65.688
+	C267.783,226.743,305.075,197.333,314.795,161.055z"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M334.687,161.057
+	c12.665-47.263-15.385-85.578-62.646-85.578c-47.264,0-95.847,38.315-108.511,85.578c-12.664,47.263,15.386,85.578,62.647,85.578
+	C273.44,246.634,322.021,208.319,334.687,161.057z"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M350.598,161.055
+	c15.02-56.051-18.243-101.49-74.295-101.49c-56.053,0-113.668,45.439-128.687,101.49c-15.02,56.052,18.244,101.491,74.296,101.491
+	S335.58,217.107,350.598,161.055z"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="406.088" y1="222.104" x2="372.904" y2="221.911"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="406.088" y1="222.104" x2="384.066" y2="201.619"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="276.303" y1="59.565" x2="285.645" y2="69.712"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="276.303" y1="59.565" x2="289.703" y2="53.478"/>
+<text transform="matrix(1 0 0 1 395.0762 186.9326)" font-family="'HelveticaNeue'" font-size="18.2638">Direction of current flow</text>
+<text transform="matrix(1 0 0 1 195.188 33.7192)" font-family="'HelveticaNeue'" font-size="18.2638">Direction of magnetic field</text>
+</svg>
