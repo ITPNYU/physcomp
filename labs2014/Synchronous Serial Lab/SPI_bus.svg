@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="485px" height="499px" viewBox="0 0 485 499" enable-background="new 0 0 485 499" xml:space="preserve">
+<rect x="384.599" y="43.255" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="85.401" height="105.932"/>
+<rect x="384.599" y="210.774" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="85.401" height="105.929"/>
+<rect x="384.599" y="376.65" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="85.401" height="105.93"/>
+<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="49.871,238.233 66.807,252.038 
+	135.58,252.038 154.671,236.477 205.583,236.477 205.583,31.348 20,31.348 20,238.233 "/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="205.583" y1="65.836" x2="384.599" y2="65.836"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="340.255" y1="65.836" x2="340.255" y2="389.416"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="205.583" y1="85.792" x2="384.599" y2="85.792"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="314.8" y1="85.792" x2="314.8" y2="409.373"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="205.583" y1="105.747" x2="384.599" y2="105.747"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="289.343" y1="105.747" x2="289.343" y2="429.327"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="263.886" y1="145.657" x2="263.886" y2="281.97"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="238.43" y1="165.611" x2="238.43" y2="449.281"/>
+<circle stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="340.255" cy="65.836" r="4.105"/>
+<circle stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="314.8" cy="85.792" r="4.105"/>
+<circle stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="289.343" cy="105.747" r="4.105"/>
+<circle stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="340.255" cy="222.105" r="4.105"/>
+<circle stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="314.8" cy="242.059" r="4.105"/>
+<circle stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="289.343" cy="262.014" r="4.105"/>
+<text transform="matrix(1 0 0 1 389.1152 69.9419)" font-family="'HelveticaNeue'" font-size="14.781">SDI</text>
+<text transform="matrix(1 0 0 1 389.1152 92.1138)" font-family="'HelveticaNeue'" font-size="14.781">SDO</text>
+<text transform="matrix(1 0 0 1 387.0615 114.6968)" font-family="'HelveticaNeue'" font-size="14.781">SCLK</text>
+<text transform="matrix(1 0 0 1 387.0615 135.6377)" font-family="'HelveticaNeue'" font-size="14.781">CS</text>
+<text transform="matrix(1 0 0 1 163.1436 69.9419)" font-family="'HelveticaNeue'" font-size="14.781">MOSI</text>
+<text transform="matrix(1 0 0 1 23.2856 26.2153)" font-family="'HelveticaNeue'" font-size="14.781">Controller</text>
+<text transform="matrix(1 0 0 1 384.5996 371.7227)" font-family="'HelveticaNeue'" font-size="14.781">Peripheral 3</text>
+<text transform="matrix(1 0 0 1 384.5996 204.8193)" font-family="'HelveticaNeue'" font-size="14.781">Peripheral 2</text>
+<text transform="matrix(1 0 0 1 384.5996 37.917)" font-family="'HelveticaNeue'" font-size="14.781">Peripheral 1</text>
+<text transform="matrix(1 0 0 1 163.1436 90.7183)" font-family="'HelveticaNeue'" font-size="14.781">MISO</text>
+<text transform="matrix(1 0 0 1 162.2866 111.4932)" font-family="'HelveticaNeue'" font-size="14.781">SCLK</text>
+<text transform="matrix(1 0 0 1 172.1895 132.27)" font-family="'HelveticaNeue'" font-size="14.781">CS1</text>
+<text transform="matrix(1 0 0 1 172.1895 153.0454)" font-family="'HelveticaNeue'" font-size="14.781">CS2</text>
+<text transform="matrix(1 0 0 1 172.1895 173.8213)" font-family="'HelveticaNeue'" font-size="14.781">CS3</text>
+<text transform="matrix(1 0 0 1 388.0879 226.2944)" font-family="'HelveticaNeue'" font-size="14.781">SDI</text>
+<text transform="matrix(1 0 0 1 388.0879 248.4658)" font-family="'HelveticaNeue'" font-size="14.781">SDO</text>
+<text transform="matrix(1 0 0 1 386.0342 271.0488)" font-family="'HelveticaNeue'" font-size="14.781">SCLK</text>
+<text transform="matrix(1 0 0 1 386.0342 291.9893)" font-family="'HelveticaNeue'" font-size="14.781">CS</text>
+<text transform="matrix(1 0 0 1 388.0879 391.3496)" font-family="'HelveticaNeue'" font-size="14.781">SDI</text>
+<text transform="matrix(1 0 0 1 388.0879 413.5186)" font-family="'HelveticaNeue'" font-size="14.781">SDO</text>
+<text transform="matrix(1 0 0 1 386.0342 436.1035)" font-family="'HelveticaNeue'" font-size="14.781">SCLK</text>
+<text transform="matrix(1 0 0 1 386.0342 457.0439)" font-family="'HelveticaNeue'" font-size="14.781">CS</text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="205.583" y1="125.701" x2="384.599" y2="125.701"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="340.255" y1="222.106" x2="384.599" y2="222.106"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="314.8" y1="242.06" x2="384.599" y2="242.06"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="289.343" y1="262.015" x2="384.599" y2="262.015"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="263.886" y1="281.97" x2="384.599" y2="281.97"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="340.255" y1="389.416" x2="384.599" y2="389.416"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="314.8" y1="409.373" x2="384.599" y2="409.373"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="289.343" y1="429.327" x2="384.599" y2="429.327"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="238.43" y1="449.281" x2="384.599" y2="449.281"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="205.583" y1="145.657" x2="263.886" y2="145.657"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="205.583" y1="165.611" x2="238.438" y2="165.611"/>
+</svg>
