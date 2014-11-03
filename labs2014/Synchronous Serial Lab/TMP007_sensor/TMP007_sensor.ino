@@ -13,9 +13,9 @@ Adafruit_TMP007 tmp007;    // instance of the sensor library
 
 void setup() {
   Serial.begin(9600);
-  boolean gotSensor = tmp007.begin();  // initialize the sensor
+  boolean sensorInitialized = tmp007.begin();  // initialize the sensor
   
-  while (!gotSensor) {    // Do nothing until sensor responds
+  while (!sensorInitialized) {    // Do nothing until sensor responds
     Serial.println("Sensor is not responding");
   }
 }
