@@ -51,9 +51,12 @@
 			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="353.522" y1="88.425" x2="353.522" y2="110.088"/>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 281.334 26.6289)" font-family="'HelveticaNeue'" font-size="16.2343">N</text>
+<text transform="matrix(1 0 0 1 289.2158 49.4551)" font-family="'HelveticaNeue'" font-size="16.2343">N</text>
 <text transform="matrix(1 0 0 1 6.1167 26.6289)" font-family="'HelveticaNeue'" font-size="16.2343">+V</text>
-<text transform="matrix(1 0 0 1 287.3848 155.1089)" font-family="'HelveticaNeue'" font-size="16.2343">S</text>
+<text transform="matrix(1 0 0 1 26.3418 114.1294)" font-family="'HelveticaNeue'" font-size="16.2343">Coil</text>
+<text transform="matrix(1 0 0 1 269.5811 156.0605)"><tspan x="0" y="0" font-family="'HelveticaNeue'" font-size="16.2343">Magnets</tspan><tspan x="-34.879" y="19.481" font-family="'HelveticaNeue'" font-size="16.2343">(on spinning shaft)</tspan></text>
+<text transform="matrix(1 0 0 1 533.3213 126.6289)" font-family="'HelveticaNeue'" font-size="16.2343">Coil</text>
+<text transform="matrix(1 0 0 1 287.3848 131.4634)" font-family="'HelveticaNeue'" font-size="16.2343">S</text>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M69.972,141.308
 	c0,39.805,99.594,72.015,222.672,72.015"/>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M518.364,141.308
@@ -68,7 +71,7 @@
 </g>
 <g>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M352.802,30
-		C346,14.75,333.814,7.516,292.776,7.516c-33.15,0-60.024,10.066-60.024,22.484"/>
+		C346,14.75,336.114,2.328,295.076,2.328c-33.15,0-62.324,15.254-62.324,27.672"/>
 	<g>
 		
 			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="353.522" y1="31" x2="346" y2="26.629"/>

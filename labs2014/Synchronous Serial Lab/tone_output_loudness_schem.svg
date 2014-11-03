@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="509.998px"
+	 height="289.606px" viewBox="-177.817 -0.606 509.998 289.606" enable-background="new -177.817 -0.606 509.998 289.606"
+	 xml:space="preserve">
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="299.994,80.96 
+	252.744,128.211 181.871,128.211 181.871,222.709 252.744,222.709 299.994,269.956 "/>
+<g transform="matrix(1, 0, 0, 1, 16.8489, 30.5173)">
+	<text id="label" transform="matrix(1 0 0 1 171.9096 149.3936)" font-family="'ArialMT'" font-size="13.9451">SPEAKER</text>
+</g>
+<line id="connector0pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="134.62" y1="151.832" x2="181.871" y2="151.832"/>
+<g id="connector0terminal">
+</g>
+<g transform="matrix(1, 0, 0, 1, 16.8489, 22.6609)">
+	<text transform="matrix(1 0 0 1 171.9096 131.4707)" fill="#787878" font-family="'ArialMT'" font-size="11.4842">+</text>
+</g>
+<line id="connector1pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="134.62" y1="199.084" x2="181.871" y2="199.084"/>
+<g id="connector1terminal">
+</g>
+<g transform="matrix(1, 0, 0, 1, 16.8489, 37.0593)">
+	<text transform="matrix(1 0 0 1 171.9096 164.3184)" fill="#787878" font-family="'ArialMT'" font-size="11.4842">-</text>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="252.744" y1="222.709" x2="252.744" y2="128.211"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="-17.213,69.376 40.128,101.916 
+	40.128,135.609 "/>
+<polygon points="-16.867,75.768 -30.819,61.603 -11.654,66.892 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="16.506,129.89 16.506,125.163 
+	7.056,118.078 28.317,106.264 7.056,94.453 28.317,82.642 7.056,70.828 28.317,59.016 7.056,47.205 16.506,40.117 16.506,35.391 "/>
+<g id="connector1terminal_1_">
+</g>
+<line id="connector1pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="40.195" y1="152.368" x2="40.195" y2="129.89"/>
+<line id="connector0pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="16.503" y1="152.368" x2="16.503" y2="129.89"/>
+<g id="connector0terminal_1_">
+</g>
+<line id="connector2pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="16.503" y1="12.916" x2="16.503" y2="36.542"/>
+<g id="connector2terminal">
+</g>
+<g>
+	<g transform="translate(87.8347,74.5975)">
+		<g id="schematic_2_">
+			<path id="connector0pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" d="M46.788,195.028v-23.625"
+				/>
+			<g id="connector0terminal_2_">
+			</g>
+			<path id="path4098" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M24.801,195.475H68.77"/>
+			<path id="path4100" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M32.125,204.481h29.316"/>
+			<path id="path4102" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M54.104,213.402H39.457"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g id="schematic_3_">
+		<rect id="connector0pin_3_" x="-89.272" y="0" fill="none" width="11.814" height="23.625"/>
+		<g id="connector0terminal_3_">
+		</g>
+		<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" points="-77.829,11.814 -89.246,0.394 -176.817,0.394 -176.817,23.231 
+			-89.246,23.231 		"/>
+	</g>
+</g>
+<g>
+	<g id="schematicText">
+		<text id="label_1_" transform="matrix(1 0 0 1 -175.634 17.325)" font-family="'ArialMT'" font-size="15.7498">tone output</text>
+	</g>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="134.62" y1="151.836" x2="40.231" y2="151.788"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="134.62" y1="199.084" x2="158.245" y2="199.084"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="134.62" y1="246.334" x2="134.62" y2="199.084"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="16.503" y1="11.766" x2="-77.422" y2="11.823"/>
+</g>
+<g id="partLabel_1_">
+	<g transform="translate(73.9663,17.2782)">
+		<g id="schematicLabel_1_">
+			<text transform="matrix(1 0 0 1 -22.4753 64.7186)" font-family="'ArialMT'" font-size="16.4061">R1</text>
+			<text transform="matrix(1 0 0 1 -22.4753 81.1249)" font-family="'ArialMT'" font-size="16.4061">10kΩ</text>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1440.5px"
+	 height="623.279px" viewBox="-371.277 3.92 1440.5 623.279" enable-background="new -371.277 3.92 1440.5 623.279"
+	 xml:space="preserve">
+<g>
+	<g transform="translate(244.799,292.682)">
+		<g id="schematic">
+			<path id="connector0pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" d="M-95.577,322.467v-14.853"/>
+			<g id="connector0terminal">
+			</g>
+			<path id="path4098" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-109.399,322.746h27.64"/>
+			<path id="path4100" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-104.796,328.41h18.43"/>
+			<path id="path4102" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-90.978,334.017h-9.207"/>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="15.565" y1="511.403" x2="3.684" y2="517.343"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="11.11" y1="535.165" x2="15.565" y2="541.105"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="15.565" y1="541.105" x2="8.14" y2="541.105"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="8.14" y1="541.105" x2="11.11" y2="535.165"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="9.718" y1="538.181" x2="2.515" y2="534.579"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="9.624" y1="540.362" x2="14.08" y2="540.362"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="14.08" y1="540.362" x2="11.11" y2="536.649"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="11.11" y1="536.649" x2="9.624" y2="539.619"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="9.624" y1="539.619" x2="11.852" y2="539.619"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="11.852" y1="539.619" x2="11.11" y2="538.134"/>
+<rect x="-0.771" y="511.403" width="4.456" height="29.702"/>
+<line id="connector0pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-14.137" y1="526.254" x2="0.714" y2="526.254"/>
+<g id="connector0terminal_1_">
+</g>
+<line id="connector2pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="15.565" y1="555.956" x2="15.565" y2="541.105"/>
+<g id="connector2terminal">
+</g>
+<line id="connector1pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="15.565" y1="496.554" x2="15.565" y2="511.403"/>
+<g id="connector1terminal">
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="565.043" y1="541.105" x2="576.923" y2="547.045"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="569.5" y1="564.865" x2="565.043" y2="570.808"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="565.043" y1="570.808" x2="572.468" y2="570.808"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="572.468" y1="570.808" x2="569.5" y2="564.865"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="570.889" y1="567.883" x2="578.092" y2="564.281"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="570.986" y1="570.064" x2="566.53" y2="570.064"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="566.53" y1="570.064" x2="569.5" y2="566.352"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="569.5" y1="566.352" x2="570.986" y2="569.321"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="570.986" y1="569.321" x2="568.758" y2="569.321"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="568.758" y1="569.321" x2="569.5" y2="567.837"/>
+<rect x="576.923" y="541.105" width="4.456" height="29.702"/>
+<line id="connector0pin_3_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="594.746" y1="555.954" x2="579.893" y2="555.954"/>
+<g id="connector0terminal_3_">
+</g>
+<line id="connector2pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="565.043" y1="585.657" x2="565.043" y2="570.808"/>
+<g id="connector2terminal_1_">
+</g>
+<line id="connector1pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="565.043" y1="526.254" x2="565.043" y2="541.105"/>
+<g id="connector1terminal_1_">
+</g>
+<g>
+	<g transform="translate(324.018,156.786)">
+		<g id="schematic_4_">
+			
+				<line id="connector0pin_4_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="-11.401" y1="176.423" x2="-11.401" y2="191.273"/>
+			<g id="connector0terminal_4_">
+			</g>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-25.324,175.976H2.522"/>
+			<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+				<text id="label" transform="matrix(1 0 0 1 -24.6596 167.7379)" font-family="'ArialMT'" font-size="9.2799">5V</text>
+			</g>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-14.137" y1="466.852" x2="-20.077" y2="464.624"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-20.077" y1="464.624" x2="-8.196" y2="460.909"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-8.196" y1="460.909" x2="-20.077" y2="457.199"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-20.077" y1="457.199" x2="-8.196" y2="453.484"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-8.196" y1="453.484" x2="-20.077" y2="449.772"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-20.077" y1="449.772" x2="-8.196" y2="446.061"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-8.196" y1="446.061" x2="-20.077" y2="442.346"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-20.077" y1="442.346" x2="-8.196" y2="438.636"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="-8.196" y1="438.636" x2="-14.137" y2="437.149"/>
+<line id="connector1pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-14.137" y1="422.298" x2="-14.137" y2="437.149"/>
+<line id="connector0pin_5_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-14.137" y1="481.7" x2="-14.137" y2="466.852"/>
+<g>
+	<g transform="translate(43.2185,99.186)">
+		<g id="schematic_6_">
+			
+				<line id="connector0pin_6_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="-309.781" y1="115.216" x2="-309.781" y2="130.067"/>
+			<g id="connector0terminal_6_">
+			</g>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-323.703,114.77h27.845"/>
+			<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+				<text id="label_1_" transform="matrix(1 0 0 1 -323.0398 106.5332)" font-family="'ArialMT'" font-size="9.2799">5V</text>
+			</g>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="30.416" y1="362.896" x2="36.355" y2="365.123"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="36.355" y1="365.123" x2="24.475" y2="368.835"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="24.475" y1="368.835" x2="36.355" y2="372.548"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="36.355" y1="372.548" x2="24.475" y2="376.262"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="24.475" y1="376.262" x2="36.355" y2="379.975"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="36.355" y1="379.975" x2="24.475" y2="383.687"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="24.475" y1="383.687" x2="36.355" y2="387.4"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="36.355" y1="387.4" x2="24.475" y2="391.111"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="24.475" y1="391.111" x2="30.416" y2="392.598"/>
+<line id="connector1pin_3_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="30.416" y1="407.449" x2="30.416" y2="392.598"/>
+<line id="connector0pin_7_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="30.416" y1="348.046" x2="30.416" y2="362.896"/>
+<g>
+	<g transform="translate(424.799,292.682)">
+		<g id="schematic_8_">
+			<path id="connector0pin_8_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" d="M95.693,322.467v-14.853"
+				/>
+			<g id="connector0terminal_8_">
+			</g>
+			<path id="path4098_2_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M81.871,322.746h27.64"/>
+			<path id="path4100_2_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M86.476,328.41h18.427"/>
+			<path id="path4102_2_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M100.293,334.017h-9.209"/>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="609.595" y1="541.105" x2="603.657" y2="538.878"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="603.657" y1="538.878" x2="615.538" y2="535.163"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="615.538" y1="535.163" x2="603.657" y2="531.453"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="603.657" y1="531.453" x2="615.538" y2="527.738"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="615.538" y1="527.738" x2="603.657" y2="524.026"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="603.657" y1="524.026" x2="615.538" y2="520.314"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="615.538" y1="520.314" x2="603.657" y2="516.6"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="603.657" y1="516.6" x2="615.538" y2="512.89"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="615.538" y1="512.89" x2="609.595" y2="511.403"/>
+<line id="connector1pin_4_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="609.595" y1="496.552" x2="609.595" y2="511.403"/>
+<g id="connector1terminal_4_">
+</g>
+<line id="connector0pin_9_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="609.595" y1="555.954" x2="609.595" y2="541.105"/>
+<g id="connector0terminal_9_">
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="565.043" y1="392.598" x2="559.102" y2="390.37"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="559.102" y1="390.37" x2="570.986" y2="386.655"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="570.986" y1="386.655" x2="559.102" y2="382.945"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="559.102" y1="382.945" x2="570.986" y2="379.23"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="570.986" y1="379.23" x2="559.102" y2="375.519"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="559.102" y1="375.519" x2="570.986" y2="371.807"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="570.986" y1="371.807" x2="559.102" y2="368.092"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="559.102" y1="368.092" x2="570.986" y2="364.382"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="570.986" y1="364.382" x2="565.043" y2="362.896"/>
+<line id="connector1pin_5_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="565.043" y1="348.044" x2="565.043" y2="362.896"/>
+<line id="connector0pin_10_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="565.043" y1="407.446" x2="565.043" y2="392.598"/>
+<g>
+	<g transform="translate(507.463,103.955)">
+		<g id="schematic_11_">
+			<rect id="connector0pin_11_" x="228.342" y="106.299" fill="none" width="7.425" height="14.852"/>
+			<g id="connector0terminal_11_">
+			</g>
+			<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" points="235.533,113.725 228.358,106.547 168.925,106.547 
+				168.925,120.902 228.358,120.902 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(197.863,210.355)">
+		<g id="schematic_12_">
+			<rect id="connector0pin_12_" x="-100.641" y="219.362" fill="none" width="7.424" height="14.849"/>
+			<g id="connector0terminal_12_">
+			</g>
+			<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" points="-93.449,226.786 -100.627,219.607 -160.057,219.607 
+				-160.057,233.965 -100.627,233.965 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(507.214,146.889)">
+		<g id="schematic_13_">
+			<rect id="connector0pin_13_" x="228.591" y="151.922" fill="none" width="7.429" height="14.852"/>
+			<g id="connector0terminal_13_">
+			</g>
+			<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" points="235.786,159.347 228.607,152.17 168.662,152.17 
+				168.662,166.525 228.607,166.525 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(197.614,231.955)">
+		<g id="schematic_14_">
+			<rect id="connector0pin_14_" x="-100.39" y="242.313" fill="none" width="7.424" height="14.852"/>
+			<g id="connector0terminal_14_">
+			</g>
+			<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" points="-93.197,249.737 -100.376,242.561 -160.322,242.561 
+				-160.322,256.916 -100.376,256.916 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(230.418,178.386)">
+		<g id="schematic_16_">
+			
+				<line id="connector0pin_16_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="-110.86" y1="199.375" x2="-110.86" y2="214.225"/>
+			<g id="connector0terminal_16_">
+			</g>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-124.783,198.929h27.845"/>
+			<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+				<text id="label_3_" transform="matrix(1 0 0 1 -124.1201 190.6917)" font-family="'ArialMT'" font-size="9.2799">12V</text>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(166.311,239.155)">
+		<g transform="matrix(-1,0,0,1,0,0)">
+			<g id="schematic_17_">
+				<rect id="connector0pin_17_" x="276.957" y="264.816" fill="none" width="7.426" height="-14.852"/>
+				<g id="connector0terminal_17_">
+				</g>
+				<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" points="284.149,257.389 276.972,250.212 194.08,250.212 
+					194.08,264.568 276.972,264.568 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<rect id="connector0pin_18_" x="609.62" y="414.865" fill="none" width="7.424" height="14.852"/>
+<g id="connector0terminal_18_">
+</g>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" points="609.853,422.29 617.028,415.113 699.922,415.113 
+	699.922,429.469 617.028,429.469 "/>
+<line id="connector0pin_19_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="728.441" y1="362.911" x2="728.441" y2="377.761"/>
+<g id="connector0terminal_19_">
+</g>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M714.518,362.464h27.846"/>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	<text id="label_4_" transform="matrix(1 0 0 1 715.1797 354.2261)" font-family="'HelveticaNeue'" font-size="9.2799">12V</text>
+</g>
+<g id="g3791">
+	<path id="path3019" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M919.357,217.896
+		c6.055,0,10.962,4.907,10.962,10.963c0,6.054-4.907,10.962-10.962,10.962"/>
+	<g transform="matrix(1, 0, 0, 1, 5.33316e-06, 42.5197)">
+		<path id="path3789" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M919.357,197.302
+			c6.055,0,10.962,4.908,10.962,10.963c0,6.054-4.907,10.963-10.962,10.963"/>
+	</g>
+</g>
+<g id="g3795">
+	<path id="path3797" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M919.357,261.747
+		c6.055,0,10.962,4.907,10.962,10.963c0,6.054-4.907,10.962-10.962,10.962"/>
+	<g transform="matrix(1, 0, 0, 1, 5.33316e-06, 42.5197)">
+		<path id="path3799" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M919.357,241.152
+			c6.055,0,10.962,4.908,10.962,10.963s-4.907,10.963-10.962,10.963"/>
+	</g>
+</g>
+<path id="path3801" fill="none" stroke="#000000" stroke-width="2" d="M919.357,217.896h-87.701h-43.851"/>
+<path id="path3803" fill="none" stroke="#000000" stroke-width="2" d="M919.357,305.598h-87.701h-43.851"/>
+<g id="g3805">
+	<path id="path3807" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M963.208,349.448
+		c0-6.056,4.906-10.962,10.962-10.962c6.055,0,10.965,4.906,10.965,10.962"/>
+	<g transform="matrix(1, 0, 0, 1, 5.33316e-06, 42.5197)">
+		<path id="path3809" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M985.134,306.929
+			c0-6.056,4.907-10.962,10.962-10.962s10.962,4.906,10.962,10.962"/>
+	</g>
+</g>
+<g id="g3811">
+	<path id="path3813" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M1007.058,349.448
+		c0-6.056,4.906-10.962,10.962-10.962c6.055,0,10.965,4.906,10.965,10.962"/>
+	<g transform="matrix(1, 0, 0, 1, 5.33316e-06, 42.5197)">
+		<path id="path3815" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M1028.985,306.929
+			c0-6.056,4.907-10.962,10.962-10.962s10.962,4.906,10.962,10.962"/>
+	</g>
+</g>
+<path id="path3825" d="M881.352,393.299c0.008,3.229-2.606,5.852-5.834,5.857c-3.23,0.008-5.854-2.604-5.857-5.834
+	c0-0.008,0-0.016,0-0.023c-0.008-3.229,2.603-5.854,5.834-5.857c3.23-0.009,5.854,2.604,5.857,5.833
+	C881.352,393.282,881.352,393.29,881.352,393.299z"/>
+<path id="path3827" fill="none" stroke="#000000" stroke-width="2" d="M1068.723,261.747c0,34.056-27.607,61.664-61.665,61.664
+	s-61.665-27.608-61.665-61.664c0-34.058,27.607-61.665,61.665-61.665S1068.723,227.689,1068.723,261.747z"/>
+<path id="path3829" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M1049.555,277.214
+	c-8.545,23.469-34.492,35.568-57.963,27.027c-23.466-8.542-35.567-34.491-27.027-57.961c8.541-23.469,34.492-35.57,57.963-27.027
+	c17.862,6.502,29.754,23.483,29.754,42.494"/>
+<path id="path3831" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M1052.463,261.732l3.738-4.453"/>
+<path id="path3833" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M1052.463,261.732l-4.451-3.736"/>
+<path id="path3835" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M963.208,349.448v87.701H831.656
+	h-43.851"/>
+<path id="path3837" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M1050.909,349.448V481H831.656
+	h-43.851"/>
+<path id="path3855" fill="none" stroke="#000000" stroke-width="2" d="M992.443,276.363l2.92-32.156l11.695,11.692l11.694-11.692
+	l2.921,32.156"/>
+<path id="path3859" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+	M954.437,393.299c0.004-4.845,3.933-8.767,8.778-8.763c4.839,0.002,8.758,3.924,8.762,8.763"/>
+<path id="path3865" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M1007.058,349.448v43.851h-35.081"/>
+<path id="path3869" fill="none" stroke="#000000" stroke-width="2" d="M954.437,393.299H831.656h-43.851"/>
+<path id="path3873" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+	M875.506,296.827c4.847,0.004,8.766,3.934,8.762,8.777c0,4.838-3.924,8.759-8.762,8.763"/>
+<path id="path3875" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M919.357,261.747h-43.851v35.08"/>
+<path id="path3879" fill="none" stroke="#000000" stroke-width="2" d="M875.506,314.367v78.932"/>
+<text id="tspan3932" transform="matrix(1 0 0 1 785.229 212.0498)" font-family="'HelveticaNeue'" font-size="14">PINK</text>
+<text id="tspan3936" transform="matrix(1 0 0 1 785.229 299.751)" font-family="'HelveticaNeue'" font-size="14">ORANGE</text>
+<text id="tspan3940" transform="matrix(1 0 0 1 785.229 387.4541)" font-family="'HelveticaNeue'" font-size="14">RED</text>
+<text id="tspan3944" transform="matrix(1 0 0 1 785.229 431.3027)" font-family="'HelveticaNeue'" font-size="14">YELLOW</text>
+<text id="tspan3948" transform="matrix(1 0 0 1 785.229 475.1533)" font-family="'HelveticaNeue'" font-size="14">BLUE</text>
+<rect id="connector4pin" x="781.959" y="212.049" fill="none" width="11.691" height="11.694"/>
+<rect id="connector2pin_2_" x="781.959" y="299.751" fill="none" width="11.691" height="11.692"/>
+<rect id="connector1pin_6_" x="781.959" y="387.453" fill="none" width="11.691" height="11.692"/>
+<rect id="connector3pin" x="781.959" y="431.302" fill="none" width="11.691" height="11.692"/>
+<rect id="connector5pin" x="781.959" y="475.154" fill="none" width="11.691" height="11.692"/>
+<rect x="-339.925" y="274.719" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" width="161.502" height="280.31"/>
+<line id="connector61pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="303.492" x2="-148.516" y2="303.492"/>
+<text transform="matrix(1 0 0 1 -202.3677 304.9375)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D0/RX</text>
+<line id="connector62pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="318.344" x2="-148.516" y2="318.344"/>
+<text transform="matrix(1 0 0 1 -201.564 319.7871)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D1/TX</text>
+<line id="connector63pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="333.192" x2="-148.516" y2="333.192"/>
+<text transform="matrix(1 0 0 1 -190.3335 334.6387)" fill="#8C8C8C" font-family="'ArialMT'" font-size="7.2191">D2</text>
+<line id="connector64pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="348.046" x2="-148.516" y2="348.046"/>
+<text transform="matrix(1 0 0 1 -209.9819 349.4893)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D3 PWM</text>
+<line id="connector65pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="362.896" x2="-148.516" y2="362.896"/>
+<text transform="matrix(1 0 0 1 -190.3335 364.3408)" fill="#8C8C8C" font-family="'ArialMT'" font-size="7.2191">D4</text>
+<line id="connector66pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="377.746" x2="-148.516" y2="377.746"/>
+<text transform="matrix(1 0 0 1 -209.9819 379.1914)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D5 PWM</text>
+<line id="connector67pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="392.598" x2="-148.516" y2="392.598"/>
+<text transform="matrix(1 0 0 1 -209.9819 394.041)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D6 PWM</text>
+<line id="connector68pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="407.446" x2="-148.516" y2="407.446"/>
+<text transform="matrix(1 0 0 1 -190.3335 408.8926)" fill="#8C8C8C" font-family="'ArialMT'" font-size="7.2191">D7</text>
+<line id="connector51pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="422.3" x2="-148.516" y2="422.3"/>
+<text transform="matrix(1 0 0 1 -190.3335 423.7432)" fill="#8C8C8C" font-family="'ArialMT'" font-size="7.2191">D8</text>
+<line id="connector52pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="437.149" x2="-148.516" y2="437.149"/>
+<text transform="matrix(1 0 0 1 -209.9819 438.5947)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D9 PWM</text>
+<line id="connector53pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="452" x2="-148.516" y2="452"/>
+<text transform="matrix(1 0 0 1 -225.6323 453.4453)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D10 PWM/SS</text>
+<line id="connector54pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="466.852" x2="-148.516" y2="466.852"/>
+<text transform="matrix(1 0 0 1 -233.9165 468.2969)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D11 PWM/MOSI</text>
+<line id="connector55pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="481.7" x2="-148.516" y2="481.7"/>
+<text transform="matrix(1 0 0 1 -214.8042 483.1455)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D12/MISO</text>
+<line id="connector41pin" fill="none" x1="-178.217" y1="496.554" x2="-148.516" y2="496.554"/>
+<rect id="connector41terminal" x="-148.516" y="495.831" fill="none" width="1.444" height="1.443"/>
+<line id="connector56pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-178.217" y1="496.554" x2="-148.516" y2="496.554"/>
+<text transform="matrix(1 0 0 1 -211.1987 497.9971)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">D13/SCK</text>
+<line id="connector43pin" fill="none" x1="-369.833" y1="303.492" x2="-340.132" y2="303.492"/>
+<rect id="connector43terminal" x="-371.277" y="302.771" fill="none" width="1.444" height="1.443"/>
+<line id="connector85pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="303.492" x2="-340.132" y2="303.492"/>
+<text transform="matrix(1 0 0 1 -337.2456 304.9375)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">RESET</text>
+<line id="connector49pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="318.344" x2="-340.132" y2="318.344"/>
+<text transform="matrix(1 0 0 1 -337.2456 319.7871)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">RESET2</text>
+<rect id="connector49terminal" x="-371.277" y="317.62" fill="none" width="1.444" height="1.444"/>
+<line id="connector58pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="333.192" x2="-340.132" y2="333.192"/>
+<text transform="matrix(1 0 0 1 -337.2456 334.6387)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">AREF</text>
+<line id="connector84pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="348.046" x2="-340.132" y2="348.046"/>
+<text transform="matrix(1 0 0 1 -337.2456 349.4893)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">ioref</text>
+<line id="connector0pin_20_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="377.746" x2="-340.132" y2="377.746"/>
+<text transform="matrix(1 0 0 1 -337.2456 379.1914)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">A0</text>
+<line id="connector1pin_7_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="392.598" x2="-340.132" y2="392.598"/>
+<text transform="matrix(1 0 0 1 -337.2456 394.041)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">A1</text>
+<line id="connector2pin_3_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="407.446" x2="-340.132" y2="407.446"/>
+<text transform="matrix(1 0 0 1 -337.2456 408.8926)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">A2</text>
+<line id="connector3pin_1_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="422.3" x2="-340.132" y2="422.3"/>
+<text transform="matrix(1 0 0 1 -337.2456 423.7432)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">A3</text>
+<line id="connector48pin" fill="none" x1="-369.833" y1="437.149" x2="-340.132" y2="437.149"/>
+<rect id="connector48terminal" x="-371.277" y="436.428" fill="none" width="1.444" height="1.442"/>
+<line id="connector45pin" fill="none" x1="-369.833" y1="437.149" x2="-340.132" y2="437.149"/>
+<rect id="connector45terminal" x="-371.277" y="436.428" fill="none" width="1.444" height="1.442"/>
+<line id="connector4pin_1_" fill="none" x1="-369.833" y1="437.149" x2="-340.132" y2="437.149"/>
+<line id="connector39pin" fill="none" x1="-369.833" y1="437.149" x2="-340.132" y2="437.149"/>
+<rect id="connector39terminal" x="-371.277" y="436.428" fill="none" width="1.444" height="1.442"/>
+<line id="connector47pin" fill="none" x1="-369.833" y1="437.149" x2="-340.132" y2="437.149"/>
+<rect id="connector47terminal" x="-371.277" y="436.428" fill="none" width="1.444" height="1.442"/>
+<line id="connector42pin" fill="none" x1="-369.833" y1="437.149" x2="-340.132" y2="437.149"/>
+<rect id="connector42terminal" x="-371.277" y="436.428" fill="none" width="1.444" height="1.442"/>
+<line id="connector59pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="437.149" x2="-340.132" y2="437.149"/>
+<text transform="matrix(1 0 0 1 -337.2456 438.5947)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">A4/SDA</text>
+<line id="connector5pin_1_" fill="none" x1="-369.833" y1="452" x2="-340.132" y2="452"/>
+<line id="connector60pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="452" x2="-340.132" y2="452"/>
+<text transform="matrix(1 0 0 1 -337.2456 453.4453)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">A5/SCL</text>
+<line id="connector91pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-369.833" y1="526.254" x2="-340.132" y2="526.254"/>
+<text transform="matrix(1 0 0 1 -337.2456 527.6992)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">N/C</text>
+<line id="connector88pin" fill="none" x1="-251.749" y1="555.233" x2="-251.749" y2="584.936"/>
+<line id="connector57pin" fill="none" x1="-251.749" y1="555.233" x2="-251.749" y2="584.936"/>
+<line id="connector44pin" fill="none" x1="-251.749" y1="555.233" x2="-251.749" y2="584.936"/>
+<rect id="connector44terminal" x="-252.471" y="584.936" fill="none" width="1.443" height="1.442"/>
+<line id="connector50pin" fill="none" x1="-251.749" y1="555.233" x2="-251.749" y2="584.936"/>
+<rect id="connector50terminal" x="-252.471" y="584.936" fill="none" width="1.443" height="1.442"/>
+<line id="connector89pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-251.749" y1="555.233" x2="-251.749" y2="584.936"/>
+<g>
+	
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 -250.3052 552.3457)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">GND</text>
+</g>
+<line id="connector86pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-296.301" y1="244.811" x2="-296.301" y2="274.514"/>
+<g>
+	
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 -294.8569 290.2441)" fill="#8C8C8C" font-family="'ArialMT'" font-size="7.2191">3V3</text>
+</g>
+<line id="connector40pin" fill="none" x1="-266.6" y1="244.811" x2="-266.6" y2="274.514"/>
+<rect id="connector40terminal" x="-267.322" y="243.368" fill="none" width="1.444" height="1.442"/>
+<line id="connector46pin" fill="none" x1="-266.6" y1="244.811" x2="-266.6" y2="274.514"/>
+<rect id="connector46terminal" x="-267.322" y="243.368" fill="none" width="1.444" height="1.442"/>
+<line id="connector87pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-266.6" y1="244.811" x2="-266.6" y2="274.514"/>
+<g>
+	
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 -265.1567 286.2324)" fill="#8C8C8C" font-family="'ArialMT'" font-size="7.2191">5V</text>
+</g>
+<line id="connector90pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="-236.899" y1="244.811" x2="-236.899" y2="274.514"/>
+<g>
+	
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 -235.4546 289.4355)" fill="#8C8C8C" font-family="'ArialMT'" font-size="7.2191">VIN</text>
+</g>
+<text id="label_5_" transform="matrix(1 0 0 1 -273.355 401.7754)" font-family="'ArialMT'" font-size="8.7661">Arduino</text>
+<text id="label_6_" transform="matrix(1 0 0 1 -266.2876 411.1279)" font-family="'ArialMT'" font-size="8.7661">Uno</text>
+<text id="label_7_" transform="matrix(1 0 0 1 -271.3979 420.4785)" font-family="'ArialMT'" font-size="8.7661">(Rev3)</text>
+<rect x="194.702" y="393.524" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" width="250.606" height="131.801"/>
+<line id="connector15pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="445.517" y1="407.446" x2="475.215" y2="407.446"/>
+<text transform="matrix(1 0 0 1 432.7661 408.8926)" fill="#8C8C8C" font-family="'ArialMT'" font-size="7.2191">+V</text>
+<line id="connector14pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="445.517" y1="422.3" x2="475.215" y2="422.3"/>
+<text transform="matrix(1 0 0 1 429.8931 423.7432)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">In 4</text>
+<line id="connector13pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="445.517" y1="437.149" x2="475.215" y2="437.149"/>
+<text transform="matrix(1 0 0 1 340.7036 438.5947)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">Out 4 ( Controlled by Enable 2 )</text>
+<line id="connector12pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="445.517" y1="452" x2="475.215" y2="452"/>
+<text transform="matrix(1 0 0 1 426.0239 453.4453)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">GND</text>
+<line id="connector11pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="445.517" y1="466.852" x2="475.215" y2="466.852"/>
+<text transform="matrix(1 0 0 1 426.0239 468.2949)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">GND</text>
+<line id="connector10pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="445.517" y1="481.7" x2="475.215" y2="481.7"/>
+<text transform="matrix(1 0 0 1 340.7036 483.1455)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">Out 3 ( Controlled by Enable 2 )</text>
+<line id="connector9pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="445.517" y1="496.554" x2="475.215" y2="496.554"/>
+<text transform="matrix(1 0 0 1 429.8931 497.9971)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">In 3</text>
+<line id="connector8pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="445.517" y1="511.403" x2="475.215" y2="511.403"/>
+<text transform="matrix(1 0 0 1 413.7153 512.8486)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">Enable 2</text>
+<line id="connector0pin_21_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="164.794" y1="407.446" x2="194.497" y2="407.446"/>
+<text transform="matrix(1 0 0 1 197.3833 408.8926)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">Enable 1</text>
+<line id="connector1pin_8_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="164.794" y1="422.3" x2="194.497" y2="422.3"/>
+<text transform="matrix(1 0 0 1 197.3833 423.7432)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">In 1</text>
+<line id="connector2pin_4_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="164.794" y1="437.149" x2="194.497" y2="437.149"/>
+<text transform="matrix(1 0 0 1 197.3833 438.5947)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">Out 1 ( Controlled by Enable 1 )</text>
+<line id="connector3pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="164.794" y1="452" x2="194.497" y2="452"/>
+<text transform="matrix(1 0 0 1 197.3833 453.4453)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">GND</text>
+<line id="connector4pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="164.794" y1="466.852" x2="194.497" y2="466.852"/>
+<text transform="matrix(1 0 0 1 197.3833 468.2949)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">GND</text>
+<line id="connector5pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="164.794" y1="481.7" x2="194.497" y2="481.7"/>
+<text transform="matrix(1 0 0 1 197.3833 483.1455)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">Out 2 ( Controlled by Enable 1 )</text>
+<line id="connector6pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="164.794" y1="496.554" x2="194.497" y2="496.554"/>
+<text transform="matrix(1 0 0 1 197.3833 497.9971)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">In 2</text>
+<line id="connector7pin" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" x1="164.794" y1="511.403" x2="194.497" y2="511.403"/>
+<text transform="matrix(1 0 0 1 197.3833 512.8486)" fill="#8C8C8C" font-family="'HelveticaNeue'" font-size="7.2191">+Vmotor</text>
+<text id="label_8_" transform="matrix(1 0 0 1 308.0166 455.6797)" font-family="'HelveticaNeue'" font-size="8.7661">L293D</text>
+<g>
+	<g transform="translate(507.463,103.955)">
+		<g id="schematicText">
+			<text id="label_9_" transform="matrix(1 0 0 1 169.6674 117.1915)" font-family="'HelveticaNeue'" font-size="9.9005">Motor wire B</text>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(197.863,210.355)">
+		<g id="schematicText_1_">
+			<text id="label_10_" transform="matrix(1 0 0 1 -159.3156 230.2515)" font-family="'HelveticaNeue'" font-size="9.9005">Motor wire B</text>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(507.214,146.889)">
+		<g id="schematicText_2_">
+			<text id="label_11_" transform="matrix(1 0 0 1 169.4037 162.8122)" font-family="'HelveticaNeue'" font-size="9.9005">Motor wire D</text>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(197.614,231.955)">
+		<g id="schematicText_3_">
+			<text id="label_12_" transform="matrix(1 0 0 1 -159.5803 253.2051)" font-family="'HelveticaNeue'" font-size="9.9005">Motor wire D</text>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(122.403,239.155)">
+		<g id="schematicText_4_">
+			<text id="label_13_" transform="matrix(1 0 0 1 -234.5002 260.8567)" font-family="'HelveticaNeue'" font-size="9.9005">H-bridge control 2</text>
+		</g>
+	</g>
+</g>
+<text id="label_14_" transform="matrix(1 0 0 1 614.5933 425.7578)" font-family="'HelveticaNeue'" font-size="9.9005">H-bridge control 2</text>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="15.565" y1="585.657" x2="-251.749" y2="585.657"/>
+</g>
+<circle cx="15.565" cy="585.657" r="2.969"/>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="149.222" y1="585.657" x2="15.565" y2="585.657"/>
+</g>
+<circle cx="149.222" cy="585.657" r="2.969"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="149.222" y1="466.852" x2="149.222" y2="585.657"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="164.073" y1="466.852" x2="149.222" y2="466.852"/>
+</g>
+<circle cx="149.222" cy="466.851" r="2.97"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="149.222" y1="585.657" x2="149.222" y2="600.508"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="149.222" y1="452" x2="164.073" y2="452"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="149.222" y1="466.852" x2="149.222" y2="452"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="-266.6" y1="244.09" x2="-266.6" y2="229.238"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="164.073" y1="346.946" x2="312.581" y2="348.046"/>
+</g>
+<circle cx="164.073" cy="346.945" r="2.97"/>
+<circle cx="312.581" cy="348.045" r="2.97"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="164.073" y1="407.446" x2="164.073" y2="346.946"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="490.79" y1="347.494" x2="312.581" y2="348.046"/>
+</g>
+<circle cx="312.581" cy="348.045" r="2.97"/>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="490.79" y1="407.446" x2="490.79" y2="347.494"/>
+</g>
+<circle cx="490.79" cy="407.448" r="2.97"/>
+<circle cx="490.79" cy="347.494" r="2.969"/>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="475.941" y1="407.446" x2="490.79" y2="407.446"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="520.492" y1="466.852" x2="520.492" y2="600.508"/>
+</g>
+<circle cx="520.492" cy="466.851" r="2.97"/>
+<circle cx="520.492" cy="600.508" r="2.971"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="475.941" y1="466.852" x2="520.492" y2="466.852"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="520.492" y1="452" x2="475.941" y2="452"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="520.492" y1="466.852" x2="520.492" y2="452"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="119.521" y1="511.403" x2="119.521" y2="392.598"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="164.073" y1="511.403" x2="119.521" y2="511.403"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="30.416" y1="496.554" x2="15.565" y2="496.554"/>
+</g>
+<circle cx="30.416" cy="496.553" r="2.97"/>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="164.073" y1="496.554" x2="30.416" y2="496.554"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="15.565" y1="585.657" x2="15.565" y2="555.954"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="-14.137" y1="422.3" x2="164.073" y2="422.3"/>
+</g>
+<circle cx="-14.137" cy="422.299" r="2.97"/>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="-14.137" y1="422.3" x2="-147.793" y2="422.3"/>
+</g>
+<circle cx="-14.137" cy="422.299" r="2.97"/>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="-14.137" y1="526.254" x2="-14.137" y2="481.7"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="30.416" y1="346.946" x2="164.073" y2="346.946"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="30.416" y1="348.046" x2="30.416" y2="346.946"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="30.416" y1="407.446" x2="30.416" y2="496.554"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="104.669" y1="437.149" x2="164.073" y2="437.149"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="104.669" y1="437.149" x2="104.669" y2="437.149"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="104.669" y1="481.7" x2="164.073" y2="481.7"/>
+</g>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="565.043" y1="347.494" x2="490.79" y2="347.494"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="565.043" y1="348.046" x2="565.043" y2="347.494"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="565.043" y1="496.554" x2="475.941" y2="496.554"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="565.043" y1="526.254" x2="565.043" y2="496.554"/>
+<circle cx="565.043" cy="496.553" r="2.97"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="565.043" y1="600.508" x2="565.043" y2="585.657"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="520.492" y1="600.508" x2="565.043" y2="600.508"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="520.492" y1="600.508" x2="520.492" y2="600.508"/>
+</g>
+<circle cx="520.492" cy="600.508" r="2.971"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="609.595" y1="496.554" x2="609.595" y2="422.3"/>
+<circle cx="609.595" cy="422.299" r="2.97"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="-117.917" y1="436.716" x2="-118.092" y2="496.554"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="-147.793" y1="437.149" x2="-117.917" y2="436.716"/>
+</g>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="609.595" y1="422.3" x2="475.941" y2="422.3"/>
+<circle cx="609.595" cy="422.299" r="2.97"/>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="490.79" y1="511.403" x2="475.941" y2="511.403"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="490.79" y1="407.446" x2="490.79" y2="511.403"/>
+</g>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="609.595" y1="555.954" x2="594.746" y2="555.954"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="565.043" y1="496.554" x2="565.043" y2="407.446"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="728.401" y1="393.299" x2="787.805" y2="393.299"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="728.401" y1="377.746" x2="728.401" y2="393.299"/>
+</g>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="787.805" y1="437.149" x2="475.941" y2="437.149"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="787.805" y1="481" x2="475.941" y2="481.7"/>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="787.805" y1="305.599" x2="743.253" y2="306.242"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="787.805" y1="217.896" x2="743.253" y2="217.688"/>
+</g>
+<g id="partLabel">
+	<g transform="translate(280.266,185.959)">
+		<g id="schematicLabel">
+			<text transform="matrix(1 0 0 1 -72.743 201.1729)" font-family="'HelveticaNeue'" font-size="10.313">H-Bridge</text>
+		</g>
+	</g>
+</g>
+<g id="partLabel_2_">
+	<g transform="translate(108,114.759)">
+		<g id="schematicLabel_2_">
+			<text transform="matrix(1 0 0 1 -323.2944 151.0144)" font-family="'HelveticaNeue'" font-size="10.313">Arduino</text>
+		</g>
+	</g>
+</g>
+<g id="partLabel_3_">
+	<g transform="translate(189.15,254.009)">
+		<g id="schematicLabel_3_">
+			<text transform="matrix(1 0 0 1 -169.5636 273.4832)" font-family="'HelveticaNeue'" font-size="10.313">Q1</text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 547.2017 560.4941)" font-family="'HelveticaNeue'" font-size="10.313">Q2</text>
+<g id="partLabel_5_">
+	<g transform="translate(155.837,215.742)">
+		<g id="schematicLabel_5_">
+			<text transform="matrix(1 0 0 1 -204.9625 232.8215)" font-family="'HelveticaNeue'" font-size="10.313">R1</text>
+			<text transform="matrix(1 0 0 1 -204.9625 243.134)" font-family="'HelveticaNeue'" font-size="10.313">1kΩ</text>
+		</g>
+	</g>
+</g>
+<g id="partLabel_6_">
+	<g transform="translate(175.63,178.309)">
+		<g id="schematicLabel_6_">
+			<text transform="matrix(1 0 0 1 -183.9303 193.0455)" font-family="'ArialMT'" font-size="10.313">R2</text>
+			<text transform="matrix(1 0 0 1 -183.9303 203.358)" font-family="'ArialMT'" font-size="10.313">10kΩ</text>
+		</g>
+	</g>
+</g>
+<g id="partLabel_7_">
+	<g transform="translate(480.104,250.409)">
+		<g id="schematicLabel_7_">
+			<text transform="matrix(1 0 0 1 139.6055 269.6584)" font-family="'HelveticaNeue'" font-size="10.313">R3</text>
+			<text transform="matrix(1 0 0 1 139.6055 279.9719)" font-family="'HelveticaNeue'" font-size="10.313">1kΩ</text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 575.3208 383.6172)" font-family="'ArialMT'" font-size="10.313">R4</text>
+<text transform="matrix(1 0 0 1 575.3208 393.9297)" font-family="'ArialMT'" font-size="10.313">10kΩ</text>
+<g id="partLabel_9_">
+	<g transform="translate(661.146,78.3364)">
+		<g id="schematicLabel_9_">
+			<text transform="matrix(1 0 0 1 331.9824 86.814)" font-family="'HelveticaNeue'" font-size="10.313">MOTOR1</text>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(273.599,127.083)">
+		<g id="schematic_2_">
+			<path id="connector0pin_15_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" d="M-90.552,143.866v-17.988
+				"/>
+			<g id="connector0terminal_2_">
+			</g>
+			<path id="path4098_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-107.293,144.206h33.479"/>
+			<path id="path4100_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-101.715,151.063h22.321"/>
+			<path id="path4102_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-84.979,157.856h-11.153"/>
+		</g>
+	</g>
+</g>
+<line id="connector0pin_2_" fill="none" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="-14.777" y1="235.242" x2="-14.777" y2="253.23"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M-31.643,234.703H2.086"/>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	<text id="label_17_" transform="matrix(1 0 0 1 -30.5215 225.7759)" font-family="'HelveticaNeue'" font-size="11.2405">12V</text>
+</g>
+<g>
+	
+		<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="183.047" y1="253.213" x2="146.224" y2="253.213"/>
+</g>
+<g>
+	<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="93.107" y1="253.213" x2="-14.824" y2="253.213"/>
+</g>
+<g id="partLabel_1_">
+	<g transform="translate(222.639,4.45984)">
+		<g id="schematicLabel_1_">
+			<text transform="matrix(1 0 0 1 -156.1258 69.2457)" font-family="'HelveticaNeue'" font-size="12.4919">12V Power supply</text>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="93.107" y1="253.213" x2="93.107" y2="236.096"/>
+<line fill="none" stroke="#404040" stroke-width="2" stroke-linecap="round" x1="146.224" y1="253.213" x2="146.224" y2="236.926"/>
+<rect x="74.672" y="81.083" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="87.025" height="155.013"/>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	<text id="label_2_" transform="matrix(1 0 0 1 78.5786 151.6567)" font-family="'HelveticaNeue'" font-size="11.2405">DC Barrel Jack</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	
+		<text id="label_15_" transform="matrix(4.489659e-11 -1 1 4.489659e-11 147.0689 227.9556)" font-family="'HelveticaNeue'" font-size="11.2405">Neg</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+	
+		<text id="label_16_" transform="matrix(4.489659e-11 -1 1 4.489659e-11 95.0181 227.7466)" font-family="'HelveticaNeue'" font-size="11.2405">Pos</text>
+</g>
+</svg>

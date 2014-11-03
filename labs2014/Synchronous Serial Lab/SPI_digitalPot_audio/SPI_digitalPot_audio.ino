@@ -9,13 +9,11 @@
 */
 
 
-// inslude the SPI library:
+// include the SPI library:
 #include <SPI.h>
 
 
 const int CSPin = 10;   // chip select pin number
-int changeValue = 1;    // how much to change the pot each time
-int potValue = 150;     //  pot value
 
 void setup() {
   // initialize SPI:
@@ -23,17 +21,23 @@ void setup() {
 }
 
 void loop() {
-  tone(9, 440);
-  for (int loudness = 0; loudness <= 255; loudness++) {
+  tone(9, 440);    // play a tone on pin 9
+
+  // fade the loudness up:
+  for (int loudness = 100; loudness <= 255; loudness++) {
     digitalPotWrite(4, loudness);
     delay(20);
   }
-  delay(1000);
-  for (int loudness = 255; loudness >= 0; loudness--) {
+
+  delay(1000);    // delay 1 second
+
+  // fade the loudness down:
+  for (int loudness = 255; loudness >= 100; loudness--) {
     digitalPotWrite(4, loudness);
     delay(20);
   }
-delay(1000);
+
+  delay(1000);    // delay 1 second
 }
 
 void digitalPotWrite(int address, int value) {
