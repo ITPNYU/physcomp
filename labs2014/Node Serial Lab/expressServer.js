@@ -2,6 +2,11 @@
 Express Serial Server
 using serialport.js and express.js
 
+To call this type the following on the command line:
+node server.js portName
+
+where portname is the name of your serial port, e.g. /dev/tty.usbserial-xxxx (on OSX)
+
 created 19 Sept 2014
 modified 17 Mar 2015
 by Tom Igoe
