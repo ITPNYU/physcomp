@@ -14,17 +14,17 @@ by Tom Igoe
 
 // include the various libraries that you'll use:
 var serialport = require('serialport'), // include the serialportlibrary
-  express = require('express'),			    // include express.js
-  app = express();								      // a local instance of it
+express = require('express'),           // include express.js
+app = express();                        // a local instance of it
 
 // configure the serial port:
 SerialPort = serialport.SerialPort,     // make a local instance of serialport
-  portName = process.argv[2],           // get serial port name from the command line
-  serialOptions = {                     // serial communication options
-    baudRate: 9600,                     // data rate: 9600 bits per second
-    parser: serialport.parsers.readline('\r\n') // return and newline generate data event
-  };
-var serialData = 0;  				            // variable to save latest data from serial port
+portName = process.argv[2],             // get serial port name from the command line
+serialOptions = {                       // serial communication options
+  baudRate: 9600,                       // data rate: 9600 bits per second
+  parser: serialport.parsers.readline('\r\n') // return and newline generate data event
+};
+var serialData = 0;                     // variable to save latest data from serial port
 
 // open the serial port:
 var myPort = new SerialPort(portName, serialOptions);
@@ -40,7 +40,7 @@ app.use(express.static('public'));
 // start the server:
 var server = app.listen(8080);
 // start the listener for client requests:
-app.get('/data', sendData);				// handler for /date
+app.get('/data', sendData);        // handler for /date
 
 // ------------------------ Serial event functions:
 // this is called when the serial port is opened:
@@ -62,6 +62,6 @@ function showError(error) {
 // ------------------------ Server event functions
 // respond to the client request with the latest serial data:
 function sendData(request, response) {
-    response.send(serialData);
-    response.end();
+  response.send(serialData);
+  response.end();
 };

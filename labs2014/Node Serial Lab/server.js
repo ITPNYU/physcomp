@@ -16,24 +16,24 @@ by Tom Igoe
 
 // include the various libraries that you'll use:
 var serialport = require('serialport'), // include the serialportlibrary
-  fs = require('fs'),                   // include the filesystem library
-  http = require('http');							  // require HTTP library
+fs = require('fs'),                     // include the filesystem library
+http = require('http');                 // require HTTP library
 
 // configure the serial port:
 SerialPort = serialport.SerialPort,     // make a local instance of serialport
-  portName = process.argv[2],           // get serial port name from the command line
-  serialOptions = {                     // serial communication options
-    baudRate: 9600,                     // data rate: 9600 bits per second
-    parser: serialport.parsers.readline('\r\n') // return and newline generate data event
-  };
-var serialData = 0;  				            // variable to save latest data from serial port
+portName = process.argv[2],             // get serial port name from the command line
+serialOptions = {                       // serial communication options
+  baudRate: 9600,                       // data rate: 9600 bits per second
+  parser: serialport.parsers.readline('\r\n') // return and newline generate data event
+};
+var serialData = 0;                     // variable to save latest data from serial port
 
 // open the serial port:
 var myPort = new SerialPort(portName, serialOptions);
 
 // set up and start the server:
-var server = http.createServer();	      // create a server
-server.listen(8080);				            // start the server listening
+var server = http.createServer();       // create a server
+server.listen(8080);                    // start the server listening
 server.on('request', respondToClient);  // set up an event listener for server event requests
 
 // set up event listeners for the serial events:
