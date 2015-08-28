@@ -13,8 +13,8 @@ by Tom Igoe
 */
 
 // include the various libraries that you'll use:
-var serialport = require('serialport'),   // include the serialport library
-WebSocketServer = require('ws').Server; // include the webSocket library
+var serialport = require('serialport'),       // include the serialport library
+    WebSocketServer = require('ws').Server;   // include the webSocket library
 
 // configure the webSocket server:
 var SERVER_PORT = 8081;                 // port number for the webSocket server
@@ -22,12 +22,12 @@ var wss = new WebSocketServer({port: SERVER_PORT}); // the webSocket server
 var connections = new Array;            // list of connections to the server
 
 // configure the serial port:
-SerialPort = serialport.SerialPort,     // make a local instance of serialport
-portName = process.argv[2],             // get serial port name from the command line
-serialOptions = {                       // serial communication options
-  baudRate: 9600,                       // data rate: 9600 bits per second
-  parser: serialport.parsers.readline('\n') // newline generates a data event
-};
+SerialPort = serialport.SerialPort,             // make a local instance of serialport
+    portName = process.argv[2],                 // get serial port name from the command line
+    serialOptions = {                           // serial communication options
+      baudRate: 9600,                           // data rate: 9600 bits per second
+      parser: serialport.parsers.readline('\n') // newline generates a data event
+    };
 
 // open the serial port:
 if (typeof portName === "undefined") {
