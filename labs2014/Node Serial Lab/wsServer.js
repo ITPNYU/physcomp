@@ -13,8 +13,8 @@ by Tom Igoe
 */
 
 // include the various libraries that you'll use:
-var serialport = require('serialport'),       // include the serialport library
-    WebSocketServer = require('ws').Server;   // include the webSocket library
+var serialport = require('serialport');       // include the serialport library
+var WebSocketServer = require('ws').Server;   // include the webSocket library
 
 // configure the webSocket server:
 var SERVER_PORT = 8081;                 // port number for the webSocket server
@@ -29,18 +29,20 @@ SerialPort = serialport.SerialPort,             // make a local instance of seri
       parser: serialport.parsers.readline('\n') // newline generates a data event
     };
 
-// open the serial port:
+// If the user didn't give a serial port name, exit the program:
 if (typeof portName === "undefined") {
   console.log("You need to specify the serial port when you launch this script, like so:\n");
   console.log("    node wsServer.js <portname>");
   console.log("\n Fill in the name of your serial port in place of <portname> \n");
   process.exit(1);
 }
+// open the serial port:
 var myPort = new SerialPort(portName, serialOptions);
 
 // set up event listeners for the serial events:
 myPort.on('open', showPortOpen);
 myPort.on('data', sendSerialData);
+myPort.on('close', showPortClose);
 myPort.on('error', showError);
 
 // ------------------------ Serial event functions:
@@ -58,6 +60,9 @@ function sendSerialData(data) {
   }
 }
 
+function showPortClose() {
+   console.log('port closed.');
+}
 // this is called when the serial port has an error:
 function showError(error) {
   console.log('Serial port error: ' + error);
