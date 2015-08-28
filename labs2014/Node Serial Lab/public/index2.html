@@ -6,7 +6,7 @@
     <script type="text/javascript">
     var text;		// variable for the text div you'll create
     var socket = new WebSocket("ws://localhost:8081");
-
+    var xPos = 0;
     // The socket connection needs two event handlers:
     socket.onopen = openSocket;
     socket.onmessage = showData;
@@ -21,6 +21,9 @@
      text.html("Socket open");
       socket.send("Hello server");
     }
+    function draw() {
+
+    }
     /*
     	showData(), below, will get called whenever there is new Data
       from the server. So there's no need for a draw() function:
@@ -28,7 +31,8 @@
     function showData(result) {
        // when the server returns, show the result in the div:
 	    text.html("Sensor reading:" + result.data);
-	    text.position(result.data, 10);
+      xPos = int(result.data);        // convert result to an integer
+      text.position(xPos, 10);        // position the text
     }
     </script>
     </head>
