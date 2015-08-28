@@ -3,3 +3,5 @@ labs2014/howto_make_lab_illustrations.mov
 labs2014/Node\ Serial\ Lab/node_modules/*
 videos_code_samples/NodeSerialLesson/node_modules/*
 *.logicdata
+
+*.mov
