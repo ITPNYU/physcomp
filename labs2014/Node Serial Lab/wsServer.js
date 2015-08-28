@@ -1,6 +1,5 @@
 /*
-
-Simple Serial-to-websocket Server
+Serial-to-websocket Server
 using serialport.js
 
 To call this type the following on the command line:
@@ -15,7 +14,7 @@ by Tom Igoe
 
 // include the various libraries that you'll use:
 var serialport = require('serialport'),   // include the serialport library
-  WebSocketServer = require('ws').Server; // include the webSocket library
+WebSocketServer = require('ws').Server; // include the webSocket library
 
 // configure the webSocket server:
 var SERVER_PORT = 8081;                 // port number for the webSocket server
