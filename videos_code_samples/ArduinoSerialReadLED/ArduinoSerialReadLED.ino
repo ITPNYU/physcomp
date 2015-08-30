@@ -15,11 +15,7 @@ void loop() {
   // put your main code here, to run repeatedly:
   if (Serial.available() > 0) {
     char input = Serial.read();
-    if (input == 'H') {
-     digitalWrite(11, HIGH); 
-    }
-    if (input == 'L') {
-     digitalWrite(11, LOW); 
-    }
+    // use the value of the incoming byte to control the LED's brightness:
+    analogWrite(11, input);
   }
 }

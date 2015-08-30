@@ -8,18 +8,15 @@
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
+  Serial.setTimeout(10);
   pinMode(11, OUTPUT);
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
   if (Serial.available() > 0) {
-    char input = Serial.read();
-    if (input == 'H') {
-     digitalWrite(11, HIGH); 
-    }
-    if (input == 'L') {
-     digitalWrite(11, LOW); 
-    }
+    char input = Serial.parseInt();
+    // use the value of the incoming byte to control the LED's brightness:
+    analogWrite(11, input);
   }
 }
