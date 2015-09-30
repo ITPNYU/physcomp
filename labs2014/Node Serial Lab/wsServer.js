@@ -24,10 +24,16 @@ var connections = new Array;            // list of connections to the server
 // configure the serial port:
 SerialPort = serialport.SerialPort,             // make a local instance of serialport
     portName = process.argv[2],                 // get serial port name from the command line
-    serialOptions = {                           // serial communication options
+    delimiter = process.argv[3];                // serial parser to use, from command line
+var serialOptions = {                           // serial communication options
       baudRate: 9600,                           // data rate: 9600 bits per second
-      parser: serialport.parsers.readline('\n') // newline generates a data event
+      parser: delimiter // newline generates a data event
     };
+
+// if the delimiter is n, use readline as the parser:
+if (delimiter === 'n' ) {
+  serialOptions.parser = serialport.parsers.readline('\n');
+}
 
 // If the user didn't give a serial port name, exit the program:
 if (typeof portName === "undefined") {
@@ -91,6 +97,6 @@ function handleConnection(client) {
 // This function broadcasts messages to all webSocket clients
 function broadcast(data) {
   for (c in connections) {     // iterate over the array of connections
-    connections[c].send(data); // send the data to each connection
+    connections[c].send(JSON.stringify(data)); // send the data to each connection
   }
 }
