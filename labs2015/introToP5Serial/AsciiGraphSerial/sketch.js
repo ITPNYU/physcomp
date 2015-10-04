@@ -40,9 +40,11 @@ function portOpen() {
 }
 
 function serialEvent() {
-  // read a byte from the serial port, convert it to a number:
+  // read a string from the serial port:
   var inString = serial.readStringUntil('\r\n');
+  // check to see that there's actually a string there:
   if (inString.length > 0 ) {
+  // convert it to a number:
   inData = Number(inString);
   }
 }
