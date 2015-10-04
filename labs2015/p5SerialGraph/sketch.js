@@ -1,5 +1,5 @@
 /*
-
+\
 Serial graphing
 
 Takes a serial input, expecting an ASCII-encoded number followed by return and newline
@@ -17,7 +17,8 @@ by Tom Igoe
 
 var serial;                               // Declare a "SerialPort" object
 var xPos = 0;                             // x position of the graph
-var portName = '/dev/cu.usbmodem14121';   // fill in your serial port name here
+var portName = '/dev/cu.usbmodem1421';   // fill in your serial port name here
+
 function setup() {
   createCanvas(800, 600); // window size
   println(height);
