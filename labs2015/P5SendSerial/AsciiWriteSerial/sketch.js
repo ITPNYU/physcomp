@@ -22,15 +22,15 @@ function draw() {
 function mouseDragged() {
   // map the mouseY to a range from 0 to 255:
   outByte = int(map(mouseY, 0, height, 0, 255));
-  // send it out the serial port:
-  serial.write(outByte);
+  // Convert it to a string with a newline at the end,
+  // and send it out the serial port:
+  serial.write(outByte + '\n');
 }
 
 function keyPressed() {
-  if (key >=0 && key <=9) {   // if the user presses 0 through 9
-    outByte = byte(key * 25); // map the key to a range from 0 to 225
+  if (key ==='H' || key ==='L') {   // if the user presses H or L
+    serial.write(key);      // send it out the serial port
   }
-  serial.write(outByte);      // send it out the serial port
 }
 
 function serialEvent() {

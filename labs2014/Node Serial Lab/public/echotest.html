@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script  type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.13/p5.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.13/addons/p5.dom.js"></script>
+  <script type="text/javascript">
+  var myText;		// variable for the text div you'll create
+  var socket = new WebSocket("ws://localhost:8081");
+  var connected = false;
+  var inData;
+  var lastSecond;
+
+  function setup() {
+    createCanvas(400, 300);
+    // The socket connection needs two event listeners:
+    socket.onopen = openSocket;
+    socket.onmessage = showData;
+
+    // make a new div and position it at 10, 10:
+    myText = createDiv("Sensor reading:");
+    myText.position(10,10);
+  }
+
+  function openSocket() {
+    myText.html("Socket open");
+    //socket.send("Hello server");
+    connected = true;
+  }
+
+
+function draw() {
+  // black background, white text:
+  background(0);
+  fill(255);
+  // display the incoming serial data as a string:
+  text("incoming value: " + inData, 30, 30);
+  if (second() !== lastSecond && connected) {
+    var outByte = second();
+    socket.send(outByte);
+    println("second: " + outByte);
+    lastSecond = outByte;
+  }
+}
+
+  /*
+  showData(), below, will get called whenever there is new Data
+  from the server. So there's no need for a draw() function:
+  */
+  function showData(result) {
+    inData = int(result.data);        // convert result to an integer
+    println(inData);
+  }
+</script>
+</head>
+<body>
+</body>
+</html>

@@ -30,9 +30,14 @@ var serialOptions = {                           // serial communication options
       parser: delimiter // newline generates a data event
     };
 
+
 // if the delimiter is n, use readline as the parser:
 if (delimiter === 'n' ) {
   serialOptions.parser = serialport.parsers.readline('\n');
+}
+
+if (typeof delimiter === 'undefined') {
+  serialOptions.parser = null;
 }
 
 // If the user didn't give a serial port name, exit the program:
@@ -61,6 +66,7 @@ function showPortOpen() {
 function sendSerialData(data) {
   // if there are webSocket connections, send the serial data
   // to all of them:
+  console.log(Number(data));
   if (connections.length > 0) {
     broadcast(data);
   }
