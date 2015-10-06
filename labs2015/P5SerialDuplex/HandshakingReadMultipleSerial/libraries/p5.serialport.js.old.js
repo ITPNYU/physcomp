@@ -358,7 +358,7 @@
     //console.log("found index: " + foundIndex);
     if (foundIndex > -1) {
       returnString = stringBuffer.substr(0, foundIndex);
-      this.serialBuffer = this.serialBuffer.slice(foundIndex + stringToFind.length);
+      this.serialBuffer = this.serialBuffer.slice(foundIndex + stringToFind);
     }
     //console.log("Sending: " + returnString);
     return returnString;
