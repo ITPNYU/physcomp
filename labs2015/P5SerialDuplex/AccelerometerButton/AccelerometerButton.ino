@@ -5,7 +5,6 @@ void setup() {
   Serial.begin(9600);
   // configure the digital input:
   pinMode(buttonPin, INPUT);
-  delay(1000);
 }
 
 void loop() {

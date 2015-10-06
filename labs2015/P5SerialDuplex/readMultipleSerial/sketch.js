@@ -1,5 +1,5 @@
 var serial;                             // variable to hold an instance of the serialport library
-var portName = '/dev/cu.usbmodem1411';  // fill in your serial port name here
+var portName = '/dev/cu.usbmodem14121';  // fill in your serial port name here
 var locH, locV;                         // location of the circle
 var circleColor = 255;                  // color of the circle
 
