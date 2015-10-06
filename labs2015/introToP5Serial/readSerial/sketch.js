@@ -1,5 +1,5 @@
 var serial;                             // variable to hold an instance of the serialport library
-var portName = '/dev/cu.usbmodem1421';  // fill in your serial port name here
+var portName = '/dev/cu.usbmodem14121';  // fill in your serial port name here
 var inData;                             // for incoming serial data
 
 function setup() {
