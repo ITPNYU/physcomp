@@ -1,65 +1,20 @@
-/*
-
-Serial sound player
-
-Takes a serial input and uses it to play a sound. 
-You can use this with the included Arduino example called buttonStateChange.\
-Works with P5 editor as the serial server, version 0.5.5 or later.
-
-Originally written for Processing, 2006?
-modified 1 Oct 2015
-by Tom Igoe
-*/
-var song;
-var serial; // Declare a "SerialPort" object
+var song;                               // sound object for the sound file you want to play
+var serial;                             // Declare a "SerialPort" object
 var portName = '/dev/cu.usbmodem14121'; // fill in your serial port name here
 
-var message = 'H';
-
 function setup() {
-  song = loadSound('ouch.mp3');
-  // Instantiate our SerialPort object
-  serial = new p5.SerialPort();
+  createCanvas(400,400);
+  song = loadSound('ouch.mp3');   // load the sound file  
+  serial = new p5.SerialPort();   // make an instance of the serial library
+  serial.on('data', playOuch);    // declare serial data callback function
 
-  // Let's list the ports available
-  // You should have a callback defined to see the results
-  serial.list();
-
-  // Assuming our Arduino is connected, let's open the connection to it
-  // Change this to the name of your arduino's serial port
-  serial.open(portName);
-
-  // When we some data from the serial port
-  serial.on('data', playOuch);
+  serial.open(portName);          // open port
 }
 
-function draw() {
-  background(08, 24, 56);
-  fill(200, 230, 250);
-  ellipse(height / 2, width / 2, 50, 50);
-}
-
-
-function mousePressed() {
-  if (message === 'H') {
-    message = 'L';
-    background(08, 24, 56)
-  } else {
-    message = 'H';
-    background(140, 150, 155);
+function playOuch() {
+  var result = serial.readStringUntil('\r\n'); // read an ASCII-encoded string
+  result = int(result);                        // convert it to a number
+  if (result === 1) {                          // if it equals 1
+    song.play();                               // play the sound file
   }
-  println(message);
-  serial.write(message);
-}
-
-function openSocket() {
-  serial.write("hello");
-}
-
-
-function playOuch(result) {
- var input = serial.read();
- if (input === '1') {
-  song.play();
- }
 }
