@@ -54,8 +54,8 @@ function serialEvent() {
         circleColor = 255 - (sensors[2] * 255);     // element 2 is the button
       }
     }
+    serial.write('x'); // send a byte requesting more serial data
   }
-  serial.write('x'); // send a byte requesting more serial data
 }
 
 function serialError(err) {
