@@ -8,12 +8,14 @@ node wsServer.js portName
 where portname is the name of your serial port, e.g. /dev/tty.usbserial-xxxx (on OSX)
 
 created 28 Aug 2015
+modified 5 Nov 2017
 by Tom Igoe
 
 */
 
 // include the various libraries that you'll use:
-var serialport = require('serialport');       // include the serialport library
+var SerialPort = require('serialport');			// include the serialport library
+var	portName =  process.argv[2];						// get the port name from the command line
 var WebSocketServer = require('ws').Server;   // include the webSocket library
 
 // configure the webSocket server:
@@ -21,52 +23,29 @@ var SERVER_PORT = 8081;                 // port number for the webSocket server
 var wss = new WebSocketServer({port: SERVER_PORT}); // the webSocket server
 var connections = new Array;            // list of connections to the server
 
-// configure the serial port:
-SerialPort = serialport.SerialPort,             // make a local instance of serialport
-    portName = process.argv[2],                 // get serial port name from the command line
-    delimiter = process.argv[3];                // serial parser to use, from command line
-var serialOptions = {                           // serial communication options
-      baudRate: 9600,                           // data rate: 9600 bits per second
-      parser: delimiter // newline generates a data event
-    };
+var myPort = new SerialPort(portName, 9600);// open the port
+var Readline = SerialPort.parsers.Readline;	// make instance of Readline parser
+var parser = new Readline();								// make a new parser to read ASCII lines
+myPort.pipe(parser);													// pipe the serial stream to the parser
 
+// these are the definitions for the serial events:
+myPort.on('open', showPortOpen);    // called when the serial port opens
+myPort.on('close', showPortClose);  // called when the serial port closes
+myPort.on('error', showError);   // called when there's an error with the serial port
+parser.on('data', readSerialData);  // called when there's new data incoming
 
-// if the delimiter is n, use readline as the parser:
-if (delimiter === 'n' ) {
-  serialOptions.parser = serialport.parsers.readline('\n');
-}
-
-if (typeof delimiter === 'undefined') {
-  serialOptions.parser = null;
-}
-
-// If the user didn't give a serial port name, exit the program:
-if (typeof portName === "undefined") {
-  console.log("You need to specify the serial port when you launch this script, like so:\n");
-  console.log("    node wsServer.js <portname>");
-  console.log("\n Fill in the name of your serial port in place of <portname> \n");
-  process.exit(1);
-}
-// open the serial port:
-var myPort = new SerialPort(portName, serialOptions);
-
-// set up event listeners for the serial events:
-myPort.on('open', showPortOpen);
-myPort.on('data', sendSerialData);
-myPort.on('close', showPortClose);
-myPort.on('error', showError);
 
 // ------------------------ Serial event functions:
 // this is called when the serial port is opened:
 function showPortOpen() {
-  console.log('port open. Data rate: ' + myPort.options.baudRate);
+  console.log('port open. Data rate: ' + myPort.baudRate);
 }
 
 // this is called when new data comes into the serial port:
-function sendSerialData(data) {
+function readSerialData(data) {
   // if there are webSocket connections, send the serial data
   // to all of them:
-  console.log(Number(data));
+  console.log(data);
   if (connections.length > 0) {
     broadcast(data);
   }

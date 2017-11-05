@@ -1,7 +1,7 @@
 /*
 
 Simple Serial Server
-using servi.js and p5.js
+using express.js and p5.js
 
 To call this type the following on the command line:
 node index.js portName
@@ -9,48 +9,37 @@ node index.js portName
 where portname is the name of your serial port, e.g. /dev/tty.usbserial-xxxx (on OSX)
 
 created 19 Sept 2014
-modified 17 Mar 2015
+modified 5 Nov 2017
 by Tom Igoe
-
 */
 
-var serialport = require('serialport'),// include the library
-SerialPort = serialport.SerialPort,    // make a local instance of it
-portName = process.argv[2];            // get port name from the command line
+var SerialPort = require('serialport');			// include the serialport library
+var	portName =  process.argv[2];						// get the port name from the command line
+var express = require('express');	          // include the express library
+var server = express();					            // create a server using express
 
-var serialData = 0;                    // latest data saved from the serial port
-
-var servi = require('servi');          // include the servi library
-
-var app = new servi(false);            // servi instance
-app.port(8080);                        // port number to run the server on
-
-// configure the server's behavior:
-app.serveFiles("public");              // serve all static HTML files from /public
-app.route('/data', sendData);          // route requests for /data to sendData() function
-// now that everything is configured, start the server:
-app.start();
-
-var myPort = new SerialPort(portName, {
-  baudRate: 9600,
-  // look for return and newline at the end of each data packet:
-  parser: serialport.parsers.readline('\r\n')
-});
+var myPort = new SerialPort(portName, 9600);// open the port
+var Readline = SerialPort.parsers.Readline;	// make instance of Readline parser
+var parser = new Readline();								// make a new parser to read ASCII lines
+myPort.pipe(parser);													// pipe the serial stream to the parser
 
 // these are the definitions for the serial events:
-myPort.on('open', showPortOpen);
-myPort.on('data', saveLatestData);
-myPort.on('close', showPortClose);
-myPort.on('error', showError);
+myPort.on('open', showPortOpen);    // called when the serial port opens
+myPort.on('close', showPortClose);  // called when the serial port closes
+myPort.on('error', showError);   // called when there's an error with the serial port
+parser.on('data', readSerialData);  // called when there's new data incoming
+
+// configure the server's behavior:
+server.use('/',express.static('public')); // serve static files from /public
+server.listen(8080);                      // start the server
 
 // these are the functions called when the serial events occur:
 function showPortOpen() {
-  console.log('port open. Data rate: ' + myPort.options.baudRate);
+  console.log('port open. Data rate: ' + myPort.baudRate);
 }
 
-function saveLatestData(data) {
+function readSerialData(data) {
   console.log(data);
-  serialData = data;
 }
 
 function showPortClose() {
