@@ -23,7 +23,7 @@ void setup() {
 void loop() {
   tone(9, 440);    // play a tone on pin 9
 
-  // fade the loudness up:
+//   fade the loudness up:
   for (int loudness = 100; loudness <= 255; loudness++) {
     digitalPotWrite(4, loudness);
     delay(20);
