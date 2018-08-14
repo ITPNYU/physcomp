@@ -5,3 +5,4 @@ videos_code_samples/NodeSerialLesson/node_modules/*
 *.logicdata
 
 *.mov
+*.DS_Store
