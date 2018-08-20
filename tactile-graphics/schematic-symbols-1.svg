@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;}
+	.st1{enable-background:new    ;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:13.0465px;}
+	.st4{font-size:10.0525px;}
+	.st5{font-family:'AppleBraille';}
+	.st6{font-size:29px;}
+	.st7{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="connector1terminal_4_">
+</g>
+<g id="connector0terminal_4_">
+</g>
+<g>
+	<g>
+		<g transform="translate(191.548,91.3167)">
+			<g id="schematic_9_">
+				<path id="connector0pin_9_" class="st0" d="M464.9,241.1v-18.8"/>
+				<g id="connector0terminal_9_">
+				</g>
+				<path id="path4098_2_" class="st0" d="M447.4,241.4h35"/>
+				<path id="path4100_2_" class="st0" d="M453.3,248.6h23.3"/>
+				<path id="path4102_2_" class="st0" d="M470.7,255.7h-11.6"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st0" x1="656.6" y1="321.2" x2="656.4" y2="297.4"/>
+	</g>
+</g>
+<g id="partLabel_7_">
+	<g transform="translate(214.282,28.9157)">
+	</g>
+</g>
+<g>
+	<line class="st0" x1="93.2" y1="507.3" x2="100.7" y2="510.1"/>
+	<line class="st0" x1="100.7" y1="510.1" x2="85.7" y2="514.8"/>
+	<line class="st0" x1="85.7" y1="514.8" x2="100.7" y2="519.5"/>
+	<line class="st0" x1="100.7" y1="519.5" x2="85.7" y2="524.2"/>
+	<line class="st0" x1="85.7" y1="524.2" x2="100.7" y2="528.9"/>
+	<line class="st0" x1="100.7" y1="528.9" x2="85.7" y2="533.6"/>
+	<line class="st0" x1="85.7" y1="533.6" x2="100.7" y2="538.3"/>
+	<line class="st0" x1="100.7" y1="538.3" x2="85.7" y2="543"/>
+	<line class="st0" x1="85.7" y1="543" x2="93.2" y2="544.9"/>
+	<line id="connector1pin_7_" class="st0" x1="93.2" y1="563.7" x2="93.2" y2="544.9"/>
+	<line id="connector0pin_10_" class="st0" x1="93.2" y1="488.5" x2="93.2" y2="507.3"/>
+</g>
+<g>
+	<polyline class="st0" points="350.1,518.9 381,536.5 381,554.7 	"/>
+	<polygon class="st0" points="350.3,522.4 342.8,514.8 353.1,517.6 	"/>
+	<polyline class="st0" points="368.3,551.6 368.3,549 363.2,545.2 374.7,538.8 363.2,532.5 374.7,526.1 363.2,519.7 374.7,513.4 
+		363.2,507 368.3,503.2 368.3,500.6 	"/>
+	<line id="connector1pin_3_" class="st0" x1="381.1" y1="563.7" x2="381.1" y2="551.6"/>
+	<line id="connector0pin_7_" class="st0" x1="368.3" y1="563.7" x2="368.3" y2="551.6"/>
+	<line id="connector2pin_3_" class="st0" x1="368.3" y1="488.5" x2="368.3" y2="501.2"/>
+</g>
+<g>
+	<line class="st0" x1="658.6" y1="507.3" x2="666.1" y2="510.1"/>
+	<line class="st0" x1="666.1" y1="510.1" x2="651.1" y2="514.8"/>
+	<line class="st0" x1="651.1" y1="514.8" x2="666.1" y2="519.5"/>
+	<line class="st0" x1="666.1" y1="519.5" x2="651.1" y2="524.2"/>
+	<line class="st0" x1="651.1" y1="524.2" x2="666.1" y2="528.9"/>
+	<line class="st0" x1="666.1" y1="528.9" x2="651.1" y2="533.6"/>
+	<line class="st0" x1="651.1" y1="533.6" x2="666.1" y2="538.3"/>
+	<line class="st0" x1="666.1" y1="538.3" x2="651.1" y2="543"/>
+	<line class="st0" x1="651.1" y1="543" x2="658.6" y2="544.9"/>
+	<line id="connector1pin_4_" class="st0" x1="658.6" y1="563.7" x2="658.6" y2="544.9"/>
+	<line id="connector0pin_3_" class="st0" x1="658.6" y1="488.5" x2="658.6" y2="507.3"/>
+	<path d="M642.2,520.7l-6.1-6.1c-0.2-0.2-0.2-0.6,0-0.8c0.2-0.2,0.6-0.2,0.8,0l6.1,6.1c0.2,0.2,0.2,0.6,0,0.8
+		c-0.1,0.1-0.2,0.2-0.4,0.2C642.5,520.9,642.3,520.8,642.2,520.7z"/>
+	<path d="M641.3,529.1l-6.1-6.1c-0.2-0.2-0.2-0.6,0-0.8c0.2-0.2,0.6-0.2,0.8,0l6.1,6.1c0.2,0.2,0.2,0.6,0,0.8
+		c-0.1,0.1-0.2,0.2-0.4,0.2C641.5,529.3,641.4,529.3,641.3,529.1z"/>
+	<path d="M640.2,521.7l3.8-3.8l2.8,6.6L640.2,521.7z"/>
+	<path d="M639.3,530.2l3.8-3.8l2.8,6.6L639.3,530.2z"/>
+</g>
+<text transform="matrix(1 0 0 1 -45.3078 552.7351)" class="st2 st3">R1</text>
+<text transform="matrix(1 0 0 1 353.2505 17.1417)" class="st2 st3">Power Plug</text>
+<text transform="matrix(1 0 0 1 59.4499 17.1422)" class="st2 st3">Voltage Source</text>
+<g>
+	<polyline class="st0" points="378,125.6 386.3,125.6 392.5,131.7 400,131.7 410.2,124.9 	"/>
+	<polyline class="st0" points="378,141.5 388.3,141.5 406.7,141.5 	"/>
+	<polyline id="box_1_" class="st0" points="410.2,159.5 378,159.5 378,111.3 410.2,111.3 	"/>
+	<line id="connector2pin_7_" class="st0" x1="378" y1="141.5" x2="362" y2="141.5"/>
+	<line id="connector0pin_19_" class="st0" x1="378" y1="125.8" x2="362" y2="125.8"/>
+	<line id="connector1pin_19_" class="st0" x1="378" y1="141.5" x2="362" y2="141.5"/>
+	<text transform="matrix(1.9959 0 0 1 400.4841 152.3329)" class="st0 st2 st4">-</text>
+	<text transform="matrix(1 0 0 1 402.6324 122.3346)" class="st0 st2 st4">+</text>
+</g>
+<text transform="matrix(1 0 0 1 79.4501 125.3998)" class="st2 st3">+5V</text>
+<g>
+	<line id="connector0pin_23_" class="st0" x1="91.1" y1="134.6" x2="91.1" y2="152.2"/>
+	<path class="st0" d="M74.6,134h33"/>
+</g>
+<g id="partLabel_21_">
+</g>
+<g>
+	<g>
+		<g transform="translate(79.2002,172.9)">
+			<g id="schematic_21_">
+				<line class="st0" x1="597" y1="-51.3" x2="555.5" y2="-51.3"/>
+				<line class="st0" x1="583.2" y1="-44.4" x2="569.3" y2="-44.4"/>
+				<line class="st0" x1="597" y1="-37.4" x2="555.5" y2="-37.4"/>
+				<line class="st0" x1="583.2" y1="-30.5" x2="569.3" y2="-30.5"/>
+				<line class="st0" x1="576.3" y1="-58.2" x2="576.3" y2="-52.6"/>
+				<line id="connector0pin_20_" class="st0" x1="576.3" y1="-16.7" x2="576.3" y2="-30.5"/>
+				<g id="connector0terminal_21_">
+				</g>
+				<line id="connector1pin_20_" class="st0" x1="576.3" y1="-72" x2="576.3" y2="-58.2"/>
+				<g id="connector1terminal_21_">
+				</g>
+			</g>
+		</g>
+	</g>
+	<rect x="642.4" y="111.1" class="st0" width="7.6" height="1.1"/>
+	<rect x="642.4" y="150" class="st0" width="7.6" height="1.1"/>
+	<rect x="645.7" y="107.8" class="st0" width="1.1" height="7.6"/>
+</g>
+<text transform="matrix(1 0 0 1 53.257 215.571)" class="st2 st3">Voltage Regulator</text>
+<g>
+	<rect x="79.9" y="296.5" class="st0" width="34.2" height="34.2"/>
+	<line class="st0" x1="78.6" y1="314.5" x2="42.7" y2="314.5"/>
+	<line class="st0" x1="152.6" y1="314.5" x2="116.6" y2="314.5"/>
+	<line class="st0" x1="97" y1="332.4" x2="97" y2="368.9"/>
+</g>
+<text transform="matrix(1 0 0 1 634.7004 17.1422)" class="st2 st3">Battery</text>
+<text transform="matrix(1 0 0 1 633.3389 215.5712)" class="st2 st3">Ground</text>
+<text transform="matrix(1 0 0 1 351.8654 399.7998)" class="st2 st3">Variable</text>
+<text transform="matrix(1 0 0 1 351.8654 415.4998)" class="st2 st3">Resistor</text>
+<text transform="matrix(1 0 0 1 73.9515 399.7999)" class="st2 st3">Resistor</text>
+<text transform="matrix(1 0 0 1 20.2443 454.3999)" class="st5 st6">⠠⠗⠑⠎⠊⠎⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 288.2443 454.3999)" class="st1"><tspan x="0" y="0" class="st5 st6">⠠⠧⠁⠗⠊⠁⠃⠇⠑ </tspan><tspan x="0" y="34.8" class="st5 st6">⠠⠗⠑⠎⠊⠎⠞⠕⠗</tspan></text>
+<text transform="matrix(1 0 0 1 558.2443 454.3997)" class="st5 st6">⠠⠏⠓⠕⠞⠕⠉⠑⠇⠇</text>
+<text transform="matrix(1 0 0 1 27.9518 56.7501)" class="st1"><tspan x="0" y="0" class="st5 st6">⠠⠧⠕⠇⠞⠁⠛⠑ </tspan><tspan x="0" y="34.8" class="st5 st6">⠠⠎⠕⠥⠗⠉⠑</tspan></text>
+<text transform="matrix(1 0 0 1 333.9518 56.7501)" class="st1"><tspan x="0" y="0" class="st5 st6">⠠⠏⠕⠺⠑⠗ </tspan><tspan x="0" y="34.8" class="st5 st6">⠏⠇⠥⠛</tspan></text>
+<text transform="matrix(1 0 0 1 576.8001 56.75)" class="st5 st6">⠠⠃⠁⠞⠞⠑⠗⠽</text>
+<text transform="matrix(1 0 0 1 17.9518 249.7501)" class="st1"><tspan x="0" y="0" class="st5 st6">⠠⠧⠕⠇⠞⠁⠛⠑ </tspan><tspan x="0" y="34.8" class="st5 st6">⠠⠗⠑⠛⠥⠇⠁⠞⠕⠗</tspan></text>
+<text transform="matrix(1 0 0 1 293.9518 249.7501)" class="st1"><tspan x="0" y="0" class="st5 st6">⠠⠚⠥⠝⠉⠞⠊⠕⠝ </tspan><tspan x="0" y="34.8" class="st5 st6">⠠⠏⠕⠊⠝⠞</tspan></text>
+<text transform="matrix(1 0 0 1 586.8001 249.75)" class="st5 st6">⠠⠛⠗⠕⠥⠝⠙</text>
+<text transform="matrix(1 0 0 1 616.0053 399.8)" class="st2 st3">Light-Dependent</text>
+<text transform="matrix(1 0 0 1 640.3053 415.5)" class="st2 st3">Resistor</text>
+<g>
+	<g>
+		<line class="st7" x1="377.8" y1="299" x2="378.2" y2="346.6"/>
+	</g>
+	<circle cx="378" cy="322.8" r="3.8"/>
+	<g>
+		<line class="st7" x1="348.4" y1="322.9" x2="407.7" y2="322.7"/>
+	</g>
+	<circle cx="378" cy="322.8" r="3.8"/>
+</g>
+<text transform="matrix(1 0 0 1 342.1885 215.5709)" class="st2 st3">Junction point</text>
+</svg>

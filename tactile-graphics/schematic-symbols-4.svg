@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{font-family:'AppleBraille';}
+	.st2{font-size:29px;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:13.0465px;}
+	.st6{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-dasharray:6,6;}
+	.st7{fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round;}
+</style>
+<g id="connector1terminal_4_">
+</g>
+<g id="connector0terminal_4_">
+</g>
+<g id="partLabel_7_">
+	<g transform="translate(214.282,28.9157)">
+	</g>
+</g>
+<g id="partLabel_21_">
+</g>
+<text transform="matrix(1 0 0 1 20.2443 454.3999)" class="st0"><tspan x="0" y="0" class="st1 st2">⠠⠞⠗⠁⠝⠎⠊⠎⠞⠕⠗ </tspan><tspan x="0" y="34.8" class="st1 st2">⠦⠠⠠⠝⠏⠝⠴</tspan></text>
+<text transform="matrix(1 0 0 1 270.2443 454.3994)" class="st0"><tspan x="0" y="0" class="st1 st2">⠠⠞⠗⠁⠝⠎⠊⠎⠞⠕⠗ </tspan><tspan x="0" y="34.8" class="st1 st2">⠦⠠⠠⠏⠝⠏⠴</tspan></text>
+<text transform="matrix(1 0 0 1 598.2443 454.3997)" class="st1 st2">⠠⠗⠑⠇⠁⠽</text>
+<text transform="matrix(1 0 0 1 17.9518 68.7501)" class="st1 st2">⠠⠎⠏⠑⠅⠑⠗</text>
+<text transform="matrix(1 0 0 1 293.9518 68.7501)" class="st1 st2">⠠⠍⠊⠉⠗⠕⠏⠓⠕⠝⠑</text>
+<g>
+	<line class="st3" x1="98.8" y1="515.7" x2="79.5" y2="525"/>
+	<line class="st3" x1="93" y1="546.6" x2="98.8" y2="554.4"/>
+	<line class="st3" x1="98.8" y1="554.4" x2="89.1" y2="554.4"/>
+	<line class="st3" x1="89.1" y1="554.4" x2="93" y2="546.6"/>
+	<line class="st3" x1="91.2" y1="550.6" x2="79.5" y2="543.8"/>
+	<line class="st3" x1="91" y1="553.4" x2="96.8" y2="553.4"/>
+	<line class="st3" x1="96.8" y1="553.4" x2="93" y2="548.6"/>
+	<line class="st3" x1="93" y1="548.6" x2="91" y2="552.4"/>
+	<line class="st3" x1="91" y1="552.4" x2="93.9" y2="552.4"/>
+	<line class="st3" x1="93.9" y1="552.4" x2="93" y2="550.5"/>
+	<line id="connector0pin_5_" class="st3" x1="60.1" y1="536.4" x2="79.5" y2="536.4"/>
+	<line id="connector2pin_2_" class="st3" x1="98.8" y1="573.7" x2="98.8" y2="554.4"/>
+	<line id="connector1pin_5_" class="st3" x1="98.8" y1="496.4" x2="98.8" y2="515.7"/>
+	<line class="st3" x1="79.5" y1="515.7" x2="79.5" y2="554.4"/>
+</g>
+<g>
+	<line class="st3" x1="379.2" y1="527.6" x2="356.3" y2="538.5"/>
+	<line class="st3" x1="355.7" y1="554.9" x2="379.2" y2="567.3"/>
+	<line class="st3" x1="362.3" y1="530.6" x2="366.2" y2="538.5"/>
+	<line class="st3" x1="366.2" y1="538.5" x2="356.3" y2="538.5"/>
+	<line class="st3" x1="356.3" y1="538.5" x2="362.3" y2="530.6"/>
+	<line class="st3" x1="361.9" y1="532.4" x2="364.6" y2="537.7"/>
+	<line class="st3" x1="361.3" y1="533.5" x2="363.3" y2="537.7"/>
+	<line class="st3" x1="360.3" y1="534.5" x2="361.9" y2="537.7"/>
+	<line class="st3" x1="359.7" y1="535.7" x2="360.5" y2="537.5"/>
+	<line class="st3" x1="358.7" y1="536.5" x2="359.3" y2="537.7"/>
+	<line id="connector0pin_4_" class="st3" x1="339.5" y1="548.7" x2="355.7" y2="548.7"/>
+	<line id="connector1pin_6_" class="st3" x1="379.2" y1="587.1" x2="379.2" y2="567.3"/>
+	<line id="connector2pin" class="st3" x1="379.2" y1="507.7" x2="379.2" y2="527.6"/>
+	<line class="st3" x1="355.7" y1="528.5" x2="355.7" y2="567.2"/>
+</g>
+<text transform="matrix(1 0 0 1 64.8161 28.4536)" class="st4 st5">Speaker</text>
+<text transform="matrix(1 0 0 1 333.9517 28.4541)" class="st4 st5">Microphone</text>
+<g>
+	<rect id="rect5" x="616.8" y="489.8" class="st3" width="77.7" height="95.4"/>
+	<path id="path3892" class="st3" d="M616.6,569.5h27.1v-10.7h0.2c2.4,0,4.4-2,4.4-4.4c0-2.4-2-4.4-4.4-4.4c2.4,0,4.4-2,4.4-4.4
+		c0-2.4-2-4.4-4.4-4.4c2.4,0,4.4-2,4.4-4.4c0-2.4-2-4.4-4.4-4.4c2.4,0,4.4-2,4.4-4.4c0-2.4-2-4.4-4.4-4.4c2.4,0,4.4-2,4.4-4.4
+		s-2-4.4-4.4-4.4h-0.2v-7.6h-27.1"/>
+	<path id="path3934" class="st6" d="M652.7,514.7v44.5"/>
+	<path id="path3934_1_" class="st6" d="M659.9,507.7v50.5"/>
+	<path id="path3936" class="st3" d="M694.5,569.6h-41.8v-10.4"/>
+	<line class="st3" x1="694.5" y1="569.5" x2="709.4" y2="569.5"/>
+	<line class="st3" x1="659.9" y1="507.7" x2="709.4" y2="507.7"/>
+	<line class="st3" x1="601.9" y1="569.5" x2="616.8" y2="569.5"/>
+	<line class="st3" x1="601.9" y1="507.7" x2="616.8" y2="507.7"/>
+</g>
+<g>
+	<line class="st7" x1="84.2" y1="233.1" x2="84.2" y2="161.4"/>
+	<line class="st3" x1="120.1" y1="125.6" x2="84.2" y2="161.4"/>
+	<line class="st3" x1="84.2" y1="233.1" x2="84.2" y2="161.4"/>
+	<line class="st3" x1="120.1" y1="269" x2="84.2" y2="233.1"/>
+	<line class="st3" x1="120.1" y1="125.6" x2="120.1" y2="269"/>
+	<line class="st3" x1="84.2" y1="233.1" x2="68.1" y2="233.1"/>
+	<line class="st3" x1="84.2" y1="161.4" x2="68.1" y2="162.4"/>
+	<line class="st3" x1="68.1" y1="233.1" x2="68.1" y2="162.4"/>
+	<line class="st3" x1="50.6" y1="183.1" x2="68.1" y2="183.1"/>
+	<line class="st3" x1="50.6" y1="212.4" x2="68.1" y2="212"/>
+</g>
+<g>
+	<circle class="st3" cx="378" cy="162.4" r="14.3"/>
+	<line class="st3" x1="363.7" y1="178.7" x2="363.7" y2="146.2"/>
+	<line class="st3" x1="378" y1="148.1" x2="378" y2="127.3"/>
+	<line class="st3" x1="378" y1="176.7" x2="378" y2="195.1"/>
+</g>
+<text transform="matrix(1 0 0 1 643.3219 396.4539)" class="st4 st5">Relay</text>
+<text transform="matrix(1 0 0 1 350.1906 396.4537)" class="st0"><tspan x="0" y="0" class="st4 st5">Transistor</tspan><tspan x="11.2" y="15.7" class="st4 st5">(PNP)</tspan></text>
+<text transform="matrix(1 0 0 1 66.8784 396.4535)" class="st0"><tspan x="0" y="0" class="st4 st5">Transistor</tspan><tspan x="10.9" y="15.7" class="st4 st5">(NPN)</tspan></text>
+</svg>
