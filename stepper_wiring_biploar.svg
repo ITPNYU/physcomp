@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 480.6 278.9" style="enable-background:new 0 0 480.6 278.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{font-family:'HelveticaNeue';}
+	.st2{font-size:15.7187px;}
+</style>
+<g>
+	<path class="st0" d="M99.8,118c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+	<path class="st0" d="M99.8,148.5c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+	<path class="st0" d="M99.8,179.1c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+	<path class="st0" d="M99.8,209.6c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+</g>
+<line class="st0" x1="99.8" y1="118" x2="65.5" y2="118"/>
+<line class="st0" x1="99.8" y1="240.2" x2="65.5" y2="240.2"/>
+<g>
+	<path class="st0" d="M159.6,118c-8.4,0-15.3,6.8-15.3,15.3s6.8,15.3,15.3,15.3"/>
+	<path class="st0" d="M159.6,148.5c-8.4,0-15.3,6.8-15.3,15.3s6.8,15.3,15.3,15.3"/>
+	<path class="st0" d="M159.6,179.1c-8.4,0-15.3,6.8-15.3,15.3s6.8,15.3,15.3,15.3"/>
+	<path class="st0" d="M159.6,209.6c-8.4,0-15.3,6.8-15.3,15.3s6.8,15.3,15.3,15.3"/>
+</g>
+<line class="st0" x1="159.6" y1="118" x2="193.9" y2="118"/>
+<line class="st0" x1="159.6" y1="240.2" x2="193.9" y2="240.2"/>
+<g>
+	<path class="st0" d="M323.2,118c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+	<path class="st0" d="M323.2,148.5c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+	<path class="st0" d="M323.2,179.1c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+	<path class="st0" d="M323.2,209.6c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+</g>
+<line class="st0" x1="323.2" y1="118" x2="288.9" y2="118"/>
+<line class="st0" x1="323.2" y1="240.2" x2="288.9" y2="240.2"/>
+<g>
+	<path class="st0" d="M383.1,118c-8.4,0-15.3,6.8-15.3,15.3s6.8,15.3,15.3,15.3"/>
+	<path class="st0" d="M383.1,148.5c-8.4,0-15.3,6.8-15.3,15.3s6.8,15.3,15.3,15.3"/>
+	<path class="st0" d="M383.1,179.1c-8.4,0-15.3,6.8-15.3,15.3s6.8,15.3,15.3,15.3"/>
+	<path class="st0" d="M383.1,209.6c-8.4,0-15.3,6.8-15.3,15.3s6.8,15.3,15.3,15.3"/>
+</g>
+<line class="st0" x1="383.1" y1="118" x2="417.3" y2="118"/>
+<line class="st0" x1="383.1" y1="240.2" x2="417.3" y2="240.2"/>
+<line class="st0" x1="323.2" y1="179.1" x2="288.9" y2="179.1"/>
+<line class="st0" x1="383.1" y1="179.1" x2="417.3" y2="179.1"/>
+<text transform="matrix(1 0 0 1 159.6138 42.0412)" class="st1 st2">Bipolar stepper motors</text>
+<text transform="matrix(1 0 0 1 115.6455 83.8694)" class="st1 st2">4-wire</text>
+<text transform="matrix(1 0 0 1 49.2421 127.2922)" class="st1 st2">1</text>
+<text transform="matrix(1 0 0 1 49.2421 240.2092)" class="st1 st2">2</text>
+<text transform="matrix(1 0 0 1 199.2421 124.8694)" class="st1 st2">3</text>
+<text transform="matrix(1 0 0 1 199.2421 240.2981)" class="st1 st2">4</text>
+<text transform="matrix(1 0 0 1 272.6309 127.2922)" class="st1 st2">1</text>
+<text transform="matrix(1 0 0 1 272.6309 242.6321)" class="st1 st2">2</text>
+<text transform="matrix(1 0 0 1 422.6309 127.2922)" class="st1 st2">3</text>
+<text transform="matrix(1 0 0 1 422.6309 242.7209)" class="st1 st2">4</text>
+<text transform="matrix(1 0 0 1 422.6309 184.9631)" class="st1 st2">6</text>
+<text transform="matrix(1 0 0 1 272.6309 184.9631)" class="st1 st2">5</text>
+<text transform="matrix(1 0 0 1 326.5332 83.8694)" class="st1 st2">6-wire</text>
+<text transform="matrix(1 0 0 1 63.8613 108.0198)" class="st1 st2">coil 1</text>
+<text transform="matrix(1 0 0 1 155.0068 108.0198)" class="st1 st2">coil 2</text>
+<text transform="matrix(1 0 0 1 287.9766 108.0198)" class="st1 st2">coil 1</text>
+<text transform="matrix(1 0 0 1 381.4199 108.0198)" class="st1 st2">coil 2</text>
+</svg>

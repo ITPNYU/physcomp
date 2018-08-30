@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 313.5 361.1" style="enable-background:new 0 0 313.5 361.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{font-family:'HelveticaNeue';}
+	.st3{font-size:15.7187px;}
+</style>
+<g>
+	<path class="st0" d="M156.7,44.9c8.4,0,15.3,6.8,15.3,15.3c0,8.4-6.8,15.3-15.3,15.3"/>
+	<path class="st0" d="M156.7,75.4c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+	<path class="st0" d="M156.7,106c8.4,0,15.3,6.8,15.3,15.3c0,8.4-6.8,15.3-15.3,15.3"/>
+	<path class="st0" d="M156.7,136.5c8.4,0,15.3,6.8,15.3,15.3s-6.8,15.3-15.3,15.3"/>
+</g>
+<g>
+	<path class="st0" d="M17.1,191.8c0-8.4,6.8-15.3,15.3-15.3c8.4,0,15.3,6.8,15.3,15.3"/>
+	<path class="st0" d="M47.7,191.8c0-8.4,6.8-15.3,15.3-15.3c8.4,0,15.3,6.8,15.3,15.3"/>
+	<path class="st0" d="M78.2,191.8c0-8.4,6.8-15.3,15.3-15.3c8.4,0,15.3,6.8,15.3,15.3"/>
+	<path class="st0" d="M108.8,191.8c0-8.4,6.8-15.3,15.3-15.3c8.4,0,15.3,6.8,15.3,15.3"/>
+</g>
+<g>
+	<path class="st0" d="M156.7,338.8c-8.4,0-15.3-6.8-15.3-15.3s6.8-15.3,15.3-15.3"/>
+	<path class="st0" d="M156.7,308.3c-8.4,0-15.3-6.8-15.3-15.3s6.8-15.3,15.3-15.3"/>
+	<path class="st0" d="M156.7,277.7c-8.4,0-15.3-6.8-15.3-15.3c0-8.4,6.8-15.3,15.3-15.3"/>
+	<path class="st0" d="M156.7,247.1c-8.4,0-15.3-6.8-15.3-15.3s6.8-15.3,15.3-15.3"/>
+</g>
+<g>
+	<path class="st0" d="M296.4,191.8c0,8.4-6.8,15.3-15.3,15.3c-8.4,0-15.3-6.8-15.3-15.3"/>
+	<path class="st0" d="M265.8,191.8c0,8.4-6.8,15.3-15.3,15.3c-8.4,0-15.3-6.8-15.3-15.3"/>
+	<path class="st0" d="M235.2,191.8c0,8.4-6.8,15.3-15.3,15.3c-8.4,0-15.3-6.8-15.3-15.3"/>
+	<path class="st0" d="M204.7,191.8c0,8.4-6.8,15.3-15.3,15.3c-8.4,0-15.3-6.8-15.3-15.3"/>
+</g>
+<line class="st0" x1="174.1" y1="191.8" x2="139.4" y2="191.8"/>
+<line class="st0" x1="156.7" y1="167.1" x2="156.7" y2="216.6"/>
+<line class="st0" x1="17.1" y1="191.8" x2="17.1" y2="211"/>
+<line class="st0" x1="296.4" y1="172.7" x2="296.4" y2="191.8"/>
+<line class="st0" x1="175.9" y1="338.8" x2="156.7" y2="338.8"/>
+<line class="st0" x1="156.7" y1="44.9" x2="137.6" y2="44.9"/>
+<line class="st0" x1="156.7" y1="191.8" x2="99.3" y2="124.1"/>
+<circle class="st1" cx="156.7" cy="191.8" r="3.6"/>
+<text transform="matrix(1 0 0 1 119.722 44.8532)" class="st2 st3">1</text>
+<text transform="matrix(1 0 0 1 291.9886 163.0056)" class="st2 st3">2</text>
+<text transform="matrix(1 0 0 1 185.0148 338.82)" class="st2 st3">3</text>
+<text transform="matrix(1 0 0 1 12.7473 225.7243)" class="st2 st3">4</text>
+<text transform="matrix(1 0 0 1 89.1574 124.0925)" class="st2 st3">5</text>
+<text transform="matrix(1 0 0 1 185.8898 105.9812)" class="st2 st3">coil 1</text>
+<text transform="matrix(1 0 0 1 216.4534 222.7243)" class="st2 st3">coil 2</text>
+<text transform="matrix(1 0 0 1 80.549 284.5681)" class="st2 st3">coil 3</text>
+<text transform="matrix(1 0 0 1 59.47 163.0056)" class="st2 st3">coil 4</text>
+<text transform="matrix(1 0 0 1 65.6496 28.153)" class="st2 st3">Unipolar stepper motor</text>
+</svg>
