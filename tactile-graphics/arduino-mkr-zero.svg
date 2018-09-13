@@ -4,15 +4,18 @@
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st1{enable-background:new    ;}
-	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
 	.st3{font-family:'AppleBraille';}
 	.st4{font-size:29px;}
-	.st5{fill:#FFFFFF;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st6{font-family:'MyriadPro-Regular';}
-	.st7{font-size:12px;}
+	.st5{enable-background:new    ;}
+	.st6{display:none;}
+	.st7{display:inline;}
+	.st8{font-family:'MyriadPro-Regular';}
+	.st9{font-size:12px;}
+	.st10{display:inline;enable-background:new    ;}
 </style>
-<g id="Layer_2">
+<g id="Layer_1">
 	<path class="st0" d="M409.2,451h-81.6c-6.6,0-12-5.4-12-12V203.3c0-6.6,5.4-12,12-12h81.6c6.6,0,12,5.4,12,12V439
 		C421.2,445.6,415.8,451,409.2,451z"/>
 	<circle cx="363.1" cy="259.4" r="7.9"/>
@@ -52,16 +55,9 @@
 		<g transform="translate(214.282,28.9157)">
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 -45.3078 552.7351)" style="font-family:'ArialMT'; font-size:13.0465px;">R1</text>
 	<g id="partLabel_21_">
 	</g>
-	<line class="st2" x1="414.9" y1="324.5" x2="403.5" y2="324.5"/>
-	<text transform="matrix(1 0 0 1 313.6 89.7503)" class="st3 st4">⠠⠠⠥⠎⠃ </text>
-	<text transform="matrix(1 0 0 1 313.6 124.5503)" class="st3 st4">⠠⠏⠇⠥⠛</text>
-	<text transform="matrix(1 0 0 1 552.6005 485.4662)" class="st3 st4">⠚</text>
-	<text transform="matrix(1 0 0 1 215.0668 571.9335)" class="st3 st4">⠠⠮⠀⠟⠅⠀⠃⠗⠪⠝⠀⠋⠕⠭</text>
-	<text transform="matrix(1 0 0 1 46.6184 122.0164)" class="st3 st4">⠠⠧⠕⠇⠞⠁⠛⠑ </text>
-	<text transform="matrix(1 0 0 1 46.6184 156.8164)" class="st3 st4">⠠⠏⠇⠥⠛</text>
+	<line class="st1" x1="414.9" y1="324.5" x2="403.5" y2="324.5"/>
 	<g>
 		<g>
 			<line class="st0" x1="294.9" y1="282" x2="261.6" y2="273"/>
@@ -142,27 +138,36 @@
 			</g>
 		</g>
 	</g>
-	<rect x="355.8" y="181.8" class="st5" width="25.2" height="19"/>
-	
-		<rect x="310.8" y="224.7" transform="matrix(6.123234e-17 -1 1 6.123234e-17 91.1896 565.5604)" class="st0" width="35.1" height="24.9"/>
-	
-		<rect x="356" y="330.6" transform="matrix(6.123234e-17 -1 1 6.123234e-17 25.318 711.5473)" class="st0" width="24.9" height="24.9"/>
-	
-		<rect x="338.8" y="389.7" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -47.586 784.4513)" class="st0" width="59.2" height="52.6"/>
-	
-		<rect x="399.4" y="215.6" transform="matrix(6.123234e-17 -1 1 6.123234e-17 188.7556 636.5737)" class="st0" width="26.6" height="16.6"/>
-	<text transform="matrix(1 0 0 1 516.6191 100.6091)" class="st3 st4">⠞⠑⠝⠀⠽⠑⠜⠎⠀⠁⠛⠕⠂⠀⠠⠊⠀⠔⠧⠊⠞⠫⠀⠁⠀⠛⠗⠳⠏⠀⠷⠀⠌⠗⠁⠝⠛⠻⠎⠀⠔⠞⠕⠀⠍⠽⠀⠓⠕⠍⠑⠀⠞⠕⠀⠏⠻⠿⠍⠀⠮⠀⠋⠌⠀⠃⠊⠕⠞⠑⠡⠀⠑⠭⠏⠻⠊⠍⠢⠞⠎⠀⠞⠀⠺⠙⠀⠑⠧⠑⠝⠞⠥⠁⠇⠇⠽⠀⠇⠂⠙⠀⠞⠕⠀⠮⠀⠿⠍⠁⠰⠝⠀⠷⠀⠠⠛⠑⠝⠎⠏⠁⠉⠑⠲⠀⠠⠐⠑⠀⠎⠔⠉⠑⠂⠀⠠⠛⠑⠝⠎⠏⠁⠉⠑⠠⠴⠎⠀⠇⠑⠎⠎⠕⠝⠎⠀⠓⠀⠝⠀⠚⠀⠃⠑⠑⠝⠀⠁⠃⠀⠃⠊⠕⠇⠕⠛⠽⠂⠀⠃</text>
+	<rect x="355.8" y="181.8" class="st2" width="25.2" height="19"/>
+	<rect x="315.9" y="219.7" class="st0" width="24.9" height="35.1"/>
+	<rect x="355.9" y="330.6" class="st0" width="24.9" height="24.9"/>
+	<rect x="342.1" y="386.5" class="st0" width="52.6" height="59.2"/>
+	<rect x="404.4" y="210.6" class="st0" width="16.6" height="26.6"/>
 </g>
-<g id="plaintext">
-	<text transform="matrix(1 0 0 1 105.1 304.7154)" class="st6 st7">A0</text>
-	<text transform="matrix(1 0 0 1 105.1 277.5001)" class="st6 st7">AREF</text>
-	<text transform="matrix(1 0 0 1 355.2 305.1498)" class="st6 st7">MKR0</text>
-	<text transform="matrix(1 0 0 1 110.1 383.2235)" class="st6 st7">0</text>
-	<text transform="matrix(1 0 0 1 110.1 439.3)" class="st6 st7">5</text>
-	<text transform="matrix(1 0 0 1 529.9995 439.3001)" class="st6 st7">6</text>
-	<text transform="matrix(1 0 0 1 515.8005 347.477)" class="st6 st7">14</text>
-	<text transform="matrix(1 0 0 1 532.4497 229.0351)" class="st6 st7">SOMETHING</text>
-	<text transform="matrix(1 0 0 1 104.8306 237.2355)"><tspan x="0" y="0" class="st6 st7">LiPo</tspan><tspan x="0" y="14.4" class="st6 st7">Battery Plug</tspan></text>
-	<text transform="matrix(1 0 0 1 340.85 41.9975)" class="st6 st7">USB Plug</text>
+<g id="braille">
+	<text transform="matrix(1 0 0 1 20.1189 45.0477)" class="st3 st4">⠠⠍⠠⠅⠠⠗⠠⠵⠑⠗⠕</text>
+	<text transform="matrix(1 0 0 1 104.2938 175.2998)" class="st5"><tspan x="0" y="0" class="st3 st4">⠠⠇⠊⠠⠏⠕</tspan><tspan x="0" y="34.8" class="st3 st4">⠠⠃⠁⠞⠞⠑⠗⠽ </tspan><tspan x="0" y="69.6" class="st3 st4">⠠⠏⠇⠥⠛</tspan></text>
+	<text transform="matrix(1 0 0 1 93.2938 282.0002)" class="st3 st4">⠠⠁⠠⠗⠠⠑⠠⠋</text>
+	<text transform="matrix(1 0 0 1 183.2936 313.7154)" class="st3 st4">⠠⠁⠚</text>
+	<text transform="matrix(1 0 0 1 206.2936 389.6998)" class="st3 st4">⠠⠙⠚</text>
+	<text transform="matrix(1 0 0 1 201.2936 446.2999)" class="st3 st4">⠠⠙⠑</text>
+	<text transform="matrix(1 0 0 1 316.2002 525.2999)" class="st5"><tspan x="0" y="0" class="st3 st4">⠠⠎⠠⠙</tspan><tspan x="0" y="34.8" class="st3 st4">⠠⠉⠁⠗⠙</tspan><tspan x="0" y="69.6" class="st3 st4">⠠⠎⠇⠕⠞</tspan></text>
+	<text transform="matrix(1 0 0 1 467.6 445.2003)" class="st3 st4">⠠⠙⠋</text>
+	<text transform="matrix(1 0 0 1 467.5994 344.5004)" class="st3 st4">⠠⠙⠁⠙</text>
+	<text transform="matrix(1 0 0 1 474.5217 210.5736)" class="st5"><tspan x="0" y="0" class="st3 st4">⠠⠁⠙⠙⠊⠞⠊⠕⠝⠁⠇ </tspan><tspan x="0" y="34.8" class="st3 st4">⠠⠊⠃⠠⠉ ⠏⠕⠗⠞</tspan></text>
+	<text transform="matrix(1 0 0 1 311.6003 90.0209)" class="st5"><tspan x="0" y="0" class="st3 st4">⠠⠥⠠⠎⠠⠃ </tspan><tspan x="0" y="34.8" class="st3 st4">⠠⠏⠇⠥⠛</tspan></text>
+</g>
+<g id="plaintext" class="st6">
+	<text transform="matrix(1 0 0 1 139.1 303.7154)" class="st7 st8 st9">A0</text>
+	<text transform="matrix(1 0 0 1 49.1 276.5001)" class="st7 st8 st9">AREF</text>
+	<text transform="matrix(1 0 0 1 49.2 68.1498)" class="st7 st8 st9">MKRZero</text>
+	<text transform="matrix(1 0 0 1 174.1 383.2235)" class="st7 st8 st9">D0</text>
+	<text transform="matrix(1 0 0 1 174.1 445.3)" class="st7 st8 st9">D5</text>
+	<text transform="matrix(1 0 0 1 562 439.2996)" class="st7 st8 st9">D6</text>
+	<text transform="matrix(1 0 0 1 561.9997 343.0972)" class="st7 st8 st9">D14</text>
+	<text transform="matrix(1 0 0 1 521.4497 262.1002)" class="st7 st8 st9">Additional I2C port</text>
+	<text transform="matrix(1 0 0 1 235.8901 555.1002)" class="st7 st8 st9">SD card slot</text>
+	<text transform="matrix(1 0 0 1 18.8306 202.6355)" class="st10"><tspan x="0" y="0" class="st8 st9">LiPo</tspan><tspan x="0" y="14.4" class="st8 st9">Battery Plug</tspan></text>
+	<text transform="matrix(1 0 0 1 324.85 60.9975)" class="st7 st8 st9">USB Plug</text>
 </g>
 </svg>
