@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 191.5 303.5" style="enable-background:new 0 0 191.5 303.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;}
+	.st1{font-family:'Helvetica';}
+	.st2{font-size:18px;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<g transform="translate(191.548,91.3167)">
+			<g id="schematic_9_">
+				<path id="connector0pin_9_" class="st0" d="M-139.6,154.4v-18.8"/>
+				<g id="connector0terminal_9_">
+				</g>
+				<path id="path4098_2_" class="st0" d="M-157.1,154.7h35"/>
+				<path id="path4100_2_" class="st0" d="M-151.2,161.9h23.3"/>
+				<path id="path4102_2_" class="st0" d="M-133.8,169h-11.6"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st0" x1="52.1" y1="234.5" x2="51.9" y2="210.7"/>
+	</g>
+</g>
+<g>
+	<line class="st0" x1="51.7" y1="98.6" x2="59.2" y2="101.4"/>
+	<line class="st0" x1="59.2" y1="101.4" x2="44.2" y2="106.1"/>
+	<line class="st0" x1="44.2" y1="106.1" x2="59.2" y2="110.8"/>
+	<line class="st0" x1="59.2" y1="110.8" x2="44.2" y2="115.5"/>
+	<line class="st0" x1="44.2" y1="115.5" x2="59.2" y2="120.2"/>
+	<line class="st0" x1="59.2" y1="120.2" x2="44.2" y2="124.9"/>
+	<line class="st0" x1="44.2" y1="124.9" x2="59.2" y2="129.6"/>
+	<line class="st0" x1="59.2" y1="129.6" x2="44.2" y2="134.3"/>
+	<line class="st0" x1="44.2" y1="134.3" x2="51.7" y2="136.2"/>
+	<line id="connector1pin_7_" class="st0" x1="51.7" y1="155" x2="51.7" y2="136.2"/>
+	<line id="connector0pin_10_" class="st0" x1="51.7" y1="79.8" x2="51.7" y2="98.6"/>
+</g>
+<text transform="matrix(1 0 0 1 39.9873 57.6606)" class="st1 st2">+5V</text>
+<g>
+	<line id="connector0pin_23_" class="st0" x1="51.6" y1="66.9" x2="51.6" y2="84.5"/>
+	<path class="st0" d="M35.1,66.3h33"/>
+</g>
+<g>
+	<path d="M61.3,192.4h-9.4c-0.5,0-0.9-0.4-0.9-0.9s0.4-0.9,0.9-0.9h9.4c0.5,0,0.9,0.4,0.9,0.9S61.8,192.4,61.3,192.4z"/>
+	<path d="M51.9,192.4h-9.4c-0.5,0-0.9-0.4-0.9-0.9s0.4-0.9,0.9-0.9h9.4c0.5,0,0.9,0.4,0.9,0.9S52.4,192.4,51.9,192.4z"/>
+	<polygon class="st3" points="51.9,191.5 42.5,172.7 51.9,172.7 61.3,172.7 	"/>
+	<path d="M51.9,193.6L41,171.9h21.8L51.9,193.6z M44,173.7l7.9,15.8l7.9-15.8H44z"/>
+	<path d="M30.8,185.1c-0.2,0-0.3-0.1-0.4-0.2c-0.2-0.2-0.2-0.6,0-0.8l6.1-6.1c0.2-0.2,0.6-0.2,0.8,0s0.2,0.6,0,0.8l-6.1,6.1
+		C31.1,185,30.9,185.1,30.8,185.1z"/>
+	<path d="M31.7,193.5c-0.2,0-0.3-0.1-0.4-0.2c-0.2-0.2-0.2-0.6,0-0.8l6.1-6.1c0.2-0.2,0.6-0.2,0.8,0s0.2,0.6,0,0.8l-6.1,6.1
+		C32,193.5,31.9,193.5,31.7,193.5z"/>
+	<path d="M51.9,211.2c-0.5,0-0.9-0.4-0.9-0.9v-18.8c0-0.5,0.4-0.9,0.9-0.9s0.9,0.4,0.9,0.9v18.8C52.8,210.8,52.4,211.2,51.9,211.2z"
+		/>
+	<path d="M51.9,173.7c-0.5,0-0.9-0.4-0.9-0.9V154c0-0.5,0.4-0.9,0.9-0.9s0.9,0.4,0.9,0.9v18.8C52.8,173.2,52.4,173.7,51.9,173.7z"/>
+	<path d="M26.6,188.7l2.8-6.6l3.8,3.8L26.6,188.7z"/>
+	<path d="M27.5,197.2l2.8-6.6l3.8,3.8L27.5,197.2z"/>
+</g>
+<text transform="matrix(1 0 0 1 91.7179 122.586)" class="st1 st2">R1</text>
+<text transform="matrix(1 0 0 1 87.7179 192.586)"><tspan x="0" y="0" class="st1 st2">LED1</tspan><tspan x="0" y="21.6" class="st1 st2">2V, 20mA</tspan></text>
+</svg>
