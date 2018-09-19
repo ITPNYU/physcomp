@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 257.9 214" style="enable-background:new 0 0 257.9 214;" xml:space="preserve">
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#010101;}
 	.st1{fill:#FFFFFF;}
@@ -9,57 +9,62 @@
 	.st3{fill:none;}
 	.st4{fill:none;stroke:#020202;stroke-width:2;stroke-linecap:round;}
 	.st5{fill:none;stroke:#7A7A7A;stroke-width:2;stroke-linecap:round;}
-	.st6{font-family:'MyriadPro-Regular';}
-	.st7{font-size:14px;}
+	.st6{display:none;}
+	.st7{display:inline;}
+	.st8{font-family:'MyriadPro-Regular';}
+	.st9{font-size:22.9481px;}
+	.st10{enable-background:new    ;}
+	.st11{font-family:'AppleBraille';}
+	.st12{font-size:24px;}
 </style>
 <g id="Layer_1">
 	<g>
 		<g transform="translate(213.948,11.3336)">
 			<g id="schematic_11_">
 				<g>
-					<path class="st0" d="M-9.9,144.9h-9.2c-0.5,0-0.9-0.4-0.9-0.9c0-0.5,0.4-0.9,0.9-0.9h9.2c0.5,0,0.9,0.4,0.9,0.9
-						C-9,144.5-9.4,144.9-9.9,144.9z"/>
+					<path class="st0" d="M307.2,373H292c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5h15.1c0.8,0,1.5,0.7,1.5,1.5
+						C308.6,372.4,308,373,307.2,373z"/>
 				</g>
 				<g>
-					<path class="st0" d="M-19.1,144.9h-9.2c-0.5,0-0.9-0.4-0.9-0.9c0-0.5,0.4-0.9,0.9-0.9h9.2c0.5,0,0.9,0.4,0.9,0.9
-						C-18.2,144.5-18.6,144.9-19.1,144.9z"/>
+					<path class="st0" d="M292,373h-15.1c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5H292c0.8,0,1.5,0.7,1.5,1.5
+						C293.5,372.4,292.8,373,292,373z"/>
 				</g>
 				<g>
-					<polygon class="st1" points="-19.1,144 -28.4,125.6 -19.1,125.6 -9.9,125.6 					"/>
-					<path class="st0" d="M-19.1,146l-10.7-21.4h21.4L-19.1,146z M-26.9,126.5l7.8,15.6l7.8-15.6C-11.4,126.5-26.9,126.5-26.9,126.5
+					<polygon class="st1" points="292,371.6 276.9,341.3 292,341.3 307.2,341.3 					"/>
+					<path class="st0" d="M292,374.9l-17.5-35h35L292,374.9z M279.3,342.8l12.7,25.5l12.7-25.5C304.8,342.8,279.3,342.8,279.3,342.8
 						z"/>
 				</g>
 				<g>
-					<path class="st0" d="M-19.1,144.6c-0.3,0-0.6-0.3-0.6-0.6v-18.4c0-0.3,0.3-0.6,0.6-0.6c0.3,0,0.6,0.3,0.6,0.6V144
-						C-18.6,144.3-18.8,144.6-19.1,144.6z"/>
+					<path class="st0" d="M292,372.5c-0.5,0-0.9-0.4-0.9-0.9v-30.2c0-0.5,0.4-0.9,0.9-0.9c0.5,0,0.9,0.4,0.9,0.9v30.2
+						C293,372.1,292.6,372.5,292,372.5z"/>
 				</g>
 				<g>
-					<path class="st0" d="M-39.9,137.7c-0.2,0-0.3-0.1-0.4-0.2c-0.2-0.2-0.2-0.6,0-0.8l6-6c0.2-0.2,0.6-0.2,0.8,0
-						c0.2,0.2,0.2,0.6,0,0.8l-6,6C-39.6,137.6-39.7,137.7-39.9,137.7z"/>
+					<path class="st0" d="M258,361.2c-0.2,0-0.5-0.1-0.7-0.3c-0.4-0.4-0.4-1,0-1.3l9.8-9.8c0.4-0.4,1-0.4,1.3,0c0.4,0.4,0.4,1,0,1.3
+						l-9.8,9.8C258.5,361.1,258.3,361.2,258,361.2z"/>
 				</g>
 				<g>
-					<path class="st0" d="M-39,146c-0.1,0-0.3-0.1-0.4-0.2c-0.2-0.2-0.2-0.6,0-0.8l6-6c0.2-0.2,0.6-0.2,0.8,0s0.2,0.6,0,0.8l-6,6
-						C-38.7,145.9-38.8,146-39,146z"/>
+					<path class="st0" d="M259.5,374.8c-0.2,0-0.5-0.1-0.7-0.3c-0.4-0.4-0.4-1,0-1.3l9.8-9.8c0.4-0.4,1-0.4,1.3,0
+						c0.4,0.4,0.4,1,0,1.3l-9.8,9.8C260,374.7,259.8,374.8,259.5,374.8z"/>
 				</g>
 				<g id="connector0pin_11_">
-					<path class="st2" d="M-19.1,163.4c-0.5,0-0.9-0.4-0.9-0.9V144c0-0.5,0.4-0.9,0.9-0.9c0.5,0,0.9,0.4,0.9,0.9v18.4
-						C-18.2,163-18.6,163.4-19.1,163.4z"/>
+					<path class="st2" d="M292,403.3c-0.8,0-1.5-0.7-1.5-1.5v-30.2c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5v30.2
+						C293.5,402.6,292.8,403.3,292,403.3z"/>
 				</g>
 				<g id="connector0terminal_11_">
-					<rect x="-19.1" y="162.5" class="st3" width="0" height="0"/>
+					<rect x="292" y="401.8" class="st3" width="0" height="0"/>
 				</g>
 				<g id="connector1pin_9_">
-					<path class="st2" d="M-19.1,126.5c-0.5,0-0.9-0.4-0.9-0.9v-18.5c0-0.5,0.4-0.9,0.9-0.9c0.5,0,0.9,0.4,0.9,0.9v18.5
-						C-18.2,126.1-18.6,126.5-19.1,126.5z"/>
+					<path class="st2" d="M292,342.8c-0.8,0-1.5-0.7-1.5-1.5v-30.2c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5v30.2
+						C293.5,342.1,292.8,342.8,292,342.8z"/>
 				</g>
 				<g id="connector1terminal_9_">
-					<polygon class="st3" points="-19.1,107.1 -19.1,107.1 -19.1,107.1 					"/>
+					<polygon class="st3" points="292,311.1 292,311.1 292,311.1 					"/>
 				</g>
 				<g>
-					<path class="st0" d="M-44,141.3l2.8-6.5l3.7,3.7L-44,141.3z"/>
+					<path class="st0" d="M251.2,367l4.5-10.6l6.1,6L251.2,367z"/>
 				</g>
 				<g>
-					<path class="st0" d="M-43.1,149.6l2.8-6.5l3.7,3.7L-43.1,149.6z"/>
+					<path class="st0" d="M252.7,380.6l4.5-10.6l6,6L252.7,380.6z"/>
 				</g>
 			</g>
 		</g>
@@ -67,12 +72,12 @@
 	<g>
 		<g transform="translate(91.6785,50.587)">
 			<g id="schematic_5_">
-				<polyline class="st4" points="103.1,54.4 103.1,51.7 97.8,47.7 109.9,40.9 97.8,34.2 109.9,27.5 97.8,20.8 109.9,14 97.8,7.3 
-					103.1,3.3 103.1,0.6 				"/>
-				<line id="connector1pin_5_" class="st5" x1="103.1" y1="67.9" x2="103.1" y2="54.4"/>
+				<polyline class="st4" points="414.3,249.8 414.3,245.3 405.5,238.7 425.3,227.7 405.5,216.7 425.3,205.6 405.5,194.6 
+					425.3,183.6 405.5,172.5 414.3,165.9 414.3,161.5 				"/>
+				<line id="connector1pin_5_" class="st5" x1="414.3" y1="271.8" x2="414.3" y2="249.8"/>
 				<g id="connector1terminal_5_">
 				</g>
-				<line id="connector0pin_5_" class="st5" x1="103.1" y1="-12.9" x2="103.1" y2="0.6"/>
+				<line id="connector0pin_5_" class="st5" x1="414.3" y1="139.4" x2="414.3" y2="161.5"/>
 				<g id="connector0terminal_5_">
 				</g>
 			</g>
@@ -81,22 +86,28 @@
 	<g>
 		<g transform="translate(46.5692,160.233)">
 			<g id="schematic_8_">
-				<path id="connector0pin_8_" class="st5" d="M148.2,27.9V14.5"/>
+				<path id="connector0pin_8_" class="st5" d="M459.4,276.5v-22.1"/>
 				<g id="connector0terminal_8_">
 				</g>
-				<path id="path4098" class="st4" d="M135.7,28.2h25.1"/>
-				<path id="path4100" class="st4" d="M139.9,33.3h16.7"/>
-				<path id="path4102" class="st4" d="M152.4,38.4h-8.3"/>
+				<path id="path4098" class="st4" d="M438.9,276.9h41.1"/>
+				<path id="path4100" class="st4" d="M445.7,285.3h27.4"/>
+				<path id="path4102" class="st4" d="M466.2,293.6h-13.7"/>
 			</g>
 		</g>
 	</g>
-	<line class="st4" x1="140.2" y1="37.7" x2="194.5" y2="37.7"/>
+	<line class="st4" x1="416.4" y1="190" x2="505.4" y2="190"/>
 </g>
-<g id="plaintext">
-	<text transform="matrix(1 0 0 1 93.6484 34.4033)" class="st6 st7">Output</text>
-	<text transform="matrix(1 0 0 1 14.6474 51.2033)" class="st6 st7">from microcontroller</text>
-	<text transform="matrix(1 0 0 1 205.541 81.4033)" class="st6 st7">220Ω</text>
+<g id="plaintext" class="st6">
+	<text transform="matrix(1 0 0 1 340.1501 234.6444)" class="st7 st8 st9">Output</text>
+	<text transform="matrix(1 0 0 1 210.656 262.182)" class="st7 st8 st9">from microcontroller</text>
+	<text transform="matrix(1 0 0 1 38.656 100.182)" class="st7 st8 st9">Digital Output</text>
+	<text transform="matrix(1 0 0 1 523.5583 311.6844)" class="st7 st8 st9">220Ω</text>
+	<text transform="matrix(1 0 0 1 535.5583 398.6916)" class="st7 st8 st9">LED</text>
 </g>
 <g id="Braille">
+	<text transform="matrix(1 0 0 1 212.781 184.182)" class="st10"><tspan x="0" y="0" class="st11 st12">⠠⠕⠥⠞⠏⠥⠞ ⠋⠗⠕⠍ </tspan><tspan x="-49.2" y="28.8" class="st11 st12">⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</tspan></text>
+	<text transform="matrix(1 0 0 1 37.656 50.182)" class="st11 st12">⠠⠙⠊⠛⠊⠞⠁⠇ ⠠⠕⠥⠞⠏⠥⠞</text>
+	<text transform="matrix(1 0 0 1 522.5583 261.6844)" class="st10"><tspan x="0" y="0" class="st11 st12">⠼⠃⠃⠚ </tspan><tspan x="73.8" y="0" class="st8 st12">Ω</tspan></text>
+	<text transform="matrix(1 0 0 1 538.5583 362.6916)" class="st11 st12">⠠⠠⠇⠑⠙</text>
 </g>
 </svg>
