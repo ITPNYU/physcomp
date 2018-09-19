@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#010101;}
@@ -13,20 +13,19 @@
 	.st7{display:inline;}
 	.st8{font-family:'MyriadPro-Regular';}
 	.st9{font-size:22.9481px;}
-	.st10{enable-background:new    ;}
-	.st11{font-family:'AppleBraille';}
-	.st12{font-size:24px;}
+	.st10{font-family:'AppleBraille';}
+	.st11{font-size:24px;}
 </style>
-<g id="Layer_1">
+<g id="Layer_1_1_">
 	<g>
 		<g transform="translate(213.948,11.3336)">
 			<g id="schematic_11_">
 				<g>
-					<path class="st0" d="M307.2,373H292c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5h15.1c0.8,0,1.5,0.7,1.5,1.5
+					<path class="st0" d="M307.2,373H292c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5h15.1c0.8,0,1.5,0.7,1.5,1.5
 						C308.6,372.4,308,373,307.2,373z"/>
 				</g>
 				<g>
-					<path class="st0" d="M292,373h-15.1c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5H292c0.8,0,1.5,0.7,1.5,1.5
+					<path class="st0" d="M292,373h-15.1c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5H292c0.8,0,1.5,0.7,1.5,1.5
 						C293.5,372.4,292.8,373,292,373z"/>
 				</g>
 				<g>
@@ -35,7 +34,7 @@
 						z"/>
 				</g>
 				<g>
-					<path class="st0" d="M292,372.5c-0.5,0-0.9-0.4-0.9-0.9v-30.2c0-0.5,0.4-0.9,0.9-0.9c0.5,0,0.9,0.4,0.9,0.9v30.2
+					<path class="st0" d="M292,372.5c-0.5,0-0.9-0.4-0.9-0.9v-30.2c0-0.5,0.4-0.9,0.9-0.9s0.9,0.4,0.9,0.9v30.2
 						C293,372.1,292.6,372.5,292,372.5z"/>
 				</g>
 				<g>
@@ -47,18 +46,18 @@
 						c0.4,0.4,0.4,1,0,1.3l-9.8,9.8C260,374.7,259.8,374.8,259.5,374.8z"/>
 				</g>
 				<g id="connector0pin_11_">
-					<path class="st2" d="M292,403.3c-0.8,0-1.5-0.7-1.5-1.5v-30.2c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5v30.2
+					<path class="st2" d="M292,403.3c-0.8,0-1.5-0.7-1.5-1.5v-30.2c0-0.8,0.7-1.5,1.5-1.5s1.5,0.7,1.5,1.5v30.2
 						C293.5,402.6,292.8,403.3,292,403.3z"/>
 				</g>
 				<g id="connector0terminal_11_">
-					<rect x="292" y="401.8" class="st3" width="0" height="0"/>
+					<path class="st3" d="M292,401.8L292,401.8L292,401.8z"/>
 				</g>
 				<g id="connector1pin_9_">
-					<path class="st2" d="M292,342.8c-0.8,0-1.5-0.7-1.5-1.5v-30.2c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5v30.2
+					<path class="st2" d="M292,342.8c-0.8,0-1.5-0.7-1.5-1.5v-30.2c0-0.8,0.7-1.5,1.5-1.5s1.5,0.7,1.5,1.5v30.2
 						C293.5,342.1,292.8,342.8,292,342.8z"/>
 				</g>
 				<g id="connector1terminal_9_">
-					<polygon class="st3" points="292,311.1 292,311.1 292,311.1 					"/>
+					<path class="st3" d="M292,311.1L292,311.1L292,311.1z"/>
 				</g>
 				<g>
 					<path class="st0" d="M251.2,367l4.5-10.6l6.1,6L251.2,367z"/>
@@ -89,7 +88,7 @@
 				<path id="connector0pin_8_" class="st5" d="M459.4,276.5v-22.1"/>
 				<g id="connector0terminal_8_">
 				</g>
-				<path id="path4098" class="st4" d="M438.9,276.9h41.1"/>
+				<path id="path4098" class="st4" d="M438.9,276.9H480"/>
 				<path id="path4100" class="st4" d="M445.7,285.3h27.4"/>
 				<path id="path4102" class="st4" d="M466.2,293.6h-13.7"/>
 			</g>
@@ -105,9 +104,11 @@
 	<text transform="matrix(1 0 0 1 535.5583 398.6916)" class="st7 st8 st9">LED</text>
 </g>
 <g id="Braille">
-	<text transform="matrix(1 0 0 1 212.781 184.182)" class="st10"><tspan x="0" y="0" class="st11 st12">⠠⠕⠥⠞⠏⠥⠞ ⠋⠗⠕⠍ </tspan><tspan x="-49.2" y="28.8" class="st11 st12">⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</tspan></text>
-	<text transform="matrix(1 0 0 1 37.656 50.182)" class="st11 st12">⠠⠙⠊⠛⠊⠞⠁⠇ ⠠⠕⠥⠞⠏⠥⠞</text>
-	<text transform="matrix(1 0 0 1 522.5583 261.6844)" class="st10"><tspan x="0" y="0" class="st11 st12">⠼⠃⠃⠚ </tspan><tspan x="73.8" y="0" class="st8 st12">Ω</tspan></text>
-	<text transform="matrix(1 0 0 1 538.5583 362.6916)" class="st11 st12">⠠⠠⠇⠑⠙</text>
+	<text transform="matrix(1 0 0 1 212.781 184.182)" class="st10 st11">⠠⠕⠥⠞⠏⠥⠞ ⠋⠗⠕⠍ </text>
+	<text transform="matrix(1 0 0 1 163.581 212.982)" class="st10 st11">⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</text>
+	<text transform="matrix(1 0 0 1 37.656 50.182)" class="st10 st11">⠠⠙⠊⠛⠊⠞⠁⠇ ⠠⠕⠥⠞⠏⠥⠞</text>
+	<text transform="matrix(1 0 0 1 522.5583 261.6844)" class="st10 st11">⠼⠃⠃⠚ </text>
+	<text transform="matrix(1 0 0 1 596.3583 261.6844)" class="st8 st11">Ω</text>
+	<text transform="matrix(1 0 0 1 538.5583 362.6916)" class="st10 st11">⠠⠠⠇⠑⠙</text>
 </g>
 </svg>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#797979;stroke-width:2;stroke-linecap:round;}
@@ -18,11 +18,10 @@
 	.st12{font-size:22.4099px;}
 	.st13{display:inline;}
 	.st14{font-size:21.4791px;}
-	.st15{enable-background:new    ;}
-	.st16{font-size:24px;}
-	.st17{font-family:'AppleBraille';}
+	.st15{font-size:24px;}
+	.st16{font-family:'AppleBraille';}
 </style>
-<g id="Layer_1">
+<g id="Layer_1_1_">
 	<line class="st0" x1="322.9" y1="195.3" x2="426.6" y2="195.3"/>
 	<g>
 		<g transform="translate(91.6785,50.587)">
@@ -91,8 +90,8 @@
 	</g>
 </g>
 <g id="plaintext" class="st9">
-	<text id="label" transform="matrix(0.9585 0 0 1 408.7725 153.727)" class="st10 st11 st12">+V</text>
-	<text id="label_2_" transform="matrix(0.9585 0 0 1 32.7725 43.727)" class="st10 st11 st12">Analog Input with Decoupling</text>
+	<text id="label" transform="matrix(0.9585 0 0 1 408.7725 153.7268)" class="st10 st11 st12">+V</text>
+	<text id="label_2_" transform="matrix(0.9585 0 0 1 32.7725 43.7268)" class="st10 st11 st12">Analog Input with Decoupling</text>
 	<g class="st13">
 		<text transform="matrix(1 0 0 1 516.5059 305.6318)" class="st6 st11 st14">Input to </text>
 		<text transform="matrix(1 0 0 1 516.5059 331.4062)" class="st6 st11 st14">microcontroller</text>
@@ -112,19 +111,26 @@
 	</g>
 </g>
 <g id="Braille">
-	<text id="label_1_" transform="matrix(0.9585 0 0 1 408.7725 153.727)" class="st15"><tspan x="0" y="0" class="st6 st11 st16">+</tspan><tspan x="14" y="0" class="st6 st17 st16">⠠⠠⠧</tspan></text>
+	<text transform="matrix(0.9585 0 0 1 408.7725 153.7268)" class="st6 st11 st15">+</text>
+	<text transform="matrix(0.9585 0 0 1 422.1914 153.7268)" class="st6 st16 st15">⠠⠠⠧</text>
 	<g>
-		<text transform="matrix(1 0 0 1 526.5059 311.4062)" class="st15"><tspan x="0" y="0" class="st6 st17 st16">⠠⠊⠝⠏⠥⠞ ⠞⠕ </tspan><tspan x="0" y="28.8" class="st6 st17 st16">⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</tspan></text>
+		<text transform="matrix(1 0 0 1 526.5059 311.4062)" class="st6 st16 st15">⠠⠊⠝⠏⠥⠞ ⠞⠕ </text>
+		<text transform="matrix(1 0 0 1 526.5059 340.2062)" class="st6 st16 st15">⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 452.0703 226.9501)" class="st15"><tspan x="0" y="0" class="st6 st17 st16">⠠⠧⠁⠗⠊⠁⠃⠇⠑ </tspan><tspan x="0" y="28.8" class="st6 st17 st16">⠠⠗⠑⠎⠊⠎⠞⠕⠗</tspan></text>
+		<text transform="matrix(1 0 0 1 452.0703 226.9501)" class="st6 st16 st15">⠠⠧⠁⠗⠊⠁⠃⠇⠑ </text>
+		<text transform="matrix(1 0 0 1 452.0703 255.7501)" class="st6 st16 st15">⠠⠗⠑⠎⠊⠎⠞⠕⠗</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 85.7764 235.6396)" class="st15"><tspan x="0" y="0" class="st6 st17 st16">⠠⠙⠑⠉⠕⠥⠏⠇⠊⠝⠛ </tspan><tspan x="16.4" y="28.8" class="st6 st17 st16">⠠⠉⠁⠏⠁⠉⠊⠞⠕⠗ </tspan><tspan x="16.4" y="57.6" class="st6 st17 st16">⠦⠞⠽⠏⠊⠉⠁⠇⠇⠽ </tspan><tspan x="32.8" y="86.4" class="st6 st17 st16">⠼⠚⠨⠁ ⠥⠠⠠⠋⠴</tspan></text>
+		<text transform="matrix(1 0 0 1 85.7764 235.6396)" class="st6 st16 st15">⠠⠙⠑⠉⠕⠥⠏⠇⠊⠝⠛ </text>
+		<text transform="matrix(1 0 0 1 102.1764 264.4396)" class="st6 st16 st15">⠠⠉⠁⠏⠁⠉⠊⠞⠕⠗ </text>
+		<text transform="matrix(1 0 0 1 102.1764 293.2396)" class="st6 st16 st15">⠦⠞⠽⠏⠊⠉⠁⠇⠇⠽ </text>
+		<text transform="matrix(1 0 0 1 118.5764 322.0396)" class="st6 st16 st15">⠼⠚⠨⠁ ⠥⠠⠠⠋⠴</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 452.0703 381.4492)" class="st15"><tspan x="0" y="0" class="st6 st17 st16">⠠⠋⠊⠭⠑⠙ </tspan><tspan x="0" y="28.8" class="st6 st17 st16">⠠⠗⠑⠎⠊⠎⠞⠕⠗</tspan></text>
+		<text transform="matrix(1 0 0 1 452.0703 381.4492)" class="st6 st16 st15">⠠⠋⠊⠭⠑⠙ </text>
+		<text transform="matrix(1 0 0 1 452.0703 410.2492)" class="st6 st16 st15">⠠⠗⠑⠎⠊⠎⠞⠕⠗</text>
 	</g>
-	<text id="label_3_" transform="matrix(0.9585 0 0 1 31.7725 34.727)" class="st6 st17 st16">⠠⠁⠝⠁⠇⠕⠛ ⠠⠊⠝⠏⠥⠞ ⠺⠊⠞⠓ ⠠⠙⠑⠉⠕⠥⠏⠇⠊⠝⠛</text>
+	<text id="label_3_" transform="matrix(0.9585 0 0 1 31.7725 54.7268)" class="st6 st16 st15">⠠⠁⠝⠁⠇⠕⠛ ⠠⠊⠝⠏⠥⠞ ⠺⠊⠞⠓ ⠠⠙⠑⠉⠕⠥⠏⠇⠊⠝⠛</text>
 </g>
 </svg>

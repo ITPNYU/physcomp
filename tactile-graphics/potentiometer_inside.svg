@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 612 1008" style="enable-background:new 0 0 612 1008;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
@@ -12,11 +12,10 @@
 	.st6{display:inline;}
 	.st7{font-family:'HelveticaNeue';}
 	.st8{font-size:18px;}
-	.st9{enable-background:new    ;}
-	.st10{font-family:'AppleBraille';}
-	.st11{font-size:24px;}
+	.st9{font-family:'AppleBraille';}
+	.st10{font-size:24px;}
 </style>
-<g id="Layer_1">
+<g id="Layer_1_2_">
 	<g id="Layer_1_1_">
 		<path class="st0" d="M222.3,535.8c-25.1-20.7-41.2-52.1-41.2-87.3c0-62.5,50.6-113.1,113.1-113.1S407.3,386,407.3,448.5
 			c0,35-15.9,66.3-40.9,87.1l0,0l-25.6-29.1l0,0c16.9-13.6,27.8-34.6,27.8-58c0-41.1-33.3-74.4-74.4-74.4s-74.4,33.3-74.4,74.4
@@ -51,9 +50,10 @@
 	<text transform="matrix(1 0 0 1 26.5386 205.6172)" class="st6 st7 st8">Inside a Potentiometer</text>
 </g>
 <g id="Braille_1_">
-	<text transform="matrix(1 0 0 1 378.3926 334.0092)" class="st9"><tspan x="0" y="0" class="st10 st11">⠠⠉⠁⠗⠃⠕⠝ </tspan><tspan x="0" y="28.8" class="st10 st11">⠗⠑⠎⠊⠎⠞⠕⠗</tspan></text>
-	<text transform="matrix(1 0 0 1 119.7852 676.4092)" class="st10 st11">⠠⠧⠁⠗⠊⠁⠃⠇⠑ ⠗⠑⠎⠊⠎⠞⠁⠝⠉⠑</text>
-	<text transform="matrix(1 0 0 1 198.5386 321.6172)" class="st10 st11">⠠⠺⠊⠏⠑⠗</text>
-	<text transform="matrix(1 0 0 1 16.5386 201.6172)" class="st10 st11">⠠⠊⠝⠎⠊⠙⠑ ⠁ ⠠⠏⠕⠞⠑⠝⠞⠊⠕⠍⠑⠞⠑⠗</text>
+	<text transform="matrix(1 0 0 1 378.3926 334.0092)" class="st9 st10">⠠⠉⠁⠗⠃⠕⠝ </text>
+	<text transform="matrix(1 0 0 1 378.3926 362.8092)" class="st9 st10">⠗⠑⠎⠊⠎⠞⠕⠗</text>
+	<text transform="matrix(1 0 0 1 119.7852 676.4092)" class="st9 st10">⠠⠧⠁⠗⠊⠁⠃⠇⠑ ⠗⠑⠎⠊⠎⠞⠁⠝⠉⠑</text>
+	<text transform="matrix(1 0 0 1 198.5386 321.6172)" class="st9 st10">⠠⠺⠊⠏⠑⠗</text>
+	<text transform="matrix(1 0 0 1 16.5386 201.6172)" class="st9 st10">⠠⠊⠝⠎⠊⠙⠑ ⠁ ⠠⠏⠕⠞⠑⠝⠞⠊⠕⠍⠑⠞⠑⠗</text>
 </g>
 </svg>
