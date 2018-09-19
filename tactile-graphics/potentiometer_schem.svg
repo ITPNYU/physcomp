@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 230.3 196" style="enable-background:new 0 0 230.3 196;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#7A7A7A;stroke-width:2;stroke-linecap:round;}
+	.st1{fill:none;stroke:#020202;stroke-width:2;stroke-linecap:round;}
+	.st2{fill:none;stroke:#7A7A7A;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#010101;stroke-width:2;stroke-linecap:round;}
+	.st4{fill:#010101;}
+	.st5{fill:none;stroke:#797979;stroke-width:2;stroke-linecap:round;}
+	.st6{fill:#020202;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:14.6067px;}
+	.st9{font-size:14px;}
+</style>
+<g id="Layer_1">
+	<g>
+		<g transform="translate(46.5692,160.233)">
+			<g id="schematic_8_">
+				<path id="connector0pin_8_" class="st0" d="M13.8,7V-6.5"/>
+				<g id="connector0terminal_8_">
+				</g>
+				<path id="path4098" class="st1" d="M1.3,7.2h25.1"/>
+				<path id="path4100" class="st1" d="M5.4,12.4h16.7"/>
+				<path id="path4102" class="st1" d="M18,17.4H9.6"/>
+			</g>
+		</g>
+	</g>
+	<line id="connector0pin_10_" class="st2" x1="60.4" y1="57.3" x2="60.4" y2="71.4"/>
+	<path class="st1" d="M47.7,56.9H73"/>
+	<g>
+		<line class="st3" x1="78.3" y1="112.6" x2="117.3" y2="112.6"/>
+		<polygon class="st4" points="80.4,115.8 69.1,112.6 80.4,109.7 		"/>
+	</g>
+	<polyline class="st3" points="60.4,140.5 60.4,137.7 54.8,133.5 67.3,126.5 54.8,119.5 67.3,112.6 54.8,105.6 67.3,98.6 54.8,91.6 
+		60.4,87.4 60.4,84.6 	"/>
+	<g id="connector1terminal_6_">
+	</g>
+	<line id="connector0pin_6_" class="st5" x1="60.4" y1="153.7" x2="60.4" y2="140.5"/>
+	<g id="connector0terminal_6_">
+	</g>
+	<line id="connector2pin_2_" class="st5" x1="60.4" y1="71.4" x2="60.4" y2="85.3"/>
+	<g id="connector2terminal_2_">
+	</g>
+</g>
+<g id="plaintext">
+	<text id="label" transform="matrix(0.9585 0 0 1 49.731 50.0686)" class="st6 st7 st8">+V</text>
+	<g>
+		<text transform="matrix(1 0 0 1 122.2852 107.3589)" class="st6 st7 st9">Input to </text>
+		<text transform="matrix(1 0 0 1 122.2852 124.1587)" class="st6 st7 st9">microcontroller</text>
+	</g>
+</g>
+<g id="Braille">
+</g>
+</svg>
