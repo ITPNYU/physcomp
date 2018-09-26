@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
@@ -13,11 +13,10 @@
 	.st7{fill:#999999;}
 	.st8{font-family:'HelveticaNeue';}
 	.st9{font-size:14px;}
-	.st10{enable-background:new    ;}
-	.st11{font-family:'AppleBraille';}
-	.st12{font-size:30px;}
+	.st10{font-family:'AppleBraille';}
+	.st11{font-size:30px;}
 </style>
-<g id="Layer_1">
+<g id="Layer_1_1_">
 	<line class="st0" x1="187.8" y1="237.6" x2="187.8" y2="468.6"/>
 	<line class="st0" x1="187.8" y1="468.6" x2="547.9" y2="468.6"/>
 	<line class="st0" x1="242.6" y1="296.9" x2="284.2" y2="296.9"/>
@@ -75,15 +74,17 @@
 	<text transform="matrix(1 0 0 1 388.5445 251.4081)" class="st7 st8 st9">Period = 1ms</text>
 	<text transform="matrix(1 0 0 1 39.6734 66.4081)" class="st7 st8 st9">Duty Cycle = 50%</text>
 	<text transform="matrix(1 0 0 1 348.0104 532.3817)" class="st7 st8 st9">Time</text>
-	<text transform="matrix(1 0 0 1 588.3649 436.2752)" class="st10"><tspan x="0" y="0" class="st7 st8 st9">Pseudo </tspan><tspan x="0" y="16.8" class="st7 st8 st9">voltage</tspan></text>
+	<text transform="matrix(1 0 0 1 588.3649 436.2752)" class="st7 st8 st9">Pseudo </text>
+	<text transform="matrix(1 0 0 1 588.3649 453.0752)" class="st7 st8 st9">voltage</text>
 	<text transform="matrix(1 0 0 1 102.5274 382.8707)" class="st7 st8 st9">Voltage</text>
 </g>
 <g id="Braille">
-	<text transform="matrix(1 0 0 1 154.0445 166.4081)" class="st11 st12">⠠⠏⠥⠇⠎⠑⠀⠺⠊⠙⠞⠓⠀⠐⠶⠀⠼⠚⠲⠑⠍⠎</text>
-	<text transform="matrix(1 0 0 1 351.5445 231.4081)" class="st11 st12">⠠⠏⠑⠗⠊⠕⠙⠀⠐⠶⠀⠼⠁⠍⠎</text>
-	<text transform="matrix(1 0 0 1 52.6734 46.4081)" class="st11 st12">⠠⠙⠥⠞⠽⠀⠠⠉⠽⠉⠇⠑⠀⠐⠶⠀⠼⠑⠚⠨⠴</text>
-	<text transform="matrix(1 0 0 1 331.0104 502.3817)" class="st11 st12">⠠⠞⠊⠍⠑</text>
-	<text transform="matrix(1 0 0 1 582.3649 368.2752)" class="st10"><tspan x="0" y="0" class="st11 st12">⠠⠏⠎⠑⠥⠙⠕⠀</tspan><tspan x="0" y="36" class="st11 st12">⠧⠕⠇⠞⠁⠛⠑</tspan></text>
-	<text transform="matrix(1 0 0 1 15.5274 342.8707)" class="st11 st12">⠠⠧⠕⠇⠞⠁⠛⠑</text>
+	<text transform="matrix(1 0 0 1 154.0445 166.4081)" class="st10 st11">⠠⠏⠥⠇⠎⠑⠀⠺⠊⠙⠞⠓⠀⠐⠶⠀⠼⠚⠲⠑⠍⠎</text>
+	<text transform="matrix(1 0 0 1 351.5445 231.4081)" class="st10 st11">⠠⠏⠑⠗⠊⠕⠙⠀⠐⠶⠀⠼⠁⠍⠎</text>
+	<text transform="matrix(1 0 0 1 52.6734 46.4081)" class="st10 st11">⠠⠙⠥⠞⠽⠀⠠⠉⠽⠉⠇⠑⠀⠐⠶⠀⠼⠑⠚⠨⠴</text>
+	<text transform="matrix(1 0 0 1 331.0104 502.3817)" class="st10 st11">⠠⠞⠊⠍⠑</text>
+	<text transform="matrix(1 0 0 1 582.3649 368.2752)" class="st10 st11">⠠⠏⠎⠑⠥⠙⠕⠀</text>
+	<text transform="matrix(1 0 0 1 582.3649 404.2752)" class="st10 st11">⠧⠕⠇⠞⠁⠛⠑</text>
+	<text transform="matrix(1 0 0 1 15.5274 342.8707)" class="st10 st11">⠠⠧⠕⠇⠞⠁⠛⠑</text>
 </g>
 </svg>

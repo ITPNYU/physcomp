@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
@@ -14,10 +14,9 @@
 	.st8{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
 	.st9{font-family:'AppleBraille';}
 	.st10{font-size:30px;}
-	.st11{enable-background:new    ;}
-	.st12{fill:#999999;}
-	.st13{font-family:'HelveticaNeue';}
-	.st14{font-size:14px;}
+	.st11{fill:#999999;}
+	.st12{font-family:'HelveticaNeue';}
+	.st13{font-size:14px;}
 </style>
 <g id="grapnics">
 	<line class="st0" x1="197.8" y1="257.6" x2="197.8" y2="488.6"/>
@@ -90,15 +89,17 @@
 	<text transform="matrix(1 0 0 1 312.5445 261.4081)" class="st9 st10">⠠⠏⠑⠗⠊⠕⠙⠀⠐⠶⠀⠼⠁⠍⠎</text>
 	<text transform="matrix(1 0 0 1 33.6734 56.4081)" class="st9 st10">⠠⠙⠥⠞⠽⠀⠠⠉⠽⠉⠇⠑⠀⠐⠶⠀⠼⠉⠉⠲⠉⠨⠴</text>
 	<text transform="matrix(1 0 0 1 332.0104 522.3817)" class="st9 st10">⠠⠞⠊⠍⠑</text>
-	<text transform="matrix(1 0 0 1 590.3649 416.2752)" class="st11"><tspan x="0" y="0" class="st9 st10">⠠⠏⠎⠑⠥⠙⠕⠀</tspan><tspan x="0" y="36" class="st9 st10">⠧⠕⠇⠞⠁⠛⠑</tspan></text>
+	<text transform="matrix(1 0 0 1 590.3649 416.2752)" class="st9 st10">⠠⠏⠎⠑⠥⠙⠕⠀</text>
+	<text transform="matrix(1 0 0 1 590.3649 452.2752)" class="st9 st10">⠧⠕⠇⠞⠁⠛⠑</text>
 	<text transform="matrix(1 0 0 1 26.9998 389.3597)" class="st9 st10">⠠⠧⠕⠇⠞⠁⠛⠑</text>
 </g>
 <g id="plaintext">
-	<text transform="matrix(1 0 0 1 218.0445 158.4081)" class="st12 st13 st14">Pulse width = 0.33ms</text>
-	<text transform="matrix(1 0 0 1 395.5445 283.4081)" class="st12 st13 st14">Period = 1ms</text>
-	<text transform="matrix(1 0 0 1 36.6734 78.4081)" class="st12 st13 st14">Duty Cycle = 33.3%</text>
-	<text transform="matrix(1 0 0 1 315.0104 544.3817)" class="st12 st13 st14">Time</text>
-	<text transform="matrix(1 0 0 1 625.3649 358.2752)" class="st11"><tspan x="0" y="0" class="st12 st13 st14">Pseudo </tspan><tspan x="0" y="16.8" class="st12 st13 st14">voltage</tspan></text>
-	<text transform="matrix(1 0 0 1 99.5274 354.8707)" class="st12 st13 st14">Voltage</text>
+	<text transform="matrix(1 0 0 1 218.0445 158.4081)" class="st11 st12 st13">Pulse width = 0.33ms</text>
+	<text transform="matrix(1 0 0 1 395.5445 283.4081)" class="st11 st12 st13">Period = 1ms</text>
+	<text transform="matrix(1 0 0 1 36.6734 78.4081)" class="st11 st12 st13">Duty Cycle = 33.3%</text>
+	<text transform="matrix(1 0 0 1 315.0104 544.3817)" class="st11 st12 st13">Time</text>
+	<text transform="matrix(1 0 0 1 625.3649 358.2752)" class="st11 st12 st13">Pseudo </text>
+	<text transform="matrix(1 0 0 1 625.3649 375.0752)" class="st11 st12 st13">voltage</text>
+	<text transform="matrix(1 0 0 1 99.5274 354.8707)" class="st11 st12 st13">Voltage</text>
 </g>
 </svg>

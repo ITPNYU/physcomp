@@ -4,109 +4,184 @@
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st1{font-family:'MyriadPro-Regular';}
-	.st2{font-size:13.7703px;}
-	.st3{font-family:'AppleBraille';}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:13.7703px;}
+	.st5{font-family:'AppleBraille';}
+	.st6{display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st7{font-size:24px;}
 </style>
 <g id="Layer_1">
-	<g>
-		<path d="M439.8,162.4c39.9,0,77.5,15.5,105.7,43.8c28.2,28.2,43.8,65.8,43.8,105.7s-15.5,77.5-43.8,105.7
-			c-28.2,28.2-65.8,43.8-105.7,43.8s-77.5-15.5-105.7-43.8c-28.2-28.2-43.8-65.8-43.8-105.7s15.5-77.5,43.8-105.7
-			S399.9,162.4,439.8,162.4 M439.8,160.4c-83.7,0-151.5,67.8-151.5,151.5s67.8,151.5,151.5,151.5s151.5-67.8,151.5-151.5
-			S523.5,160.4,439.8,160.4L439.8,160.4z"/>
-	</g>
 	<path class="st0" d="M315.3,107.6h-41.8c-6.6,0-12-5.4-12-12V74.4c0-6.6,5.4-12,12-12h41.8c6.6,0,12,5.4,12,12v21.1
 		C327.3,102.2,321.9,107.6,315.3,107.6z"/>
 	<path class="st0" d="M418.6,107.6h-41.8c-6.6,0-12-5.4-12-12V74.4c0-6.6,5.4-12,12-12h41.8c6.6,0,12,5.4,12,12v21.1
 		C430.6,102.2,425.2,107.6,418.6,107.6z"/>
-	<path class="st0" d="M616,107.6h-41.8c-6.6,0-12-5.4-12-12V74.4c0-6.6,5.4-12,12-12H616c6.6,0,12,5.4,12,12v21.1
-		C628,102.2,622.6,107.6,616,107.6z"/>
 	<circle class="st0" cx="272.3" cy="579.6" r="19.9"/>
 	<circle class="st0" cx="387.8" cy="579.6" r="19.9"/>
 	<circle class="st0" cx="485.7" cy="579.6" r="19.9"/>
 	<circle class="st0" cx="594.3" cy="579.6" r="19.9"/>
+	<path class="st0" d="M617,107.6h-41.8c-6.6,0-12-5.4-12-12V74.4c0-6.6,5.4-12,12-12H617c6.6,0,12,5.4,12,12v21.1
+		C629,102.2,623.6,107.6,617,107.6z"/>
+	<circle cx="575.4" cy="77.4" r="2.3"/>
+	<circle cx="588.4" cy="77.4" r="2.3"/>
+	<circle cx="601.4" cy="77.4" r="2.3"/>
+	<circle cx="614.5" cy="77.4" r="2.3"/>
+	<circle cx="575.4" cy="93.8" r="2.3"/>
+	<circle cx="588.4" cy="93.8" r="2.3"/>
+	<circle cx="601.4" cy="93.8" r="2.3"/>
+	<circle cx="614.5" cy="93.8" r="2.3"/>
+	<g>
+		<path d="M439.8,161.4c39.9,0,77.5,15.5,105.7,43.8c28.2,28.2,43.8,65.8,43.8,105.7s-15.5,77.5-43.8,105.7
+			c-28.2,28.2-65.8,43.8-105.7,43.8s-77.5-15.5-105.7-43.8c-28.2-28.2-43.8-65.8-43.8-105.7s15.5-77.5,43.8-105.7
+			S399.9,161.4,439.8,161.4 M439.8,159.4c-83.7,0-151.5,67.8-151.5,151.5s67.8,151.5,151.5,151.5s151.5-67.8,151.5-151.5
+			S523.5,159.4,439.8,159.4L439.8,159.4z"/>
+	</g>
+	<line class="st0" x1="439.8" y1="170.8" x2="439.8" y2="147.9"/>
+	<line class="st0" x1="407.7" y1="174.6" x2="402.6" y2="152.2"/>
+	<line class="st0" x1="378.2" y1="185.1" x2="368.2" y2="164.5"/>
+	<line class="st0" x1="351.8" y1="202" x2="337.4" y2="184.1"/>
+	<line class="st0" x1="329.7" y1="224.3" x2="311.8" y2="210"/>
+	<line class="st0" x1="313.2" y1="251" x2="292.6" y2="241"/>
+	<line class="st0" x1="303.1" y1="280.6" x2="280.7" y2="275.5"/>
+	<line class="st0" x1="299.8" y1="311.8" x2="276.8" y2="311.8"/>
+	<line class="st0" x1="303.5" y1="342.9" x2="281.2" y2="348.1"/>
+	<line class="st0" x1="314.1" y1="372.4" x2="293.4" y2="382.4"/>
+	<line class="st0" x1="330.9" y1="398.9" x2="313" y2="413.2"/>
+	<line class="st0" x1="353.3" y1="420.9" x2="339" y2="438.9"/>
+	<line class="st0" x1="379.9" y1="437.4" x2="370" y2="458.1"/>
+	<line class="st0" x1="409.6" y1="447.5" x2="404.5" y2="469.9"/>
+	<line class="st0" x1="440.8" y1="450.8" x2="440.8" y2="473.8"/>
+	<line class="st0" x1="471.9" y1="447.1" x2="477" y2="469.5"/>
+	<line class="st0" x1="501.4" y1="436.6" x2="511.4" y2="457.2"/>
+	<line class="st0" x1="527.8" y1="419.7" x2="542.2" y2="437.6"/>
+	<line class="st0" x1="549.8" y1="397.4" x2="567.8" y2="411.7"/>
+	<line class="st0" x1="566.3" y1="370.7" x2="587" y2="380.7"/>
+	<line class="st0" x1="576.5" y1="341.1" x2="598.9" y2="346.1"/>
+	<line class="st0" x1="579.8" y1="309.9" x2="602.7" y2="309.9"/>
+	<line class="st0" x1="576.1" y1="278.8" x2="598.4" y2="273.6"/>
+	<line class="st0" x1="565.5" y1="249.2" x2="586.2" y2="239.3"/>
+	<line class="st0" x1="548.7" y1="222.8" x2="566.6" y2="208.5"/>
+	<line class="st0" x1="526.3" y1="200.8" x2="540.6" y2="182.8"/>
+	<line class="st0" x1="499.7" y1="184.3" x2="509.6" y2="163.6"/>
+	<line class="st0" x1="470" y1="174.1" x2="475.1" y2="151.8"/>
 </g>
-<g id="plaintext">
-	<text transform="matrix(1 0 0 1 485.9669 145.9698)" class="st1 st2">Transistor Check (hFE)</text>
-	<text transform="matrix(1 0 0 1 430.8859 136.0245)" class="st1 st2">Off</text>
-	<text transform="matrix(1 0 0 1 528.0431 81.6241)" class="st1 st2">NPN</text>
-	<text transform="matrix(1 0 0 1 528.0431 99.9845)" class="st1 st2">PNP</text>
-	<text transform="matrix(1 0 0 1 571.6486 54.9327)" class="st1 st2">E  B  C  E</text>
-	<text transform="matrix(1 0 0 1 374.275 28.9225)"><tspan x="0" y="0" class="st1 st2">True/Avg</tspan><tspan x="0" y="16.5" class="st1 st2">speaker</tspan></text>
-	<text transform="matrix(1 0 0 1 277.1183 28.1573)"><tspan x="0" y="0" class="st1 st2">Hold/</tspan><tspan x="0" y="16.5" class="st1 st2">Select</tspan></text>
-	<text transform="matrix(1 0 0 1 30.0187 41.9279)"><tspan x="0" y="0" class="st1 st2">Winhy 890s</tspan><tspan x="0" y="16.5" class="st1 st2">Talking Multimeter</tspan></text>
-	<text transform="matrix(1 0 0 1 513.5079 160.505)" class="st1 st2">200mV</text>
-	<text transform="matrix(1 0 0 1 554.8185 182.6906)" class="st1 st2">2V</text>
-	<text transform="matrix(1 0 0 1 576.2384 209.4659)" class="st1 st2">20V</text>
-	<text transform="matrix(1 0 0 1 594.5988 237.0065)" class="st1 st2">200V</text>
-	<text transform="matrix(1 0 0 1 609.8995 269.1368)" class="st1 st2">1000V</text>
-	<text transform="matrix(1 0 0 1 613.7247 311.9777)" class="st1 st2">750V</text>
-	<text transform="matrix(1 0 0 1 613.7247 350.9933)" class="st1 st2">200V</text>
-	<text transform="matrix(1 0 0 1 599.1886 393.0695)" class="st1 st2">20V</text>
-	<text transform="matrix(1 0 0 1 581.5939 424.4347)" class="st1 st2">2V</text>
-	<text transform="matrix(1 0 0 1 554.8185 455.0353)" class="st1 st2">20uA</text>
-	<text transform="matrix(1 0 0 1 513.5079 473.3956)" class="st1 st2">2 mA</text>
-	<text transform="matrix(1 0 0 1 473.7267 486.3468)" class="st1 st2">20mA</text>
-	<text transform="matrix(1 0 0 1 344.4396 473.3956)" class="st1 st2">10A</text>
-	<text transform="matrix(1 0 0 1 376.5699 481.046)" class="st1 st2">10A</text>
-	<text transform="matrix(1 0 0 1 270.233 426.4347)" class="st1 st2">20mA</text>
-	<text transform="matrix(1 0 0 1 294.7135 448.1505)" class="st1 st2">200mA</text>
-	<text transform="matrix(1 0 0 1 255.6979 390.0089)" class="st1 st2">NCV</text>
-	<text transform="matrix(1 0 0 1 211.3268 315.8029)" class="st1 st2">200 ohms</text>
-	<text transform="matrix(1 0 0 1 224.3322 277.5519)" class="st1 st2">2 kOhms</text>
-	<text transform="matrix(1 0 0 1 225.0973 244.6564)" class="st1 st2">20kOhms</text>
-	<text transform="matrix(1 0 0 1 238.8673 209.4659)" class="st1 st2">200kOhms</text>
-	<text transform="matrix(1 0 0 1 280.1783 182.6906)" class="st1 st2">2MOhms</text>
-	<text transform="matrix(1 0 0 1 300.8336 163.3302)" class="st1 st2">20Mohms</text>
-	<text transform="matrix(1 0 0 1 422.4708 491.756)" class="st1 st2">200mA</text>
-	<text transform="matrix(1 0 0 1 609.8995 187.2804)"><tspan x="0" y="0" class="st1 st2">Voltage</tspan><tspan x="44.3" y="0" class="st3 st2"> </tspan><tspan x="49" y="0" class="st1 st2">DC</tspan></text>
-	<text transform="matrix(1 0 0 1 617.5499 409.8995)"><tspan x="0" y="0" class="st1 st2">Voltage</tspan><tspan x="44.3" y="0" class="st3 st2"> </tspan><tspan x="49" y="0" class="st1 st2">AC</tspan></text>
-	<text transform="matrix(1 0 0 1 544.8732 480.2804)" class="st1 st2">Amperage DC</text>
-	<text transform="matrix(1 0 0 1 235.0421 493.3956)" class="st1 st2">Amperage AC</text>
-	<text transform="matrix(1 0 0 1 131.7657 351.7589)" class="st1 st2">Diode check/continuity</text>
-	<text transform="matrix(1 0 0 1 159.8517 202.6354)" class="st1 st2">Resistance</text>
-	<text transform="matrix(1 0 0 1 262.0421 543.5372)" class="st1 st2">10A</text>
-	<text transform="matrix(1 0 0 1 373.5099 543.7775)" class="st1 st2">mA</text>
-	<text transform="matrix(1 0 0 1 473.7267 543.7775)" class="st1 st2">COM</text>
-	<text transform="matrix(1 0 0 1 560.5372 532.7775)"><tspan x="0" y="0" class="st1 st2">V, ohms, Hz, </tspan><tspan x="-17.8" y="16.5" class="st1 st2">diode, capacitance</tspan></text>
-	<text transform="matrix(1 0 0 1 294.7135 136.0245)" class="st1 st2">Capacitance 20 mF</text>
-	<line class="st0" x1="439.8" y1="171.8" x2="439.8" y2="148.9"/>
-	<line class="st0" x1="407.7" y1="175.6" x2="402.6" y2="153.2"/>
-	<line class="st0" x1="378.2" y1="186.1" x2="368.2" y2="165.5"/>
-	<line class="st0" x1="351.8" y1="203" x2="337.4" y2="185.1"/>
-	<line class="st0" x1="329.7" y1="225.3" x2="311.8" y2="211"/>
-	<line class="st0" x1="313.2" y1="252" x2="292.6" y2="242"/>
-	<line class="st0" x1="303.1" y1="281.6" x2="280.7" y2="276.5"/>
-	<line class="st0" x1="299.8" y1="312.8" x2="276.8" y2="312.8"/>
-	<line class="st0" x1="303.5" y1="343.9" x2="281.2" y2="349.1"/>
-	<line class="st0" x1="314.1" y1="373.4" x2="293.4" y2="383.4"/>
-	<line class="st0" x1="330.9" y1="399.9" x2="313" y2="414.2"/>
-	<line class="st0" x1="353.3" y1="421.9" x2="339" y2="439.9"/>
-	<line class="st0" x1="379.9" y1="438.4" x2="370" y2="459.1"/>
-	<line class="st0" x1="409.6" y1="448.5" x2="404.5" y2="470.9"/>
-	<line class="st0" x1="440.8" y1="451.8" x2="440.8" y2="474.8"/>
-	<line class="st0" x1="471.9" y1="448.1" x2="477" y2="470.5"/>
-	<line class="st0" x1="501.4" y1="437.6" x2="511.4" y2="458.2"/>
-	<line class="st0" x1="527.8" y1="420.7" x2="542.2" y2="438.6"/>
-	<line class="st0" x1="549.8" y1="398.4" x2="567.8" y2="412.7"/>
-	<line class="st0" x1="566.3" y1="371.7" x2="587" y2="381.7"/>
-	<line class="st0" x1="576.5" y1="342.1" x2="598.9" y2="347.1"/>
-	<line class="st0" x1="579.8" y1="310.9" x2="602.7" y2="310.9"/>
-	<line class="st0" x1="576.1" y1="279.8" x2="598.4" y2="274.6"/>
-	<line class="st0" x1="565.5" y1="250.2" x2="586.2" y2="240.3"/>
-	<line class="st0" x1="548.7" y1="223.8" x2="566.6" y2="209.5"/>
-	<line class="st0" x1="526.3" y1="201.8" x2="540.6" y2="183.8"/>
-	<line class="st0" x1="499.7" y1="185.3" x2="509.6" y2="164.6"/>
-	<line class="st0" x1="470" y1="175.1" x2="475.1" y2="152.8"/>
-	<circle cx="574.4" cy="77.4" r="2.3"/>
-	<circle cx="587.4" cy="77.4" r="2.3"/>
-	<circle cx="600.4" cy="77.4" r="2.3"/>
-	<circle cx="613.5" cy="77.4" r="2.3"/>
-	<circle cx="574.4" cy="93.8" r="2.3"/>
-	<circle cx="587.4" cy="93.8" r="2.3"/>
-	<circle cx="600.4" cy="93.8" r="2.3"/>
-	<circle cx="613.5" cy="93.8" r="2.3"/>
+<g id="plaintext" class="st1">
+	<text transform="matrix(1 0 0 1 485.9669 145.9698)" class="st2 st3 st4">Transistor Check (hFE)</text>
+	<text transform="matrix(1 0 0 1 430.8859 136.0245)" class="st2 st3 st4">Off</text>
+	<text transform="matrix(1 0 0 1 528.0431 81.6241)" class="st2 st3 st4">NPN</text>
+	<text transform="matrix(1 0 0 1 528.0431 99.9845)" class="st2 st3 st4">PNP</text>
+	<text transform="matrix(1 0 0 1 571.6486 54.9327)" class="st2 st3 st4">E  B  C  E</text>
+	<text transform="matrix(1 0 0 1 374.275 28.9225)" class="st2"><tspan x="0" y="0" class="st3 st4">True/Avg</tspan><tspan x="0" y="16.5" class="st3 st4">speaker</tspan></text>
+	<text transform="matrix(1 0 0 1 277.1183 28.1573)" class="st2"><tspan x="0" y="0" class="st3 st4">Hold/</tspan><tspan x="0" y="16.5" class="st3 st4">Select</tspan></text>
+	<text transform="matrix(1 0 0 1 30.0187 41.9279)" class="st2"><tspan x="0" y="0" class="st3 st4">Winhy 890s</tspan><tspan x="0" y="16.5" class="st3 st4">Talking Multimeter</tspan></text>
+	<text transform="matrix(1 0 0 1 513.5079 160.505)" class="st2 st3 st4">200mV</text>
+	<text transform="matrix(1 0 0 1 554.8185 182.6906)" class="st2 st3 st4">2V</text>
+	<text transform="matrix(1 0 0 1 576.2384 209.4659)" class="st2 st3 st4">20V</text>
+	<text transform="matrix(1 0 0 1 594.5988 237.0065)" class="st2 st3 st4">200V</text>
+	<text transform="matrix(1 0 0 1 609.8995 269.1368)" class="st2 st3 st4">1000V</text>
+	<text transform="matrix(1 0 0 1 613.7247 311.9777)" class="st2 st3 st4">750V</text>
+	<text transform="matrix(1 0 0 1 613.7247 350.9933)" class="st2 st3 st4">200V</text>
+	<text transform="matrix(1 0 0 1 599.1886 393.0695)" class="st2 st3 st4">20V</text>
+	<text transform="matrix(1 0 0 1 581.5939 424.4347)" class="st2 st3 st4">2V</text>
+	<text transform="matrix(1 0 0 1 554.8185 455.0353)" class="st2 st3 st4">20uA</text>
+	<text transform="matrix(1 0 0 1 513.5079 473.3956)" class="st2 st3 st4">2 mA</text>
+	<text transform="matrix(1 0 0 1 473.7267 486.3468)" class="st2 st3 st4">20mA</text>
+	<text transform="matrix(1 0 0 1 344.4396 473.3956)" class="st2 st3 st4">10A</text>
+	<text transform="matrix(1 0 0 1 376.5699 481.046)" class="st2 st3 st4">10A</text>
+	<text transform="matrix(1 0 0 1 270.233 426.4347)" class="st2 st3 st4">20mA</text>
+	<text transform="matrix(1 0 0 1 294.7135 448.1505)" class="st2 st3 st4">200mA</text>
+	<text transform="matrix(1 0 0 1 255.6979 390.0089)" class="st2 st3 st4">NCV</text>
+	<text transform="matrix(1 0 0 1 211.3268 315.8029)" class="st2 st3 st4">200 ohms</text>
+	<text transform="matrix(1 0 0 1 224.3322 277.5519)" class="st2 st3 st4">2 kOhms</text>
+	<text transform="matrix(1 0 0 1 225.0973 244.6564)" class="st2 st3 st4">20kOhms</text>
+	<text transform="matrix(1 0 0 1 238.8673 209.4659)" class="st2 st3 st4">200kOhms</text>
+	<text transform="matrix(1 0 0 1 280.1783 182.6906)" class="st2 st3 st4">2MOhms</text>
+	<text transform="matrix(1 0 0 1 300.8336 163.3302)" class="st2 st3 st4">20Mohms</text>
+	<text transform="matrix(1 0 0 1 422.4708 491.756)" class="st2 st3 st4">200mA</text>
+	<text transform="matrix(1 0 0 1 609.8995 187.2804)" class="st2"><tspan x="0" y="0" class="st3 st4">Voltage</tspan><tspan x="44.3" y="0" class="st5 st4"> </tspan><tspan x="49" y="0" class="st3 st4">DC</tspan></text>
+	<text transform="matrix(1 0 0 1 617.5499 409.8995)" class="st2"><tspan x="0" y="0" class="st3 st4">Voltage</tspan><tspan x="44.3" y="0" class="st5 st4"> </tspan><tspan x="49" y="0" class="st3 st4">AC</tspan></text>
+	<text transform="matrix(1 0 0 1 544.8732 480.2804)" class="st2 st3 st4">Amperage DC</text>
+	<text transform="matrix(1 0 0 1 235.0421 493.3956)" class="st2 st3 st4">Amperage AC</text>
+	<text transform="matrix(1 0 0 1 131.7657 351.7589)" class="st2 st3 st4">Diode check/continuity</text>
+	<text transform="matrix(1 0 0 1 159.8517 202.6354)" class="st2 st3 st4">Resistance</text>
+	<text transform="matrix(1 0 0 1 262.0421 543.5372)" class="st2 st3 st4">10A</text>
+	<text transform="matrix(1 0 0 1 373.5099 543.7775)" class="st2 st3 st4">mA</text>
+	<text transform="matrix(1 0 0 1 473.7267 543.7775)" class="st2 st3 st4">COM</text>
+	<text transform="matrix(1 0 0 1 560.5372 532.7775)" class="st2"><tspan x="0" y="0" class="st3 st4">V, ohms, Hz, </tspan><tspan x="-17.8" y="16.5" class="st3 st4">diode, capacitance</tspan></text>
+	<text transform="matrix(1 0 0 1 294.7135 136.0245)" class="st2 st3 st4">Capacitance 20 mF</text>
+	<line class="st6" x1="439.8" y1="171.8" x2="439.8" y2="148.9"/>
+	<line class="st6" x1="407.7" y1="175.6" x2="402.6" y2="153.2"/>
+	<line class="st6" x1="378.2" y1="186.1" x2="368.2" y2="165.5"/>
+	<line class="st6" x1="351.8" y1="203" x2="337.4" y2="185.1"/>
+	<line class="st6" x1="329.7" y1="225.3" x2="311.8" y2="211"/>
+	<line class="st6" x1="313.2" y1="252" x2="292.6" y2="242"/>
+	<line class="st6" x1="303.1" y1="281.6" x2="280.7" y2="276.5"/>
+	<line class="st6" x1="299.8" y1="312.8" x2="276.8" y2="312.8"/>
+	<line class="st6" x1="303.5" y1="343.9" x2="281.2" y2="349.1"/>
+	<line class="st6" x1="314.1" y1="373.4" x2="293.4" y2="383.4"/>
+	<line class="st6" x1="330.9" y1="399.9" x2="313" y2="414.2"/>
+	<line class="st6" x1="353.3" y1="421.9" x2="339" y2="439.9"/>
+	<line class="st6" x1="379.9" y1="438.4" x2="370" y2="459.1"/>
+	<line class="st6" x1="409.6" y1="448.5" x2="404.5" y2="470.9"/>
+	<line class="st6" x1="440.8" y1="451.8" x2="440.8" y2="474.8"/>
+	<line class="st6" x1="471.9" y1="448.1" x2="477" y2="470.5"/>
+	<line class="st6" x1="501.4" y1="437.6" x2="511.4" y2="458.2"/>
+	<line class="st6" x1="527.8" y1="420.7" x2="542.2" y2="438.6"/>
+	<line class="st6" x1="549.8" y1="398.4" x2="567.8" y2="412.7"/>
+	<line class="st6" x1="566.3" y1="371.7" x2="587" y2="381.7"/>
+	<line class="st6" x1="576.5" y1="342.1" x2="598.9" y2="347.1"/>
+	<line class="st6" x1="579.8" y1="310.9" x2="602.7" y2="310.9"/>
+	<line class="st6" x1="576.1" y1="279.8" x2="598.4" y2="274.6"/>
+	<line class="st6" x1="565.5" y1="250.2" x2="586.2" y2="240.3"/>
+	<line class="st6" x1="548.7" y1="223.8" x2="566.6" y2="209.5"/>
+	<line class="st6" x1="526.3" y1="201.8" x2="540.6" y2="183.8"/>
+	<line class="st6" x1="499.7" y1="185.3" x2="509.6" y2="164.6"/>
+	<line class="st6" x1="470" y1="175.1" x2="475.1" y2="152.8"/>
 </g>
 <g id="Braille">
+	<text transform="matrix(1 0 0 1 495.9669 145.9698)" class="st5 st7">⠓⠠⠠⠋⠑</text>
+	<text transform="matrix(1 0 0 1 430.8859 136.0245)" class="st5 st7">⠠⠕⠋⠋</text>
+	<text transform="matrix(1 0 0 1 508.0431 83.6241)" class="st3 st7">NPN</text>
+	<text transform="matrix(1 0 0 1 508.0431 101.9845)" class="st3 st7">PNP</text>
+	<text transform="matrix(1 0 0 1 571.6486 54.9327)"><tspan x="0" y="0" class="st3 st7">E</tspan><tspan x="11.8" y="0" class="st5 st7">  </tspan><tspan x="28.2" y="0" class="st3 st7">B</tspan><tspan x="41.2" y="0" class="st5 st7">  </tspan><tspan x="57.6" y="0" class="st3 st7">C</tspan><tspan x="71.5" y="0" class="st5 st7">  </tspan><tspan x="88" y="0" class="st3 st7">E</tspan></text>
+	<text transform="matrix(1 0 0 1 374.275 28.9225)"><tspan x="0" y="0" class="st3 st7">True/Avg</tspan><tspan x="0" y="28.8" class="st3 st7">speaker</tspan></text>
+	<text transform="matrix(1 0 0 1 277.1183 28.1573)"><tspan x="0" y="0" class="st3 st7">Hold/</tspan><tspan x="0" y="28.8" class="st3 st7">Select</tspan></text>
+	<text transform="matrix(1 0 0 1 30.0187 41.9279)"><tspan x="0" y="0" class="st3 st7">Winhy</tspan><tspan x="63.9" y="0" class="st5 st7"> </tspan><tspan x="72.1" y="0" class="st3 st7">890s</tspan><tspan x="0" y="28.8" class="st3 st7">Talking</tspan><tspan x="72.8" y="28.8" class="st5 st7"> </tspan><tspan x="81" y="28.8" class="st3 st7">Multimeter</tspan></text>
+	<text transform="matrix(1 0 0 1 513.5079 160.505)" class="st5 st7">⠼⠃⠚⠚ ⠍⠠⠠⠧</text>
+	<text transform="matrix(1 0 0 1 554.8185 182.6906)" class="st5 st7">⠃⠠⠠⠧</text>
+	<text transform="matrix(1 0 0 1 576.2384 209.4659)" class="st5 st7">⠼⠃⠚ ⠠⠠⠧</text>
+	<text transform="matrix(1 0 0 1 594.5988 237.0065)" class="st5 st7">⠼⠃⠚⠚ ⠠⠠⠧</text>
+	<text transform="matrix(1 0 0 1 609.8995 269.1368)" class="st5 st7">⠼⠁⠚⠚⠚ ⠠⠠⠧</text>
+	<text transform="matrix(1 0 0 1 613.7247 317.9777)" class="st5 st7">⠼⠛⠑⠚ ⠠⠠⠧</text>
+	<text transform="matrix(1 0 0 1 613.7247 350.9933)" class="st5 st7">⠼⠃⠚⠚ ⠠⠠⠧</text>
+	<text transform="matrix(1 0 0 1 599.1886 393.0695)" class="st5 st7">⠼⠃⠚ ⠠⠠⠧</text>
+	<text transform="matrix(1 0 0 1 581.5939 425.4347)" class="st5 st7">⠃⠠⠠⠧</text>
+	<text transform="matrix(1 0 0 1 554.8185 455.0353)" class="st5 st7">⠼⠃⠚ ⠥⠠⠠⠁</text>
+	<text transform="matrix(1 0 0 1 513.5079 473.3956)" class="st5 st7">⠃⠍⠠⠠⠁</text>
+	<text transform="matrix(1 0 0 1 473.7267 486.3468)" class="st5 st7">⠼⠃⠚ ⠍⠠⠠⠁</text>
+	<text transform="matrix(1 0 0 1 254.4396 473.3956)" class="st5 st7">⠼⠁⠚ ⠠⠠⠁</text>
+	<text transform="matrix(1 0 0 1 306.5699 501.046)" class="st5 st7">⠼⠁⠚ ⠠⠠⠁</text>
+	<text transform="matrix(1 0 0 1 180.233 426.4347)" class="st5 st7">⠼⠃⠚ ⠍⠠⠠⠁</text>
+	<text transform="matrix(1 0 0 1 184.7135 448.1505)" class="st5 st7">⠼⠃⠚⠚ ⠍⠠⠠⠁</text>
+	<text transform="matrix(1 0 0 1 196.6979 390.0089)" class="st5 st7">⠠⠠⠝⠉⠧</text>
+	<text transform="matrix(1 0 0 1 121.3268 315.8029)" class="st5 st7">⠼⠃⠚⠚ ⠕⠓⠍⠎</text>
+	<text transform="matrix(1 0 0 1 154.3322 277.5519)" class="st5 st7">⠃ ⠅⠠⠕⠓⠍⠎</text>
+	<text transform="matrix(1 0 0 1 125.0973 244.6564)" class="st5 st7">⠼⠃⠚ ⠅⠠⠕⠓⠍⠎</text>
+	<text transform="matrix(1 0 0 1 128.8673 209.4659)" class="st5 st7">⠼⠃⠚⠚ ⠅⠠⠕⠓⠍⠎</text>
+	<text transform="matrix(1 0 0 1 220.1783 182.6906)" class="st5 st7">⠃⠠⠍⠠⠕⠓⠍⠎</text>
+	<text transform="matrix(1 0 0 1 240.8336 163.3302)" class="st5 st7">⠼⠃⠚ ⠠⠍⠕⠓⠍⠎</text>
+	<text transform="matrix(1 0 0 1 432.4708 511.756)" class="st5 st7">⠼⠃⠚⠚ ⠍⠠⠠⠁</text>
+	<text transform="matrix(1 0 0 1 689.8995 157.2804)"><tspan x="0" y="0" class="st3 st7">Voltage</tspan><tspan x="77.2" y="0" class="st5 st7"> </tspan><tspan x="85.4" y="0" class="st3 st7">DC</tspan></text>
+	<text transform="matrix(1 0 0 1 777.5499 409.8995)"><tspan x="0" y="0" class="st3 st7">Voltage</tspan><tspan x="77.2" y="0" class="st5 st7"> </tspan><tspan x="85.4" y="0" class="st3 st7">AC</tspan></text>
+	<text transform="matrix(1 0 0 1 704.8732 480.2804)"><tspan x="0" y="0" class="st3 st7">Amperage</tspan><tspan x="105.2" y="0" class="st5 st7"> </tspan><tspan x="113.4" y="0" class="st3 st7">DC</tspan></text>
+	<text transform="matrix(1 0 0 1 35.0421 503.3956)"><tspan x="0" y="0" class="st3 st7">Amperage</tspan><tspan x="105.2" y="0" class="st5 st7"> </tspan><tspan x="113.4" y="0" class="st3 st7">AC</tspan></text>
+	<text transform="matrix(1 0 0 1 -98.2343 351.7589)" class="st5 st7">⠠⠙⠊⠕⠙⠑ ⠉⠓⠑⠉⠅⠌⠉⠕⠝⠞⠊⠝⠥⠊⠞⠽</text>
+	<text transform="matrix(1 0 0 1 69.8517 202.6354)" class="st3 st7">Resistance</text>
+	<text transform="matrix(1 0 0 1 262.0421 543.5372)" class="st3 st7">10A</text>
+	<text transform="matrix(1 0 0 1 373.5099 543.7775)" class="st3 st7">mA</text>
+	<text transform="matrix(1 0 0 1 473.7267 543.7775)" class="st3 st7">COM</text>
+	<text transform="matrix(1 0 0 1 529.1193 532.7775)"><tspan x="0" y="0" class="st3 st7">V,</tspan><tspan x="18.4" y="0" class="st5 st7"> </tspan><tspan x="26.6" y="0" class="st3 st7">ohms,</tspan><tspan x="87.5" y="0" class="st5 st7"> </tspan><tspan x="95.7" y="0" class="st3 st7">Hz,</tspan><tspan x="126.6" y="0" class="st5 st7"> </tspan><tspan x="-27.9" y="28.8" class="st3 st7">diode,</tspan><tspan x="35" y="28.8" class="st5 st7"> </tspan><tspan x="43.2" y="28.8" class="st3 st7">capacitance</tspan></text>
+	<text transform="matrix(1 0 0 1 34.7135 136.0245)" class="st5 st7">⠠⠉⠁⠏⠁⠉⠊⠞⠁⠝⠉⠑ ⠼⠃⠚ ⠍⠠⠠⠋</text>
 </g>
 </svg>
