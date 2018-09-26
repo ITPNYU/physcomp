@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:11.0702px;}
+	.st6{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st7{fill:#999999;stroke:#787878;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st8{fill:#999999;stroke:#000000;stroke-width:2;stroke-linecap:round;}
+	.st9{fill:#999999;}
+	.st10{font-size:14.2302px;}
+	.st11{font-family:'HelveticaNeue';}
+	.st12{font-size:18px;}
+	.st13{font-family:'AppleBraille';}
+	.st14{font-size:30px;}
+	.st15{enable-background:new    ;}
+</style>
+<g id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg">
+	<path class="st0" d="M519,239.5c0-6.9-3.8-12.8-9.4-15.9h2.6v-18.2h-11.4h-11.4v18.2h2.6c-5.6,3.1-9.4,9.1-9.4,15.9
+		c0,6.9,3.8,12.8,9.4,15.9h-2.6v18.2h11.4h11.4v-18.2h-2.6C515.2,252.4,519,246.4,519,239.5z"/>
+	<line class="st1" x1="489.4" y1="205.4" x2="489.4" y2="223.6"/>
+	<line class="st1" x1="489.4" y1="205.4" x2="500.8" y2="205.4"/>
+	<line class="st1" x1="500.8" y1="205.4" x2="512.2" y2="205.4"/>
+	<line class="st1" x1="512.2" y1="205.4" x2="512.2" y2="223.6"/>
+	<line class="st1" x1="512.2" y1="273.7" x2="512.2" y2="255.5"/>
+	<line class="st1" x1="512.2" y1="273.7" x2="500.8" y2="273.7"/>
+	<line class="st1" x1="500.8" y1="273.7" x2="489.4" y2="273.7"/>
+	<line class="st1" x1="489.4" y1="273.7" x2="489.4" y2="255.5"/>
+	<line id="connector0pin" class="st2" x1="500.8" y1="194" x2="500.8" y2="205.4"/>
+	<line id="connector1pin" class="st2" x1="500.8" y1="285.1" x2="500.8" y2="273.7"/>
+	<circle class="st0" cx="500.8" cy="239.5" r="18.2"/>
+	<g>
+		<g transform="matrix(0, 1, -1, 0, -6.5263, 2.7464)">
+			<text transform="matrix(0 -1 1 0 213.5079 -504.2936)" class="st3 st4 st5">+</text>
+		</g>
+	</g>
+	<g>
+		<g transform="matrix(0, 1, -1, 0, -13.1007, 3.0257)">
+			<text transform="matrix(0 -1 1 0 266.1563 -511.7489)" class="st3 st4 st5">-</text>
+		</g>
+	</g>
+	<circle class="st0" cx="500.6" cy="368.4" r="1.1"/>
+	<circle class="st0" cx="500.6" cy="334.3" r="1.1"/>
+	<rect x="475.5" y="362.7" class="st3" width="6.8" height="11.4"/>
+	<rect x="475.5" y="328.6" class="st3" width="6.8" height="11.4"/>
+	<rect x="475.5" y="343.4" class="st3" width="6.8" height="15.9"/>
+	<line class="st1" x1="467.8" y1="329.7" x2="467.8" y2="374.1"/>
+	<line class="st1" x1="500.6" y1="334.3" x2="482.6" y2="334.3"/>
+	<line class="st1" x1="500.6" y1="351.3" x2="500.6" y2="368.4"/>
+	<line class="st1" x1="482.4" y1="368.4" x2="500.6" y2="368.4"/>
+	<line class="st1" x1="500.6" y1="328.6" x2="500.6" y2="334.3"/>
+	<line class="st1" x1="500.6" y1="334.3" x2="523.4" y2="334.3"/>
+	<line class="st1" x1="523.4" y1="368.4" x2="500.6" y2="368.4"/>
+	<line class="st1" x1="500.6" y1="368.4" x2="500.6" y2="374.1"/>
+	<line class="st1" x1="466.4" y1="351.3" x2="455.1" y2="351.3"/>
+	<line class="st1" x1="482.4" y1="351.3" x2="493.8" y2="355.9"/>
+	<line class="st1" x1="493.8" y1="355.9" x2="493.8" y2="346.8"/>
+	<line class="st1" x1="493.8" y1="346.8" x2="482.4" y2="351.3"/>
+	<line class="st1" x1="492.6" y1="351.3" x2="500.6" y2="351.3"/>
+	<line class="st1" x1="492.6" y1="349.1" x2="484.7" y2="351.3"/>
+	<line class="st1" x1="484.7" y1="351.3" x2="492.6" y2="353.6"/>
+	<line class="st1" x1="492.6" y1="353.6" x2="492.6" y2="351.3"/>
+	<line class="st1" x1="492.6" y1="351.3" x2="490.4" y2="351.3"/>
+	<line class="st1" x1="523.4" y1="334.3" x2="523.4" y2="344.5"/>
+	<line class="st1" x1="523.4" y1="344.5" x2="523.4" y2="368.4"/>
+	<line class="st1" x1="523.4" y1="344.5" x2="517.7" y2="357"/>
+	<line class="st1" x1="517.7" y1="357" x2="529.1" y2="357"/>
+	<line class="st1" x1="529.1" y1="357" x2="523.4" y2="344.5"/>
+	<line class="st1" x1="517.7" y1="344.5" x2="523.4" y2="344.5"/>
+	<line class="st1" x1="523.4" y1="344.5" x2="529.1" y2="344.5"/>
+	<line id="connector1pin_1_" class="st1" x1="500.6" y1="305.8" x2="500.6" y2="328.6"/>
+	<line id="connector0pin_1_" class="st1" x1="432.3" y1="351.3" x2="455.1" y2="351.3"/>
+	<line id="connector2pin" class="st1" x1="500.6" y1="396.9" x2="500.6" y2="374.1"/>
+	<path id="connector0pin_2_" class="st1" d="M501,436.9v-22.8"/>
+	<path id="path4098" class="st1" d="M479.8,437.3h42.4"/>
+	<path id="path4100" class="st1" d="M486.9,446h28.3"/>
+	<path id="path4102" class="st1" d="M508.1,454.6h-14.1"/>
+	<line class="st1" x1="500.6" y1="305.8" x2="500.8" y2="284.6"/>
+	<line class="st1" x1="501" y1="414.4" x2="500.6" y2="396.9"/>
+	<g id="Top_Left_Corner_Strokes">
+		<g>
+			<line class="st6" x1="22.7" y1="0" x2="0.5" y2="22.2"/>
+			<line class="st6" x1="30.6" y1="0" x2="0" y2="30.6"/>
+		</g>
+	</g>
+	<line id="connector0pin_10_" class="st7" x1="500.6" y1="173.2" x2="500.6" y2="196"/>
+	<path class="st8" d="M479.2,172.5h42.7"/>
+</g>
+<g id="plaintext">
+	<text id="label_3_" transform="matrix(1 0 0 1 515.1325 106.5433)" class="st9 st4 st10">+V</text>
+	<text transform="matrix(1 0 0 1 78.0056 289.0648)" class="st9 st11 st12">To microcontroller</text>
+	<text transform="matrix(1 0 0 1 142.6236 310.6648)" class="st9 st11 st12">output pin</text>
+	<text transform="matrix(1 0 0 1 356.0837 447.184)" class="st9 st11 st12">Transistor</text>
+	<text transform="matrix(1 0 0 1 377.802 280.184)" class="st9 st11 st12">Motor</text>
+	<text transform="matrix(1 0 0 1 590.6599 396.4667)" class="st9 st11 st12">Diode</text>
+	<text transform="matrix(1 0 0 1 68.802 79.184)" class="st9 st11 st12">MOSFET transistor motor control</text>
+</g>
+<g id="Braille">
+	<g id="connector0terminal_1_">
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_2_" transform="matrix(1 0 0 1 445.634 150.5555)" class="st13 st14">⠐⠖⠠⠧</text>
+	</g>
+	<text transform="matrix(1 0 0 1 35.3572 339.0648)" class="st15"><tspan x="0" y="0" class="st13 st14">⠠⠞⠕⠀⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</tspan><tspan x="184.6" y="36" class="st13 st14">⠕⠥⠞⠏⠥⠞⠀⠏⠊⠝</tspan></text>
+	<text transform="matrix(1 0 0 1 260.0837 417.184)" class="st13 st14">⠠⠞⠗⠁⠝⠎⠊⠎⠞⠕⠗</text>
+	<text transform="matrix(1 0 0 1 341.802 250.184)" class="st13 st14">⠠⠍⠕⠞⠕⠗</text>
+	<text transform="matrix(1 0 0 1 554.6599 366.4667)" class="st13 st14">⠠⠙⠊⠕⠙⠑</text>
+	<text transform="matrix(1 0 0 1 38.0059 38.184)" class="st13 st14">⠠⠠⠍⠕⠎⠋⠑⠞⠀⠞⠗⠁⠝⠎⠊⠎⠞⠕⠗⠀⠍⠕⠞⠕⠗⠀⠉⠕⠝⠞⠗⠕⠇</text>
+</g>
+</svg>
