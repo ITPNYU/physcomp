@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;}
+	.st2{fill:#020202;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#7A7A7A;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#010101;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st8{fill:#020202;stroke:#DDDDDD;}
+	.st9{font-family:'ArialMT';}
+	.st10{font-size:18px;}
+	.st11{enable-background:new    ;}
+	.st12{stroke:#DDDDDD;}
+	.st13{font-family:'MyriadPro-Regular';}
+	.st14{fill:#020202;}
+	.st15{font-family:'AppleBraille';}
+	.st16{font-size:30px;}
+	.st17{fill:#010101;}
+</style>
+<g id="Layer_1">
+	<line id="connector0pin_10_" class="st0" x1="478.2" y1="223.8" x2="478.2" y2="237.3"/>
+	<line id="connector0pin_3_" class="st0" x1="478.3" y1="293.5" x2="478.3" y2="307"/>
+	<g id="connector0terminal_10_">
+	</g>
+	<path class="st1" d="M465.6,223.4h25.2"/>
+	<g>
+		<g transform="translate(213.948,11.3336)">
+			<g id="schematic_11_">
+				<g>
+					<path class="st2" d="M273.5,263.8h-9.2c-0.5,0-0.9-0.4-0.9-0.9c0-0.5,0.4-0.9,0.9-0.9h9.2c0.5,0,0.9,0.4,0.9,0.9
+						C274.4,263.4,274,263.8,273.5,263.8z"/>
+				</g>
+				<g>
+					<path class="st2" d="M264.2,263.8H255c-0.5,0-0.9-0.4-0.9-0.9c0-0.5,0.4-0.9,0.9-0.9h9.2c0.5,0,0.9,0.4,0.9,0.9
+						C265.1,263.4,264.7,263.8,264.2,263.8z"/>
+				</g>
+				<g>
+					<polygon class="st3" points="264.2,262.9 255,244.4 264.2,244.4 273.5,244.4 					"/>
+					<path class="st2" d="M264.2,264.9l-10.7-21.4h21.4L264.2,264.9z M256.5,245.3l7.8,15.6l7.8-15.6
+						C272,245.3,256.5,245.3,256.5,245.3z"/>
+				</g>
+				<g>
+					<path class="st2" d="M264.2,263.4c-0.3,0-0.6-0.3-0.6-0.6v-18.4c0-0.3,0.3-0.6,0.6-0.6c0.3,0,0.6,0.3,0.6,0.6v18.4
+						C264.8,263.2,264.6,263.4,264.2,263.4z"/>
+				</g>
+				<g>
+					<path class="st2" d="M243.5,256.5c-0.1,0-0.3-0.1-0.4-0.2c-0.2-0.2-0.2-0.6,0-0.8l6-6c0.2-0.2,0.6-0.2,0.8,0
+						c0.2,0.2,0.2,0.6,0,0.8l-6,6C243.8,256.5,243.6,256.5,243.5,256.5z"/>
+				</g>
+				<g>
+					<path class="st2" d="M244.4,264.8c-0.1,0-0.3-0.1-0.4-0.2c-0.2-0.2-0.2-0.6,0-0.8l6-6c0.2-0.2,0.6-0.2,0.8,0s0.2,0.6,0,0.8
+						l-6,6C244.7,264.8,244.6,264.8,244.4,264.8z"/>
+				</g>
+				<g id="connector0pin_11_">
+					<path class="st4" d="M264.2,282.2c-0.5,0-0.9-0.4-0.9-0.9v-18.5c0-0.5,0.4-0.9,0.9-0.9c0.5,0,0.9,0.4,0.9,0.9v18.4
+						C265.1,281.8,264.7,282.2,264.2,282.2z"/>
+				</g>
+				<g id="connector0terminal_11_">
+					<rect x="264.2" y="281.3" class="st5" width="0" height="0"/>
+				</g>
+				<g id="connector1pin_9_">
+					<path class="st4" d="M264.2,245.3c-0.5,0-0.9-0.4-0.9-0.9V226c0-0.5,0.4-0.9,0.9-0.9c0.5,0,0.9,0.4,0.9,0.9v18.5
+						C265.1,244.9,264.7,245.3,264.2,245.3z"/>
+				</g>
+				<g id="connector1terminal_9_">
+					<polygon class="st5" points="264.2,226 264.2,226 264.2,226 					"/>
+				</g>
+				<g>
+					<path class="st2" d="M239.3,260.1l2.8-6.5l3.7,3.7L239.3,260.1z"/>
+				</g>
+				<g>
+					<path class="st2" d="M240.3,268.4l2.8-6.5l3.7,3.7L240.3,268.4z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g transform="translate(91.6785,50.587)">
+			<g id="schematic_2_">
+				<polyline class="st1" points="371.9,257.1 369.2,257.1 365.1,262.5 358.4,250.4 351.7,262.5 344.9,250.4 338.2,262.5 
+					331.5,250.4 324.7,262.5 320.7,257.1 318,257.1 				"/>
+				<line id="connector1pin_1_" class="st1" x1="385.3" y1="257.1" x2="371.9" y2="257.1"/>
+				<g id="connector1terminal_1_">
+				</g>
+				<line id="connector0pin_2_" class="st1" x1="304.6" y1="257.1" x2="318" y2="257.1"/>
+				<g id="connector0terminal_2_">
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g transform="translate(46.5692,160.233)">
+			<g id="schematic_1_">
+				<path id="connector0pin_1_" class="st1" d="M431.7,235.8v-13.5"/>
+				<g id="connector0terminal_1_">
+				</g>
+				<path id="path4098_1_" class="st1" d="M419.2,236.1h25.1"/>
+				<path id="path4100_1_" class="st1" d="M423.4,241.2h16.7"/>
+				<path id="path4102_1_" class="st1" d="M435.9,246.3h-8.3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st1" x1="478.3" y1="334.3" x2="478.3" y2="339.6"/>
+		<line class="st1" x1="478.3" y1="355.9" x2="478.3" y2="350.6"/>
+		<rect x="457" y="347.9" class="st6" width="42.6" height="2.7"/>
+		<rect x="457" y="339.6" class="st6" width="42.6" height="2.7"/>
+		<line id="connector1pin_7_" class="st1" x1="478.3" y1="307.7" x2="478.3" y2="334.3"/>
+		<line id="connector0pin_7_" class="st1" x1="478.3" y1="382.6" x2="478.3" y2="355.9"/>
+	</g>
+	<circle class="st2" cx="477.6" cy="307" r="3.8"/>
+	<g id="Top_Left_Corner_Strokes">
+		<g>
+			<line class="st7" x1="22.7" y1="0" x2="0.5" y2="22.2"/>
+			<line class="st7" x1="30.6" y1="0" x2="0" y2="30.6"/>
+		</g>
+	</g>
+</g>
+<g id="plaintext">
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_9_" transform="matrix(1 0 0 1 465.0759 168.8855)" class="st8 st9 st10">+V</text>
+	</g>
+	<text transform="matrix(1 0 0 1 77.3835 235.9416)" class="st11"><tspan x="0" y="0" class="st12 st13 st10">PWM output</tspan><tspan x="-61" y="21.6" class="st12 st13 st10">from microcontroller</tspan></text>
+	<text transform="matrix(1 0 0 1 319.3503 410.9416)" class="st11"><tspan x="0" y="0" class="st12 st13 st10">Key:</tspan><tspan x="0" y="21.6" class="st12 st13 st10">R1 - 1.5kΩ</tspan><tspan x="0" y="43.2" class="st12 st13 st10">C10.1uF</tspan><tspan x="0" y="64.8" class="st12 st13 st10">These values will cut off frequencies above 1061 HZ</tspan><tspan x="0" y="86.4" class="st12 st13 st10">Change values of R1 and C1 for other frequencies</tspan></text>
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_8_" transform="matrix(1 0 0 1 394.0759 236.8855)" class="st8 st9 st10">R1</text>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_7_" transform="matrix(1 0 0 1 529.0965 296.2006)" class="st8 st9 st10">LED1</text>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_6_" transform="matrix(1 0 0 1 90.0965 73.2007)" class="st8 st9 st10">Low-pass filter</text>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_5_" transform="matrix(1 0 0 1 544.0965 377.9452)" class="st8 st9 st10">C1</text>
+	</g>
+</g>
+<g id="braille">
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label" transform="matrix(1 0 0 1 434.0759 211.8855)" class="st14 st15 st16">⠐⠖⠠⠧</text>
+	</g>
+	<text transform="matrix(1 0 0 1 115.2566 278.9416)" class="st11"><tspan x="0" y="0" class="st17 st15 st16">⠠⠠⠏⠺⠍⠀⠕⠥⠞⠏⠥⠞</tspan><tspan x="164.1" y="36" class="st17 st15 st16">⠋⠗⠕⠍</tspan><tspan x="-82" y="72" class="st17 st15 st16">⠀⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</tspan></text>
+	<text transform="matrix(1 0 0 1 18.3503 423.9416)" class="st11"><tspan x="0" y="0" class="st17 st15 st16">⠠⠅⠑⠽⠒</tspan><tspan x="0" y="36" class="st17 st15 st16">⠠⠗⠼⠁⠀⠤⠀⠼⠁⠲⠑⠅⠨⠺</tspan><tspan x="0" y="72" class="st17 st15 st16">⠠⠉⠼⠁⠚⠲⠁⠥⠠⠋</tspan><tspan x="0" y="108" class="st17 st15 st16">⠠⠞⠓⠑⠎⠑⠀⠧⠁⠇⠥⠑⠎⠀⠺⠊⠇⠇⠀⠉⠥⠞⠀⠕⠋⠋⠀⠋⠗⠑⠟⠥⠑⠝⠉⠊⠑⠎⠀⠁⠃⠕⠧⠑⠀⠼⠁⠚⠋⠁⠀⠠⠠⠓⠵</tspan><tspan x="0" y="144" class="st17 st15 st16">⠠⠉⠓⠁⠝⠛⠑⠀⠧⠁⠇⠥⠑⠎⠀⠕⠋⠀⠠⠗⠼⠁⠀⠁⠝⠙⠀⠠⠉⠼⠁⠀⠋⠕⠗⠀⠕⠞⠓⠑⠗⠀⠋⠗⠑⠟⠥⠑⠝⠉⠊⠑⠎</tspan></text>
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_1_" transform="matrix(1 0 0 1 367.0759 279.8855)" class="st14 st15 st16">⠠⠗⠼⠁</text>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_2_" transform="matrix(1 0 0 1 508.0965 269.2006)" class="st14 st15 st16">⠠⠠⠇⠑⠙⠠⠄⠼⠁</text>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_4_" transform="matrix(1 0 0 1 49.0965 36.2007)" class="st14 st15 st16">⠠⠇⠕⠺⠤⠏⠁⠎⠎⠀⠋⠊⠇⠞⠑⠗</text>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 1.4985, 4.9878)">
+		<text id="label_3_" transform="matrix(1 0 0 1 523.0965 350.9452)" class="st14 st15 st16">⠠⠉⠼⠁</text>
+	</g>
+</g>
+</svg>
