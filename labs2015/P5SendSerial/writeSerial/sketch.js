@@ -41,5 +41,5 @@ function serialEvent() {
 }
 
 function serialError(err) {
-  println('Something went wrong with the serial port. ' + err);
+  console.log('Something went wrong with the serial port. ' + err);
 }

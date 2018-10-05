@@ -18,9 +18,9 @@ var result = '';
 function setup() {
   createCanvas(400, 300); // window size
   serial = new p5.SerialPort();
-  serial.list();
   serial.on('list', printList);
   serial.on('data', printData);
+  serial.list();
 }
 
 
@@ -53,6 +53,6 @@ function printList(serialList) {
     var thisOption = createElement('option', serialList[i]);
     thisOption.value = serialList[i];
     menu.child(thisOption);
-    println(i + " " + serialList[i]);
+    console.log(i + " " + serialList[i]);
   }
 }

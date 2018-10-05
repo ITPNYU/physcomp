@@ -12,6 +12,6 @@ function printList(portList) {
   // portList is an array of serial port names
   for (var i = 0; i < portList.length; i++) {
     // Display the list the console:
-    println(i + " " + portList[i]);
+    console.log(i + " " + portList[i]);
   }
 }
