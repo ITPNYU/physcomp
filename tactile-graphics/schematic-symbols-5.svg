@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="828px" height="792px" viewBox="-0.218 0 828 792" enable-background="new -0.218 0 828 792" xml:space="preserve">
+<g id="Layer_2">
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="332.114" y1="289.572" x2="401.584" y2="289.572"/>
+		<polyline fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="440.297,289.572 473.062,289.572 
+			473.062,514.205 427.702,514.205 420.282,523.092 308.625,523.092 299.97,514.205 291.316,514.205 291.316,289.572 
+			302.597,289.572 		"/>
+		
+			<rect x="401.584" y="268.091" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="39.022" height="53.164"/>
+		
+			<rect x="302.597" y="283.622" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="29.596" height="44.277"/>
+		
+			<rect x="447.252" y="297.377" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="21.405" height="25.191"/>
+		
+			<rect x="337.603" y="384.231" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="19.008" height="126.341"/>
+		<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="458.688" cy="309.972" r="5.255"/>
+		<circle cx="299.738" cy="384.463" r="2.009"/>
+		<circle cx="299.738" cy="445.2" r="2.009"/>
+		<circle cx="299.738" cy="427.89" r="2.009"/>
+		<circle cx="299.738" cy="436.545" r="2.009"/>
+		<circle cx="299.738" cy="419.159" r="2.009"/>
+		<circle cx="299.738" cy="410.504" r="2.009"/>
+		<circle cx="299.738" cy="401.851" r="2.009"/>
+		<circle cx="299.738" cy="393.118" r="2.009"/>
+		<circle cx="299.97" cy="506.091" r="2.009"/>
+		<circle cx="299.97" cy="488.704" r="2.009"/>
+		<circle cx="299.97" cy="497.437" r="2.009"/>
+		<circle cx="299.97" cy="480.049" r="2.009"/>
+		<circle cx="299.97" cy="471.396" r="2.009"/>
+		<circle cx="299.97" cy="462.663" r="2.009"/>
+		<circle cx="464.946" cy="444.89" r="2.009"/>
+		<circle cx="464.946" cy="505.628" r="2.009"/>
+		<circle cx="464.946" cy="488.241" r="2.009"/>
+		<circle cx="464.946" cy="496.896" r="2.009"/>
+		<circle cx="464.946" cy="479.586" r="2.009"/>
+		<circle cx="464.946" cy="470.931" r="2.009"/>
+		<circle cx="464.946" cy="462.2" r="2.009"/>
+		<circle cx="464.946" cy="453.545" r="2.009"/>
+		<circle cx="464.793" cy="370.94" r="2.009"/>
+		<circle cx="464.793" cy="431.368" r="2.009"/>
+		<circle cx="464.793" cy="414.136" r="2.009"/>
+		<circle cx="464.793" cy="422.79" r="2.009"/>
+		<circle cx="464.793" cy="405.481" r="2.009"/>
+		<circle cx="464.793" cy="396.827" r="2.009"/>
+		<circle cx="464.793" cy="388.249" r="2.009"/>
+		<circle cx="464.793" cy="379.595" r="2.009"/>
+		<circle cx="464.793" cy="353.631" r="2.009"/>
+		<circle cx="464.793" cy="362.286" r="2.009"/>
+	</g>
+	<g id="connector1terminal_4_">
+	</g>
+	<g id="connector0terminal_4_">
+	</g>
+	<g id="partLabel_7_">
+		<g transform="translate(214.282,28.9157)">
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 296.1006 632.3799)" fill="#939597" font-family="'Helvetica'" font-size="13.9091">Arduino Uno </text>
+	<g id="partLabel_21_">
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="22.719" y1="0" x2="0.5" y2="22.219"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="37.125" y1="-3.5" x2="-4.5" y2="38.125"/>
+<text transform="matrix(1 0 0 1 52.0005 114.3516)" font-family="'AppleBraille'" font-size="30">⠠⠎⠉⠓⠑⠍⠁⠞⠊⠉ ⠎⠽⠍⠃⠕⠇⠎</text>
+<g>
+	<text transform="matrix(1 0 0 1 57.9521 144.3086)" fill="#939597" font-family="'ArialMT'" font-size="21">Schematic symbols </text>
+</g>
+<text transform="matrix(1 0 0 1 291.6934 572.5352)" enable-background="new    "><tspan x="0" y="0" font-family="'AppleBraille'" font-size="30">⠠⠁⠗⠙⠥⠊⠝⠕ </tspan><tspan x="0" y="36" font-family="'AppleBraille'" font-size="30">⠠⠥⠝⠕</tspan></text>
+</svg>
