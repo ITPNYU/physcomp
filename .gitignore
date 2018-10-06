@@ -9,4 +9,4 @@ videos_code_samples/NodeSerialLesson/node_modules/*
 labs2014/Node Serial Lab/package-lock.json
 labs2014/.vscode/c_cpp_properties.json
 labs2014/.vscode/arduino.json
-*.vscode/*
+*/.vscode/*
