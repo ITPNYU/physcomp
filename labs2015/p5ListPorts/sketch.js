@@ -45,6 +45,7 @@ function createHTML() {
 function openPort() {
   portName = menu.elt.value;
   serial.open(portName);
+  dataLabel.html('Serial port ' + portName + ' is open.')
 }
 
 function printData() {
