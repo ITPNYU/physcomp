@@ -35,12 +35,12 @@ function createHTML() {
   menu = createSelect();
   menu.option("Choose a serial port: ");
   menu.attribute('aria-label', 'Serial port selector');
-  menu.position(10, 10);
+  menu.position(10, 30);
   menu.changed(openPort);
-// make a DOM element to take the incoming serial data:
-  dataLabel = createElement('section', 'Incoming Serial Data');
-  dataLabel.attribute('aria-label', 'serial input');
-  dataLabel.position(10, 60);
+  // get the DOM element for showing incoming serial data:
+  dataLabel = document.getElementById('serial');
+  // convert it to a p5.elt so we can use the p5 DOM functions on it:
+  dataLabel = new p5.Element(dataLabel);
 }
 function openPort() {
   portName = menu.elt.value;
