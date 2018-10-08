@@ -14,8 +14,8 @@ by Tom Igoe
 
 var serial;       // Declare a "SerialPort" object
 var menu;         // a variable to hold the options menu
-var textDiv;      // a variable to hold the text div for incoming data
 var result = '';  // a variable for the incoming serial data
+var serialInput;  // a div for incoming serial data
 
 function setup() {
   noCanvas();
@@ -38,27 +38,30 @@ function createHTML() {
   menu.position(10, 30);
   menu.changed(openPort);
   // get the DOM element for showing incoming serial data:
-  dataLabel = document.getElementById('serial');
+  serialInput = document.getElementById('serial');
   // convert it to a p5.elt so we can use the p5 DOM functions on it:
-  dataLabel = new p5.Element(dataLabel);
+  serialInput = new p5.Element(serialInput);
 }
 function openPort() {
   portName = menu.elt.value;
   serial.open(portName);
-  dataLabel.html('Serial port ' + portName + ' is open.')
+  serialInput.html('Serial port ' + portName + ' is open.')
 }
 
 function printData() {
   var inString = serial.readStringUntil('\r\n');
   trim(inString);
   if (!inString) return;
+  // put the result in the serialInput div:
   result = inString;
-  dataLabel.html(result);
+  serialInput.html(result);
 }
 
 // Got the list of ports
 function printList(serialList) {
+  // add serial port list items to the options menu:
   for (var i = 0; i < serialList.length; i++) {
       menu.option(serialList[i]);
+      console.log(serialList[i]);
   }
 }
