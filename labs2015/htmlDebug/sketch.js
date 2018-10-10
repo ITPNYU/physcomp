@@ -29,10 +29,11 @@ function keyPressed() {
 
 // create some HTML elements in the sketch:
 function createHTML() {
-	// get the DOM element for showing debug data:
-	logDisplay = document.getElementById('logDiv');
-	// convert it to a p5.elt so we can use the p5 DOM functions on it:
-	logDisplay = new p5.Element(logDisplay);
+	logDisplay = createElement('div', 'incoming data goes here');
+	logDisplay.attribute('aria-label', 'incoming data');
+	logDisplay.attribute('aria-role', 'alert');
+	logDisplay.attribute('aria-live', 'polite');
+	logDisplay.position(10, 40);
 }
 
 function printData(inString) {
