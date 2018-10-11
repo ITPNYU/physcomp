@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:11.7168,11.7168;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:#010101;}
+	.st5{fill:none;stroke:#010101;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#999999;}
+	.st8{font-family:'HelveticaNeue';}
+	.st9{font-size:14px;}
+	.st10{font-family:'AppleBraille';}
+	.st11{font-size:30px;}
+</style>
+<g id="Layer_1_1_">
+	<line class="st0" x1="187.8" y1="237.6" x2="187.8" y2="468.6"/>
+	<line class="st0" x1="187.8" y1="468.6" x2="547.9" y2="468.6"/>
+	<line class="st0" x1="242.6" y1="296.9" x2="284.2" y2="296.9"/>
+	<line class="st0" x1="201" y1="457.1" x2="242.6" y2="457.1"/>
+	<line class="st0" x1="242.6" y1="457.1" x2="242.6" y2="296.9"/>
+	<line class="st0" x1="284.2" y1="457.1" x2="284.2" y2="296.9"/>
+	<line class="st0" x1="326.3" y1="296.9" x2="367.9" y2="296.9"/>
+	<line class="st0" x1="284.7" y1="457.1" x2="326.3" y2="457.1"/>
+	<line class="st0" x1="326.3" y1="457.1" x2="326.3" y2="296.9"/>
+	<line class="st0" x1="367.9" y1="457.1" x2="367.9" y2="296.9"/>
+	<line class="st0" x1="409.5" y1="296.9" x2="451" y2="296.9"/>
+	<line class="st0" x1="367.9" y1="457.1" x2="409.5" y2="457.1"/>
+	<line class="st0" x1="409.5" y1="457.1" x2="409.5" y2="296.9"/>
+	<line class="st0" x1="451" y1="457.1" x2="451" y2="296.9"/>
+	<line class="st0" x1="492.6" y1="296.9" x2="534.2" y2="296.9"/>
+	<line class="st0" x1="451" y1="457.1" x2="492.6" y2="457.1"/>
+	<line class="st0" x1="492.6" y1="457.1" x2="492.6" y2="296.9"/>
+	<line class="st0" x1="534.2" y1="457.1" x2="534.2" y2="296.9"/>
+	<g>
+		<g>
+			<line class="st0" x1="201" y1="377" x2="207" y2="377"/>
+			<line class="st1" x1="218.8" y1="377" x2="564.4" y2="377"/>
+			<line class="st0" x1="570.3" y1="377" x2="576.3" y2="377"/>
+		</g>
+	</g>
+	<g id="Top_Left_Corner_Strokes">
+		<g>
+			<line class="st2" x1="23.7" y1="2" x2="1.5" y2="24.2"/>
+			<line class="st2" x1="31.6" y1="2" x2="1" y2="32.6"/>
+		</g>
+	</g>
+	<line class="st3" x1="284.2" y1="282.1" x2="242.6" y2="282.1"/>
+	<g>
+		<g>
+			<polygon class="st4" points="264.1,278.3 267,270.7 261.3,270.7 			"/>
+			<polygon class="st5" points="264.1,278.3 267,270.7 261.3,270.7 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st4" points="370.1,279.6 372.9,272 367.2,272 			"/>
+			<polygon class="st5" points="370.1,279.6 372.9,272 367.2,272 			"/>
+		</g>
+	</g>
+	<line class="st3" x1="242.6" y1="286.9" x2="242.6" y2="276.7"/>
+	<line class="st3" x1="284.5" y1="286.9" x2="284.5" y2="276.7"/>
+	<line class="st3" x1="326.3" y1="281.8" x2="409.5" y2="281.8"/>
+	<line class="st3" x1="326.3" y1="286.9" x2="326.3" y2="276.7"/>
+	<line class="st3" x1="409.5" y1="286.9" x2="409.5" y2="276.7"/>
+	<line class="st6" x1="264.1" y1="182" x2="264.1" y2="276.7"/>
+	<line class="st6" x1="370.1" y1="247.2" x2="370.1" y2="276.7"/>
+</g>
+<g id="plaintext">
+	<text transform="matrix(1 0 0 1 211.0445 136.4081)" class="st7 st8 st9">Pulse width = 0.5ms</text>
+	<text transform="matrix(1 0 0 1 388.5445 251.4081)" class="st7 st8 st9">Period = 1ms</text>
+	<text transform="matrix(1 0 0 1 39.6734 66.4081)" class="st7 st8 st9">Duty Cycle = 50%</text>
+	<text transform="matrix(1 0 0 1 348.0104 532.3817)" class="st7 st8 st9">Time</text>
+	<text transform="matrix(1 0 0 1 588.3649 436.2752)" class="st7 st8 st9">Pseudo </text>
+	<text transform="matrix(1 0 0 1 588.3649 453.0752)" class="st7 st8 st9">voltage</text>
+	<text transform="matrix(1 0 0 1 102.5274 382.8707)" class="st7 st8 st9">Voltage</text>
+</g>
+<g id="Braille">
+	<text transform="matrix(1 0 0 1 154.0445 166.4081)" class="st10 st11">⠠⠏⠥⠇⠎⠑⠀⠺⠊⠙⠞⠓⠀⠐⠶⠀⠼⠚⠲⠑⠍⠎</text>
+	<text transform="matrix(1 0 0 1 351.5445 231.4081)" class="st10 st11">⠠⠏⠑⠗⠊⠕⠙⠀⠐⠶⠀⠼⠁⠍⠎</text>
+	<text transform="matrix(1 0 0 1 52.6734 46.4081)" class="st10 st11">⠠⠙⠥⠞⠽⠀⠠⠉⠽⠉⠇⠑⠀⠐⠶⠀⠼⠑⠚⠨⠴</text>
+	<text transform="matrix(1 0 0 1 331.0104 502.3817)" class="st10 st11">⠠⠞⠊⠍⠑</text>
+	<text transform="matrix(1 0 0 1 582.3649 368.2752)" class="st10 st11">⠠⠏⠎⠑⠥⠙⠕⠀</text>
+	<text transform="matrix(1 0 0 1 582.3649 404.2752)" class="st10 st11">⠧⠕⠇⠞⠁⠛⠑</text>
+	<text transform="matrix(1 0 0 1 15.5274 342.8707)" class="st10 st11">⠠⠧⠕⠇⠞⠁⠛⠑</text>
+</g>
+</svg>

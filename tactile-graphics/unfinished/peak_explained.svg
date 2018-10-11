@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:xl="http://www.w3.org/1999/xlink"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 405 246.6"
+	 style="enable-background:new 0 0 405 246.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:2;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{font-family:'HelveticaNeue';}
+	.st3{font-size:18px;}
+	.st4{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4,4;}
+	.st5{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<defs>
+	
+	
+		<font-face  ascent="951.99585" cap-height="714" descent="-212.99744" font-family="Helvetica Neue" font-size="18" font-weight="500" panose-1="2 0 5 3 0 0 0 2 0 4" slope="0" underline-position="-100" underline-thickness="50" units-per-em="1000" x-height="517">
+		<font-face-src>
+			<font-face-name  name="HelveticaNeue"></font-face-name>
+		</font-face-src>
+	</font-face>
+</defs>
+<path class="st0" d="M400.7,241.5l-9.6-3.6v7.2L400.7,241.5z"/>
+<path marker-end="url(#FilledArrow_Marker)" class="st0" d="M391.1,241.5"/>
+<path class="st1" d="M5,241.5c53-68.7,109-201,159-206s101,146.8,141,176s66-0.7,99-1"/>
+<text transform="matrix(1 0 0 1 148.043 27.0486)" class="st2 st3">Peak</text>
+<path class="st0" d="M5,2.8l-3.6,9.6h7.2L5,2.8z"/>
+<path marker-end="url(#FilledArrow_Marker)" class="st0" d="M5,12.4"/>
+<line class="st4" x1="5" y1="156.5" x2="285" y2="156.5"/>
+<text transform="matrix(1 0 0 1 300.2002 161.5486)" class="st2 st3">Thr</text>
+<text transform="matrix(1 0 0 1 326.21 161.5486)" class="st2 st3">eshold</text>
+<circle cx="129" cy="56.4" r="3"/>
+<circle class="st1" cx="129" cy="56.4" r="3"/>
+<circle cx="169" cy="35" r="3"/>
+<circle class="st1" cx="169" cy="35" r="3"/>
+<text transform="matrix(1 0 0 1 232.7012 89.3639)" class="st2 st3">Falling</text>
+<text transform="matrix(1 0 0 1 69.2012 60.363)" class="st2 st3">Rising</text>
+<circle cx="221" cy="84" r="3"/>
+<circle class="st1" cx="221" cy="84" r="3"/>
+<line class="st5" x1="5" y1="12.4" x2="5" y2="241.5"/>
+<line class="st5" x1="5" y1="241.5" x2="391.1" y2="241.5"/>
+</svg>

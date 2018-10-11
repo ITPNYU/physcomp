@@ -1,59 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 612 1008" style="enable-background:new 0 0 612 1008;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#020202;stroke-width:2;stroke-linecap:round;}
-	.st2{fill:#020202;}
-	.st3{fill:none;stroke:#7A7A7A;stroke-width:2;stroke-linecap:round;}
-	.st4{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
-	.st5{display:none;}
-	.st6{display:inline;}
-	.st7{font-family:'HelveticaNeue';}
-	.st8{font-size:18px;}
-	.st9{font-family:'AppleBraille';}
-	.st10{font-size:24px;}
-</style>
-<g id="Layer_1_2_">
-	<g id="Layer_1_1_">
-		<path class="st0" d="M222.3,535.8c-25.1-20.7-41.2-52.1-41.2-87.3c0-62.5,50.6-113.1,113.1-113.1S407.3,386,407.3,448.5
-			c0,35-15.9,66.3-40.9,87.1l0,0l-25.6-29.1l0,0c16.9-13.6,27.8-34.6,27.8-58c0-41.1-33.3-74.4-74.4-74.4s-74.4,33.3-74.4,74.4
-			c0,23.4,12.4,41.7,27.8,58L222,535.6"/>
-		<path class="st0" d="M300.1,536.1c0,4.8-3.2,8.6-7.1,8.6l0,0c-3.9,0-7.1-3.9-7.1-8.6V351.5c0-4.8,3.2-8.6,7.1-8.6l0,0
-			c3.9,0,7.1,3.9,7.1,8.6V536.1z"/>
-		<g>
-			<line class="st1" x1="293" y1="610.6" x2="293" y2="582.4"/>
-			<polygon class="st2" points="298.5,607.1 293,626.4 288.1,606.9 			"/>
+	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<g id="Layer_1_3_">
+	<g id="Layer_1_2_">
+		<g id="Layer_1_1_">
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M240.236,494.482
+				c-19.722-16.266-32.372-40.938-32.372-68.592c0-49.108,39.757-88.866,88.864-88.866s88.864,39.757,88.864,88.866
+				c0,27.5-12.493,52.092-32.136,68.434l0,0l-20.114-22.863l0,0c13.278-10.686,21.843-27.186,21.843-45.57
+				c0-32.293-26.164-58.458-58.457-58.458c-32.293,0-58.457,26.165-58.457,58.458c0,18.385,9.743,32.764,21.843,45.57L240,494.324"
+				/>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M301.364,494.719
+				c0,3.771-2.514,6.756-5.579,6.756l0,0c-3.064,0-5.579-3.062-5.579-6.756V349.675c0-3.771,2.515-6.757,5.579-6.757l0,0
+				c3.064,0,5.579,3.064,5.579,6.757V494.719z"/>
+			<g>
+				
+					<line fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" x1="295.786" y1="553.254" x2="295.786" y2="531.096"/>
+				<polygon fill="#020202" points="300.107,550.504 295.786,565.668 291.936,550.346 				"/>
+			</g>
+			<polyline fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" points="333.265,577.375 329.571,577.375 
+				323.914,584.84 314.564,567.947 305.136,584.84 295.786,567.947 286.436,584.84 277.007,567.947 267.657,584.84 262.079,577.375 
+				258.307,577.375 			"/>
+			
+				<line id="connector2pin_2_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="333.186" y1="577.375" x2="353.536" y2="577.375"/>
+			
+				<line id="connector2pin_1_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="240.236" y1="577.375" x2="258.307" y2="577.375"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="240.236" y1="494.482" x2="240.236" y2="524.34"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="353.536" y1="494.324" x2="353.536" y2="524.34"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="295.786" y1="501.475" x2="295.786" y2="524.34"/>
+			
+				<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="240.236" cy="524.34" r="5.734"/>
+			
+				<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="295.786" cy="524.34" r="5.734"/>
+			
+				<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="353.536" cy="524.34" r="5.734"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="240.236" y1="530.074" x2="240.236" y2="577.375"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="353.536" y1="530.074" x2="353.536" y2="577.375"/>
 		</g>
-		<polyline class="st1" points="340.7,641.3 336,641.3 328.8,650.8 316.9,629.3 304.9,650.8 293,629.3 281.1,650.8 269.1,629.3 
-			257.2,650.8 250.1,641.3 245.3,641.3 		"/>
-		<line id="connector2pin_2_" class="st3" x1="340.6" y1="641.3" x2="366.5" y2="641.3"/>
-		<line id="connector2pin_1_" class="st3" x1="222.3" y1="641.3" x2="245.3" y2="641.3"/>
-		<line class="st4" x1="222.3" y1="535.8" x2="222.3" y2="573.8"/>
-		<line class="st4" x1="366.5" y1="535.6" x2="366.5" y2="573.8"/>
-		<line class="st4" x1="293" y1="544.7" x2="293" y2="573.8"/>
-		<circle class="st0" cx="222.3" cy="573.8" r="7.3"/>
-		<circle class="st0" cx="293" cy="573.8" r="7.3"/>
-		<circle class="st0" cx="366.5" cy="573.8" r="7.3"/>
-		<line class="st4" x1="222.3" y1="581.1" x2="222.3" y2="641.3"/>
-		<line class="st4" x1="366.5" y1="581.1" x2="366.5" y2="641.3"/>
+		<g id="Braille">
+		</g>
 	</g>
-	<g id="Braille">
+	<g id="plaintext_1_" display="none">
+		<text transform="matrix(1 0 0 1 360.5234 283.9648)" display="inline" font-family="'HelveticaNeue'" font-size="14.1429">Carbon</text>
+		<text transform="matrix(1 0 0 1 360.5234 300.9355)" display="inline" font-family="'HelveticaNeue'" font-size="14.1429">resistor</text>
+		<text transform="matrix(1 0 0 1 251.6172 546.3926)" display="inline" font-family="'HelveticaNeue'" font-size="14.1429">Variable resistance</text>
+		<text transform="matrix(1 0 0 1 250.6377 228.3418)" display="inline" font-family="'HelveticaNeue'" font-size="14.1429">Wiper</text>
+		<text transform="matrix(1 0 0 1 86.4233 161.5566)" display="inline" font-family="'HelveticaNeue'" font-size="14.1429">Inside a Potentiometer</text>
+	</g>
+	<g id="Braille_1_">
+		<text transform="matrix(1 0 0 1 377.165 332.5293)" font-family="'AppleBraille'" font-size="30">⠠⠉⠁⠗⠃⠕⠝ </text>
+		<text transform="matrix(1 0 0 1 377.165 361.1582)" font-family="'AppleBraille'" font-size="30">⠗⠑⠎⠊⠎⠞⠕⠗</text>
+		<text transform="matrix(1 0 0 1 108.2988 626.9609)" font-family="'AppleBraille'" font-size="30">⠠⠧⠁⠗⠊⠁⠃⠇⠑ ⠗⠑⠎⠊⠎⠞⠁⠝⠉⠑</text>
 	</g>
 </g>
-<g id="plaintext_1_" class="st5">
-	<text transform="matrix(1 0 0 1 375.3926 361.4092)" class="st6 st7 st8">Carbon</text>
-	<text transform="matrix(1 0 0 1 375.3926 383.0092)" class="st6 st7 st8">resistor</text>
-	<text transform="matrix(1 0 0 1 236.7852 695.4092)" class="st6 st7 st8">Variable resistance</text>
-	<text transform="matrix(1 0 0 1 235.5386 290.6172)" class="st6 st7 st8">Wiper</text>
-	<text transform="matrix(1 0 0 1 26.5386 205.6172)" class="st6 st7 st8">Inside a Potentiometer</text>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="22.719" y1="0" x2="0.5" y2="22.219"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="37.125" y1="-3.5" x2="-4.5" y2="38.125"/>
+<text transform="matrix(1 0 0 1 229.5776 650.4062)" fill="#939597" font-family="'ArialMT'" font-size="14">Variable resistance</text>
+<text transform="matrix(1 0 0 1 43.001 139.8555)" font-family="'AppleBraille'" font-size="30">⠠⠊⠝⠎⠊⠙⠑ ⠁ ⠠⠏⠕⠞⠑⠝⠞⠊⠕⠍⠑⠞⠑⠗</text>
+<g>
+	<text transform="matrix(1 0 0 1 48.9526 169.8125)" fill="#939597" font-family="'ArialMT'" font-size="21">Inside a Potentiometer</text>
 </g>
-<g id="Braille_1_">
-	<text transform="matrix(1 0 0 1 378.3926 334.0092)" class="st9 st10">⠠⠉⠁⠗⠃⠕⠝ </text>
-	<text transform="matrix(1 0 0 1 378.3926 362.8092)" class="st9 st10">⠗⠑⠎⠊⠎⠞⠕⠗</text>
-	<text transform="matrix(1 0 0 1 119.7852 676.4092)" class="st9 st10">⠠⠧⠁⠗⠊⠁⠃⠇⠑ ⠗⠑⠎⠊⠎⠞⠁⠝⠉⠑</text>
-	<text transform="matrix(1 0 0 1 198.5386 321.6172)" class="st9 st10">⠠⠺⠊⠏⠑⠗</text>
-	<text transform="matrix(1 0 0 1 16.5386 201.6172)" class="st9 st10">⠠⠊⠝⠎⠊⠙⠑ ⠁ ⠠⠏⠕⠞⠑⠝⠞⠊⠕⠍⠑⠞⠑⠗</text>
+<g id="partLabel_1_">
+	<g transform="translate(92.289,5.73757)">
+		<g id="schematicLabel_1_">
+			<text transform="matrix(1 0 0 1 190.9918 297.8445)" fill="#939597" font-family="'ArialMT'" font-size="14">Wiper</text>
+		</g>
+	</g>
 </g>
+<g id="partLabel_2_">
+	<g transform="translate(92.289,5.73757)">
+		<g id="schematicLabel_2_">
+			<text transform="matrix(1 0 0 1 310.4727 379.6628)" enable-background="new    "><tspan x="0" y="0" fill="#939597" font-family="'ArialMT'" font-size="14">Carbon</tspan><tspan x="0" y="16.8" fill="#939597" font-family="'ArialMT'" font-size="14">resistor</tspan></text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 270.0845 283.4956)" font-family="'AppleBraille'" font-size="30">⠠⠺⠊⠏⠑⠗</text>
 </svg>

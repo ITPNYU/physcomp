@@ -1,98 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#020202;stroke-width:2;stroke-linecap:round;}
-	.st1{fill:none;stroke:#7A7A7A;stroke-width:2;stroke-linecap:round;}
-	.st2{fill:none;stroke:#010101;stroke-width:2;stroke-linecap:round;}
-	.st3{fill:#010101;}
-	.st4{fill:none;stroke:#797979;stroke-width:2;stroke-linecap:round;}
-	.st5{fill:#020202;}
-	.st6{fill:none;stroke:#7A7A7A;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
-	.st7{enable-background:new    ;}
-	.st8{font-family:'AppleBraille';}
-	.st9{font-size:29px;}
-	.st10{font-family:'MyriadPro-Regular';}
-	.st11{display:none;}
-	.st12{display:inline;fill:#020202;}
-	.st13{font-family:'ArialMT';}
-	.st14{font-size:14.6067px;}
-	.st15{display:inline;}
-	.st16{font-size:14px;}
-	.st17{font-family:'Helvetica';}
-	.st18{font-size:18px;}
-	.st19{display:inline;enable-background:new    ;}
-</style>
-<g id="Layer_1">
-	<g>
-		<g transform="translate(91.6785,50.587)">
-			<g id="schematic_5_">
-				<polyline class="st0" points="317.1,337.3 317.1,334.6 311.7,330.6 323.8,323.8 311.7,317.1 323.8,310.4 311.7,303.6 
-					323.8,296.9 311.7,290.2 317.1,286.1 317.1,283.5 				"/>
-				<line id="connector1pin_5_" class="st1" x1="317.1" y1="350.8" x2="317.1" y2="337.3"/>
-				<g id="connector1terminal_5_">
-				</g>
-				<line id="connector0pin_5_" class="st1" x1="317.1" y1="270" x2="317.1" y2="283.5"/>
-				<g id="connector0terminal_5_">
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<g id="Layer_1_3_">
+	<g id="Layer_1_2_">
+		<g id="Layer_1_1_">
+			<g>
+				<g transform="translate(91.6785,50.587)">
+					<g id="schematic_5_">
+						<polyline fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" points="35.49,489.888 35.49,485.403 
+							26.514,478.755 46.619,467.458 26.514,456.325 46.619,445.192 26.514,433.895 46.619,422.763 26.514,411.63 35.49,404.819 
+							35.49,400.497 						"/>
+						
+							<line id="connector1pin_5_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="35.49" y1="512.317" x2="35.49" y2="489.888"/>
+						<g id="connector1terminal_5_">
+						</g>
+						
+							<line id="connector0pin_5_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" x1="35.49" y1="378.069" x2="35.49" y2="400.497"/>
+						<g id="connector0terminal_5_">
+						</g>
+					</g>
 				</g>
 			</g>
-		</g>
-	</g>
-	<g>
-		<g transform="translate(46.5692,160.233)">
-			<g id="schematic_8_">
-				<path id="connector0pin_8_" class="st1" d="M362.3,253.6v-13.5"/>
-				<g id="connector0terminal_8_">
+			<g>
+				<g transform="translate(46.5692,160.233)">
+					<g id="schematic_8_">
+						<path id="connector0pin_8_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" d="M80.746,423.351
+							v-22.436"/>
+						<g id="connector0terminal_8_">
+						</g>
+						<path id="path4098" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M59.979,423.681h41.704"/>
+						<path id="path4100" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M66.956,432.32h27.748"/>
+						<path id="path4102" fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M87.724,440.794H73.935"/>
+					</g>
 				</g>
-				<path id="path4098" class="st0" d="M349.8,253.8h25.1"/>
-				<path id="path4100" class="st0" d="M354,259h16.7"/>
-				<path id="path4102" class="st0" d="M366.5,264.1h-8.3"/>
 			</g>
+			
+				<line fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" x1="127.034" y1="428.678" x2="217.255" y2="428.678"/>
+			<g id="schematic_6_">
+				
+					<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="93.64" y1="347.263" x2="149.966" y2="379.163"/>
+				<polygon fill="#010101" points="93.974,353.411 80.347,339.622 99.123,344.772 				"/>
+				<polyline fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" points="126.703,406.58 126.703,401.927 
+					117.399,394.949 138.335,383.319 117.399,371.853 138.335,360.222 117.399,348.592 138.335,336.962 117.399,325.497 
+					126.703,318.52 126.703,313.867 				"/>
+				<g id="connector1terminal_6_">
+				</g>
+				
+					<line id="connector0pin_6_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="126.703" y1="428.678" x2="126.703" y2="406.58"/>
+				<g id="connector0terminal_6_">
+				</g>
+				
+					<line id="connector2pin_2_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" x1="126.703" y1="291.77" x2="126.703" y2="315.03"/>
+				<g id="connector2terminal_2_">
+				</g>
+			</g>
+			<circle fill="#020202" cx="126.703" cy="428.678" r="6.312"/>
+			
+				<line id="connector0pin_10_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="126.703" y1="268.51" x2="126.703" y2="291.77"/>
+			<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M105.769,267.677h41.881"/>
+		</g>
+		<text transform="matrix(1 0 0 1 55.2593 249.7373)" font-family="'MyriadPro-Regular'" font-size="48.1831">+</text>
+		<g id="plaintext" display="none">
+			
+				<text id="label" transform="matrix(0.9585 0 0 1 352.2842 326.3789)" display="inline" fill="#020202" font-family="'ArialMT'" font-size="11.287">+V</text>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 411.1826 409.6875)" fill="#020202" font-family="'ArialMT'" font-size="10.8182">I1</text>
+			</g>
+			<text transform="matrix(1 0 0 1 442.9746 523.4014)" display="inline" font-family="'Helvetica'" font-size="10.8182">Key:</text>
+			<text transform="matrix(1 0 0 1 442.9746 536.3828)" display="inline" font-family="'Helvetica'" font-size="10.8182">R1 - variable resistor</text>
+			<text transform="matrix(1 0 0 1 442.9746 549.3643)" display="inline" font-family="'Helvetica'" font-size="10.8182">R2 - fixed resistor</text>
+			<text transform="matrix(1 0 0 1 442.9746 562.3457)" display="inline" font-family="'Helvetica'" font-size="10.8182">I1 - input to microcontroller</text>
+			<text transform="matrix(1 0 0 1 377.4766 357.8154)" display="inline" font-family="'MyriadPro-Regular'" font-size="13.9091">R1</text>
+			<text transform="matrix(1 0 0 1 27.1743 239.3311)" display="inline" font-family="'MyriadPro-Regular'" font-size="13.9091">Analog Input</text>
+			<text transform="matrix(1 0 0 1 27.1743 256.0215)" display="inline" font-family="'MyriadPro-Regular'" font-size="13.9091">(voltage divider)</text>
+			<text transform="matrix(1 0 0 1 377.4766 441.7119)" display="inline" font-family="'MyriadPro-Regular'" font-size="13.9091">R2</text>
 		</g>
 	</g>
-	<line class="st0" x1="408.7" y1="320.6" x2="463" y2="320.6"/>
-	<g id="schematic_6_">
-		<line class="st2" x1="388.6" y1="271.6" x2="422.5" y2="290.8"/>
-		<polygon class="st3" points="388.8,275.3 380.6,267 391.9,270.1 		"/>
-		<polyline class="st2" points="408.5,307.3 408.5,304.5 402.9,300.3 415.5,293.3 402.9,286.4 415.5,279.4 402.9,272.4 415.5,265.4 
-			402.9,258.5 408.5,254.3 408.5,251.5 		"/>
-		<g id="connector1terminal_6_">
-		</g>
-		<line id="connector0pin_6_" class="st4" x1="408.5" y1="320.6" x2="408.5" y2="307.3"/>
-		<g id="connector0terminal_6_">
-		</g>
-		<line id="connector2pin_2_" class="st4" x1="408.5" y1="238.2" x2="408.5" y2="252.2"/>
-		<g id="connector2terminal_2_">
-		</g>
+	<g id="Braille_1_">
+		<text transform="matrix(1 0 0 1 14.6826 80.4019)" font-family="'AppleBraille'" font-size="30">⠠⠁⠝⠁⠇⠕⠛ ⠠⠊⠝⠏⠥⠞</text>
+		<text transform="matrix(1 0 0 1 21.019 115.2925)" font-family="'AppleBraille'" font-size="30">⠧⠕⠇⠞⠁⠛⠑ ⠙⠊⠧⠊⠙⠑⠗</text>
+		<text transform="matrix(1 0 0 1 153.334 362.98)" font-family="'AppleBraille'" font-size="30">⠠⠗⠼⠁</text>
+		<text transform="matrix(1 0 0 1 84.0039 249.7373)" font-family="'AppleBraille'" font-size="30">⠠⠠⠧</text>
+		<text transform="matrix(1 0 0 1 153.3311 521.958)" font-family="'AppleBraille'" font-size="30">⠠⠗⠼⠃</text>
+		<text transform="matrix(1 0 0 1 234.6909 437.9131)" font-family="'AppleBraille'" font-size="30">⠠⠊⠼⠁</text>
+		<text transform="matrix(1 0 0 1 7.4741 659.167)" font-family="'AppleBraille'" font-size="30">⠠⠅⠑⠽</text>
+		<text transform="matrix(1 0 0 1 7.4741 695.167)" font-family="'AppleBraille'" font-size="30">⠠⠗⠼⠁ ⠤ ⠧⠁⠗⠊⠁⠃⠇⠑ ⠗⠑⠎⠊⠎⠞⠕⠗</text>
+		<text transform="matrix(1 0 0 1 7.4741 731.167)" font-family="'AppleBraille'" font-size="30">⠠⠗⠼⠃ ⠤ ⠋⠊⠭⠑⠙ ⠗⠑⠎⠊⠎⠞⠕⠗</text>
+		<text transform="matrix(1 0 0 1 7.4741 767.167)" font-family="'AppleBraille'" font-size="30">⠠⠊⠼⠁ ⠤ ⠊⠝⠏⠥⠞ ⠞⠕ ⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</text>
 	</g>
-	<circle class="st5" cx="408.5" cy="320.6" r="3.8"/>
-	<line id="connector0pin_10_" class="st6" x1="408.5" y1="224.2" x2="408.5" y2="238.2"/>
-	<path class="st0" d="M395.9,223.7h25.2"/>
 </g>
-<g id="Braille">
-	<text transform="matrix(1 0 0 1 15.1189 36.0477)" class="st7"><tspan x="0" y="0" class="st8 st9">⠠⠁⠝⠁⠇⠕⠛ ⠠⠊⠝⠏⠥⠞</tspan><tspan x="0" y="34.8" class="st10 st9">(</tspan><tspan x="8.2" y="34.8" class="st8 st9">⠧⠕⠇⠞⠁⠛⠑ ⠙⠊⠧⠊⠙⠑⠗</tspan><tspan x="295.7" y="34.8" class="st10 st9">)</tspan></text>
-	<text transform="matrix(1 0 0 1 412.8804 284.9402)" class="st8 st9">⠠⠗⠁</text>
-	<text transform="matrix(1 0 0 1 365.4996 212.9021)" class="st10 st9">+</text>
-	<text transform="matrix(1 0 0 1 382.7996 212.9021)" class="st8 st9">⠠⠠⠧</text>
-	<text transform="matrix(1 0 0 1 412.88 380.626)" class="st8 st9">⠠⠗⠃</text>
-	<text transform="matrix(1 0 0 1 469.0705 330.0413)" class="st8 st9">⠠⠊⠁</text>
-	<text transform="matrix(1 0 0 1 12.261 450.5175)" class="st8 st9">⠠⠅⠑⠽</text>
-	<text transform="matrix(1 0 0 1 12.261 485.3175)" class="st8 st9">⠠⠗⠁ ⠤ ⠧⠁⠗⠊⠁⠃⠇⠑ ⠗⠑⠎⠊⠎⠞⠕⠗</text>
-	<text transform="matrix(1 0 0 1 12.261 520.1175)" class="st8 st9">⠠⠗⠃ ⠤ ⠋⠊⠭⠑⠙ ⠗⠑⠎⠊⠎⠞⠕⠗</text>
-	<text transform="matrix(1 0 0 1 12.261 554.9175)" class="st8 st9">⠠⠊⠁ ⠤ ⠊⠝⠏⠥⠞ ⠞⠕ ⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</text>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="22.719" y1="0" x2="0.5" y2="22.219"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="37.125" y1="-3.5" x2="-4.5" y2="38.125"/>
+<text id="label_1_" transform="matrix(0.9585 0 0 1 109.6572 207.7031)" fill="#939597" font-family="'ArialMT'" font-size="25.0806">+V</text>
+<g>
+	<text transform="matrix(1 0 0 1 329.6123 430.541)" enable-background="new    "><tspan x="0" y="0" fill="#939597" font-family="'ArialMT'" font-size="14">Input to </tspan><tspan x="0" y="16.8" fill="#939597" font-family="'ArialMT'" font-size="14">microcontroller</tspan><tspan x="0" y="36.864" fill="#939597" font-family="'ArialMT'" font-size="16.7204"> </tspan></text>
 </g>
-<g id="plaintext" class="st11">
-	<text id="label" transform="matrix(0.9585 0 0 1 455.8975 215.9021)" class="st12 st13 st14">+V</text>
-	<g class="st15">
-		<text transform="matrix(1 0 0 1 532.1187 323.7129)" class="st5 st13 st16">I1</text>
-	</g>
-	<text transform="matrix(1 0 0 1 573.2618 470.8715)" class="st15 st17 st16">Key:</text>
-	<text transform="matrix(1 0 0 1 573.2618 487.6715)" class="st15 st17 st16">R1 - variable resistor</text>
-	<text transform="matrix(1 0 0 1 573.2618 504.4715)" class="st15 st17 st16">R2 - fixed resistor</text>
-	<text transform="matrix(1 0 0 1 573.2618 521.2715)" class="st15 st17 st16">I1 - input to microcontroller</text>
-	<text transform="matrix(1 0 0 1 488.5 256.5852)" class="st15 st10 st18">R1</text>
-	<text transform="matrix(1 0 0 1 35.1667 103.2519)" class="st19"><tspan x="0" y="0" class="st10 st18">Analog Input</tspan><tspan x="0" y="21.6" class="st10 st18">(voltage divider)</tspan></text>
-	<text transform="matrix(1 0 0 1 488.5 365.1566)" class="st15 st10 st18">R2</text>
+<g>
+	<text transform="matrix(1 0 0 1 245.9561 347.1855)" enable-background="new    "><tspan x="0" y="0" fill="#939597" font-family="'ArialMT'" font-size="14">Variable</tspan><tspan x="0" y="16.8" fill="#939597" font-family="'ArialMT'" font-size="14">Resistor</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 421.9336 595.3164)" fill="#939597" font-family="'ArialMT'" font-size="14">Key</text>
+	<text transform="matrix(1 0 0 1 421.9336 612.1172)" fill="#939597" font-family="'ArialMT'" font-size="14">R1 - variable resistor</text>
+	<text transform="matrix(1 0 0 1 421.9336 628.916)" fill="#939597" font-family="'ArialMT'" font-size="14">R2 - fixed resistor</text>
+	<text transform="matrix(1 0 0 1 421.9336 645.7168)" fill="#939597" font-family="'ArialMT'" font-size="14">I1 - input to microcontroller</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 21.9526 150.314)" fill="#939597" font-family="'ArialMT'" font-size="21">Analog Input Voltage Divider</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 240.5547 520.6309)" fill="#939597" font-family="'ArialMT'" font-size="14">Fixed Resistor</text>
 </g>
 </svg>

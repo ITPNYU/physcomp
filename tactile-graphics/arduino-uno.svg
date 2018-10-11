@@ -1,59 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
-	.st2{font-family:'AppleBraille';}
-	.st3{font-size:29px;}
-	.st4{enable-background:new    ;}
-	.st5{display:none;}
-	.st6{display:inline;}
-	.st7{font-family:'Helvetica';}
-	.st8{font-size:14px;}
-</style>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
 <g id="Layer_2">
-	<line class="st0" x1="308.3" y1="165" x2="398.2" y2="165"/>
-	<polyline class="st0" points="448.3,165 490.7,165 490.7,455.7 432,455.7 422.4,467.2 277.9,467.2 266.7,455.7 255.5,455.7 
-		255.5,165 270.1,165 	"/>
-	<rect x="398.2" y="137.2" class="st0" width="50.5" height="68.8"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="238.232" y1="287.045" x2="307.7" y2="287.045"/>
+	<polyline fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="346.414,287.045 379.178,287.045 
+		379.178,511.678 333.818,511.678 326.4,520.562 214.741,520.562 206.086,511.678 197.432,511.678 197.432,287.045 208.714,287.045 
+			"/>
 	
-		<rect x="270.1" y="157.3" transform="matrix(0.9998 -1.743498e-02 1.743498e-02 0.9998 -3.1979 5.0711)" class="st0" width="38.3" height="57.3"/>
-	<rect x="315.4" y="287.5" class="st0" width="24.6" height="163.5"/>
-	<circle cx="472.1" cy="191.4" r="13.6"/>
-	<circle cx="266.4" cy="287.8" r="2.6"/>
-	<circle cx="266.4" cy="366.4" r="2.6"/>
-	<circle cx="266.4" cy="344" r="2.6"/>
-	<circle cx="266.4" cy="355.2" r="2.6"/>
-	<circle cx="266.4" cy="332.7" r="2.6"/>
-	<circle cx="266.4" cy="321.5" r="2.6"/>
-	<circle cx="266.4" cy="310.3" r="2.6"/>
-	<circle cx="266.4" cy="299" r="2.6"/>
-	<circle cx="266.7" cy="445.2" r="2.6"/>
-	<circle cx="266.7" cy="422.7" r="2.6"/>
-	<circle cx="266.7" cy="434" r="2.6"/>
-	<circle cx="266.7" cy="411.5" r="2.6"/>
-	<circle cx="266.7" cy="400.3" r="2.6"/>
-	<circle cx="266.7" cy="389" r="2.6"/>
-	<circle cx="480.2" cy="366" r="2.6"/>
-	<circle cx="480.2" cy="444.6" r="2.6"/>
-	<circle cx="480.2" cy="422.1" r="2.6"/>
-	<circle cx="480.2" cy="433.3" r="2.6"/>
-	<circle cx="480.2" cy="410.9" r="2.6"/>
-	<circle cx="480.2" cy="399.7" r="2.6"/>
-	<circle cx="480.2" cy="388.4" r="2.6"/>
-	<circle cx="480.2" cy="377.2" r="2.6"/>
-	<circle cx="480" cy="270.3" r="2.6"/>
-	<circle cx="480" cy="348.5" r="2.6"/>
-	<circle cx="480" cy="326.2" r="2.6"/>
-	<circle cx="480" cy="337.4" r="2.6"/>
-	<circle cx="480" cy="315" r="2.6"/>
-	<circle cx="480" cy="303.8" r="2.6"/>
-	<circle cx="480" cy="292.7" r="2.6"/>
-	<circle cx="480" cy="281.5" r="2.6"/>
-	<circle cx="480" cy="247.9" r="2.6"/>
-	<circle cx="480" cy="259.1" r="2.6"/>
+		<rect x="307.7" y="265.563" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="39.021" height="53.164"/>
+	
+		<rect x="208.721" y="281.085" transform="matrix(-0.9998 0.0174 -0.0174 -0.9998 452.2682 602.4985)" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="29.585" height="44.263"/>
+	
+		<rect x="243.718" y="381.705" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="19.009" height="126.341"/>
+	<circle cx="364.805" cy="307.446" r="10.509"/>
+	<circle cx="205.854" cy="381.936" r="2.009"/>
+	<circle cx="205.854" cy="442.673" r="2.009"/>
+	<circle cx="205.854" cy="425.364" r="2.009"/>
+	<circle cx="205.854" cy="434.018" r="2.009"/>
+	<circle cx="205.854" cy="416.632" r="2.009"/>
+	<circle cx="205.854" cy="407.977" r="2.009"/>
+	<circle cx="205.854" cy="399.323" r="2.009"/>
+	<circle cx="205.854" cy="390.591" r="2.009"/>
+	<circle cx="206.086" cy="503.563" r="2.009"/>
+	<circle cx="206.086" cy="486.177" r="2.009"/>
+	<circle cx="206.086" cy="494.909" r="2.009"/>
+	<circle cx="206.086" cy="477.523" r="2.009"/>
+	<circle cx="206.086" cy="468.868" r="2.009"/>
+	<circle cx="206.086" cy="460.136" r="2.009"/>
+	<circle cx="371.062" cy="442.364" r="2.009"/>
+	<circle cx="371.062" cy="503.1" r="2.009"/>
+	<circle cx="371.062" cy="485.713" r="2.009"/>
+	<circle cx="371.062" cy="494.368" r="2.009"/>
+	<circle cx="371.062" cy="477.059" r="2.009"/>
+	<circle cx="371.062" cy="468.405" r="2.009"/>
+	<circle cx="371.062" cy="459.673" r="2.009"/>
+	<circle cx="371.062" cy="451.018" r="2.009"/>
+	<circle cx="370.909" cy="368.414" r="2.009"/>
+	<circle cx="370.909" cy="428.841" r="2.009"/>
+	<circle cx="370.909" cy="411.609" r="2.009"/>
+	<circle cx="370.909" cy="420.264" r="2.009"/>
+	<circle cx="370.909" cy="402.955" r="2.009"/>
+	<circle cx="370.909" cy="394.3" r="2.009"/>
+	<circle cx="370.909" cy="385.723" r="2.009"/>
+	<circle cx="370.909" cy="377.068" r="2.009"/>
+	<circle cx="370.909" cy="351.105" r="2.009"/>
+	<circle cx="370.909" cy="359.759" r="2.009"/>
 	<g id="connector1terminal_4_">
 	</g>
 	<g id="connector0terminal_4_">
@@ -64,138 +57,194 @@
 	</g>
 	<g id="partLabel_21_">
 	</g>
-	<line class="st1" x1="491.2" y1="281.5" x2="468.8" y2="281.5"/>
-	<line class="st1" x1="277.7" y1="355.2" x2="255.2" y2="355.2"/>
-	<line class="st1" x1="278" y1="343.9" x2="255.5" y2="343.9"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="379.562" y1="377.068" x2="362.255" y2="377.068"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="214.586" y1="434.019" x2="197.2" y2="434.019"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="214.818" y1="425.286" x2="197.432" y2="425.286"/>
 	<g>
 		
-			<rect x="329" y="177.3" transform="matrix(0.9998 -1.743496e-02 1.743496e-02 0.9998 -3.1603 5.9887)" class="st0" width="25.8" height="13.9"/>
-		<line class="st0" x1="341.9" y1="191.3" x2="341.9" y2="200.7"/>
-		<line class="st0" x1="334.6" y1="191.3" x2="334.6" y2="200.7"/>
-		<line class="st0" x1="349.2" y1="191.3" x2="349.2" y2="200.7"/>
+			<rect x="254.223" y="296.54" transform="matrix(-0.9998 0.0174 -0.0174 -0.9998 533.5953 599.1677)" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="19.93" height="10.736"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="264.195" y1="307.368" x2="264.195" y2="314.632"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="258.555" y1="307.368" x2="258.555" y2="314.632"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="269.836" y1="307.368" x2="269.836" y2="314.632"/>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="181" y1="137.2" x2="226.9" y2="152.5"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="139.864" y1="265.563" x2="175.332" y2="277.386"/>
 			<g>
-				<polygon points="240.3,157 218.9,158.4 225.9,152.2 224,143 				"/>
+				<polygon points="185.687,280.864 169.15,281.945 174.559,277.154 173.091,270.045 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="159.2" y1="299" x2="233" y2="313.4"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="123.018" y1="390.591" x2="180.045" y2="401.718"/>
 			<g>
-				<polygon points="246.9,316.1 225.8,320.3 232,313.2 228.9,304.3 				"/>
+				<polygon points="190.786,403.805 174.482,407.05 179.273,401.562 176.877,394.687 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="340" y1="103.5" x2="340" y2="142.8"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="262.727" y1="239.523" x2="262.727" y2="269.891"/>
 			<g>
-				<polygon points="340,157 331.9,137.1 340,141.8 348.1,137.1 				"/>
+				<polygon points="262.727,280.864 256.468,265.486 262.727,269.118 268.986,265.486 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="482.8" y1="119.1" x2="472.3" y2="130.9"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="373.072" y1="251.577" x2="364.959" y2="260.695"/>
 			<g>
-				<polygon points="462.9,141.5 470.1,121.2 473,130.1 482.2,132 				"/>
+				<polygon points="357.695,268.886 363.259,253.2 365.5,260.077 372.609,261.545 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="549.1" y1="171.6" x2="515.8" y2="180.6"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="424.305" y1="292.146" x2="398.572" y2="299.1"/>
 			<g>
-				<polygon points="502.1,184.3 519.2,171.2 516.8,180.3 523.5,186.9 				"/>
+				<polygon points="387.986,301.959 401.2,291.836 399.346,298.868 404.522,303.968 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="539.9" y1="278.9" x2="513.1" y2="279.1"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="417.195" y1="375.059" x2="396.486" y2="375.214"/>
 			<g>
-				<polygon points="499,279.2 518.8,270.9 514.2,279.1 519,287.2 				"/>
+				<polygon points="385.591,375.291 400.891,368.877 397.336,375.214 401.046,381.473 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="549.1" y1="312.4" x2="510.9" y2="297.9"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="424.305" y1="400.945" x2="394.786" y2="389.741"/>
 			<g>
-				<polygon points="497.7,292.9 519.1,292.3 511.8,298.3 513.4,307.5 				"/>
+				<polygon points="384.586,385.877 401.123,385.414 395.481,390.05 396.718,397.159 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="547.9" y1="470.5" x2="509.7" y2="456"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="423.377" y1="523.113" x2="393.859" y2="511.909"/>
 			<g>
-				<polygon points="496.5,451 518,450.5 510.7,456.4 512.2,465.7 				"/>
+				<polygon points="383.659,508.046 400.272,507.659 394.632,512.218 395.791,519.404 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="206.3" y1="348.3" x2="233.1" y2="348.6"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="159.414" y1="428.688" x2="180.123" y2="428.918"/>
 			<g>
-				<polygon points="247.2,348.7 227.2,356.6 232,348.5 227.4,340.4 				"/>
+				<polygon points="191.018,428.995 175.563,435.1 179.273,428.841 175.718,422.582 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="203.1" y1="444.4" x2="232.9" y2="427.2"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="144.292" y1="472.543" x2="177.341" y2="464.353"/>
 			<g>
-				<polygon points="245.1,420.1 232,437.1 232,427.7 223.8,423 				"/>
+				<polygon points="187.877,461.579 174.555,471.511 176.5,464.5 171.433,459.389 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="334.6" y1="540.6" x2="330.3" y2="496.6"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="156.941" y1="502.945" x2="179.968" y2="489.654"/>
 			<g>
-				<polygon points="328.9,482.5 338.9,501.6 330.4,497.7 322.8,503.2 				"/>
+				<polygon points="189.396,484.168 179.273,497.305 179.273,490.041 172.937,486.409 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="148.211" y1="608.888" x2="195.988" y2="527.147"/>
+			<g>
+				<polygon points="201.607,517.798 199.064,534.187 195.565,527.821 188.263,527.69 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="258.555" y1="577.282" x2="255.232" y2="543.282"/>
+			<g>
+				<polygon points="254.15,532.387 261.877,547.146 255.309,544.132 249.437,548.382 				"/>
 			</g>
 		</g>
 	</g>
 </g>
-<g id="Braille">
-	<text transform="matrix(1 0 0 1 2.9518 34.8998)" class="st2 st3">⠠⠁⠗⠙⠥⠊⠝⠕ ⠠⠥⠝⠕</text>
-	<text transform="matrix(1 0 0 1 256.9518 60.2167)" class="st4"><tspan x="0" y="0" class="st2 st3">⠠⠧⠕⠇⠞⠁⠛⠑ </tspan><tspan x="0" y="34.8" class="st2 st3">⠠⠗⠑⠛⠥⠇⠁⠞⠕⠗</tspan></text>
-	<text transform="matrix(1 0 0 1 493.6 68.7503)" class="st2 st3">⠠⠠⠥⠎⠃ </text>
-	<text transform="matrix(1 0 0 1 493.6 103.5503)" class="st2 st3">⠠⠏⠇⠥⠛</text>
-	<text transform="matrix(1 0 0 1 576.2667 163.417)" class="st2 st3">⠠⠗⠑⠎⠑⠞ </text>
-	<text transform="matrix(1 0 0 1 576.2667 198.217)" class="st2 st3">⠃⠥⠞⠞⠕⠝</text>
-	<text transform="matrix(1 0 0 1 550.9333 287.1002)" class="st2 st3">⠠⠛⠗⠕⠥⠝⠙</text>
-	<text transform="matrix(1 0 0 1 563.6 331.7995)" class="st2 st3">⠠⠙⠁⠉</text>
-	<text transform="matrix(1 0 0 1 563.6005 488.4662)" class="st2 st3">⠠⠙⠚</text>
-	<text transform="matrix(1 0 0 1 560.0938 373.4993)" class="st2 st3">⠠⠙⠊⠛⠊⠞⠁⠇ </text>
-	<text transform="matrix(1 0 0 1 560.0938 408.2993)" class="st2 st3">⠏⠊⠝⠎</text>
-	<text transform="matrix(1 0 0 1 62.9333 361.7668)" class="st2 st3">⠠⠛⠗⠕⠥⠝⠙</text>
-	<text transform="matrix(1 0 0 1 65.5998 459.5995)" class="st2 st3">⠠⠁⠝⠁⠇⠕⠛ </text>
-	<text transform="matrix(1 0 0 1 65.5998 494.3995)" class="st2 st3">⠊⠝⠏⠥⠞⠎</text>
-	<text transform="matrix(1 0 0 1 226.0668 574.9335)" class="st2 st3">⠠⠁⠠⠞⠍⠑⠛⠁⠼⠉⠃⠓</text>
-	<text transform="matrix(1 0 0 1 39.5999 279.0706)" class="st2 st3">⠠⠧⠕⠇⠞⠁⠛⠑ </text>
-	<text transform="matrix(1 0 0 1 39.5999 313.8706)" class="st2 st3">⠏⠊⠝⠎</text>
-	<text transform="matrix(1 0 0 1 57.6184 125.0164)" class="st4"><tspan x="0" y="0" class="st2 st3">⠠⠧⠕⠇⠞⠁⠛⠑ </tspan><tspan x="0" y="34.8" class="st2 st3">⠠⠏⠇⠥⠛</tspan></text>
+<g id="Plaintext" display="none">
+	<text transform="matrix(1 0 0 1 11.5908 200.4922)" display="inline" font-family="'Helvetica'" font-size="10.8182">Arduino Uno</text>
+	<text transform="matrix(1 0 0 1 40.9546 301.9141)" display="inline" font-family="'Helvetica'" font-size="10.8182">Voltage plug</text>
+	<text transform="matrix(1 0 0 1 14.6816 353.1133)" display="inline" font-family="'Helvetica'" font-size="10.8182">voltage pins</text>
+	<text transform="matrix(1 0 0 1 30.6001 451.0176)" display="inline" font-family="'Helvetica'" font-size="10.8182">Ground</text>
+	<text transform="matrix(1 0 0 1 40.9546 560.2812)" display="inline" font-family="'Helvetica'" font-size="10.8182">Analog inputs</text>
+	<text transform="matrix(1 0 0 1 269.8364 616.6904)" display="inline" font-family="'Helvetica'" font-size="10.8182">ATMega328</text>
+	<text transform="matrix(1 0 0 1 417.1953 544.7236)" display="inline" font-family="'Helvetica'" font-size="10.8182">D0</text>
+	<text transform="matrix(1 0 0 1 468.1953 496.918)" display="inline" font-family="'Helvetica'" font-size="10.8182">Digital Pins</text>
+	<text transform="matrix(1 0 0 1 543.9229 380.0049)" display="inline" font-family="'Helvetica'" font-size="10.8182">Ground</text>
+	<text transform="matrix(1 0 0 1 513.0137 409.8086)" display="inline" font-family="'Helvetica'" font-size="10.8182">D13</text>
+	<text transform="matrix(1 0 0 1 513.0137 260.6953)" display="inline" font-family="'Helvetica'" font-size="10.8182">Reset button</text>
+	<text transform="matrix(1 0 0 1 423.377 186.5137)" display="inline" font-family="'Helvetica'" font-size="10.8182">USB Plug</text>
+	<text transform="matrix(1 0 0 1 243.7183 181.7617)" display="inline" font-family="'Helvetica'" font-size="10.8182">Voltage regulator</text>
 </g>
-<g id="Plaintext" class="st5">
-	<text transform="matrix(1 0 0 1 15 52.99)" class="st6 st7 st8">Arduino Uno</text>
-	<text transform="matrix(1 0 0 1 53 184.2417)" class="st6 st7 st8">Voltage plug</text>
-	<text transform="matrix(1 0 0 1 19 250.4998)" class="st6 st7 st8">voltage pins</text>
-	<text transform="matrix(1 0 0 1 39.5999 377.2)" class="st6 st7 st8">Ground</text>
-	<text transform="matrix(1 0 0 1 52.9998 518.6001)" class="st6 st7 st8">Analog inputs</text>
-	<text transform="matrix(1 0 0 1 349.1998 591.6001)" class="st6 st7 st8">ATMega328</text>
-	<text transform="matrix(1 0 0 1 539.9001 498.4659)" class="st6 st7 st8">D0</text>
-	<text transform="matrix(1 0 0 1 605.9001 436.6004)" class="st6 st7 st8">Digital Pins</text>
-	<text transform="matrix(1 0 0 1 703.9001 285.3001)" class="st6 st7 st8">Ground</text>
-	<text transform="matrix(1 0 0 1 663.8999 323.8706)" class="st6 st7 st8">D13</text>
-	<text transform="matrix(1 0 0 1 663.8997 130.8998)" class="st6 st7 st8">Reset button</text>
-	<text transform="matrix(1 0 0 1 547.9003 34.8998)" class="st6 st7 st8">USB Plug</text>
-	<text transform="matrix(1 0 0 1 315.3998 28.7502)" class="st6 st7 st8">Voltage regulator</text>
+<g id="Braille_1_">
+	<text transform="matrix(1 0 0 1 4.1304 441.5928)" font-family="'AppleBraille'" font-size="30">⠠⠛⠗⠕⠥⠝⠙</text>
+	<text transform="matrix(1 0 0 1 29.6909 537.6904)" font-family="'AppleBraille'" font-size="30">⠠⠁⠝⠁⠇⠕⠛</text>
+	<text transform="matrix(1 0 0 1 29.6909 573.6904)" font-family="'AppleBraille'" font-size="30">⠊⠝⠏⠥⠞⠎ </text>
+	<text transform="matrix(1 0 0 1 23.6001 351.1904)" font-family="'AppleBraille'" font-size="30">⠠⠧⠕⠇⠞⠁⠛⠑</text>
+	<text transform="matrix(1 0 0 1 23.6001 387.1904)" font-family="'AppleBraille'" font-size="30">⠏⠊⠝⠎ </text>
+	<text transform="matrix(1 0 0 1 19.5234 259.1484)" font-family="'AppleBraille'" font-size="30">⠠⠧⠕⠇⠞⠁⠛⠑</text>
+	<text transform="matrix(1 0 0 1 24.5234 292.1484)" font-family="'AppleBraille'" font-size="30">⠠⠏⠇⠥⠛ </text>
+	<text transform="matrix(1 0 0 1 154.5537 184.0771)" font-family="'AppleBraille'" font-size="30">⠠⠧⠕⠇⠞⠁⠛⠑</text>
+	<text transform="matrix(1 0 0 1 154.5537 220.0771)" font-family="'AppleBraille'" font-size="30">⠠⠗⠑⠛⠥⠇⠁⠞⠕⠗ </text>
+	<text transform="matrix(1 0 0 1 367.418 200.6709)" font-family="'AppleBraille'" font-size="30">⠠⠠⠥⠎⠃</text>
+	<text transform="matrix(1 0 0 1 367.418 236.6709)" font-family="'AppleBraille'" font-size="30">⠠⠏⠇⠥⠛ </text>
+	<text transform="matrix(1 0 0 1 437.2969 285.8223)" font-family="'AppleBraille'" font-size="30">⠠⠗⠑⠎⠑⠞</text>
+	<text transform="matrix(1 0 0 1 437.2969 321.8223)" font-family="'AppleBraille'" font-size="30">⠃⠥⠞⠞⠕⠝ </text>
+	<text transform="matrix(1 0 0 1 425.7207 379.3955)" font-family="'AppleBraille'" font-size="30">⠠⠛⠗⠕⠥⠝⠙</text>
+	<text transform="matrix(1 0 0 1 415.5088 551.9961)" font-family="'AppleBraille'" font-size="30">⠠⠙⠼⠚</text>
+	<text transform="matrix(1 0 0 1 422.7998 423.1592)" font-family="'AppleBraille'" font-size="30">⠠⠙⠼⠁⠉</text>
+	<text transform="matrix(1 0 0 1 422.7998 464.1592)" font-family="'AppleBraille'" font-size="30">⠠⠙⠊⠛⠊⠞⠁⠇</text>
+	<text transform="matrix(1 0 0 1 422.7998 500.1592)" font-family="'AppleBraille'" font-size="30">⠏⠊⠝⠎ </text>
+	<text transform="matrix(1 0 0 1 171.688 608.8125)" font-family="'AppleBraille'" font-size="30">⠠⠁⠠⠞⠍⠑⠛⠁⠼⠉⠃⠓</text>
 </g>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="22.719" y1="0" x2="0.5" y2="22.219"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="37.125" y1="-3.5" x2="-4.5" y2="38.125"/>
+<text transform="matrix(1 0 0 1 37.0137 112.2578)" fill="#939597" font-family="'Helvetica'" font-size="21">Arduino Uno</text>
+<text transform="matrix(1 0 0 1 24.4102 84.4004)" font-family="'AppleBraille'" font-size="30">⠠⠁⠗⠙⠥⠊⠝⠕ ⠠⠥⠝⠕</text>
+<text transform="matrix(1 0 0 1 30.1294 599.2432)" fill="#939597" font-family="'ArialMT'" font-size="12">Analog inputs</text>
+<text transform="matrix(1 0 0 1 232.6196 629.2412)" fill="#939597" font-family="'ArialMT'" font-size="12">ATmega328</text>
+<text transform="matrix(1 0 0 1 19.6455 461.7363)" fill="#939597" font-family="'ArialMT'" font-size="12">Ground</text>
+<text transform="matrix(1 0 0 1 29.6455 403.7402)" fill="#939597" font-family="'ArialMT'" font-size="12">Voltage pins </text>
+<text transform="matrix(1 0 0 1 16.6455 311.7441)" fill="#939597" font-family="'ArialMT'" font-size="12">Voltage Plug</text>
+<text transform="matrix(1 0 0 1 390.127 250.248)" fill="#939597" font-family="'ArialMT'" font-size="12">USB Plug </text>
+<text transform="matrix(1 0 0 1 192.1367 233.748)" fill="#939597" font-family="'ArialMT'" font-size="12">Voltage Regulator</text>
+<text transform="matrix(1 0 0 1 439.625 335.7432)" fill="#939597" font-family="'ArialMT'" font-size="12">Reset button</text>
+<text transform="matrix(1 0 0 1 439.625 391.2402)" fill="#939597" font-family="'ArialMT'" font-size="12">Ground</text>
+<text transform="matrix(1 0 0 1 436.625 434.7383)" fill="#939597" font-family="'ArialMT'" font-size="12">D13</text>
+<text transform="matrix(1 0 0 1 439.625 514.2344)" fill="#939597" font-family="'ArialMT'" font-size="12">Digital pins</text>
+<text transform="matrix(1 0 0 1 427.125 565.2314)" fill="#939597" font-family="'ArialMT'" font-size="12">D0</text>
+<text transform="matrix(1 0 0 1 55.5908 488.0039)" font-family="'AppleBraille'" font-size="30">⠠⠁⠼⠚ </text>
+<text transform="matrix(1 0 0 1 81.5293 502.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">A0</text>
+<text transform="matrix(1 0 0 1 67.5908 636.0039)" font-family="'AppleBraille'" font-size="30">⠠⠁⠼⠑ </text>
+<text transform="matrix(1 0 0 1 93.5293 650.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">A5</text>
 </svg>

@@ -1,112 +1,186 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st1{font-family:'MyriadPro-Regular';}
-	.st2{font-size:13.7703px;}
-	.st3{font-family:'AppleBraille';}
-</style>
-<g id="Layer_1">
-	<g>
-		<path d="M439.8,162.4c39.9,0,77.5,15.5,105.7,43.8c28.2,28.2,43.8,65.8,43.8,105.7s-15.5,77.5-43.8,105.7
-			c-28.2,28.2-65.8,43.8-105.7,43.8s-77.5-15.5-105.7-43.8c-28.2-28.2-43.8-65.8-43.8-105.7s15.5-77.5,43.8-105.7
-			S399.9,162.4,439.8,162.4 M439.8,160.4c-83.7,0-151.5,67.8-151.5,151.5s67.8,151.5,151.5,151.5s151.5-67.8,151.5-151.5
-			S523.5,160.4,439.8,160.4L439.8,160.4z"/>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="830.16px" height="792px" viewBox="0.17 0 830.16 792" enable-background="new 0.17 0 830.16 792" xml:space="preserve">
+<g id="Layer_1_2_">
+	<g id="Layer_1_1_">
+		<g>
+			<path d="M414.843,285.036c30.832,0,59.889,11.978,81.68,33.846c21.791,21.791,33.846,50.846,33.846,81.677
+				c0,30.832-11.979,59.89-33.846,81.681c-21.791,21.791-50.848,33.846-81.68,33.846s-59.887-11.978-81.678-33.846
+				c-21.791-21.791-33.845-50.849-33.845-81.681c0-30.832,11.977-59.886,33.845-81.677S384.011,285.036,414.843,285.036
+				 M414.843,283.491c-64.678,0-117.068,52.391-117.068,117.065c0,64.681,52.391,117.068,117.068,117.068
+				c64.68,0,117.068-52.391,117.068-117.068C531.911,335.882,479.52,283.491,414.843,283.491L414.843,283.491z"/>
+		</g>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M318.639,242.691h-32.301
+			c-5.1,0-9.272-4.173-9.272-9.273v-16.382c0-5.1,4.172-9.272,9.272-9.272h32.301c5.1,0,9.271,4.173,9.271,9.272v16.305
+			C327.911,238.518,323.738,242.691,318.639,242.691z"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M398.461,242.691h-32.3
+			c-5.101,0-9.272-4.173-9.272-9.273v-16.382c0-5.1,4.172-9.272,9.272-9.272h32.3c5.103,0,9.272,4.173,9.272,9.272v16.305
+			C407.733,238.518,403.56,242.691,398.461,242.691z"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M550.997,242.691h-32.3
+			c-5.104,0-9.272-4.173-9.272-9.273v-16.382c0-5.1,4.172-9.272,9.272-9.272h32.3c5.1,0,9.272,4.173,9.272,9.272v16.305
+			C560.27,238.518,556.097,242.691,550.997,242.691z"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="285.411" cy="607.418" r="15.377"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="374.661" cy="607.418" r="15.377"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="450.31" cy="607.418" r="15.377"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="534.229" cy="607.418" r="15.377"/>
 	</g>
-	<path class="st0" d="M315.3,107.6h-41.8c-6.6,0-12-5.4-12-12V74.4c0-6.6,5.4-12,12-12h41.8c6.6,0,12,5.4,12,12v21.1
-		C327.3,102.2,321.9,107.6,315.3,107.6z"/>
-	<path class="st0" d="M418.6,107.6h-41.8c-6.6,0-12-5.4-12-12V74.4c0-6.6,5.4-12,12-12h41.8c6.6,0,12,5.4,12,12v21.1
-		C430.6,102.2,425.2,107.6,418.6,107.6z"/>
-	<path class="st0" d="M616,107.6h-41.8c-6.6,0-12-5.4-12-12V74.4c0-6.6,5.4-12,12-12H616c6.6,0,12,5.4,12,12v21.1
-		C628,102.2,622.6,107.6,616,107.6z"/>
-	<circle class="st0" cx="272.3" cy="579.6" r="19.9"/>
-	<circle class="st0" cx="387.8" cy="579.6" r="19.9"/>
-	<circle class="st0" cx="485.7" cy="579.6" r="19.9"/>
-	<circle class="st0" cx="594.3" cy="579.6" r="19.9"/>
+	<g id="plaintext">
+		<text transform="matrix(1 0 0 1 450.5166 272.3398)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">Transistor Check (hFE)</text>
+		<text transform="matrix(1 0 0 1 407.9541 264.6553)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">Off</text>
+		<text transform="matrix(1 0 0 1 477.0303 222.6191)" fill="#939597" font-family="'Arial-Black'" font-size="10.6407">NPN</text>
+		<text transform="matrix(1 0 0 1 477.0303 236.8066)" fill="#939597" font-family="'Arial-Black'" font-size="10.6407">PNP</text>
+		<text transform="matrix(1 0 0 1 516.7256 201.9941)" fill="#939597" font-family="'Arial-Black'" font-size="10.6407">E  B  C  E</text>
+		<text transform="matrix(1 0 0 1 364.209 181.8945)" fill="#939597" font-family="'Arial-Black'" font-size="10.6407">True/Avg</text>
+		<text transform="matrix(1 0 0 1 364.209 194.6445)" fill="#939597" font-family="'Arial-Black'" font-size="10.6407">speaker</text>
+		<text transform="matrix(1 0 0 1 289.1338 181.3027)" fill="#939597" font-family="'Arial-Black'" font-size="10.6407">Hold/</text>
+		<text transform="matrix(1 0 0 1 289.1338 194.0527)" fill="#939597" font-family="'Arial-Black'" font-size="10.6407">Select</text>
+		<text transform="matrix(1 0 0 1 471.7979 283.5723)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">200mV</text>
+		<text transform="matrix(1 0 0 1 503.7197 300.7148)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">2V</text>
+		<text transform="matrix(1 0 0 1 520.2725 321.4053)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">20V</text>
+		<text transform="matrix(1 0 0 1 534.46 342.6875)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">200V</text>
+		<text transform="matrix(1 0 0 1 546.2832 367.5146)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">1000V</text>
+		<text transform="matrix(1 0 0 1 549.2383 400.6191)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">750V</text>
+		<text transform="matrix(1 0 0 1 549.2383 430.7676)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">200V</text>
+		<text transform="matrix(1 0 0 1 538.0068 463.2812)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">20V</text>
+		<text transform="matrix(1 0 0 1 524.4111 487.5176)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">2V</text>
+		<text transform="matrix(1 0 0 1 503.7197 511.1641)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">20uA</text>
+		<text transform="matrix(1 0 0 1 471.7979 525.3516)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">2 mA</text>
+		<text transform="matrix(1 0 0 1 441.0586 535.3594)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">20mA</text>
+		<text transform="matrix(1 0 0 1 341.1543 525.3516)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">10A</text>
+		<text transform="matrix(1 0 0 1 365.9824 531.2627)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">10A</text>
+		<text transform="matrix(1 0 0 1 283.8135 489.0625)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">20mA</text>
+		<text transform="matrix(1 0 0 1 302.73 505.8438)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">200mA</text>
+		<text transform="matrix(1 0 0 1 272.582 460.916)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">NCV</text>
+		<text transform="matrix(1 0 0 1 238.2949 403.5752)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">200 ohms</text>
+		<text transform="matrix(1 0 0 1 248.3447 374.0176)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">2 kOhms</text>
+		<text transform="matrix(1 0 0 1 248.936 348.5977)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">20kOhms</text>
+		<text transform="matrix(1 0 0 1 259.5762 321.4053)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">200kOhms</text>
+		<text transform="matrix(1 0 0 1 291.4985 300.7148)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">2MOhms</text>
+		<text transform="matrix(1 0 0 1 307.459 285.7559)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">20Mohms</text>
+		<text transform="matrix(1 0 0 1 401.4521 539.5381)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">200mA</text>
+		<text transform="matrix(1 0 0 1 580.5146 304.2617)" font-family="'AppleBraille'" font-size="10.6407"> </text>
+		<text transform="matrix(1 0 0 1 581.1943 444.2861)" fill="#939597" font-family="'ArialMT'" font-size="14">Voltage AC</text>
+		<text transform="matrix(1 0 0 1 552.1943 304.2861)" fill="#939597" font-family="'ArialMT'" font-size="14">Voltage DC</text>
+		<text transform="matrix(1 0 0 1 586.4268 476.2861)" font-family="'AppleBraille'" font-size="10.6407"> </text>
+		<text transform="matrix(1 0 0 1 499.0361 536.6719)" fill="#939597" font-family="'ArialMT'" font-size="14">Amperage DC</text>
+		<text transform="matrix(1 0 0 1 249.6206 540.8057)" fill="#939597" font-family="'ArialMT'" font-size="14">Amperage AC</text>
+		<text transform="matrix(1 0 0 1 137.8159 432.3594)" fill="#939597" font-family="'ArialMT'" font-size="14">Diode check/continuity</text>
+		<text transform="matrix(1 0 0 1 173.019 302.127)" fill="#939597" font-family="'ArialMT'" font-size="14">Resistance</text>
+		<text transform="matrix(1 0 0 1 302.73 264.6553)" fill="#939597" font-family="'MyriadPro-Bold'" font-size="10.6407">Capacitance 20 mF</text>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="414.843" y1="292.3" x2="414.843" y2="274.604"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="390.038" y1="295.236" x2="386.097" y2="277.927"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="367.243" y1="303.35" x2="359.516" y2="287.432"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="346.842" y1="316.409" x2="335.715" y2="302.577"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="329.766" y1="333.641" x2="315.934" y2="322.591"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="317.016" y1="354.273" x2="301.097" y2="346.545"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="309.211" y1="377.146" x2="291.902" y2="373.205"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="306.661" y1="401.255" x2="288.888" y2="401.255"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="309.52" y1="425.286" x2="292.288" y2="429.305"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="317.711" y1="448.082" x2="301.715" y2="455.809"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="330.691" y1="468.559" x2="316.861" y2="479.609"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="348.001" y1="485.559" x2="336.952" y2="499.468"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="368.557" y1="498.309" x2="360.906" y2="514.305"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="391.506" y1="506.113" x2="387.565" y2="523.423"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="415.615" y1="508.664" x2="415.615" y2="526.438"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="439.647" y1="505.805" x2="443.588" y2="523.113"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="462.442" y1="497.691" x2="470.17" y2="513.609"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="482.843" y1="484.632" x2="493.97" y2="498.464"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="499.843" y1="467.4" x2="513.752" y2="478.45"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="512.593" y1="446.769" x2="528.588" y2="454.495"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="520.475" y1="423.896" x2="537.783" y2="427.759"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="523.024" y1="399.786" x2="540.72" y2="399.786"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="520.165" y1="375.754" x2="537.397" y2="371.736"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="511.975" y1="352.882" x2="527.97" y2="345.232"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="498.992" y1="332.482" x2="512.824" y2="321.432"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="481.685" y1="315.482" x2="492.733" y2="301.573"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="461.129" y1="302.732" x2="468.779" y2="286.736"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="438.179" y1="294.85" x2="442.12" y2="277.618"/>
+		<circle cx="518.851" cy="219.354" r="1.777"/>
+		<circle cx="528.897" cy="219.354" r="1.777"/>
+		<circle cx="538.942" cy="219.354" r="1.777"/>
+		<circle cx="549.065" cy="219.354" r="1.777"/>
+		<circle cx="518.851" cy="232.027" r="1.777"/>
+		<circle cx="528.897" cy="232.027" r="1.777"/>
+		<circle cx="538.942" cy="232.027" r="1.777"/>
+		<circle cx="549.065" cy="232.027" r="1.777"/>
+	</g>
+	<g id="Braille">
+	</g>
 </g>
-<g id="plaintext">
-	<text transform="matrix(1 0 0 1 485.9669 145.9698)" class="st1 st2">Transistor Check (hFE)</text>
-	<text transform="matrix(1 0 0 1 430.8859 136.0245)" class="st1 st2">Off</text>
-	<text transform="matrix(1 0 0 1 528.0431 81.6241)" class="st1 st2">NPN</text>
-	<text transform="matrix(1 0 0 1 528.0431 99.9845)" class="st1 st2">PNP</text>
-	<text transform="matrix(1 0 0 1 571.6486 54.9327)" class="st1 st2">E  B  C  E</text>
-	<text transform="matrix(1 0 0 1 374.275 28.9225)"><tspan x="0" y="0" class="st1 st2">True/Avg</tspan><tspan x="0" y="16.5" class="st1 st2">speaker</tspan></text>
-	<text transform="matrix(1 0 0 1 277.1183 28.1573)"><tspan x="0" y="0" class="st1 st2">Hold/</tspan><tspan x="0" y="16.5" class="st1 st2">Select</tspan></text>
-	<text transform="matrix(1 0 0 1 30.0187 41.9279)"><tspan x="0" y="0" class="st1 st2">Winhy 890s</tspan><tspan x="0" y="16.5" class="st1 st2">Talking Multimeter</tspan></text>
-	<text transform="matrix(1 0 0 1 513.5079 160.505)" class="st1 st2">200mV</text>
-	<text transform="matrix(1 0 0 1 554.8185 182.6906)" class="st1 st2">2V</text>
-	<text transform="matrix(1 0 0 1 576.2384 209.4659)" class="st1 st2">20V</text>
-	<text transform="matrix(1 0 0 1 594.5988 237.0065)" class="st1 st2">200V</text>
-	<text transform="matrix(1 0 0 1 609.8995 269.1368)" class="st1 st2">1000V</text>
-	<text transform="matrix(1 0 0 1 613.7247 311.9777)" class="st1 st2">750V</text>
-	<text transform="matrix(1 0 0 1 613.7247 350.9933)" class="st1 st2">200V</text>
-	<text transform="matrix(1 0 0 1 599.1886 393.0695)" class="st1 st2">20V</text>
-	<text transform="matrix(1 0 0 1 581.5939 424.4347)" class="st1 st2">2V</text>
-	<text transform="matrix(1 0 0 1 554.8185 455.0353)" class="st1 st2">20uA</text>
-	<text transform="matrix(1 0 0 1 513.5079 473.3956)" class="st1 st2">2 mA</text>
-	<text transform="matrix(1 0 0 1 473.7267 486.3468)" class="st1 st2">20mA</text>
-	<text transform="matrix(1 0 0 1 344.4396 473.3956)" class="st1 st2">10A</text>
-	<text transform="matrix(1 0 0 1 376.5699 481.046)" class="st1 st2">10A</text>
-	<text transform="matrix(1 0 0 1 270.233 426.4347)" class="st1 st2">20mA</text>
-	<text transform="matrix(1 0 0 1 294.7135 448.1505)" class="st1 st2">200mA</text>
-	<text transform="matrix(1 0 0 1 255.6979 390.0089)" class="st1 st2">NCV</text>
-	<text transform="matrix(1 0 0 1 211.3268 315.8029)" class="st1 st2">200 ohms</text>
-	<text transform="matrix(1 0 0 1 224.3322 277.5519)" class="st1 st2">2 kOhms</text>
-	<text transform="matrix(1 0 0 1 225.0973 244.6564)" class="st1 st2">20kOhms</text>
-	<text transform="matrix(1 0 0 1 238.8673 209.4659)" class="st1 st2">200kOhms</text>
-	<text transform="matrix(1 0 0 1 280.1783 182.6906)" class="st1 st2">2MOhms</text>
-	<text transform="matrix(1 0 0 1 300.8336 163.3302)" class="st1 st2">20Mohms</text>
-	<text transform="matrix(1 0 0 1 422.4708 491.756)" class="st1 st2">200mA</text>
-	<text transform="matrix(1 0 0 1 609.8995 187.2804)"><tspan x="0" y="0" class="st1 st2">Voltage</tspan><tspan x="44.3" y="0" class="st3 st2"> </tspan><tspan x="49" y="0" class="st1 st2">DC</tspan></text>
-	<text transform="matrix(1 0 0 1 617.5499 409.8995)"><tspan x="0" y="0" class="st1 st2">Voltage</tspan><tspan x="44.3" y="0" class="st3 st2"> </tspan><tspan x="49" y="0" class="st1 st2">AC</tspan></text>
-	<text transform="matrix(1 0 0 1 544.8732 480.2804)" class="st1 st2">Amperage DC</text>
-	<text transform="matrix(1 0 0 1 235.0421 493.3956)" class="st1 st2">Amperage AC</text>
-	<text transform="matrix(1 0 0 1 131.7657 351.7589)" class="st1 st2">Diode check/continuity</text>
-	<text transform="matrix(1 0 0 1 159.8517 202.6354)" class="st1 st2">Resistance</text>
-	<text transform="matrix(1 0 0 1 262.0421 543.5372)" class="st1 st2">10A</text>
-	<text transform="matrix(1 0 0 1 373.5099 543.7775)" class="st1 st2">mA</text>
-	<text transform="matrix(1 0 0 1 473.7267 543.7775)" class="st1 st2">COM</text>
-	<text transform="matrix(1 0 0 1 560.5372 532.7775)"><tspan x="0" y="0" class="st1 st2">V, ohms, Hz, </tspan><tspan x="-17.8" y="16.5" class="st1 st2">diode, capacitance</tspan></text>
-	<text transform="matrix(1 0 0 1 294.7135 136.0245)" class="st1 st2">Capacitance 20 mF</text>
-	<line class="st0" x1="439.8" y1="171.8" x2="439.8" y2="148.9"/>
-	<line class="st0" x1="407.7" y1="175.6" x2="402.6" y2="153.2"/>
-	<line class="st0" x1="378.2" y1="186.1" x2="368.2" y2="165.5"/>
-	<line class="st0" x1="351.8" y1="203" x2="337.4" y2="185.1"/>
-	<line class="st0" x1="329.7" y1="225.3" x2="311.8" y2="211"/>
-	<line class="st0" x1="313.2" y1="252" x2="292.6" y2="242"/>
-	<line class="st0" x1="303.1" y1="281.6" x2="280.7" y2="276.5"/>
-	<line class="st0" x1="299.8" y1="312.8" x2="276.8" y2="312.8"/>
-	<line class="st0" x1="303.5" y1="343.9" x2="281.2" y2="349.1"/>
-	<line class="st0" x1="314.1" y1="373.4" x2="293.4" y2="383.4"/>
-	<line class="st0" x1="330.9" y1="399.9" x2="313" y2="414.2"/>
-	<line class="st0" x1="353.3" y1="421.9" x2="339" y2="439.9"/>
-	<line class="st0" x1="379.9" y1="438.4" x2="370" y2="459.1"/>
-	<line class="st0" x1="409.6" y1="448.5" x2="404.5" y2="470.9"/>
-	<line class="st0" x1="440.8" y1="451.8" x2="440.8" y2="474.8"/>
-	<line class="st0" x1="471.9" y1="448.1" x2="477" y2="470.5"/>
-	<line class="st0" x1="501.4" y1="437.6" x2="511.4" y2="458.2"/>
-	<line class="st0" x1="527.8" y1="420.7" x2="542.2" y2="438.6"/>
-	<line class="st0" x1="549.8" y1="398.4" x2="567.8" y2="412.7"/>
-	<line class="st0" x1="566.3" y1="371.7" x2="587" y2="381.7"/>
-	<line class="st0" x1="576.5" y1="342.1" x2="598.9" y2="347.1"/>
-	<line class="st0" x1="579.8" y1="310.9" x2="602.7" y2="310.9"/>
-	<line class="st0" x1="576.1" y1="279.8" x2="598.4" y2="274.6"/>
-	<line class="st0" x1="565.5" y1="250.2" x2="586.2" y2="240.3"/>
-	<line class="st0" x1="548.7" y1="223.8" x2="566.6" y2="209.5"/>
-	<line class="st0" x1="526.3" y1="201.8" x2="540.6" y2="183.8"/>
-	<line class="st0" x1="499.7" y1="185.3" x2="509.6" y2="164.6"/>
-	<line class="st0" x1="470" y1="175.1" x2="475.1" y2="152.8"/>
-	<circle cx="574.4" cy="77.4" r="2.3"/>
-	<circle cx="587.4" cy="77.4" r="2.3"/>
-	<circle cx="600.4" cy="77.4" r="2.3"/>
-	<circle cx="613.5" cy="77.4" r="2.3"/>
-	<circle cx="574.4" cy="93.8" r="2.3"/>
-	<circle cx="587.4" cy="93.8" r="2.3"/>
-	<circle cx="600.4" cy="93.8" r="2.3"/>
-	<circle cx="613.5" cy="93.8" r="2.3"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="22.719" y1="0" x2="0.5" y2="22.219"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="37.125" y1="-3.5" x2="-4.5" y2="38.125"/>
+<text transform="matrix(1 0 0 1 43.001 63.8555)" font-family="'AppleBraille'" font-size="30">⠠⠺⠊⠝⠓⠽ ⠼⠓⠊⠚ ⠎ ⠠⠞⠁⠇⠅⠊⠝⠛ </text>
+<text transform="matrix(1 0 0 1 43.001 99.8555)" font-family="'AppleBraille'" font-size="30">⠠⠍⠥⠇⠞⠊⠍⠑⠞⠑⠗ </text>
+<g>
+	<text transform="matrix(1 0 0 1 48.9526 129.8125)" fill="#939597" font-family="'ArialMT'" font-size="21">Winhy 890s Talking Multimeter</text>
 </g>
-<g id="Braille">
+<g id="partLabel">
+	<g transform="translate(0.4,0)">
+		<g id="schematicLabel">
+			<text transform="matrix(1 0 0 1 268.2773 681.0098)" fill="#939597" font-family="'ArialMT'" font-size="14">10A</text>
+		</g>
+	</g>
 </g>
+<text transform="matrix(1 0 0 1 170.0439 658.1025)" font-family="'AppleBraille'" font-size="30">⠼⠁⠚ ⠠⠠⠁</text>
+<text transform="matrix(1 0 0 1 85.9971 573.6016)" font-family="'AppleBraille'" font-size="30">⠠⠁⠍⠏⠑⠗⠁⠛⠑ ⠠⠠⠁⠉</text>
+<text transform="matrix(1 0 0 1 35.499 463.6025)" enable-background="new    "><tspan x="0" y="0" font-family="'AppleBraille'" font-size="30">⠠⠙⠊⠕⠙⠑ ⠉⠓⠑⠉⠅</tspan><tspan x="0" y="36" font-family="'AppleBraille'" font-size="30">⠌⠉⠕⠝⠞⠊⠝⠥⠊⠞⠽</tspan></text>
+<text transform="matrix(1 0 0 1 478.9971 567.1025)" font-family="'AppleBraille'" font-size="30">⠠⠁⠍⠏⠑⠗⠁⠛⠑⠠⠠⠙⠉ </text>
+<text transform="matrix(1 0 0 1 567.4922 475.6074)" enable-background="new    "><tspan x="0" y="0" font-family="'AppleBraille'" font-size="30">⠠⠧⠕⠇⠞⠁⠛⠑ </tspan><tspan x="0" y="36" font-family="'AppleBraille'" font-size="30">⠠⠠⠁⠉</tspan></text>
+<text transform="matrix(1 0 0 1 571.9971 335.1025)" enable-background="new    "><tspan x="0" y="0" font-family="'AppleBraille'" font-size="30">⠠⠧⠕⠇⠞⠁⠛⠑</tspan><tspan x="0" y="36" font-family="'AppleBraille'" font-size="30"> ⠠⠠⠙⠉</tspan></text>
+<text transform="matrix(1 0 0 1 28 335.1025)" font-family="'AppleBraille'" font-size="30">⠠⠗⠑⠎⠊⠎⠞⠁⠝⠉⠑</text>
+<g id="partLabel_1_">
+	<g transform="translate(0.4,0)">
+		<g id="schematicLabel_1_">
+			<text transform="matrix(1 0 0 1 355.7777 681.0098)" fill="#939597" font-family="'ArialMT'" font-size="14">mA</text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 318.0439 658.1025)" font-family="'AppleBraille'" font-size="30">⠍⠠⠠⠁</text>
+<g id="partLabel_2_">
+	<g transform="translate(0.4,0)">
+		<g id="schematicLabel_2_">
+			<text transform="matrix(1 0 0 1 432.2768 681.0098)" fill="#939597" font-family="'ArialMT'" font-size="14">COM</text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 399.0439 658.1025)" font-family="'AppleBraille'" font-size="30">⠠⠠⠉⠕⠍</text>
+<g id="partLabel_3_">
+	<g transform="translate(0.4,0)">
+		<g id="schematicLabel_3_">
+			<text transform="matrix(1 0 0 1 580.2758 755.5098)" fill="#939597" font-family="'ArialMT'" font-size="14">V, ohms, Hz,</text>
+			<text transform="matrix(1 0 0 1 580.2758 772.3096)" fill="#939597" font-family="'ArialMT'" font-size="14">diode, capacitance</text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 510.043 659.6025)" font-family="'AppleBraille'" font-size="30">⠠⠠⠧⠂ ⠕⠓⠍⠎⠂ </text>
+<text transform="matrix(1 0 0 1 510.043 695.6025)" font-family="'AppleBraille'" font-size="30">⠠⠓⠵⠂⠙⠊⠕⠙⠑⠂ </text>
+<text transform="matrix(1 0 0 1 510.043 731.6025)" font-family="'AppleBraille'" font-size="30">⠉⠁⠏⠁⠉⠊⠞⠁</text>
+<text transform="matrix(1 0 0 1 510.043 767.6025)" font-family="'AppleBraille'" font-size="30">⠝⠉⠑</text>
 </svg>

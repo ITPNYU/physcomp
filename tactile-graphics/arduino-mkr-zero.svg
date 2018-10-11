@@ -1,52 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
-	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st3{font-family:'AppleBraille';}
-	.st4{font-size:29px;}
-	.st5{enable-background:new    ;}
-	.st6{display:none;}
-	.st7{display:inline;}
-	.st8{font-family:'MyriadPro-Regular';}
-	.st9{font-size:12px;}
-	.st10{display:inline;enable-background:new    ;}
-</style>
-<g id="Layer_1">
-	<path class="st0" d="M409.2,451h-81.6c-6.6,0-12-5.4-12-12V203.3c0-6.6,5.4-12,12-12h81.6c6.6,0,12,5.4,12,12V439
-		C421.2,445.6,415.8,451,409.2,451z"/>
-	<circle cx="363.1" cy="259.4" r="7.9"/>
-	<circle cx="409.3" cy="403.1" r="2.6"/>
-	<circle cx="409.3" cy="436.7" r="2.6"/>
-	<circle cx="409.3" cy="425.5" r="2.6"/>
-	<circle cx="409.3" cy="414.3" r="2.6"/>
-	<circle cx="409.1" cy="313.3" r="2.6"/>
-	<circle cx="409.1" cy="391.8" r="2.6"/>
-	<circle cx="409.1" cy="369.4" r="2.6"/>
-	<circle cx="409.1" cy="380.6" r="2.6"/>
-	<circle cx="409.1" cy="358.2" r="2.6"/>
-	<circle cx="409.1" cy="347" r="2.6"/>
-	<circle cx="409.1" cy="335.8" r="2.6"/>
-	<circle cx="409.1" cy="324.5" r="2.6"/>
-	<circle cx="409.1" cy="290.9" r="2.6"/>
-	<circle cx="409.1" cy="302.1" r="2.6"/>
-	<circle cx="329" cy="403.1" r="2.6"/>
-	<circle cx="329" cy="436.7" r="2.6"/>
-	<circle cx="329" cy="425.5" r="2.6"/>
-	<circle cx="329" cy="414.3" r="2.6"/>
-	<circle cx="328.8" cy="313.3" r="2.6"/>
-	<circle cx="328.8" cy="391.8" r="2.6"/>
-	<circle cx="328.8" cy="369.4" r="2.6"/>
-	<circle cx="328.8" cy="380.6" r="2.6"/>
-	<circle cx="328.8" cy="358.2" r="2.6"/>
-	<circle cx="328.8" cy="347" r="2.6"/>
-	<circle cx="328.8" cy="335.8" r="2.6"/>
-	<circle cx="328.8" cy="324.5" r="2.6"/>
-	<circle cx="328.8" cy="290.9" r="2.6"/>
-	<circle cx="328.8" cy="302.1" r="2.6"/>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<g id="Layer_1_1_">
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M316.2,518.046h-63.055
+		c-5.1,0-9.273-4.173-9.273-9.271V326.641c0-5.1,4.173-9.273,9.273-9.273H316.2c5.1,0,9.271,4.173,9.271,9.273v182.13
+		C325.473,513.873,321.3,518.046,316.2,518.046z"/>
+	<circle cx="280.577" cy="369.991" r="6.105"/>
+	<circle cx="316.277" cy="481.032" r="2.009"/>
+	<circle cx="316.277" cy="506.996" r="2.009"/>
+	<circle cx="316.277" cy="498.341" r="2.009"/>
+	<circle cx="316.277" cy="489.687" r="2.009"/>
+	<circle cx="316.123" cy="411.641" r="2.009"/>
+	<circle cx="316.123" cy="472.3" r="2.009"/>
+	<circle cx="316.123" cy="454.991" r="2.009"/>
+	<circle cx="316.123" cy="463.646" r="2.009"/>
+	<circle cx="316.123" cy="446.336" r="2.009"/>
+	<circle cx="316.123" cy="437.682" r="2.009"/>
+	<circle cx="316.123" cy="429.027" r="2.009"/>
+	<circle cx="316.123" cy="420.295" r="2.009"/>
+	<circle cx="316.123" cy="394.332" r="2.009"/>
+	<circle cx="316.123" cy="402.987" r="2.009"/>
+	<circle cx="254.227" cy="481.032" r="2.009"/>
+	<circle cx="254.227" cy="506.996" r="2.009"/>
+	<circle cx="254.227" cy="498.341" r="2.009"/>
+	<circle cx="254.227" cy="489.687" r="2.009"/>
+	<circle cx="254.073" cy="411.641" r="2.009"/>
+	<circle cx="254.073" cy="472.3" r="2.009"/>
+	<circle cx="254.073" cy="454.991" r="2.009"/>
+	<circle cx="254.073" cy="463.646" r="2.009"/>
+	<circle cx="254.073" cy="446.336" r="2.009"/>
+	<circle cx="254.073" cy="437.682" r="2.009"/>
+	<circle cx="254.073" cy="429.027" r="2.009"/>
+	<circle cx="254.073" cy="420.295" r="2.009"/>
+	<circle cx="254.073" cy="394.332" r="2.009"/>
+	<circle cx="254.073" cy="402.987" r="2.009"/>
 	<g id="connector1terminal_4_">
 	</g>
 	<g id="connector0terminal_4_">
@@ -57,117 +46,154 @@
 	</g>
 	<g id="partLabel_21_">
 	</g>
-	<line class="st1" x1="414.9" y1="324.5" x2="403.5" y2="324.5"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="320.604" y1="420.296" x2="311.796" y2="420.296"/>
 	<g>
 		<g>
-			<line class="st0" x1="294.9" y1="282" x2="261.6" y2="273"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="220.579" y1="385.589" x2="151.896" y2="356.296"/>
 			<g>
-				<polygon points="287.2,288.3 293.9,281.7 291.5,272.6 308.6,285.7 				"/>
+				<polygon points="214.019,389.598 219.845,385.254 218.97,378.034 230.675,389.869 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="367.8" y1="136.4" x2="368" y2="163.2"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="284.209" y1="199.833" x2="284.364" y2="288.654"/>
 			<g>
-				<polygon points="368.1,177.3 359.8,157.5 368,162.1 376.1,157.3 				"/>
+				<polygon points="284.441,299.55 278.027,284.25 284.364,287.805 290.623,284.096 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="293" y1="237.2" x2="266.2" y2="237"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="225.108" y1="340.558" x2="185.047" y2="301.279"/>
 			<g>
-				<polygon points="287.1,245.3 291.9,237.2 287.3,229 307.1,237.3 				"/>
+				<polygon points="217.458,341.76 224.507,339.957 226.474,332.962 232.758,348.317 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="467.6" y1="223.8" x2="440.8" y2="224"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="388.327" y1="342.482" x2="356.618" y2="342.636"/>
 			<g>
-				<polygon points="426.7,224.1 446.5,215.8 441.9,224 446.7,232.1 				"/>
+				<polygon points="345.723,342.714 361.022,336.3 357.468,342.636 361.178,348.896 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="261.6" y1="301.8" x2="295" y2="302.2"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="114.5" y1="402.754" x2="220.955" y2="403.062"/>
 			<g>
-				<polygon points="309.1,302.3 289.1,310.2 293.9,302.1 289.3,294 				"/>
+				<polygon points="231.85,403.141 216.396,409.245 220.104,402.986 216.55,396.729 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="267.2" y1="380.4" x2="294" y2="380.7"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="116.6" y1="463.491" x2="220.182" y2="463.723"/>
 			<g>
-				<polygon points="308.1,380.8 288.1,388.7 292.9,380.6 288.3,372.5 				"/>
+				<polygon points="231.077,463.8 215.623,469.904 219.332,463.646 215.777,457.387 				"/>
+			</g>
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="116.6" y1="500.158" x2="219.182" y2="500.39"/>
+			<g>
+				<polygon points="230.077,500.467 214.623,506.571 218.332,500.312 214.777,494.054 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="267.2" y1="436.9" x2="294" y2="437.2"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="282.045" y1="642.166" x2="282.277" y2="550.055"/>
 			<g>
-				<polygon points="308.1,437.3 288.1,445.2 292.9,437.1 288.3,429 				"/>
+				<polygon points="282.354,539.159 288.459,554.613 282.2,550.904 275.941,554.459 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="365" y1="502.4" x2="365.3" y2="475.6"/>
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="349.164" y1="507.382" x2="470.5" y2="507.15"/>
 			<g>
-				<polygon points="365.4,461.5 373.3,481.5 365.2,476.7 357.1,481.3 				"/>
+				<polygon points="353.568,501.046 350.014,507.305 353.723,513.562 338.269,507.459 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="442.8" y1="437.2" x2="469.6" y2="436.9"/>
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="346.164" y1="435.75" x2="471.5" y2="435.519"/>
 			<g>
-				<polygon points="448.5,429 443.9,437.1 448.7,445.2 428.7,437.3 				"/>
+				<polygon points="356.568,429.414 353.014,435.673 356.723,441.932 341.269,435.827 				"/>
 			</g>
 		</g>
 	</g>
-	<g>
-		<g>
-			<line class="st0" x1="442.8" y1="344.5" x2="469.6" y2="344.2"/>
-			<g>
-				<polygon points="448.5,336.3 443.9,344.4 448.7,352.5 428.7,344.6 				"/>
-			</g>
-		</g>
-	</g>
-	<rect x="355.8" y="181.8" class="st2" width="25.2" height="19"/>
-	<rect x="315.9" y="219.7" class="st0" width="24.9" height="35.1"/>
-	<rect x="355.9" y="330.6" class="st0" width="24.9" height="24.9"/>
-	<rect x="342.1" y="386.5" class="st0" width="52.6" height="59.2"/>
-	<rect x="404.4" y="210.6" class="st0" width="16.6" height="26.6"/>
+	
+		<rect x="274.937" y="310.027" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="19.473" height="14.682"/>
+	
+		<rect x="244.104" y="339.313" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="19.241" height="27.123"/>
+	
+		<rect x="275.014" y="425.009" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="19.241" height="19.241"/>
+	
+		<rect x="264.35" y="468.204" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="40.646" height="45.746"/>
+	
+		<rect x="312.491" y="332.282" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="12.827" height="20.555"/>
 </g>
-<g id="braille">
-	<text transform="matrix(1 0 0 1 20.1189 45.0477)" class="st3 st4">⠠⠍⠠⠅⠠⠗⠠⠵⠑⠗⠕</text>
-	<text transform="matrix(1 0 0 1 104.2938 175.2998)" class="st5"><tspan x="0" y="0" class="st3 st4">⠠⠇⠊⠠⠏⠕</tspan><tspan x="0" y="34.8" class="st3 st4">⠠⠃⠁⠞⠞⠑⠗⠽ </tspan><tspan x="0" y="69.6" class="st3 st4">⠠⠏⠇⠥⠛</tspan></text>
-	<text transform="matrix(1 0 0 1 93.2938 282.0002)" class="st3 st4">⠠⠁⠠⠗⠠⠑⠠⠋</text>
-	<text transform="matrix(1 0 0 1 183.2936 313.7154)" class="st3 st4">⠠⠁⠚</text>
-	<text transform="matrix(1 0 0 1 206.2936 389.6998)" class="st3 st4">⠠⠙⠚</text>
-	<text transform="matrix(1 0 0 1 201.2936 446.2999)" class="st3 st4">⠠⠙⠑</text>
-	<text transform="matrix(1 0 0 1 316.2002 525.2999)" class="st5"><tspan x="0" y="0" class="st3 st4">⠠⠎⠠⠙</tspan><tspan x="0" y="34.8" class="st3 st4">⠠⠉⠁⠗⠙</tspan><tspan x="0" y="69.6" class="st3 st4">⠠⠎⠇⠕⠞</tspan></text>
-	<text transform="matrix(1 0 0 1 467.6 445.2003)" class="st3 st4">⠠⠙⠋</text>
-	<text transform="matrix(1 0 0 1 467.5994 344.5004)" class="st3 st4">⠠⠙⠁⠙</text>
-	<text transform="matrix(1 0 0 1 474.5217 210.5736)" class="st5"><tspan x="0" y="0" class="st3 st4">⠠⠁⠙⠙⠊⠞⠊⠕⠝⠁⠇ </tspan><tspan x="0" y="34.8" class="st3 st4">⠠⠊⠃⠠⠉ ⠏⠕⠗⠞</tspan></text>
-	<text transform="matrix(1 0 0 1 311.6003 90.0209)" class="st5"><tspan x="0" y="0" class="st3 st4">⠠⠥⠠⠎⠠⠃ </tspan><tspan x="0" y="34.8" class="st3 st4">⠠⠏⠇⠥⠛</tspan></text>
+<g id="plaintext" display="none">
+	<text transform="matrix(1 0 0 1 107.4863 394.2344)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">A0</text>
+	<text transform="matrix(1 0 0 1 37.9409 373.2051)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">AREF</text>
+	<text transform="matrix(1 0 0 1 38.0181 212.2061)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">MKRZero</text>
+	<text transform="matrix(1 0 0 1 134.5317 455.6729)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">D0</text>
+	<text transform="matrix(1 0 0 1 134.5317 503.6416)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">D5</text>
+	<text transform="matrix(1 0 0 1 434.2734 499.0039)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">D6</text>
+	<text transform="matrix(1 0 0 1 434.2725 424.666)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">D14</text>
+	<text transform="matrix(1 0 0 1 402.9385 362.0771)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">Additional I2C port</text>
+	<text transform="matrix(1 0 0 1 182.2788 588.4863)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">SD card slot</text>
+	<text transform="matrix(1 0 0 1 14.5508 316.127)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">LiPo</text>
+	<text transform="matrix(1 0 0 1 14.5508 327.2549)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">Battery Plug</text>
+	<text transform="matrix(1 0 0 1 251.0205 206.6797)" display="inline" font-family="'MyriadPro-Regular'" font-size="9.2727">USB Plug</text>
 </g>
-<g id="plaintext" class="st6">
-	<text transform="matrix(1 0 0 1 139.1 303.7154)" class="st7 st8 st9">A0</text>
-	<text transform="matrix(1 0 0 1 49.1 276.5001)" class="st7 st8 st9">AREF</text>
-	<text transform="matrix(1 0 0 1 49.2 68.1498)" class="st7 st8 st9">MKRZero</text>
-	<text transform="matrix(1 0 0 1 174.1 383.2235)" class="st7 st8 st9">D0</text>
-	<text transform="matrix(1 0 0 1 174.1 445.3)" class="st7 st8 st9">D5</text>
-	<text transform="matrix(1 0 0 1 562 439.2996)" class="st7 st8 st9">D6</text>
-	<text transform="matrix(1 0 0 1 561.9997 343.0972)" class="st7 st8 st9">D14</text>
-	<text transform="matrix(1 0 0 1 521.4497 262.1002)" class="st7 st8 st9">Additional I2C port</text>
-	<text transform="matrix(1 0 0 1 235.8901 555.1002)" class="st7 st8 st9">SD card slot</text>
-	<text transform="matrix(1 0 0 1 18.8306 202.6355)" class="st10"><tspan x="0" y="0" class="st8 st9">LiPo</tspan><tspan x="0" y="14.4" class="st8 st9">Battery Plug</tspan></text>
-	<text transform="matrix(1 0 0 1 324.85 60.9975)" class="st7 st8 st9">USB Plug</text>
+<g id="Braille">
+	<text transform="matrix(1 0 0 1 30.5464 87.3555)" font-family="'AppleBraille'" font-size="30">⠠⠍⠠⠅⠠⠗⠠⠵⠑⠗⠕</text>
+	<text transform="matrix(1 0 0 1 12.5908 345.0039)" font-family="'AppleBraille'" font-size="30">⠠⠁⠠⠗⠠⠑⠠⠋</text>
+	<text transform="matrix(1 0 0 1 17.5908 411.0039)" font-family="'AppleBraille'" font-size="30">⠠⠁⠼⠚ </text>
+	<text transform="matrix(1 0 0 1 82.5908 231.0039)" font-family="'AppleBraille'" font-size="30">⠠⠇⠊⠠⠏⠕</text>
+	<text transform="matrix(1 0 0 1 67.5908 262.0039)" font-family="'AppleBraille'" font-size="30">⠠⠃⠁⠞⠞⠑⠗⠽</text>
+	<text transform="matrix(1 0 0 1 82.5908 293.0039)" font-family="'AppleBraille'" font-size="30">⠠⠏⠇⠥⠛</text>
+	<text transform="matrix(1 0 0 1 16.4126 467.6777)" font-family="'AppleBraille'" font-size="30">⠠⠙⠼⠚</text>
+	<text transform="matrix(1 0 0 1 16.5488 519.4141)" font-family="'AppleBraille'" font-size="30">⠠⠙⠼⠑</text>
+	<text transform="matrix(1 0 0 1 235.3369 683.9551)" font-family="'AppleBraille'" font-size="30">⠠⠎⠠⠙</text>
+	<text transform="matrix(1 0 0 1 235.3369 719.9551)" font-family="'AppleBraille'" font-size="30">⠠⠉⠁⠗⠙</text>
+	<text transform="matrix(1 0 0 1 235.3369 755.9551)" font-family="'AppleBraille'" font-size="30">⠠⠎⠇⠕⠞</text>
+	<text transform="matrix(1 0 0 1 477.3271 513.5635)" font-family="'AppleBraille'" font-size="30">⠠⠙⠼⠋</text>
+	<text transform="matrix(1 0 0 1 477.3262 443.75)" font-family="'AppleBraille'" font-size="30">⠠⠙⠼⠙</text>
+	<text transform="matrix(1 0 0 1 385.6758 332.2607)" font-family="'AppleBraille'" font-size="30">⠠⠁⠙⠙⠊⠞⠊⠕⠝⠁⠇</text>
+	<text transform="matrix(1 0 0 1 385.6758 368.2607)" font-family="'AppleBraille'" font-size="30">⠠⠊⠼⠃⠠⠉</text>
+	<text transform="matrix(1 0 0 1 488.2148 368.2607)" font-family="'Apple-Chancery'" font-size="30"> </text>
+	<text transform="matrix(1 0 0 1 496.5498 368.2607)" font-family="'AppleBraille'" font-size="30">⠏⠕⠗⠞</text>
+	<text transform="matrix(1 0 0 1 578.5811 368.2607)" font-family="'Apple-Chancery'" font-size="30"> </text>
+	<text transform="matrix(1 0 0 1 240.7822 152.1074)" font-family="'AppleBraille'" font-size="30">⠠⠥⠠⠎⠠⠃</text>
+	<text transform="matrix(1 0 0 1 240.7822 188.1074)" font-family="'AppleBraille'" font-size="30">⠠⠏⠇⠥⠛ </text>
 </g>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="22.719" y1="0" x2="0.5" y2="22.219"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="37.125" y1="-3.5" x2="-4.5" y2="38.125"/>
+<g>
+	<text transform="matrix(1 0 0 1 39.9526 114.3125)" fill="#939597" font-family="'ArialMT'" font-size="21">MKRZero</text>
+</g>
+<text transform="matrix(1 0 0 1 366.5293 140.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">USB</text>
+<text transform="matrix(1 0 0 1 366.5293 157.709)" fill="#939597" font-family="'ArialMT'" font-size="14">Plug</text>
+<text transform="matrix(1 0 0 1 34.5293 219.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">LiPo</text>
+<text transform="matrix(1 0 0 1 34.5293 236.709)" fill="#939597" font-family="'ArialMT'" font-size="14">Battery</text>
+<text transform="matrix(1 0 0 1 34.5293 253.5088)" fill="#939597" font-family="'ArialMT'" font-size="14">Plug</text>
+<text transform="matrix(1 0 0 1 391.5293 383.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">Additional I2Cport</text>
+<text transform="matrix(1 0 0 1 487.5293 459.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">D4</text>
+<text transform="matrix(1 0 0 1 486.5293 530.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">D6</text>
+<text transform="matrix(1 0 0 1 246.5298 776.4053)" fill="#939597" font-family="'ArialMT'" font-size="14">SD Card Slot</text>
+<text transform="matrix(1 0 0 1 33.5332 535.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">D5</text>
+<text transform="matrix(1 0 0 1 33.5332 480.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">D0</text>
+<text transform="matrix(1 0 0 1 43.5293 425.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">A0</text>
+<text transform="matrix(1 0 0 1 23.5293 358.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">AREF</text>
 </svg>

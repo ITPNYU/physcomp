@@ -28,16 +28,16 @@ function printList(portList) {
   // portList is an array of serial port names
   for (var i = 0; i < portList.length; i++) {
     // Display the list the console:
-    println(i + " " + portList[i]);
+    console.log(i + " " + portList[i]);
   }
 }
 
 function serverConnected() {
-  println('connected to server.');
+  console.log('connected to server.');
 }
 
 function portOpen() {
-  println('the serial port opened.')
+  console.log('the serial port opened.')
 }
 
 function serialEvent() {
@@ -59,9 +59,9 @@ function serialEvent() {
 }
 
 function serialError(err) {
-  println('Something went wrong with the serial port. ' + err);
+  console.log('Something went wrong with the serial port. ' + err);
 }
 
 function portClose() {
-  println('The serial port closed.');
+  console.log('The serial port closed.');
 }
