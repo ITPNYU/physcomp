@@ -18,10 +18,10 @@ void loop() {
     delay(3);   // debounce delay
     if (buttonState == HIGH) {
     // send A
-      Serial.println("A");    // print it
+      Serial.println("1");    // print it
     } else {
       // if it's low, send L
-      Serial.println("L");
+      Serial.println("0");
     }
   }
   // save the current state as the last state,

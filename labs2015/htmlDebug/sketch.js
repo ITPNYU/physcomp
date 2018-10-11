@@ -9,6 +9,7 @@ function setup() {
 }
 
 function draw() {
+	background('#FFDDDD');
 	// if the key is pressed, display it
 	if (keyIsPressed) {
 		printData('key pressed: ' + key);

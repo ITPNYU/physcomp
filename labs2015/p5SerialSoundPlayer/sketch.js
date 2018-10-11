@@ -1,6 +1,6 @@
 var song;                               // sound object for the sound file you want to play
 var serial;                             // Declare a "SerialPort" object
-var portName = '/dev/cu.usbmodem14121'; // fill in your serial port name here
+var portName = '/dev/cu.usbmodem141231'; // fill in your serial port name here
 
 function preload() {
   // soundFormats('mp3', 'ogg');
