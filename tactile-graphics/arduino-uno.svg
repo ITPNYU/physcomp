@@ -11,7 +11,7 @@
 	
 		<rect x="307.7" y="265.563" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="39.021" height="53.164"/>
 	
-		<rect x="208.735" y="281.096" transform="matrix(0.9998 -0.0174 0.0174 0.9998 -5.2459 3.938)" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="29.586" height="44.265"/>
+		<rect x="208.721" y="281.085" transform="matrix(-0.9998 0.0174 -0.0174 -0.9998 452.2682 602.4985)" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="29.585" height="44.263"/>
 	
 		<rect x="243.718" y="381.705" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="19.009" height="126.341"/>
 	<circle cx="364.805" cy="307.446" r="10.509"/>
@@ -65,7 +65,7 @@
 		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="214.818" y1="425.286" x2="197.432" y2="425.286"/>
 	<g>
 		
-			<rect x="254.234" y="296.556" transform="matrix(0.9998 -0.0174 0.0174 0.9998 -5.2117 4.6412)" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="19.931" height="10.736"/>
+			<rect x="254.223" y="296.54" transform="matrix(-0.9998 0.0174 -0.0174 -0.9998 533.5953 599.1677)" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="19.93" height="10.736"/>
 		
 			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="264.195" y1="307.368" x2="264.195" y2="314.632"/>
 		
@@ -157,9 +157,27 @@
 	<g>
 		<g>
 			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="144.292" y1="472.543" x2="177.341" y2="464.353"/>
+			<g>
+				<polygon points="187.877,461.579 174.555,471.511 176.5,464.5 171.433,459.389 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
 				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="156.941" y1="502.945" x2="179.968" y2="489.654"/>
 			<g>
 				<polygon points="189.396,484.168 179.273,497.305 179.273,490.041 172.937,486.409 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="148.211" y1="608.888" x2="195.988" y2="527.147"/>
+			<g>
+				<polygon points="201.607,517.798 199.064,534.187 195.565,527.821 188.263,527.69 				"/>
 			</g>
 		</g>
 	</g>
@@ -189,11 +207,11 @@
 	<text transform="matrix(1 0 0 1 243.7183 181.7617)" display="inline" font-family="'Helvetica'" font-size="10.8182">Voltage regulator</text>
 </g>
 <g id="Braille_1_">
-	<text transform="matrix(1 0 0 1 4.1304 447.5928)" font-family="'AppleBraille'" font-size="30">⠠⠛⠗⠕⠥⠝⠙</text>
+	<text transform="matrix(1 0 0 1 4.1304 441.5928)" font-family="'AppleBraille'" font-size="30">⠠⠛⠗⠕⠥⠝⠙</text>
 	<text transform="matrix(1 0 0 1 29.6909 537.6904)" font-family="'AppleBraille'" font-size="30">⠠⠁⠝⠁⠇⠕⠛</text>
 	<text transform="matrix(1 0 0 1 29.6909 573.6904)" font-family="'AppleBraille'" font-size="30">⠊⠝⠏⠥⠞⠎ </text>
-	<text transform="matrix(1 0 0 1 10.6001 358.1904)" font-family="'AppleBraille'" font-size="30">⠠⠧⠕⠇⠞⠁⠛⠑</text>
-	<text transform="matrix(1 0 0 1 10.6001 394.1904)" font-family="'AppleBraille'" font-size="30">⠏⠊⠝⠎ </text>
+	<text transform="matrix(1 0 0 1 23.6001 351.1904)" font-family="'AppleBraille'" font-size="30">⠠⠧⠕⠇⠞⠁⠛⠑</text>
+	<text transform="matrix(1 0 0 1 23.6001 387.1904)" font-family="'AppleBraille'" font-size="30">⠏⠊⠝⠎ </text>
 	<text transform="matrix(1 0 0 1 19.5234 259.1484)" font-family="'AppleBraille'" font-size="30">⠠⠧⠕⠇⠞⠁⠛⠑</text>
 	<text transform="matrix(1 0 0 1 24.5234 292.1484)" font-family="'AppleBraille'" font-size="30">⠠⠏⠇⠥⠛ </text>
 	<text transform="matrix(1 0 0 1 154.5537 184.0771)" font-family="'AppleBraille'" font-size="30">⠠⠧⠕⠇⠞⠁⠛⠑</text>
@@ -204,9 +222,9 @@
 	<text transform="matrix(1 0 0 1 437.2969 321.8223)" font-family="'AppleBraille'" font-size="30">⠃⠥⠞⠞⠕⠝ </text>
 	<text transform="matrix(1 0 0 1 425.7207 379.3955)" font-family="'AppleBraille'" font-size="30">⠠⠛⠗⠕⠥⠝⠙</text>
 	<text transform="matrix(1 0 0 1 415.5088 551.9961)" font-family="'AppleBraille'" font-size="30">⠠⠙⠼⠚</text>
-	<text transform="matrix(1 0 0 1 422.7998 423.1592)" font-family="'AppleBraille'" font-size="30">⠠⠙⠼⠉</text>
-	<text transform="matrix(1 0 0 1 422.7998 459.1592)" font-family="'AppleBraille'" font-size="30">⠠⠙⠊⠛⠊⠞⠁⠇</text>
-	<text transform="matrix(1 0 0 1 422.7998 495.1592)" font-family="'AppleBraille'" font-size="30">⠏⠊⠝⠎ </text>
+	<text transform="matrix(1 0 0 1 422.7998 423.1592)" font-family="'AppleBraille'" font-size="30">⠠⠙⠼⠁⠉</text>
+	<text transform="matrix(1 0 0 1 422.7998 464.1592)" font-family="'AppleBraille'" font-size="30">⠠⠙⠊⠛⠊⠞⠁⠇</text>
+	<text transform="matrix(1 0 0 1 422.7998 500.1592)" font-family="'AppleBraille'" font-size="30">⠏⠊⠝⠎ </text>
 	<text transform="matrix(1 0 0 1 171.688 608.8125)" font-family="'AppleBraille'" font-size="30">⠠⠁⠠⠞⠍⠑⠛⠁⠼⠉⠃⠓</text>
 </g>
 <line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="22.719" y1="0" x2="0.5" y2="22.219"/>
@@ -215,14 +233,18 @@
 <text transform="matrix(1 0 0 1 24.4102 84.4004)" font-family="'AppleBraille'" font-size="30">⠠⠁⠗⠙⠥⠊⠝⠕ ⠠⠥⠝⠕</text>
 <text transform="matrix(1 0 0 1 30.1294 599.2432)" fill="#939597" font-family="'ArialMT'" font-size="12">Analog inputs</text>
 <text transform="matrix(1 0 0 1 232.6196 629.2412)" fill="#939597" font-family="'ArialMT'" font-size="12">ATmega328</text>
-<text transform="matrix(1 0 0 1 19.6455 467.7363)" fill="#939597" font-family="'ArialMT'" font-size="12">Ground</text>
-<text transform="matrix(1 0 0 1 16.6455 410.7402)" fill="#939597" font-family="'ArialMT'" font-size="12">Voltage pins </text>
+<text transform="matrix(1 0 0 1 19.6455 461.7363)" fill="#939597" font-family="'ArialMT'" font-size="12">Ground</text>
+<text transform="matrix(1 0 0 1 29.6455 403.7402)" fill="#939597" font-family="'ArialMT'" font-size="12">Voltage pins </text>
 <text transform="matrix(1 0 0 1 16.6455 311.7441)" fill="#939597" font-family="'ArialMT'" font-size="12">Voltage Plug</text>
 <text transform="matrix(1 0 0 1 390.127 250.248)" fill="#939597" font-family="'ArialMT'" font-size="12">USB Plug </text>
 <text transform="matrix(1 0 0 1 192.1367 233.748)" fill="#939597" font-family="'ArialMT'" font-size="12">Voltage Regulator</text>
 <text transform="matrix(1 0 0 1 439.625 335.7432)" fill="#939597" font-family="'ArialMT'" font-size="12">Reset button</text>
 <text transform="matrix(1 0 0 1 439.625 391.2402)" fill="#939597" font-family="'ArialMT'" font-size="12">Ground</text>
-<text transform="matrix(1 0 0 1 439.625 432.7383)" fill="#939597" font-family="'ArialMT'" font-size="12">D3</text>
-<text transform="matrix(1 0 0 1 439.625 512.2344)" fill="#939597" font-family="'ArialMT'" font-size="12">Digital pins</text>
-<text transform="matrix(1 0 0 1 423.125 575.2314)" fill="#939597" font-family="'ArialMT'" font-size="12">D0</text>
+<text transform="matrix(1 0 0 1 436.625 434.7383)" fill="#939597" font-family="'ArialMT'" font-size="12">D13</text>
+<text transform="matrix(1 0 0 1 439.625 514.2344)" fill="#939597" font-family="'ArialMT'" font-size="12">Digital pins</text>
+<text transform="matrix(1 0 0 1 427.125 565.2314)" fill="#939597" font-family="'ArialMT'" font-size="12">D0</text>
+<text transform="matrix(1 0 0 1 55.5908 488.0039)" font-family="'AppleBraille'" font-size="30">⠠⠁⠼⠚ </text>
+<text transform="matrix(1 0 0 1 81.5293 502.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">A0</text>
+<text transform="matrix(1 0 0 1 67.5908 636.0039)" font-family="'AppleBraille'" font-size="30">⠠⠁⠼⠑ </text>
+<text transform="matrix(1 0 0 1 93.5293 650.9092)" fill="#939597" font-family="'ArialMT'" font-size="14">A5</text>
 </svg>
