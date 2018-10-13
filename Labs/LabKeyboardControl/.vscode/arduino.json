@@ -1,0 +1,5 @@
+{
+    "board": "arduino:samd:mkrzero",
+    "port": "/dev/cu.usbmodem14141",
+    "sketch": "LAbKeyboardControl.ino"
+}
