@@ -73,6 +73,33 @@ void buttonAction(int buttonNumber, int buttonState) {
       }
       // change the LED to reflect the keyboard state:
       digitalWrite(13, keyboardIsActive);
+
+      /*
+      // an alternative to the LED indicator is a buzzer
+      // indicator on the same pin. The following will buzz
+      // once when you activate the keyboard, twice, when you
+      // deactivate:
+
+      keyboardIsActive = !keyboardIsActive;
+      // activate the keyboard:
+      if (keyboardIsActive) {
+        Keyboard.begin();
+        //buzz once for active:
+        digitalWrite(13, HIGH);
+        delay(300);
+        digitalWrite(13, LOW);
+      } else {
+        Keyboard.end();
+        //buzz twice for inactive:
+        digitalWrite(13, HIGH);
+        delay(300);
+        digitalWrite(13, LOW);
+        delay(300);
+        digitalWrite(13, HIGH);
+        delay(300);
+        digitalWrite(13, LOW);
+        }
+      */
     }
   }
   // the other three buttons:
