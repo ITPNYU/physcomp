@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="325px" height="216px" viewBox="0 0 325 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LabIntervall_schem" transform="translate(43.000000, 0.000000)">
+            <g id="Group" transform="translate(261.439000, 1.200000)">
+                <g transform="translate(10.000000, 14.500000) rotate(90.000000) translate(-10.000000, -14.500000) translate(-4.500000, 4.500000)" id="schematic">
+                    <g>
+                        <path d="M19.8,11.159 L21.6,11.159" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M7.2,11.159 L19.8,7.559" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <circle id="Oval" stroke="#000000" stroke-width="0.7" cx="7.2" cy="11.159" r="1"></circle>
+                        <circle id="Oval" stroke="#000000" stroke-width="0.7" cx="21.6" cy="11.159" r="1"></circle>
+                        <g id="Group" transform="translate(2.761200, 0.718000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="1">
+                                <tspan x="0" y="2">1</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(24.604000, 0.718000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="2">
+                                <tspan x="0" y="2">2</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(2.761200, 14.843000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="1">
+                                <tspan x="0" y="2">1</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(24.604000, 14.843000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="2">
+                                <tspan x="0" y="2">2</tspan>
+                            </text>
+                        </g>
+                        <path d="M21.6,3.96 L21.6,18.359" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M7.2,3.96 L7.2,18.359" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M0.322,18.359 L7.2,18.359" id="connector3pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M0.322,3.96 L7.2,3.96" id="connector2pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M28.451,18.359 L21.6,18.359" id="connector1pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M28.451,3.96 L21.6,3.96" id="connector0pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(0.600000, 13.720000)">
+                <g id="schematic">
+                    <polygon id="Rectangle-path" stroke="#000000" stroke-width="0.7" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" points="14.85 14.85 93.15 14.85 93.15 165.15 14.85 165.15 14.85 120.383516 14.85 90"></polygon>
+                    <path d="M93.25,28.8 L107.65,28.8" id="connector61pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(79.244100, 25.500000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D0/RX">
+                            <tspan x="0" y="4">D0/RX</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,36 L107.65,36" id="connector62pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(79.492200, 32.699200)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D1/TX">
+                            <tspan x="0" y="4">D1/TX</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,43.2 L107.65,43.2" id="connector63pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(84.527300, 39.900400)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D2">
+                            <tspan x="0" y="4">D2</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,50.4 L107.65,50.4" id="connector64pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(75.462900, 47.099600)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D3-PWM">
+                            <tspan x="0" y="4">D3 PWM</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,57.6 L107.65,57.6" id="connector65pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(84.527300, 54.300800)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D4">
+                            <tspan x="0" y="4">D4</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,64.8 L107.65,64.8" id="connector66pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(75.462900, 61.500000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D5-PWM">
+                            <tspan x="0" y="4">D5 PWM</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,72 L107.65,72" id="connector67pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(75.462900, 68.699200)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D6-PWM">
+                            <tspan x="0" y="4">D6 PWM</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,79.2 L107.65,79.2" id="connector68pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(84.527300, 75.900400)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D7">
+                            <tspan x="0" y="4">D7</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,86.4 L107.65,86.4" id="connector51pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(84.527300, 83.099600)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D8">
+                            <tspan x="0" y="4">D8</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,93.6 L107.65,93.6" id="connector52pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(75.462900, 90.300800)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D9-PWM">
+                            <tspan x="0" y="4">D9 PWM</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,100.8 L107.65,100.8" id="connector53pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(68.597700, 97.500000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D10-PWM/SS">
+                            <tspan x="0" y="4">D10 PWM/SS</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,108 L107.65,108" id="connector54pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(63.584000, 104.699000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D11-PWM/MOSI">
+                            <tspan x="0" y="4">D11 PWM/MOSI</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,115.2 L107.65,115.2" id="connector55pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(72.648400, 111.900000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D12/MISO">
+                            <tspan x="0" y="4">D12/MISO</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,122.4 L107.65,122.4" id="connector41pin"></path>
+                    <rect id="connector41terminal" x="107.65" y="122.05" width="1" height="1"></rect>
+                    <path d="M93.25,122.4 L107.65,122.4" id="connector56pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(75.339800, 119.100000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="D13/SCK">
+                            <tspan x="0" y="4">D13/SCK</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,136.8 L107.65,136.8" id="connector45pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(70.271500, 133.500000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="ICSP2-MISO">
+                            <tspan x="0" y="4">ICSP2 MISO</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,144 L107.65,144" id="connector47pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(72.962900, 140.699000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="ICSP2-SCK">
+                            <tspan x="0" y="4">ICSP2 SCK</tspan>
+                        </text>
+                    </g>
+                    <path d="M93.25,151.2 L107.65,151.2" id="connector48pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(70.271500, 147.900000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="ICSP2-MOSI">
+                            <tspan x="0" y="4">ICSP2 MOSI</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,28.8 L14.75,28.8" id="connector43pin"></path>
+                    <path d="M0.35,28.8 L14.75,28.8" id="connector85pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 25.500000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="RESET">
+                            <tspan x="0" y="4">RESET</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,36 L14.75,36" id="connector49pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 32.699200)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="RESET2">
+                            <tspan x="0" y="4">RESET2</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,43.2 L14.75,43.2" id="connector58pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 39.900400)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="AREF">
+                            <tspan x="0" y="4">AREF</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,50.4 L14.75,50.4" id="connector84pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 47.099600)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="IOREF">
+                            <tspan x="0" y="4">IOREF</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,64.8 L14.75,64.8" id="connector0pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 61.500000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="A0">
+                            <tspan x="0" y="4">A0</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,72 L14.75,72" id="connector1pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 68.699200)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="A1">
+                            <tspan x="0" y="4">A1</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,79.2 L14.75,79.2" id="connector2pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 75.900400)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="A2">
+                            <tspan x="0" y="4">A2</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,86.4 L14.75,86.4" id="connector3pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 83.099600)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="A3">
+                            <tspan x="0" y="4">A3</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,93.6 L14.75,93.6" id="connector39pin"></path>
+                    <path d="M107.65,108 L93.251,108" id="connector42pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <path d="M0.35,93.6 L14.75,93.6" id="connector4pin"></path>
+                    <path d="M0.35,93.6 L14.75,93.6" id="connector59pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 90.300800)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="A4/SDA">
+                            <tspan x="0" y="4">A4/SDA</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,100.8 L14.75,100.8" id="connector5pin"></path>
+                    <path d="M0.35,100.8 L14.75,100.8" id="connector60pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 97.500000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="A5/SCL">
+                            <tspan x="0" y="4">A5/SCL</tspan>
+                        </text>
+                    </g>
+                    <path d="M0.35,136.8 L14.75,136.8" id="connector91pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(17.150400, 133.500000)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <text id="N/C">
+                            <tspan x="0" y="4">N/C</tspan>
+                        </text>
+                    </g>
+                    <path d="M57.6,165.25 L57.6,179.65" id="connector88pin"></path>
+                    <path d="M57.6,165.25 L57.6,179.65" id="connector57pin"></path>
+                    <path d="M57.6,165.25 L57.6,179.65" id="connector44pin"></path>
+                    <path d="M57.6,165.25 L57.6,179.65" id="connector50pin"></path>
+                    <path d="M57.6,165.25 L57.6,179.65" id="connector89pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(53.566900, 154.802600)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <g id="GND">
+                            <g transform="translate(3.000000, 4.500000) rotate(-90.000000) translate(-3.000000, -4.500000) translate(-1.500000, 1.500000)">
+                                <g>
+                                    <g transform="translate(0.953000, 0.733900)">
+                                        <text>
+                                            <tspan x="0" y="4">GND</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M36,0.35 L36,14.75" id="connector86pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(31.946900, 15.697360)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <g id="3V3">
+                            <g transform="translate(3.000000, 4.000000) rotate(-90.000000) translate(-3.000000, -4.000000) translate(-1.000000, 1.000000)">
+                                <g>
+                                    <g transform="translate(0.705200, 0.752300)">
+                                        <text>
+                                            <tspan x="0" y="4">3V3</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M50.4,0.35 L50.4,14.75" id="connector40pin"></path>
+                    <path d="M50.4,0.35 L50.4,14.75" id="connector46pin"></path>
+                    <path d="M50.4,0.35 L50.4,14.75" id="connector87pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(47.026900, 15.697360)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <g id="5V">
+                            <g transform="translate(3.000000, 3.000000) rotate(-90.000000) translate(-3.000000, -3.000000) translate(0.000000, -0.000000)">
+                                <g>
+                                    <g transform="translate(0.632900, 0.072700)">
+                                        <text>
+                                            <tspan x="0" y="4">5V</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M64.8,0.35 L64.8,14.75" id="connector90pin" stroke="#787878" stroke-width="0.7" stroke-linecap="round"></path>
+                    <g id="Group" transform="translate(61.106900, 16.697360)" fill="#8C8C8C" font-family="Helvetica" font-size="3.5" font-weight="normal">
+                        <g id="VIN">
+                            <g transform="translate(3.000000, 3.500000) rotate(-90.000000) translate(-3.000000, -3.500000) translate(-0.500000, 0.500000)">
+                                <g>
+                                    <g transform="translate(0.822400, 0.393100)">
+                                        <text>
+                                            <tspan x="0" y="4">VIN</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(46.787100, 77.382800)" fill="#000000" font-family="Helvetica" font-size="4.25" font-weight="normal">
+                        <text id="label">
+                            <tspan x="0" y="4">Arduino</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(185.060000, 1.000000)">
+                <g transform="translate(10.000000, 14.500000) rotate(-90.000000) translate(-10.000000, -14.500000) translate(-4.500000, 4.500000)" id="schematic">
+                    <g>
+                        <path d="M19.8,11.159 L21.6,11.159" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M7.2,11.159 L19.8,7.559" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <circle id="Oval" stroke="#000000" stroke-width="0.7" cx="7.2" cy="11.159" r="1"></circle>
+                        <circle id="Oval" stroke="#000000" stroke-width="0.7" cx="21.6" cy="11.159" r="1"></circle>
+                        <g id="Group" transform="translate(2.761200, 0.718000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="1">
+                                <tspan x="0" y="2">1</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(24.604000, 0.718000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="2">
+                                <tspan x="0" y="2">2</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(2.761200, 14.843000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="1">
+                                <tspan x="0" y="2">1</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(24.604000, 14.843000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="2">
+                                <tspan x="0" y="2">2</tspan>
+                            </text>
+                        </g>
+                        <path d="M21.6,3.96 L21.6,18.359" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M7.2,3.96 L7.2,18.359" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M0.322,18.359 L7.2,18.359" id="connector3pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M0.322,3.96 L7.2,3.96" id="connector2pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M28.451,18.359 L21.6,18.359" id="connector1pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M28.451,3.96 L21.6,3.96" id="connector0pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(222.127000, 1.000000)">
+                <g transform="translate(10.000000, 14.500000) rotate(-90.000000) translate(-10.000000, -14.500000) translate(-4.500000, 4.500000)" id="schematic">
+                    <g>
+                        <path d="M19.8,11.159 L21.6,11.159" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M7.2,11.159 L19.8,7.559" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <circle id="Oval" stroke="#000000" stroke-width="0.7" cx="7.2" cy="11.159" r="1"></circle>
+                        <circle id="Oval" stroke="#000000" stroke-width="0.7" cx="21.6" cy="11.159" r="1"></circle>
+                        <g id="Group" transform="translate(2.761200, 0.718000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="1">
+                                <tspan x="0" y="2">1</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(24.604000, 0.718000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="2">
+                                <tspan x="0" y="2">2</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(2.761200, 14.843000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="1">
+                                <tspan x="0" y="2">1</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(24.604000, 14.843000)" fill="#787878" font-family="Helvetica" font-size="2" font-weight="normal">
+                            <text id="2">
+                                <tspan x="0" y="2">2</tspan>
+                            </text>
+                        </g>
+                        <path d="M21.6,3.96 L21.6,18.359" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M7.2,3.96 L7.2,18.359" id="Shape" stroke="#000000" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M0.322,18.359 L7.2,18.359" id="connector3pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M0.322,3.96 L7.2,3.96" id="connector2pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M28.451,18.359 L21.6,18.359" id="connector1pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                        <path d="M28.451,3.96 L21.6,3.96" id="connector0pin" stroke="#555555" stroke-width="0.7" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(179.601000, 107.533000)">
+                <g transform="translate(3.500000, 15.000000) rotate(90.000000) translate(-3.500000, -15.000000) translate(-11.500000, 11.500000)" id="schematic">
+                    <g>
+                        <path d="M7.55002,4.096 L8.63003,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M8.63003,1.216 L10.43,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M10.43,6.976 L12.23,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M12.23,1.216 L14.03,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M14.03,6.976 L15.8301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M15.8301,1.216 L17.6301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M17.6301,6.976 L19.4301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M19.4301,1.216 L21.2301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M21.2301,6.976 L21.9501,4.096" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M29.1502,4.096 L21.9501,4.096" id="connector1pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="2" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="24.5501" y="3.046">2</tspan>
+                        </text>
+                        <path d="M0.350001,4.096 L7.55002,4.096" id="connector0pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="1" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="2.95001" y="3.046">1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(172.721000, 171.265000)">
+                <g id="schematic">
+                    <path d="M13.5,15.966 L9.9,15.966 C9.707,15.966 9.55,15.81 9.55,15.616 C9.55,15.422 9.706,15.266 9.9,15.266 L13.5,15.266 C13.693,15.266 13.85,15.422 13.85,15.616 C13.85,15.81 13.694,15.966 13.5,15.966 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M9.9,15.966 L6.3,15.966 C6.107,15.966 5.95,15.81 5.95,15.616 C5.95,15.422 6.107,15.266 6.3,15.266 L9.9,15.266 C10.093,15.266 10.25,15.422 10.25,15.616 C10.25,15.81 10.093,15.966 9.9,15.966 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="Group" transform="translate(5.000000, 8.000000)" fill-rule="nonzero">
+                        <polygon id="Shape" fill="#FFFFFF" points="4.9 7.616 1.3 0.416 4.9 0.416 8.5 0.416"></polygon>
+                        <path d="M4.9,8.398 L0.734,0.066 L9.067,0.066 L4.9,8.398 Z M1.866,0.766 L4.9,6.834 L7.934,0.766 L1.866,0.766 Z" id="Shape" fill="#000000"></path>
+                    </g>
+                    <path d="M9.9,15.841 C9.776,15.841 9.675,15.74 9.675,15.616 L9.675,8.416 C9.675,8.292 9.776,8.191 9.9,8.191 C10.024,8.191 10.125,8.292 10.125,8.416 L10.125,15.616 C10.124,15.74 10.024,15.841 9.9,15.841 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M1.8,13.141 C1.742,13.141 1.685,13.12 1.641,13.076 C1.553,12.988 1.553,12.846 1.641,12.758 L3.981,10.417 C4.069,10.329 4.211,10.329 4.299,10.417 C4.387,10.505 4.387,10.647 4.299,10.735 L1.959,13.076 C1.915,13.12 1.858,13.141 1.8,13.141 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M2.16,16.381 C2.102,16.381 2.045,16.36 2.001,16.316 C1.913,16.228 1.913,16.086 2.001,15.998 L4.341,13.658 C4.429,13.57 4.571,13.57 4.659,13.658 C4.747,13.746 4.747,13.888 4.659,13.976 L2.319,16.316 C2.276,16.359 2.218,16.381 2.16,16.381 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="connector0pin" transform="translate(9.000000, 15.000000)" fill="#787878" fill-rule="nonzero">
+                        <path d="M0.9,8.166 C0.707,8.166 0.55,8.01 0.55,7.816 L0.55,0.616 C0.55,0.423 0.706,0.266 0.9,0.266 C1.094,0.266 1.25,0.422 1.25,0.616 L1.25,7.816 C1.249,8.01 1.093,8.166 0.9,8.166 Z" id="Shape"></path>
+                    </g>
+                    <g id="connector0terminal" transform="translate(9.000000, 22.000000)">
+                        <rect id="Rectangle-path" x="0.9" y="0.816" width="1" height="1"></rect>
+                    </g>
+                    <g id="Group" transform="translate(7.429000, 18.426200)" fill="#787878" fill-rule="nonzero">
+                        <g id="Shape">
+                            <g transform="translate(1.000000, 1.000000) rotate(-90.000000) translate(-1.000000, -1.000000) translate(0.000000, -0.000000)">
+                                <g>
+                                    <path d="M1.353,1.54 L0.462,1.54 L0.462,1.388 L0.804,1.016 C0.853,0.963 0.897,0.915 0.935,0.871 C0.973,0.827 1.006,0.785 1.034,0.743 C1.06,0.701 1.081,0.659 1.096,0.618 C1.111,0.575 1.117,0.53 1.117,0.48 C1.117,0.442 1.112,0.408 1.1,0.378 C1.088,0.348 1.073,0.324 1.053,0.303 C1.032,0.283 1.008,0.268 0.98,0.257 C0.952,0.246 0.92,0.241 0.886,0.241 C0.824,0.241 0.768,0.254 0.719,0.279 C0.668,0.303 0.621,0.336 0.576,0.375 L0.476,0.259 C0.501,0.236 0.531,0.213 0.56,0.194 C0.589,0.173 0.623,0.155 0.657,0.14 C0.691,0.125 0.728,0.114 0.766,0.104 C0.804,0.096 0.845,0.091 0.887,0.091 C0.95,0.091 1.006,0.1 1.056,0.117 C1.107,0.135 1.15,0.16 1.185,0.193 C1.22,0.225 1.248,0.265 1.267,0.312 C1.286,0.36 1.295,0.413 1.295,0.472 C1.295,0.528 1.286,0.58 1.269,0.63 C1.252,0.68 1.228,0.73 1.199,0.778 C1.168,0.826 1.133,0.875 1.09,0.924 C1.049,0.973 1.003,1.024 0.954,1.076 L0.68,1.37 L0.68,1.378 L1.353,1.378 L1.353,1.54 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="connector1pin" transform="translate(9.000000, 0.000000)" fill="#787878" fill-rule="nonzero">
+                        <path d="M0.9,8.766 C0.707,8.766 0.55,8.609 0.55,8.416 L0.55,1.216 C0.55,1.023 0.706,0.866 0.9,0.866 C1.094,0.866 1.25,1.023 1.25,1.216 L1.25,8.416 C1.249,8.609 1.093,8.766 0.9,8.766 Z" id="Shape"></path>
+                    </g>
+                    <g id="connector1terminal" transform="translate(9.000000, 1.000000)">
+                        <polygon id="Shape" points="0.9 0.216 0.901 0.216 0.901 0.216"></polygon>
+                    </g>
+                    <g id="Group" transform="translate(7.429000, 4.346200)" fill="#787878" fill-rule="nonzero">
+                        <g id="Shape">
+                            <g transform="translate(1.000000, 1.000000) rotate(-90.000000) translate(-1.000000, -1.000000) translate(0.000000, -0.000000)">
+                                <g>
+                                    <path d="M1.384,1.54 L1.212,1.54 L1.212,0.648 C1.212,0.62 1.212,0.59 1.212,0.558 C1.212,0.526 1.213,0.495 1.214,0.463 C1.215,0.431 1.216,0.4 1.217,0.371 C1.218,0.343 1.219,0.317 1.219,0.295 C1.208,0.307 1.198,0.316 1.19,0.325 C1.182,0.334 1.173,0.342 1.164,0.349 C1.155,0.356 1.146,0.365 1.136,0.374 C1.126,0.382 1.115,0.393 1.101,0.404 L0.956,0.522 L0.862,0.402 L1.236,0.11 L1.382,0.11 L1.382,1.54 L1.384,1.54 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.18 14.536 1.26 12.015 2.7 13.453"></polygon>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.54 17.776 1.62 15.255 3.058 16.693"></polygon>
+                </g>
+            </g>
+            <g id="Group" transform="translate(261.137000, 71.516700)">
+                <g transform="translate(3.500000, 15.000000) rotate(90.000000) translate(-3.500000, -15.000000) translate(-11.500000, 11.500000)" id="schematic">
+                    <g>
+                        <path d="M7.55002,4.096 L8.63003,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M8.63003,1.216 L10.43,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M10.43,6.976 L12.23,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M12.23,1.216 L14.03,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M14.03,6.976 L15.8301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M15.8301,1.216 L17.6301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M17.6301,6.976 L19.4301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M19.4301,1.216 L21.2301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M21.2301,6.976 L21.9501,4.096" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M29.1502,4.096 L21.9501,4.096" id="connector1pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="2" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="24.5501" y="3.046">2</tspan>
+                        </text>
+                        <path d="M0.350001,4.096 L7.55002,4.096" id="connector0pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="1" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="2.95001" y="3.046">1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(201.137000, 71.516700)">
+                <g transform="translate(3.500000, 15.000000) rotate(90.000000) translate(-3.500000, -15.000000) translate(-11.500000, 11.500000)" id="schematic">
+                    <g>
+                        <path d="M7.55002,4.096 L8.63003,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M8.63003,1.216 L10.43,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M10.43,6.976 L12.23,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M12.23,1.216 L14.03,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M14.03,6.976 L15.8301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M15.8301,1.216 L17.6301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M17.6301,6.976 L19.4301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M19.4301,1.216 L21.2301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M21.2301,6.976 L21.9501,4.096" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M29.1502,4.096 L21.9501,4.096" id="connector1pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="2" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="24.5501" y="3.046">2</tspan>
+                        </text>
+                        <path d="M0.350001,4.096 L7.55002,4.096" id="connector0pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="1" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="2.95001" y="3.046">1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(237.938000, 71.516700)">
+                <g transform="translate(3.500000, 15.000000) rotate(90.000000) translate(-3.500000, -15.000000) translate(-11.500000, 11.500000)" id="schematic">
+                    <g>
+                        <path d="M7.55002,4.096 L8.63003,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M8.63003,1.216 L10.43,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M10.43,6.976 L12.23,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M12.23,1.216 L14.03,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M14.03,6.976 L15.8301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M15.8301,1.216 L17.6301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M17.6301,6.976 L19.4301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M19.4301,1.216 L21.2301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M21.2301,6.976 L21.9501,4.096" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M29.1502,4.096 L21.9501,4.096" id="connector1pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="2" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="24.5501" y="3.046">2</tspan>
+                        </text>
+                        <path d="M0.350001,4.096 L7.55002,4.096" id="connector0pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="1" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="2.95001" y="3.046">1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(118.679000, 171.265000)">
+                <g id="schematic">
+                    <path d="M13.5,15.966 L9.9,15.966 C9.707,15.966 9.55,15.81 9.55,15.616 C9.55,15.422 9.706,15.266 9.9,15.266 L13.5,15.266 C13.693,15.266 13.85,15.422 13.85,15.616 C13.85,15.81 13.694,15.966 13.5,15.966 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M9.9,15.966 L6.3,15.966 C6.107,15.966 5.95,15.81 5.95,15.616 C5.95,15.422 6.107,15.266 6.3,15.266 L9.9,15.266 C10.093,15.266 10.25,15.422 10.25,15.616 C10.25,15.81 10.093,15.966 9.9,15.966 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="Group" transform="translate(5.000000, 8.000000)" fill-rule="nonzero">
+                        <polygon id="Shape" fill="#FFFFFF" points="4.9 7.616 1.3 0.416 4.9 0.416 8.5 0.416"></polygon>
+                        <path d="M4.9,8.398 L0.734,0.066 L9.067,0.066 L4.9,8.398 Z M1.866,0.766 L4.9,6.834 L7.934,0.766 L1.866,0.766 Z" id="Shape" fill="#000000"></path>
+                    </g>
+                    <path d="M9.9,15.841 C9.776,15.841 9.675,15.74 9.675,15.616 L9.675,8.416 C9.675,8.292 9.776,8.191 9.9,8.191 C10.024,8.191 10.125,8.292 10.125,8.416 L10.125,15.616 C10.124,15.74 10.024,15.841 9.9,15.841 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M1.8,13.141 C1.742,13.141 1.685,13.12 1.641,13.076 C1.553,12.988 1.553,12.846 1.641,12.758 L3.981,10.417 C4.069,10.329 4.211,10.329 4.299,10.417 C4.387,10.505 4.387,10.647 4.299,10.735 L1.959,13.076 C1.915,13.12 1.858,13.141 1.8,13.141 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M2.16,16.381 C2.102,16.381 2.045,16.36 2.001,16.316 C1.913,16.228 1.913,16.086 2.001,15.998 L4.341,13.658 C4.429,13.57 4.571,13.57 4.659,13.658 C4.747,13.746 4.747,13.888 4.659,13.976 L2.319,16.316 C2.276,16.359 2.218,16.381 2.16,16.381 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="connector0pin" transform="translate(9.000000, 15.000000)" fill="#787878" fill-rule="nonzero">
+                        <path d="M0.9,8.166 C0.707,8.166 0.55,8.01 0.55,7.816 L0.55,0.616 C0.55,0.423 0.706,0.266 0.9,0.266 C1.094,0.266 1.25,0.422 1.25,0.616 L1.25,7.816 C1.249,8.01 1.093,8.166 0.9,8.166 Z" id="Shape"></path>
+                    </g>
+                    <g id="connector0terminal" transform="translate(9.000000, 22.000000)">
+                        <rect id="Rectangle-path" x="0.9" y="0.816" width="1" height="1"></rect>
+                    </g>
+                    <g id="Group" transform="translate(7.429000, 18.426200)" fill="#787878" fill-rule="nonzero">
+                        <g id="Shape">
+                            <g transform="translate(1.000000, 1.000000) rotate(-90.000000) translate(-1.000000, -1.000000) translate(0.000000, -0.000000)">
+                                <g>
+                                    <path d="M1.353,1.54 L0.462,1.54 L0.462,1.388 L0.804,1.016 C0.853,0.963 0.897,0.915 0.935,0.871 C0.973,0.827 1.006,0.785 1.034,0.743 C1.06,0.701 1.081,0.659 1.096,0.618 C1.111,0.575 1.117,0.53 1.117,0.48 C1.117,0.442 1.112,0.408 1.1,0.378 C1.088,0.348 1.073,0.324 1.053,0.303 C1.032,0.283 1.008,0.268 0.98,0.257 C0.952,0.246 0.92,0.241 0.886,0.241 C0.824,0.241 0.768,0.254 0.719,0.279 C0.668,0.303 0.621,0.336 0.576,0.375 L0.476,0.259 C0.501,0.236 0.531,0.213 0.56,0.194 C0.589,0.173 0.623,0.155 0.657,0.14 C0.691,0.125 0.728,0.114 0.766,0.104 C0.804,0.096 0.845,0.091 0.887,0.091 C0.95,0.091 1.006,0.1 1.056,0.117 C1.107,0.135 1.15,0.16 1.185,0.193 C1.22,0.225 1.248,0.265 1.267,0.312 C1.286,0.36 1.295,0.413 1.295,0.472 C1.295,0.528 1.286,0.58 1.269,0.63 C1.252,0.68 1.228,0.73 1.199,0.778 C1.168,0.826 1.133,0.875 1.09,0.924 C1.049,0.973 1.003,1.024 0.954,1.076 L0.68,1.37 L0.68,1.378 L1.353,1.378 L1.353,1.54 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="connector1pin" transform="translate(9.000000, 0.000000)" fill="#787878" fill-rule="nonzero">
+                        <path d="M0.9,8.766 C0.707,8.766 0.55,8.609 0.55,8.416 L0.55,1.216 C0.55,1.023 0.706,0.866 0.9,0.866 C1.094,0.866 1.25,1.023 1.25,1.216 L1.25,8.416 C1.249,8.609 1.093,8.766 0.9,8.766 Z" id="Shape"></path>
+                    </g>
+                    <g id="connector1terminal" transform="translate(9.000000, 1.000000)">
+                        <polygon id="Shape" points="0.9 0.216 0.901 0.216 0.901 0.216"></polygon>
+                    </g>
+                    <g id="Group" transform="translate(7.429000, 4.346200)" fill="#787878" fill-rule="nonzero">
+                        <g id="Shape">
+                            <g transform="translate(1.000000, 1.000000) rotate(-90.000000) translate(-1.000000, -1.000000) translate(0.000000, -0.000000)">
+                                <g>
+                                    <path d="M1.384,1.54 L1.212,1.54 L1.212,0.648 C1.212,0.62 1.212,0.59 1.212,0.558 C1.212,0.526 1.213,0.495 1.214,0.463 C1.215,0.431 1.216,0.4 1.217,0.371 C1.218,0.343 1.219,0.317 1.219,0.295 C1.208,0.307 1.198,0.316 1.19,0.325 C1.182,0.334 1.173,0.342 1.164,0.349 C1.155,0.356 1.146,0.365 1.136,0.374 C1.126,0.382 1.115,0.393 1.101,0.404 L0.956,0.522 L0.862,0.402 L1.236,0.11 L1.382,0.11 L1.382,1.54 L1.384,1.54 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.18 14.536 1.26 12.015 2.7 13.453"></polygon>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.54 17.776 1.62 15.255 3.058 16.693"></polygon>
+                </g>
+            </g>
+            <g id="Group" transform="translate(125.538000, 121.399000)">
+                <g transform="translate(3.500000, 15.000000) rotate(90.000000) translate(-3.500000, -15.000000) translate(-11.500000, 11.500000)" id="schematic">
+                    <g>
+                        <path d="M7.55002,4.096 L8.63003,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M8.63003,1.216 L10.43,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M10.43,6.976 L12.23,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M12.23,1.216 L14.03,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M14.03,6.976 L15.8301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M15.8301,1.216 L17.6301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M17.6301,6.976 L19.4301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M19.4301,1.216 L21.2301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M21.2301,6.976 L21.9501,4.096" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M29.1502,4.096 L21.9501,4.096" id="connector1pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="2" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="24.5501" y="3.046">2</tspan>
+                        </text>
+                        <path d="M0.350001,4.096 L7.55002,4.096" id="connector0pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="1" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="2.95001" y="3.046">1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(152.551000, 114.466000)">
+                <g transform="translate(3.500000, 15.000000) rotate(90.000000) translate(-3.500000, -15.000000) translate(-11.500000, 11.500000)" id="schematic">
+                    <g>
+                        <path d="M7.55002,4.096 L8.63003,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M8.63003,1.216 L10.43,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M10.43,6.976 L12.23,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M12.23,1.216 L14.03,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M14.03,6.976 L15.8301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M15.8301,1.216 L17.6301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M17.6301,6.976 L19.4301,1.216" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M19.4301,1.216 L21.2301,6.976" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M21.2301,6.976 L21.9501,4.096" id="Shape" stroke="#000000" stroke-width="0.432002" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <path d="M29.1502,4.096 L21.9501,4.096" id="connector1pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="2" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="24.5501" y="3.046">2</tspan>
+                        </text>
+                        <path d="M0.350001,4.096 L7.55002,4.096" id="connector0pin" stroke="#787878" stroke-width="0.700001" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+                        <text id="1" fill="#8C8C8C" font-family="Helvetica" font-size="2.50001" font-weight="normal">
+                            <tspan x="2.95001" y="3.046">1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(145.613000, 171.265000)">
+                <g id="schematic">
+                    <path d="M13.5,15.966 L9.9,15.966 C9.707,15.966 9.55,15.81 9.55,15.616 C9.55,15.422 9.706,15.266 9.9,15.266 L13.5,15.266 C13.693,15.266 13.85,15.422 13.85,15.616 C13.85,15.81 13.694,15.966 13.5,15.966 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M9.9,15.966 L6.3,15.966 C6.107,15.966 5.95,15.81 5.95,15.616 C5.95,15.422 6.107,15.266 6.3,15.266 L9.9,15.266 C10.093,15.266 10.25,15.422 10.25,15.616 C10.25,15.81 10.093,15.966 9.9,15.966 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="Group" transform="translate(5.000000, 8.000000)" fill-rule="nonzero">
+                        <polygon id="Shape" fill="#FFFFFF" points="4.9 7.616 1.3 0.416 4.9 0.416 8.5 0.416"></polygon>
+                        <path d="M4.9,8.398 L0.734,0.066 L9.067,0.066 L4.9,8.398 Z M1.866,0.766 L4.9,6.834 L7.934,0.766 L1.866,0.766 Z" id="Shape" fill="#000000"></path>
+                    </g>
+                    <path d="M9.9,15.841 C9.776,15.841 9.675,15.74 9.675,15.616 L9.675,8.416 C9.675,8.292 9.776,8.191 9.9,8.191 C10.024,8.191 10.125,8.292 10.125,8.416 L10.125,15.616 C10.124,15.74 10.024,15.841 9.9,15.841 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M1.8,13.141 C1.742,13.141 1.685,13.12 1.641,13.076 C1.553,12.988 1.553,12.846 1.641,12.758 L3.981,10.417 C4.069,10.329 4.211,10.329 4.299,10.417 C4.387,10.505 4.387,10.647 4.299,10.735 L1.959,13.076 C1.915,13.12 1.858,13.141 1.8,13.141 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M2.16,16.381 C2.102,16.381 2.045,16.36 2.001,16.316 C1.913,16.228 1.913,16.086 2.001,15.998 L4.341,13.658 C4.429,13.57 4.571,13.57 4.659,13.658 C4.747,13.746 4.747,13.888 4.659,13.976 L2.319,16.316 C2.276,16.359 2.218,16.381 2.16,16.381 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="connector0pin" transform="translate(9.000000, 15.000000)" fill="#787878" fill-rule="nonzero">
+                        <path d="M0.9,8.166 C0.707,8.166 0.55,8.01 0.55,7.816 L0.55,0.616 C0.55,0.423 0.706,0.266 0.9,0.266 C1.094,0.266 1.25,0.422 1.25,0.616 L1.25,7.816 C1.249,8.01 1.093,8.166 0.9,8.166 Z" id="Shape"></path>
+                    </g>
+                    <g id="connector0terminal" transform="translate(9.000000, 22.000000)">
+                        <rect id="Rectangle-path" x="0.9" y="0.816" width="1" height="1"></rect>
+                    </g>
+                    <g id="Group" transform="translate(7.429000, 18.426200)" fill="#787878" fill-rule="nonzero">
+                        <g id="Shape">
+                            <g transform="translate(1.000000, 1.000000) rotate(-90.000000) translate(-1.000000, -1.000000) translate(0.000000, -0.000000)">
+                                <g>
+                                    <path d="M1.353,1.54 L0.462,1.54 L0.462,1.388 L0.804,1.016 C0.853,0.963 0.897,0.915 0.935,0.871 C0.973,0.827 1.006,0.785 1.034,0.743 C1.06,0.701 1.081,0.659 1.096,0.618 C1.111,0.575 1.117,0.53 1.117,0.48 C1.117,0.442 1.112,0.408 1.1,0.378 C1.088,0.348 1.073,0.324 1.053,0.303 C1.032,0.283 1.008,0.268 0.98,0.257 C0.952,0.246 0.92,0.241 0.886,0.241 C0.824,0.241 0.768,0.254 0.719,0.279 C0.668,0.303 0.621,0.336 0.576,0.375 L0.476,0.259 C0.501,0.236 0.531,0.213 0.56,0.194 C0.589,0.173 0.623,0.155 0.657,0.14 C0.691,0.125 0.728,0.114 0.766,0.104 C0.804,0.096 0.845,0.091 0.887,0.091 C0.95,0.091 1.006,0.1 1.056,0.117 C1.107,0.135 1.15,0.16 1.185,0.193 C1.22,0.225 1.248,0.265 1.267,0.312 C1.286,0.36 1.295,0.413 1.295,0.472 C1.295,0.528 1.286,0.58 1.269,0.63 C1.252,0.68 1.228,0.73 1.199,0.778 C1.168,0.826 1.133,0.875 1.09,0.924 C1.049,0.973 1.003,1.024 0.954,1.076 L0.68,1.37 L0.68,1.378 L1.353,1.378 L1.353,1.54 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="connector1pin" transform="translate(9.000000, 0.000000)" fill="#787878" fill-rule="nonzero">
+                        <path d="M0.9,8.766 C0.707,8.766 0.55,8.609 0.55,8.416 L0.55,1.216 C0.55,1.023 0.706,0.866 0.9,0.866 C1.094,0.866 1.25,1.023 1.25,1.216 L1.25,8.416 C1.249,8.609 1.093,8.766 0.9,8.766 Z" id="Shape"></path>
+                    </g>
+                    <g id="connector1terminal" transform="translate(9.000000, 1.000000)">
+                        <polygon id="Shape" points="0.9 0.216 0.901 0.216 0.901 0.216"></polygon>
+                    </g>
+                    <g id="Group" transform="translate(7.429000, 4.346200)" fill="#787878" fill-rule="nonzero">
+                        <g id="Shape">
+                            <g transform="translate(1.000000, 1.000000) rotate(-90.000000) translate(-1.000000, -1.000000) translate(0.000000, -0.000000)">
+                                <g>
+                                    <path d="M1.384,1.54 L1.212,1.54 L1.212,0.648 C1.212,0.62 1.212,0.59 1.212,0.558 C1.212,0.526 1.213,0.495 1.214,0.463 C1.215,0.431 1.216,0.4 1.217,0.371 C1.218,0.343 1.219,0.317 1.219,0.295 C1.208,0.307 1.198,0.316 1.19,0.325 C1.182,0.334 1.173,0.342 1.164,0.349 C1.155,0.356 1.146,0.365 1.136,0.374 C1.126,0.382 1.115,0.393 1.101,0.404 L0.956,0.522 L0.862,0.402 L1.236,0.11 L1.382,0.11 L1.382,1.54 L1.384,1.54 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.18 14.536 1.26 12.015 2.7 13.453"></polygon>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.54 17.776 1.62 15.255 3.058 16.693"></polygon>
+                </g>
+            </g>
+            <g id="Group" transform="translate(51.000000, 201.000000)" stroke-linecap="round">
+                <g id="schematic">
+                    <path d="M7.201,7.575 L7.201,0.375" id="connector0pin" stroke="#787878" stroke-width="0.75"></path>
+                    <path d="M0.5,7.711 L13.9,7.711" id="path4098" stroke="#000000" stroke-width="0.9"></path>
+                    <path d="M2.732,10.456 L11.667,10.456" id="path4100" stroke="#000000" stroke-width="0.9"></path>
+                    <path d="M9.431,13.175 L4.967,13.175" id="path4102" stroke="#000000" stroke-width="0.9"></path>
+                </g>
+            </g>
+            <path d="M204.041,71.8668 L203.434,29.5815" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="204.041" cy="71.8668" r="1.44"></circle>
+            <path d="M128.442,121.749 L108.6,121.72" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M155.455,114.816 L108.6,114.52" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M182.505,107.883 L108.6,107.32" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M204.041,71.8668 L108.6,71.32" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="204.041" cy="71.8668" r="1.44"></circle>
+            <path d="M240.5,64.4 L108.6,64.12" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M263.241,57.7333 L108.6,56.92" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M264.041,71.8668 L263.241,57.7333" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="263.241" cy="57.7333" r="1.44"></circle>
+            <path d="M263.241,57.7333 L263.097,29.503" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M240.5,64.4 L240.842,71.8668" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="240.5" cy="64.4" r="1.44"></circle>
+            <path d="M240.5,64.4 L240.5,29.5815" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M240.469,1.697 L263.066,1.6185" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M203.402,1.697 L226.087,1.744" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M128.58,194.082 L58.1995,193.72" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="128.58" cy="194.082" r="1.44"></circle>
+            <path d="M155.513,194.082 L128.58,194.082" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="155.513" cy="194.082" r="1.44"></circle>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="128.58" cy="194.082" r="1.44"></circle>
+            <path d="M182.622,194.082 L155.513,194.082" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="182.622" cy="194.082" r="1.44"></circle>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="155.513" cy="194.082" r="1.44"></circle>
+            <path d="M182.622,194.082 L204.041,194.082" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="182.622" cy="194.082" r="1.44"></circle>
+            <path d="M204.041,194.082 L204.041,100.667" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="204.041" cy="100.667" r="1.44"></circle>
+            <path d="M204.041,100.667 L240.842,100.667" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="204.041" cy="100.667" r="1.44"></circle>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="240.842" cy="100.667" r="1.44"></circle>
+            <path d="M240.842,100.667 L264.041,100.667" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="240.842" cy="100.667" r="1.44"></circle>
+            <path d="M189.02,1.744 L51,0.93335" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M51,0.93335 L51,13.72" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M128.58,172.481 L128.442,150.55" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M155.513,172.481 L155.455,143.616" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M182.622,172.481 L182.505,136.683" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <path d="M58.1995,193.72 L58.1995,201.607947" id="Shape" stroke="#404040" stroke-width="0.699998" fill="#000000" fill-rule="nonzero" stroke-linecap="round"></path>
+            <g id="partLabel" transform="translate(258.000000, 14.500000) rotate(-88.000000) translate(-258.000000, -14.500000) translate(254.000000, 11.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.039000, 0.000000)">
+                    <g transform="translate(3.500000, 3.500000) rotate(90.000000) translate(-3.500000, -3.500000) " id="schematicLabel">
+                        <g>
+                            <text id="S1">
+                                <tspan x="0" y="5.75">S1</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(183.000000, 15.000000) rotate(-270.000000) translate(-183.000000, -15.000000) translate(179.000000, 11.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.460000, 0.200000)">
+                    <g transform="translate(3.500000, 3.500000) rotate(-90.000000) translate(-3.500000, -3.500000) " id="schematicLabel">
+                        <g>
+                            <text id="S3">
+                                <tspan x="0" y="5.75">S3</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(220.000000, 15.000000) rotate(-270.000000) translate(-220.000000, -15.000000) translate(216.000000, 11.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.527000, 0.200000)">
+                    <g transform="translate(3.500000, 3.500000) rotate(-90.000000) translate(-3.500000, -3.500000) " id="schematicLabel">
+                        <g>
+                            <text id="S2">
+                                <tspan x="0" y="5.75">S2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(186.000000, 167.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.401000, 0.065000)">
+                    <g id="schematicLabel">
+                        <text id="LED1">
+                            <tspan x="0" y="5">LED1</tspan>
+                        </text>
+                        <text id="Red">
+                            <tspan x="2" y="10">Red</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(158.000000, 167.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.293000, 0.065000)">
+                    <g id="schematicLabel">
+                        <text id="LED3">
+                            <tspan x="1" y="5">LED3</tspan>
+                        </text>
+                        <text id="Green">
+                            <tspan x="0" y="10">Green</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(132.000000, 167.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.359000, 0.065000)">
+                    <g id="schematicLabel">
+                        <text id="LED2">
+                            <tspan x="0.246337891" y="5">LED2</tspan>
+                        </text>
+                        <text id="Blue">
+                            <tspan x="1.49633789" y="10">Blue</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(188.000000, 116.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.255000, 0.187000)">
+                    <g id="schematicLabel">
+                        <text id="R1">
+                            <tspan x="0" y="5.75">R1</tspan>
+                        </text>
+                        <text id="220Ω">
+                            <tspan x="0" y="10.75">220Ω</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(210.000000, 80.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.791000, 0.170700)">
+                    <g id="schematicLabel">
+                        <text id="R5">
+                            <tspan x="0" y="5.75">R5</tspan>
+                        </text>
+                        <text id="10kΩ">
+                            <tspan x="0" y="10.75">10kΩ</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(269.000000, 80.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.791000, 0.170700)">
+                    <g id="schematicLabel">
+                        <text id="R6">
+                            <tspan x="0" y="5.75">R6</tspan>
+                        </text>
+                        <text id="10kΩ">
+                            <tspan x="0" y="10.75">10kΩ</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(133.000000, 130.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.536000, 0.320000)">
+                    <g id="schematicLabel">
+                        <text id="R3">
+                            <tspan x="0" y="5.75">R3</tspan>
+                        </text>
+                        <text id="220Ω">
+                            <tspan x="0" y="10.75">220Ω</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(161.000000, 123.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.549000, 0.386000)">
+                    <g id="schematicLabel">
+                        <text id="R2">
+                            <tspan x="0" y="5.75">R2</tspan>
+                        </text>
+                        <text id="220Ω">
+                            <tspan x="0" y="10.75">220Ω</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel" transform="translate(246.000000, 80.000000)" fill="#000000" font-family="Helvetica" font-size="5" font-weight="normal">
+                <g id="Group" transform="translate(0.592000, 0.170700)">
+                    <g id="schematicLabel">
+                        <text id="R4">
+                            <tspan x="0" y="5.75">R4</tspan>
+                        </text>
+                        <text id="10kΩ">
+                            <tspan x="0" y="10.75">10kΩ</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
