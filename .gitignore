@@ -10,3 +10,5 @@ labs2014/Node Serial Lab/package-lock.json
 labs2014/.vscode/c_cpp_properties.json
 labs2014/.vscode/arduino.json
 */.vscode/*
+labs2015/accel/.vscode/arduino.json
+labs2015/accel/.vscode/c_cpp_properties.json
