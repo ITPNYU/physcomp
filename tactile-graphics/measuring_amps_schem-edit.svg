@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="801px" height="787px" viewBox="0 0 801 787" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="measuring_amps_schem" transform="translate(196.000000, 2.000000)">
+            <g id="Layer_1_2_" transform="translate(54.000000, 249.000000)">
+                <g id="Layer_1_1_">
+                    <polyline id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="33.703 18.177 25.125 18.177 18.789 24.515 10.83 24.515 0.244 17.328"></polyline>
+                    <polyline id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="33.703 34.714 23.039 34.714 4.03 34.714"></polyline>
+                    <polyline id="box_1_" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0.244 53.415 33.703 53.415 33.703 3.188 0.244 3.188"></polyline>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="27.135 20.959 30.612 25.673 28.217 26.136 31.229 31.933 25.435 24.979 27.908 24.359"></polygon>
+                    <path d="M33.703,34.714 L50.471,34.714" id="connector2pin" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M33.703,18.333 L50.471,18.333" id="connector0pin" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M33.703,34.714 L50.471,34.714" id="connector1pin" stroke="#787878" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <text id="-" fill="#787878" transform="translate(4.207000, 41.970200) scale(-1, 1) translate(-4.207000, -41.970200) " font-family="Helvetica" font-size="10.4646" font-weight="normal">
+                        <tspan x="2.207" y="45.9702">-</tspan>
+                    </text>
+                    <text id="+" fill="#787878" transform="translate(4.648400, 10.740700) scale(-1, 1) translate(-4.648400, -10.740700) " font-family="Helvetica" font-size="10.4646" font-weight="normal">
+                        <tspan x="1.1484" y="14.7407">+</tspan>
+                    </text>
+                    <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="176.116" y="0.869" width="66.996" height="50.228"></rect>
+                    <path d="M176.116,51.097 L243.111,51.097" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M243.111,51.097 L243.111,0.869" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M243.111,0.869 L176.116,0.869" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M176.116,0.869 L176.116,51.097" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M159.348,17.636 L176.116,17.636" id="connector1pin_1_" stroke="#787878" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M209.653,67.865 L209.653,51.097" id="connector0pin_1_" stroke="#787878" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M259.881,17.636 L243.111,17.636" id="connector2pin_1_" stroke="#787878" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M373.24,62.533 L373.24,66.706" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M373.24,33.247 L381.584,62.533" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <circle id="Oval" stroke="#000000" stroke-width="2" cx="373.24" cy="33.247" r="1"></circle>
+                    <circle id="Oval" stroke="#000000" stroke-width="2" cx="373.24" cy="66.706" r="1"></circle>
+                    <path d="M389.93,66.706 L356.471,66.706" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M389.93,33.247 L356.471,33.247" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M356.471,17.25 L356.471,33.247" id="connector3pin" stroke="#555555" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M389.93,17.25 L389.93,33.247" id="connector2pin_2_" stroke="#555555" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M356.471,82.624 L356.471,66.706" id="connector1pin_2_" stroke="#555555" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M389.93,82.624 L389.93,66.706" id="connector0pin_2_" stroke="#555555" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M390.008,159.51 L383.361,156.959" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M383.361,156.959 L396.73,152.787" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M396.73,152.787 L383.361,148.613" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M383.361,148.613 L396.73,144.441" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M396.73,144.441 L383.361,140.27" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M383.361,140.27 L396.73,136.096" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M396.73,136.096 L383.361,131.846" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M383.361,131.846 L396.73,127.673" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M396.73,127.673 L390.008,126.05" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M390.008,109.283 L390.008,126.05" id="connector1pin_3_" stroke="#787878" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M390.008,176.277 L390.008,159.51" id="connector0pin_3_" stroke="#787878" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M272.32,239.1 L272.32,230.756 C272.32,230.291 272.709,229.904 273.174,229.904 C273.637,229.904 274.024,230.291 274.024,230.756 L274.024,239.1 C274.024,239.567 273.637,239.954 273.174,239.954 C272.707,239.873 272.32,239.562 272.32,239.1 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M272.32,230.678 L272.32,222.332 C272.32,221.869 272.709,221.482 273.174,221.482 C273.637,221.482 274.024,221.869 274.024,222.332 L274.024,230.678 C274.024,231.141 273.637,231.53 273.174,231.53 C272.709,231.529 272.32,231.141 272.32,230.678 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="273.172 230.678 289.861 222.332 289.861 230.678 289.861 239.1"></polygon>
+                    <path d="M271.316,230.678 L290.712,221.02 L290.712,240.416 L271.316,230.678 Z M289.09,223.646 L274.947,230.677 L289.09,237.708 L289.09,223.646 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M272.631,230.678 C272.631,230.369 272.86,230.137 273.172,230.137 L289.94,230.137 C290.251,230.137 290.481,230.369 290.481,230.678 C290.481,230.989 290.251,231.219 289.94,231.219 L273.172,231.219 C272.861,231.219 272.631,230.986 272.631,230.678 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M278.889,211.9 C278.889,211.746 278.967,211.668 279.045,211.511 C279.274,211.282 279.584,211.282 279.815,211.511 L285.225,216.921 C285.455,217.151 285.455,217.462 285.225,217.692 C284.995,217.922 284.684,217.922 284.454,217.692 L279.046,212.284 C278.967,212.133 278.889,211.979 278.889,211.9 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M271.395,212.674 C271.395,212.52 271.471,212.444 271.549,212.287 C271.779,212.055 272.09,212.055 272.32,212.287 L277.728,217.695 C277.96,217.925 277.96,218.236 277.728,218.466 C277.498,218.698 277.187,218.698 276.957,218.466 L271.549,213.056 C271.395,212.982 271.395,212.828 271.395,212.674 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M255.631,230.678 C255.631,230.215 256.018,229.828 256.481,229.828 L273.172,229.828 C273.635,229.828 274.022,230.215 274.022,230.678 C274.022,231.141 273.635,231.53 273.172,231.53 L256.4,231.53 C255.939,231.527 255.631,231.141 255.631,230.678 Z" id="Shape" fill="#787878" fill-rule="nonzero"></path>
+                    <path d="M289.09,230.678 C289.09,230.215 289.477,229.828 289.94,229.828 L306.71,229.828 C307.175,229.828 307.562,230.215 307.562,230.678 C307.562,231.141 307.175,231.53 306.71,231.53 L289.94,231.53 C289.477,231.527 289.09,231.141 289.09,230.678 Z" id="Shape" fill="#787878" fill-rule="nonzero"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="275.645 208.113 281.518 210.586 278.194 213.91"></polygon>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="268.148 208.965 274.021 211.514 270.699 214.836"></polygon>
+                    <path d="M272.32,184.391 L272.32,176.047 C272.32,175.582 272.709,175.195 273.174,175.195 C273.637,175.195 274.024,175.582 274.024,176.047 L274.024,184.391 C274.024,184.858 273.637,185.245 273.174,185.245 C272.707,185.164 272.32,184.854 272.32,184.391 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M272.32,175.969 L272.32,167.623 C272.32,167.16 272.709,166.771 273.174,166.771 C273.637,166.771 274.024,167.16 274.024,167.623 L274.024,175.969 C274.024,176.432 273.637,176.821 273.174,176.821 C272.709,176.82 272.32,176.432 272.32,175.969 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="273.172 175.969 289.861 167.623 289.861 175.969 289.861 184.391"></polygon>
+                    <path d="M271.316,175.969 L290.712,166.309 L290.712,185.705 L271.316,175.969 Z M289.09,168.938 L274.947,175.969 L289.09,183 L289.09,168.938 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M272.631,175.969 C272.631,175.66 272.86,175.428 273.172,175.428 L289.94,175.428 C290.251,175.428 290.481,175.66 290.481,175.969 C290.481,176.28 290.251,176.51 289.94,176.51 L273.172,176.51 C272.861,176.51 272.631,176.277 272.631,175.969 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M278.889,157.191 C278.889,157.037 278.967,156.959 279.045,156.802 C279.274,156.572 279.584,156.572 279.815,156.802 L285.225,162.212 C285.455,162.442 285.455,162.753 285.225,162.983 C284.995,163.213 284.684,163.213 284.454,162.983 L279.046,157.575 C278.967,157.424 278.889,157.27 278.889,157.191 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M271.395,157.965 C271.395,157.809 271.471,157.735 271.549,157.578 C271.779,157.346 272.09,157.346 272.32,157.578 L277.728,162.986 C277.96,163.216 277.96,163.527 277.728,163.757 C277.498,163.989 277.187,163.989 276.957,163.757 L271.549,158.347 C271.395,158.273 271.395,158.119 271.395,157.965 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M255.631,175.969 C255.631,175.506 256.018,175.119 256.481,175.119 L273.172,175.119 C273.635,175.119 274.022,175.506 274.022,175.969 C274.022,176.432 273.635,176.821 273.172,176.821 L256.4,176.821 C255.939,176.818 255.631,176.432 255.631,175.969 Z" id="Shape" fill="#787878" fill-rule="nonzero"></path>
+                    <path d="M289.09,175.969 C289.09,175.506 289.477,175.119 289.94,175.119 L306.71,175.119 C307.175,175.119 307.562,175.506 307.562,175.969 C307.562,176.432 307.175,176.821 306.71,176.821 L289.94,176.821 C289.477,176.818 289.09,176.432 289.09,175.969 Z" id="Shape" fill="#787878" fill-rule="nonzero"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="275.645 153.404 281.518 155.877 278.194 159.201"></polygon>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="268.148 154.256 274.021 156.805 270.699 160.127"></polygon>
+                    <path d="M208.185,223.027 L208.185,206.257" id="connector0pin_6_" stroke="#787878" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M192.575,223.336 L223.716,223.336" id="path4098" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M197.753,229.674 L218.54,229.674" id="path4100" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M213.362,236.01 L203.008,236.01" id="path4102" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M272.32,134.242 L272.32,125.894 C272.32,125.43 272.709,125.044 273.174,125.044 C273.637,125.044 274.024,125.43 274.024,125.894 L274.024,134.242 C274.024,134.705 273.637,135.092 273.174,135.092 C272.709,135.091 272.32,134.705 272.32,134.242 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M272.32,125.897 L272.32,117.549 C272.32,117.086 272.709,116.699 273.174,116.699 C273.637,116.699 274.024,117.085 274.024,117.549 L274.024,125.897 C274.024,126.361 273.637,126.747 273.174,126.747 C272.707,126.668 272.32,126.36 272.32,125.897 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="273.172 125.897 289.861 117.55 289.861 125.897 289.861 134.242"></polygon>
+                    <path d="M271.316,125.897 L290.712,116.236 L290.712,135.632 L271.316,125.897 Z M289.09,118.865 L274.947,125.897 L289.09,132.927 L289.09,118.865 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M272.631,125.897 C272.631,125.585 272.86,125.356 273.172,125.356 L289.94,125.356 C290.251,125.356 290.481,125.585 290.481,125.897 C290.481,126.206 290.251,126.436 289.94,126.436 L273.172,126.436 C272.861,126.438 272.631,126.205 272.631,125.897 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M278.889,107.042 C278.889,106.887 278.967,106.81 279.045,106.656 C279.274,106.424 279.584,106.424 279.815,106.656 L285.225,112.065 C285.455,112.297 285.455,112.606 285.225,112.838 C284.995,113.07 284.684,113.07 284.454,112.838 L279.046,107.429 C278.967,107.351 278.889,107.195 278.889,107.042 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M271.395,107.892 C271.395,107.737 271.471,107.66 271.549,107.505 C271.779,107.274 272.09,107.274 272.32,107.505 L277.728,112.914 C277.96,113.146 277.96,113.455 277.728,113.687 C277.498,113.918 277.187,113.918 276.957,113.687 L271.549,108.278 C271.395,108.201 271.395,108.045 271.395,107.892 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M255.631,125.897 C255.631,125.431 256.018,125.045 256.481,125.045 L273.172,125.045 C273.635,125.045 274.022,125.431 274.022,125.897 C274.022,126.361 273.635,126.747 273.172,126.747 L256.4,126.747 C255.939,126.668 255.631,126.36 255.631,125.897 Z" id="Shape" fill="#787878" fill-rule="nonzero"></path>
+                    <path d="M289.09,125.897 C289.09,125.431 289.477,125.045 289.94,125.045 L306.71,125.045 C307.175,125.045 307.562,125.431 307.562,125.897 C307.562,126.361 307.175,126.747 306.71,126.747 L289.94,126.747 C289.477,126.668 289.09,126.36 289.09,125.897 Z" id="Shape" fill="#787878" fill-rule="nonzero"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="275.645 103.254 281.518 105.727 278.194 109.049"></polygon>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="268.148 104.104 274.021 106.654 270.699 109.977"></polygon>
+                    <path d="M159.348,17.636 L49.776,18.333" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M259.881,17.636 L356.395,17.482" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M389.93,82.16 L390.008,109.283" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M49.776,67.865 L209.653,67.865" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="209.653" cy="67.865" r="3.323"></circle>
+                    <path d="M49.776,34.714 L49.776,67.865" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M208.185,206.492 L208.494,176.432" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M208.957,66.165 L208.494,176.432" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M208.494,173.109 C210.348,173.109 211.817,174.578 211.817,176.429 C211.817,178.284 210.349,179.753 208.494,179.753 C206.639,179.753 205.171,178.284 205.171,176.429 C205.171,174.654 206.639,173.109 208.494,173.109 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M209.653,67.865 L208.957,66.165" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="209.653" cy="67.865" r="3.323"></circle>
+                    <path d="M390.703,175.969 L306.631,175.969" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M306.631,172.646 C308.485,172.646 309.953,174.115 309.953,175.966 C309.953,177.821 308.482,179.29 306.631,179.29 C304.776,179.29 303.309,177.821 303.309,175.966 C303.309,174.191 304.775,172.646 306.631,172.646 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M390.008,176.277 L390.703,175.969" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M307.248,127.519 L306.631,175.969" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M306.631,172.646 C308.485,172.646 309.953,174.115 309.953,175.966 C309.953,177.821 308.482,179.29 306.631,179.29 C304.776,179.29 303.309,177.821 303.309,175.966 C303.309,174.191 304.775,172.646 306.631,172.646 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M306.631,125.897 L307.248,127.519" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <polyline id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round" points="333.213 208.113 306.477 208.424 306.631 175.969"></polyline>
+                    <path d="M306.631,172.646 C308.485,172.646 309.953,174.115 309.953,175.966 C309.953,177.821 308.482,179.29 306.631,179.29 C304.776,179.29 303.309,177.821 303.309,175.966 C303.309,174.191 304.775,172.646 306.631,172.646 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M256.402,175.969 L256.402,125.897" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="256.402" cy="175.968" r="3.323"></circle>
+                    <path d="M208.494,176.432 L256.402,175.969" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="256.402" cy="175.968" r="3.323"></circle>
+                    <path d="M256.402,175.969 L256.402,230.678" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                    <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="256.402" cy="175.968" r="3.323"></circle>
+                    <rect id="Rectangle-path" stroke="#000000" stroke-width="2" stroke-linecap="round" x="333.213" y="194.592" width="114.285" height="82.836"></rect>
+                    <path d="M345.574,255.328 L435.213,255.328" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M345.574,255.328 C345.574,229.904 366.131,209.428 391.474,209.428" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M435.213,255.328 C435.213,229.904 414.656,209.428 389.313,209.428" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M390.395,255.328 L373.316,226.66" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M306.631,230.678 L333.213,230.678" id="Shape" stroke="#404040" stroke-width="2" stroke-linecap="round"></path>
+                </g>
+                <g id="plaintext" transform="translate(462.000000, 264.000000)" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                    <text id="Amps">
+                        <tspan x="0.8047" y="14.9707">Amps</tspan>
+                    </text>
+                </g>
+                <g id="braille" transform="translate(109.000000, 15.000000)" fill="#000000" font-family="AppleBraille, Apple Braille" font-weight="normal">
+                    <text id="⠠⠊⠠⠝" font-size="22.4091">
+                        <tspan x="1.6392" y="18.6909">⠠⠊⠠⠝</tspan>
+                    </text>
+                    <text id="⠕⠥⠞" font-size="22.4091">
+                        <tspan x="138.0068" y="19.4644">⠕⠥⠞</tspan>
+                    </text>
+                    <text id="⠠⠛⠠⠝⠠⠙" font-size="22.4091">
+                        <tspan x="99.5537" y="62.0474">⠠⠛⠠⠝⠠⠙</tspan>
+                    </text>
+                    <text id="⠠⠇⠠⠑⠠⠙⠼⠁⠤⠉" font-size="30">
+                        <tspan x="0.8218" y="260.8809">⠠⠇⠠⠑⠠⠙⠼⠁⠤⠉</tspan>
+                    </text>
+                    <text id="⠁⠍⠏⠎" font-size="30">
+                        <tspan x="348.2607" y="241.5391">⠁⠍⠏⠎</tspan>
+                    </text>
+                </g>
+            </g>
+            <path d="M27.719,4 L5.5,26.219" id="Shape" stroke="#000000" stroke-width="4"></path>
+            <path d="M42.125,0.5 L0.5,42.125" id="Shape" stroke="#000000" stroke-width="4"></path>
+            <g id="Group" transform="translate(48.001000, 78.855500)" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <text id="⠼⠉-⠠⠇⠠⠑⠠⠙⠎-⠊⠝-⠏⠁⠗⠁⠇⠇⠑⠇">
+                    <tspan x="0" y="23">⠼⠉</tspan>
+                    <tspan x="41.015625" y="23" font-family="Helvetica"> </tspan>
+                    <tspan x="49.3505859" y="23">⠠⠇⠠⠑⠠⠙⠎</tspan>
+                    <tspan x="192.905273" y="23" font-family="Helvetica"> </tspan>
+                    <tspan x="201.240234" y="23">⠊⠝</tspan>
+                    <tspan x="242.255859" y="23" font-family="Helvetica"> </tspan>
+                    <tspan x="250.59082" y="23">⠏⠁⠗⠁⠇⠇⠑⠇</tspan>
+                </text>
+                <text id="⠤-⠍⠑⠁⠎⠥⠗⠊⠝⠛-⠁⠍⠏⠑⠗⠁⠛⠑">
+                    <tspan x="0" y="59">⠤</tspan>
+                    <tspan x="20.5078125" y="59" font-family="Helvetica"> </tspan>
+                    <tspan x="28.8427734" y="59">⠍⠑⠁⠎⠥⠗⠊⠝⠛</tspan>
+                    <tspan x="213.413086" y="59" font-family="Helvetica"> </tspan>
+                    <tspan x="221.748047" y="59">⠁⠍⠏⠑⠗⠁⠛⠑</tspan>
+                </text>
+            </g>
+            <text id="3-LEDs-in-parallel---measuring-amperage" fill="#939597" font-family="Helvetica" font-size="21" font-weight="normal">
+                <tspan x="53.9526" y="173.813">3 LEDs in parallel - measuring amperage</tspan>
+            </text>
+            <g id="plaintext_1_" transform="translate(237.000000, 259.000000)" fill="#939597" font-family="Helvetica" font-size="8.1391" font-weight="normal">
+                <text id="IN">
+                    <tspan x="0.0298" y="8.0483">IN</tspan>
+                </text>
+                <g id="Group" transform="translate(27.500000, 26.000000) rotate(-90.000000) translate(-27.500000, -26.000000) translate(17.500000, 20.500000)">
+                    <g id="GND">
+                        <text>
+                            <tspan x="0.9746" y="8.2593">GND</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="OUT">
+                    <tspan x="36.0562" y="8.0483">OUT</tspan>
+                </text>
+            </g>
+            <g id="partLabel" transform="translate(59.000000, 194.000000)" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <g id="Group" transform="translate(0.400000, 0.000000)">
+                    <g id="schematicLabel">
+                        <text id="PP1">
+                            <tspan x="0.2802" y="14.0093">PP1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="partLabel_1_" transform="translate(235.000000, 190.000000)" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <g id="Group" transform="translate(0.289000, 0.737570)">
+                    <g id="schematicLabel_1_">
+                        <text id="IC1">
+                            <tspan x="0.4908" y="14.3293">IC1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <text id="⠠⠏⠠⠏⠼⠁" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="29.0469" y="233.1021">⠠⠏⠠⠏⠼⠁</tspan>
+            </text>
+            <text id="⠠⠊⠠⠉⠼⠁" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="209.0845" y="229.9771">⠠⠊⠠⠉⠼⠁</tspan>
+            </text>
+            <text id="Key:" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <tspan x="13.6372" y="714.5371">Key:</tspan>
+            </text>
+            <text id="PP1---DC-power-plug" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <tspan x="13.6372" y="731.5195">PP1 - DC power plug</tspan>
+            </text>
+            <text id="IC1--7805-5-volt-regulator" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <tspan x="13.6372" y="748.5">IC1- 7805 5-volt regulator</tspan>
+            </text>
+            <text id="R1---220-ohm-resistor" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <tspan x="13.6372" y="765.4824">R1 - 220-ohm resistor</tspan>
+            </text>
+            <text id="LED1---5mm-red-LED" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <tspan x="13.6372" y="781.6104">LED1 - 5mm red LED</tspan>
+            </text>
+            <text id="⠠⠅⠑⠽" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="5" y="555.4004">⠠⠅⠑⠽</tspan>
+            </text>
+            <text id="⠠⠏⠠⠏⠼⠁-⠤-⠠⠙⠠⠉-⠏⠕⠺⠑⠗-⠏⠇⠥⠛" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="5" y="588.291">⠠⠏⠠⠏⠼⠁</tspan>
+                <tspan x="128.046875" y="588.291" font-family="Helvetica"> </tspan>
+                <tspan x="136.381836" y="588.291">⠤</tspan>
+                <tspan x="156.889648" y="588.291" font-family="Helvetica"> </tspan>
+                <tspan x="165.224609" y="588.291">⠠⠙⠠⠉</tspan>
+                <tspan x="247.255859" y="588.291" font-family="Helvetica"> </tspan>
+                <tspan x="255.59082" y="588.291">⠏⠕⠺⠑⠗</tspan>
+                <tspan x="358.129883" y="588.291" font-family="Helvetica"> </tspan>
+                <tspan x="366.464844" y="588.291">⠏⠇⠥⠛</tspan>
+            </text>
+            <text id="⠠⠊⠠⠉⠼⠁⠤-⠼⠛⠓⠚⠑-⠼⠑⠤⠧⠕⠇⠞-⠗⠑⠛⠥⠇⠁⠞⠕⠗" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="5" y="621.1816">⠠⠊⠠⠉⠼⠁⠤</tspan>
+                <tspan x="148.554688" y="621.1816" font-family="Helvetica"> </tspan>
+                <tspan x="156.889648" y="621.1816">⠼⠛⠓⠚⠑</tspan>
+                <tspan x="259.428711" y="621.1816" font-family="Helvetica"> </tspan>
+                <tspan x="267.763672" y="621.1816">⠼⠑⠤⠧⠕⠇⠞</tspan>
+                <tspan x="411.318359" y="621.1816" font-family="Helvetica"> </tspan>
+                <tspan x="419.65332" y="621.1816">⠗⠑⠛⠥⠇⠁⠞⠕⠗</tspan>
+            </text>
+            <text id="⠠⠗⠼⠁-⠤-⠼⠃⠃⠚-⠨⠺-⠗⠑⠎⠊⠎⠞⠕⠗" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="5" y="654.0732">⠠⠗⠼⠁</tspan>
+                <tspan x="87.03125" y="654.0732" font-family="Helvetica"> </tspan>
+                <tspan x="95.3662109" y="654.0732">⠤</tspan>
+                <tspan x="115.874023" y="654.0732" font-family="Helvetica"> </tspan>
+                <tspan x="124.208984" y="654.0732">⠼⠃⠃⠚</tspan>
+                <tspan x="206.240234" y="654.0732" font-family="Helvetica"> </tspan>
+                <tspan x="214.575195" y="654.0732">⠨⠺</tspan>
+                <tspan x="255.59082" y="654.0732" font-family="Helvetica"> </tspan>
+                <tspan x="263.925781" y="654.0732">⠗⠑⠎⠊⠎⠞⠕⠗</tspan>
+            </text>
+            <text id="⠠⠇⠠⠑⠠⠙⠼⠁-⠤-⠼⠑⠍⠍-⠗⠑⠙-⠠⠇⠠⠑⠠⠙" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="5" y="686.9629">⠠⠇⠠⠑⠠⠙⠼⠁</tspan>
+                <tspan x="169.0625" y="686.9629" font-family="Helvetica"> </tspan>
+                <tspan x="177.397461" y="686.9629">⠤</tspan>
+                <tspan x="197.905273" y="686.9629" font-family="Helvetica"> </tspan>
+                <tspan x="206.240234" y="686.9629">⠼⠑⠍⠍</tspan>
+                <tspan x="288.271484" y="686.9629" font-family="Helvetica"> </tspan>
+                <tspan x="296.606445" y="686.9629">⠗⠑⠙</tspan>
+                <tspan x="358.129883" y="686.9629" font-family="Helvetica"> </tspan>
+                <tspan x="366.464844" y="686.9629">⠠⠇⠠⠑⠠⠙</tspan>
+            </text>
+            <g id="partLabel_2_" transform="translate(464.000000, 298.000000)" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <g id="Group" transform="translate(0.012000, 0.656600)">
+                    <g id="schematicLabel_2_">
+                        <text id="S1">
+                            <tspan x="0.7497" y="14.0392">S1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <text id="⠠⠎⠼⠁" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="453.0742" y="288.3071">⠠⠎⠼⠁</tspan>
+            </text>
+            <g id="partLabel_3_" transform="translate(551.000000, 346.000000)" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <g id="Group" transform="translate(0.719000, 0.234400)">
+                    <g id="schematicLabel_3_">
+                        <text id="R1">
+                            <tspan x="0.1736" y="14.1997">R1</tspan>
+                        </text>
+                        <text id="220Ω">
+                            <tspan x="0.1736" y="30.3618">220Ω</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <text id="⠠⠗⠼⠁" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="462.7344" y="373.231">⠠⠗⠼⠁</tspan>
+            </text>
+            <text id="⠼⠃⠃⠚-⠨⠺" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="462.7344" y="404.1211">⠼⠃⠃⠚</tspan>
+                <tspan x="544.76565" y="404.1211" font-family="Helvetica"> </tspan>
+                <tspan x="553.100611" y="404.1211">⠨⠺</tspan>
+            </text>
+            <g id="partLabel_6_" transform="translate(306.000000, 490.000000)" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <g id="Group" transform="translate(0.845000, 0.570300)">
+                    <g id="schematicLabel_6_">
+                        <text id="LED1-3">
+                            <tspan x="0.3049" y="14.6846">LED1-3</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text id="remove-in,-ground,-o" font-family="Helvetica" font-size="48" font-weight="normal" fill="#FF0000">
+            <tspan x="0" y="83">remove in, ground, out by regulator</tspan>
+            <tspan x="0" y="141">remove 220 Ω by R1</tspan>
+            <tspan x="0" y="199">move key down to make more room</tspan>
+        </text>
+    </g>
+</svg>

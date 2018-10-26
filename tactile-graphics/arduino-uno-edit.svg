@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="675px" height="660px" viewBox="0 0 675 660" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arduino-uno" transform="translate(82.000000, 2.000000)">
+            <g id="Layer_2" transform="translate(128.000000, 243.000000)">
+                <path d="M115.232,48.045 L184.7,48.045" id="Shape" stroke="#000000" stroke-width="4"></path>
+                <polyline id="Shape" stroke="#000000" stroke-width="4" points="223.414 48.045 256.178 48.045 256.178 272.678 210.818 272.678 203.4 281.562 91.741 281.562 83.086 272.678 74.432 272.678 74.432 48.045 85.714 48.045"></polyline>
+                <rect id="Rectangle-path" stroke="#000000" stroke-width="4" x="184.7" y="26.563" width="39.021" height="53.164"></rect>
+                <rect id="Rectangle-path" stroke="#000000" stroke-width="3.9998056" transform="translate(100.523436, 64.231778) rotate(179.002955) translate(-100.523436, -64.231778) " x="85.7316545" y="42.1013538" width="29.5835621" height="44.2608488"></rect>
+                <rect id="Rectangle-path" stroke="#000000" stroke-width="4" x="120.718" y="142.705" width="19.009" height="126.341"></rect>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="241.805" cy="68.446" r="10.509"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="82.854" cy="142.936" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="82.854" cy="203.673" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="82.854" cy="186.364" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="82.854" cy="195.018" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="82.854" cy="177.632" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="82.854" cy="168.977" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="82.854" cy="160.323" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="82.854" cy="151.591" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="83.086" cy="264.563" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="83.086" cy="247.177" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="83.086" cy="255.909" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="83.086" cy="238.523" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="83.086" cy="229.868" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="83.086" cy="221.136" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="248.062" cy="203.364" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="248.062" cy="264.1" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="248.062" cy="246.713" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="248.062" cy="255.368" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="248.062" cy="238.059" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="248.062" cy="229.405" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="248.062" cy="220.673" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="248.062" cy="212.018" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="129.414" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="189.841" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="172.609" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="181.264" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="163.955" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="155.3" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="146.723" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="138.068" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="112.105" r="2.009"></circle>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="247.909" cy="120.759" r="2.009"></circle>
+                <path d="M256.562,138.068 L239.255,138.068" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M91.586,195.019 L74.2,195.019" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M91.818,186.286 L74.432,186.286" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                <g id="Group" transform="translate(131.000000, 57.000000)" stroke="#000000">
+                    <rect id="Rectangle-path" stroke-width="3.9998056" transform="translate(10.206938, 5.916953) rotate(179.002955) translate(-10.206938, -5.916953) " x="0.242422711" y="0.549213691" width="19.9290314" height="10.7354782"></rect>
+                    <path d="M10.195,11.368 L10.195,18.632" id="Shape" stroke-width="4"></path>
+                    <path d="M4.555,11.368 L4.555,18.632" id="Shape" stroke-width="4"></path>
+                    <path d="M15.836,11.368 L15.836,18.632" id="Shape" stroke-width="4"></path>
+                </g>
+                <g id="Group" transform="translate(16.000000, 26.000000)">
+                    <path d="M0.864,0.563 L36.332,12.386" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="46.687 15.864 30.15 16.945 35.559 12.154 34.091 5.045"></polygon>
+                </g>
+                <g id="Group" transform="translate(0.000000, 151.000000)">
+                    <path d="M0.018,0.591 L57.045,11.718" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="67.786 13.805 51.482 17.05 56.273 11.562 53.877 4.687"></polygon>
+                </g>
+                <g id="Group" transform="translate(133.000000, 0.000000)">
+                    <path d="M6.727,0.523 L6.727,30.891" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="6.727 41.864 0.468 26.486 6.727 30.118 12.986 26.486"></polygon>
+                </g>
+                <g id="Group" transform="translate(234.000000, 12.000000)">
+                    <path d="M16.072,0.577 L7.959,9.695" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.695 17.886 6.259 2.2 8.5 9.077 15.609 10.545"></polygon>
+                </g>
+                <g id="Group" transform="translate(264.000000, 52.000000)">
+                    <path d="M37.305,1.146 L11.572,8.1" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.986 10.959 14.2 0.836 12.346 7.868 17.522 12.968"></polygon>
+                </g>
+                <g id="Group" transform="translate(262.000000, 129.000000)">
+                    <path d="M32.195,7.059 L11.486,7.214" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.591 7.291 15.891 0.877 12.336 7.214 16.046 13.473"></polygon>
+                </g>
+                <g id="Group" transform="translate(261.000000, 146.000000)">
+                    <path d="M40.305,15.945 L10.786,4.741" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.586 0.877 17.123 0.414 11.481 5.05 12.718 12.159"></polygon>
+                </g>
+                <g id="Group" transform="translate(260.000000, 268.000000)">
+                    <path d="M40.377,16.113 L10.859,4.909" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="0.659 1.046 17.272 0.659 11.632 5.218 12.791 12.404"></polygon>
+                </g>
+                <g id="Group" transform="translate(36.000000, 183.000000)">
+                    <path d="M0.414,6.688 L21.123,6.918" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="32.018 6.995 16.563 13.1 20.273 6.841 16.718 0.582"></polygon>
+                </g>
+                <g id="Group" transform="translate(21.000000, 220.000000)">
+                    <path d="M0.292,13.543 L33.341,5.353" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="43.877 2.579 30.555 12.511 32.5 5.5 27.433 0.389"></polygon>
+                </g>
+                <g id="Group" transform="translate(33.000000, 245.000000)">
+                    <path d="M0.941,18.945 L23.968,5.654" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="33.396 0.168 23.273 13.305 23.273 6.041 16.937 2.409"></polygon>
+                </g>
+                <g id="Group" transform="translate(25.000000, 278.000000)">
+                    <path d="M0.211,91.888 L47.988,10.147" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="53.607 0.798 51.064 17.187 47.565 10.821 40.263 10.69"></polygon>
+                </g>
+                <g id="Group" transform="translate(126.000000, 293.000000)">
+                    <path d="M9.555,45.282 L6.232,11.282" id="Shape" stroke="#000000" stroke-width="4"></path>
+                    <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="5.15 0.387 12.877 15.146 6.309 12.132 0.437 16.382"></polygon>
+                </g>
+            </g>
+            <g id="Braille_1_" transform="translate(9.000000, 159.000000)" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <text id="⠠⠛⠗⠕⠥⠝⠙">
+                    <tspan x="0.1304" y="280.5928">⠠⠛⠗⠕⠥⠝⠙</tspan>
+                </text>
+                <text id="⠠⠁⠝⠁⠇⠕⠛">
+                    <tspan x="25.6909" y="376.6904">⠠⠁⠝⠁⠇⠕⠛</tspan>
+                </text>
+                <text id="⠊⠝⠏⠥⠞⠎">
+                    <tspan x="25.6909" y="412.6904">⠊⠝⠏⠥⠞⠎</tspan>
+                </text>
+                <text id="⠠⠧⠕⠇⠞⠁⠛⠑">
+                    <tspan x="19.6001" y="190.1904">⠠⠧⠕⠇⠞⠁⠛⠑</tspan>
+                </text>
+                <text id="⠏⠊⠝⠎">
+                    <tspan x="19.6001" y="226.1904">⠏⠊⠝⠎</tspan>
+                </text>
+                <text id="⠠⠧⠕⠇⠞⠁⠛⠑">
+                    <tspan x="15.5234" y="98.1484">⠠⠧⠕⠇⠞⠁⠛⠑</tspan>
+                </text>
+                <text id="⠠⠏⠇⠥⠛">
+                    <tspan x="20.5234" y="131.1484">⠠⠏⠇⠥⠛</tspan>
+                </text>
+                <text id="⠠⠧⠕⠇⠞⠁⠛⠑">
+                    <tspan x="150.5537" y="23.0771">⠠⠧⠕⠇⠞⠁⠛⠑</tspan>
+                </text>
+                <text id="⠠⠗⠑⠛⠥⠇⠁⠞⠕⠗">
+                    <tspan x="150.5537" y="59.0771">⠠⠗⠑⠛⠥⠇⠁⠞⠕⠗</tspan>
+                </text>
+                <text id="⠠⠠⠥⠎⠃">
+                    <tspan x="363.418" y="39.6709">⠠⠠⠥⠎⠃</tspan>
+                </text>
+                <text id="⠠⠏⠇⠥⠛">
+                    <tspan x="363.418" y="75.6709">⠠⠏⠇⠥⠛</tspan>
+                </text>
+                <text id="⠠⠗⠑⠎⠑⠞">
+                    <tspan x="433.2969" y="124.8223">⠠⠗⠑⠎⠑⠞</tspan>
+                </text>
+                <text id="⠃⠥⠞⠞⠕⠝">
+                    <tspan x="433.2969" y="160.8223">⠃⠥⠞⠞⠕⠝</tspan>
+                </text>
+                <text id="⠠⠛⠗⠕⠥⠝⠙">
+                    <tspan x="421.7207" y="218.3955">⠠⠛⠗⠕⠥⠝⠙</tspan>
+                </text>
+                <text id="⠠⠙⠼⠚">
+                    <tspan x="411.5088" y="390.9961">⠠⠙⠼⠚</tspan>
+                </text>
+                <text id="⠠⠙⠼⠁⠉">
+                    <tspan x="418.7998" y="262.1592">⠠⠙⠼⠁⠉</tspan>
+                </text>
+                <text id="⠠⠙⠊⠛⠊⠞⠁⠇">
+                    <tspan x="418.7998" y="303.1592">⠠⠙⠊⠛⠊⠞⠁⠇</tspan>
+                </text>
+                <text id="⠏⠊⠝⠎">
+                    <tspan x="418.7998" y="339.1592">⠏⠊⠝⠎</tspan>
+                </text>
+                <text id="⠠⠁⠠⠞⠍⠑⠛⠁⠼⠉⠃⠓">
+                    <tspan x="167.688" y="447.8125">⠠⠁⠠⠞⠍⠑⠛⠁⠼⠉⠃⠓</tspan>
+                </text>
+            </g>
+            <path d="M27.719,4 L5.5,26.219" id="Shape" stroke="#000000" stroke-width="4"></path>
+            <path d="M42.125,0.5 L0.5,42.125" id="Shape" stroke="#000000" stroke-width="4"></path>
+            <text id="Arduino-Uno" fill="#939597" font-family="Helvetica" font-size="21" font-weight="normal">
+                <tspan x="42.0137" y="116.2578">Arduino Uno</tspan>
+            </text>
+            <text id="⠠⠁⠗⠙⠥⠊⠝⠕-⠠⠥⠝⠕" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="29.4102" y="82.4004">⠠⠁⠗⠙⠥⠊⠝⠕</tspan>
+                <tspan x="193.4727" y="82.4004" font-family="Helvetica"> </tspan>
+                <tspan x="201.807661" y="82.4004">⠠⠥⠝⠕</tspan>
+            </text>
+            <text id="Analog-inputs" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="35.1294" y="603.2432">Analog inputs</tspan>
+            </text>
+            <text id="ATmega328" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="237.6196" y="633.2412">ATmega328</tspan>
+            </text>
+            <text id="Ground" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="24.6455" y="465.7363">Ground</tspan>
+            </text>
+            <text id="Voltage-pins" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="34.6455" y="407.7402">Voltage pins</tspan>
+            </text>
+            <text id="Voltage-Plug" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="21.6455" y="315.7441">Voltage Plug</tspan>
+            </text>
+            <text id="USB-Plug" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="395.127" y="254.248">USB Plug</tspan>
+            </text>
+            <text id="Voltage-Regulator" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="197.1367" y="237.748">Voltage Regulator</tspan>
+            </text>
+            <text id="Reset-button" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="444.625" y="339.7432">Reset button</tspan>
+            </text>
+            <text id="Ground" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="444.625" y="395.2402">Ground</tspan>
+            </text>
+            <text id="D13" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="441.625" y="438.7383">D13</tspan>
+            </text>
+            <text id="Digital-pins" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="444.625" y="518.2344">Digital pins</tspan>
+            </text>
+            <text id="D0" fill="#939597" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="432.125" y="569.2314">D0</tspan>
+            </text>
+            <text id="⠠⠁⠼⠚" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="60.5908" y="486.0039">⠠⠁⠼⠚</tspan>
+            </text>
+            <text id="A0" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <tspan x="86.5293" y="506.9092">A0</tspan>
+            </text>
+            <text id="⠠⠁⠼⠑" fill="#000000" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="72.5908" y="634.0039">⠠⠁⠼⠑</tspan>
+            </text>
+            <text id="A5" fill="#939597" font-family="Helvetica" font-size="14" font-weight="normal">
+                <tspan x="98.5293" y="654.9092">A5</tspan>
+            </text>
+        </g>
+        <text id="2-versions:-parts-th" font-family="Helvetica" font-size="48" font-weight="normal" fill="#FF0000">
+            <tspan x="0" y="101">2 versions:</tspan>
+            <tspan x="0" y="159">parts then pins</tspan>
+            <tspan x="0" y="217"></tspan>
+            <tspan x="0" y="275">pin version:</tspan>
+            <tspan x="0" y="333">label 5V, gnd, and top and bottom of</tspan>
+            <tspan x="0" y="391">each group (more or less like now)</tspan>
+        </text>
+    </g>
+</svg>

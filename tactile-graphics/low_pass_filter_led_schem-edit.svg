@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="779px" height="587px" viewBox="0 0 779 587" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="low_pass_filter_led_schem" transform="translate(2.000000, 2.000000)">
+            <path d="M518.2,153.8 L518.2,167.3" id="connector0pin_10_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M518.3,223.5 L518.3,237" id="connector0pin_3_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M505.6,153.4 L530.8,153.4" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M527.4,205.1 L518.2,205.1 C517.7,205.1 517.3,204.7 517.3,204.2 C517.3,203.7 517.7,203.3 518.2,203.3 L527.4,203.3 C527.9,203.3 528.3,203.7 528.3,204.2 C528.3,204.7 527.9,205.1 527.4,205.1 Z" id="Shape" stroke="#000000" fill="#020202" fill-rule="nonzero"></path>
+            <path d="M518.1,205.1 L508.9,205.1 C508.4,205.1 508,204.7 508,204.2 C508,203.7 508.4,203.3 508.9,203.3 L518.1,203.3 C518.6,203.3 519,203.7 519,204.2 C519,204.7 518.6,205.1 518.1,205.1 Z" id="Shape" stroke="#000000" fill="#020202" fill-rule="nonzero"></path>
+            <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="518.1 204.2 508.9 185.7 518.1 185.7 527.4 185.7"></polygon>
+            <path d="M518.1,206.2 L507.4,184.8 L528.8,184.8 L518.1,206.2 Z M510.4,186.6 L518.2,202.2 L526,186.6 C525.9,186.6 510.4,186.6 510.4,186.6 Z" id="Shape" stroke="#000000" fill="#020202" fill-rule="nonzero"></path>
+            <path d="M518.1,204.7 C517.8,204.7 517.5,204.4 517.5,204.1 L517.5,185.7 C517.5,185.4 517.8,185.1 518.1,185.1 C518.4,185.1 518.7,185.4 518.7,185.7 L518.7,204.1 C518.7,204.5 518.5,204.7 518.1,204.7 Z" id="Shape" stroke="#000000" fill="#020202" fill-rule="nonzero"></path>
+            <path d="M497.4,197.8 C497.3,197.8 497.1,197.7 497,197.6 C496.8,197.4 496.8,197 497,196.8 L503,190.8 C503.2,190.6 503.6,190.6 503.8,190.8 C504,191 504,191.4 503.8,191.6 L497.8,197.6 C497.7,197.8 497.5,197.8 497.4,197.8 Z" id="Shape" stroke="#000000" fill="#020202" fill-rule="nonzero"></path>
+            <path d="M498.3,206.1 C498.2,206.1 498,206 497.9,205.9 C497.7,205.7 497.7,205.3 497.9,205.1 L503.9,199.1 C504.1,198.9 504.5,198.9 504.7,199.1 C504.9,199.3 504.9,199.7 504.7,199.9 L498.7,205.9 C498.6,206.1 498.5,206.1 498.3,206.1 Z" id="Shape" stroke="#000000" fill="#020202" fill-rule="nonzero"></path>
+            <path d="M518.1,223.5 C517.6,223.5 517.2,223.1 517.2,222.6 L517.2,204.1 C517.2,203.6 517.6,203.2 518.1,203.2 C518.6,203.2 519,203.6 519,204.1 L519,222.5 C519,223.1 518.6,223.5 518.1,223.5 Z" id="Shape" stroke="#000000" fill="#7A7A7A" fill-rule="nonzero"></path>
+            <path d="M518.1,186.6 C517.6,186.6 517.2,186.2 517.2,185.7 L517.2,167.3 C517.2,166.8 517.6,166.4 518.1,166.4 C518.6,166.4 519,166.8 519,167.3 L519,185.8 C519,186.2 518.6,186.6 518.1,186.6 Z" id="Shape" stroke="#000000" fill="#7A7A7A" fill-rule="nonzero"></path>
+            <polygon id="Shape" stroke="#000000" fill="#020202" fill-rule="nonzero" points="493.2 201.4 496 194.9 499.7 198.6"></polygon>
+            <polygon id="Shape" stroke="#000000" fill="#020202" fill-rule="nonzero" points="494.2 209.7 497 203.2 500.7 206.9"></polygon>
+            <polyline id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" points="503.6 237.7 500.9 237.7 496.8 243.1 490.1 231 483.4 243.1 476.6 231 469.9 243.1 463.2 231 456.4 243.1 452.4 237.7 449.7 237.7"></polyline>
+            <path d="M517,237.7 L503.6,237.7" id="connector1pin_1_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M436.3,237.7 L449.7,237.7" id="connector0pin_2_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M518.3,326 L518.3,312.5" id="connector0pin_1_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M505.8,326.3 L530.9,326.3" id="path4098_1_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M510,331.4 L526.7,331.4" id="path4100_1_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M522.5,336.5 L514.2,336.5" id="path4102_1_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M518.3,264.3 L518.3,269.6" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M518.3,285.9 L518.3,280.6" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <rect id="Rectangle-path" stroke="#000000" fill="#010101" fill-rule="nonzero" x="497" y="277.9" width="42.6" height="2.7"></rect>
+            <rect id="Rectangle-path" stroke="#000000" fill="#010101" fill-rule="nonzero" x="497" y="269.6" width="42.6" height="2.7"></rect>
+            <path d="M518.3,237.7 L518.3,264.3" id="connector1pin_7_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M518.3,312.6 L518.3,285.9" id="connector0pin_7_" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+            <circle id="Oval" stroke="#000000" fill="#020202" fill-rule="nonzero" cx="517.6" cy="237" r="3.8"></circle>
+            <path d="M22.7,0 L0.5,22.2" id="Shape" stroke="#000000" stroke-width="4"></path>
+            <path d="M30.6,0 L0,30.6" id="Shape" stroke="#000000" stroke-width="4"></path>
+            <text id="+V" fill="#020202" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="506.5744" y="103.8733">+V</tspan>
+            </text>
+            <text id="label_9_" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="506.5744" y="103.8733">+V</tspan>
+            </text>
+            <text id="PWM-output" fill="#000000" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="117.3835" y="165.9416">PWM output</tspan>
+            </text>
+            <text id="PWM-output" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="117.3835" y="165.9416">PWM output</tspan>
+            </text>
+            <text id="from-microcontroller" fill="#000000" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="56.3835" y="187.5416">from microcontroller</tspan>
+            </text>
+            <text id="from-microcontroller" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="56.3835" y="187.5416">from microcontroller</tspan>
+            </text>
+            <text id="Key:" fill="#000000" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="359.3503" y="340.9416">Key:</tspan>
+            </text>
+            <text id="Key:" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="359.3503" y="340.9416">Key:</tspan>
+            </text>
+            <text id="R1---1.5kΩ" fill="#000000" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="359.3503" y="362.5416">R1 - 1.5kΩ</tspan>
+            </text>
+            <text id="R1---1.5kΩ" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="359.3503" y="362.5416">R1 - 1.5kΩ</tspan>
+            </text>
+            <text id="C10.1uF" fill="#000000" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="359.3503" y="384.1416">C10.1uF</tspan>
+            </text>
+            <text id="C10.1uF" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="359.3503" y="384.1416">C10.1uF</tspan>
+            </text>
+            <text id="These-values-will-cut-off-frequencies-above-1061-HZ" fill="#000000" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="359.3503" y="405.7416">These values will cut off frequencies above 1061 HZ</tspan>
+            </text>
+            <text id="These-values-will-cut-off-frequencies-above-1061-HZ" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="359.3503" y="405.7416">These values will cut off frequencies above 1061 HZ</tspan>
+            </text>
+            <text id="Change-values-of-R1-and-C1-for-other-frequencies" fill="#000000" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="359.3503" y="427.3416">Change values of R1 and C1 for other frequencies</tspan>
+            </text>
+            <text id="Change-values-of-R1-and-C1-for-other-frequencies" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="359.3503" y="427.3416">Change values of R1 and C1 for other frequencies</tspan>
+            </text>
+            <text id="R1" fill="#020202" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="435.5744" y="171.8733">R1</tspan>
+            </text>
+            <text id="label_8_" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="435.5744" y="171.8733">R1</tspan>
+            </text>
+            <text id="LED1" fill="#020202" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="570.595" y="231.1884">LED1</tspan>
+            </text>
+            <text id="label_7_" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="570.595" y="231.1884">LED1</tspan>
+            </text>
+            <text id="Low-pass-filter" fill="#020202" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="131.595" y="78.1885">Low-pass filter</tspan>
+            </text>
+            <text id="label_6_" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="131.595" y="78.1885">Low-pass filter</tspan>
+            </text>
+            <text id="C1" fill="#020202" font-family="Helvetica" font-size="18" font-weight="normal">
+                <tspan x="585.595" y="312.933">C1</tspan>
+            </text>
+            <text id="label_5_" stroke="#DDDDDD" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="585.595" y="312.933">C1</tspan>
+            </text>
+            <text id="label" fill="#020202" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="475.5744" y="140.8733">⠐⠖⠠⠧</tspan>
+            </text>
+            <text id="⠠⠠⠏⠺⠍⠀⠕⠥⠞⠏⠥⠞" fill="#010101" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="155.2566" y="202.9416">⠠⠠⠏⠺⠍⠀⠕⠥⠞⠏⠥⠞</tspan>
+            </text>
+            <text id="⠋⠗⠕⠍" fill="#010101" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="319.3566" y="238.9416">⠋⠗⠕⠍</tspan>
+            </text>
+            <text id="⠀⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗" fill="#010101" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="73.2566" y="274.9416">⠀⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</tspan>
+            </text>
+            <text id="⠠⠅⠑⠽⠒" fill="#010101" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="58.3503" y="347.9416">⠠⠅⠑⠽⠒</tspan>
+            </text>
+            <text id="⠠⠗⠼⠁⠀⠤⠀⠼⠁⠲⠑⠅⠨⠺" fill="#010101" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="58.3503" y="383.9416">⠠⠗⠼⠁⠀⠤⠀⠼⠁⠲⠑⠅⠨⠺</tspan>
+            </text>
+            <text id="⠠⠉⠼⠁⠚⠲⠁⠥⠠⠋" fill="#010101" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="58.3503" y="419.9416">⠠⠉⠼⠁⠚⠲⠁⠥⠠⠋</tspan>
+            </text>
+            <text id="label_1_" fill="#020202" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="408.5744" y="208.8733">⠠⠗⠼⠁</tspan>
+            </text>
+            <text id="label_2_" fill="#020202" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="549.595" y="198.1884">⠠⠠⠇⠑⠙⠠⠄⠼⠁</tspan>
+            </text>
+            <text id="label_4_" fill="#020202" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="90.595" y="35.1885">⠠⠇⠕⠺⠤⠏⠁⠎⠎⠀⠋⠊⠇⠞⠑⠗</tspan>
+            </text>
+            <g id="label_10_" transform="translate(70.599800, 445.188500)" fill="#020202" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <text id="⠠⠘⠮⠀⠧⠁⠇⠥⠑⠎⠀⠺⠀⠉⠥⠞⠀⠷⠋⠀⠋⠗⠑⠟⠥⠢⠉⠊⠑⠎⠀">
+                    <tspan x="0" y="23">⠠⠘⠮⠀⠧⠁⠇⠥⠑⠎⠀⠺⠀⠉⠥⠞⠀⠷⠋⠀⠋⠗⠑⠟⠥⠢⠉⠊⠑⠎⠀</tspan>
+                </text>
+                <text id="⠁⠃⠧⠀⠼⠁⠚⠋⠁⠀⠠⠠⠓⠵">
+                    <tspan x="0" y="59">⠁⠃⠧⠀⠼⠁⠚⠋⠁⠀⠠⠠⠓⠵</tspan>
+                </text>
+                <text id="⠠⠡⠁⠝⠛⠑⠀⠧⠁⠇⠥⠑⠎⠀⠷⠀⠠⠗⠼⠁⠀⠯⠀⠠⠉⠼⠁⠀">
+                    <tspan x="0" y="95">⠠⠡⠁⠝⠛⠑⠀⠧⠁⠇⠥⠑⠎⠀⠷⠀⠠⠗⠼⠁⠀⠯⠀⠠⠉⠼⠁⠀</tspan>
+                </text>
+                <text id="⠿⠀⠕⠮⠗⠀⠋⠗⠑⠟⠥⠑⠝⠉⠊⠑⠎">
+                    <tspan x="0" y="131">⠿⠀⠕⠮⠗⠀⠋⠗⠑⠟⠥⠑⠝⠉⠊⠑⠎</tspan>
+                </text>
+            </g>
+            <text id="label_3_" fill="#020202" font-family="AppleBraille, Apple Braille" font-size="30" font-weight="normal">
+                <tspan x="564.595" y="279.933">⠠⠉⠼⠁</tspan>
+            </text>
+        </g>
+        <text id="remove-note-about-10" font-family="Helvetica" font-size="48" font-weight="normal" fill="#FF0000">
+            <tspan x="5" y="133">remove note about 1061Hz</tspan>
+            <tspan x="5" y="191">change to “pwm out”</tspan>
+        </text>
+    </g>
+</svg>
