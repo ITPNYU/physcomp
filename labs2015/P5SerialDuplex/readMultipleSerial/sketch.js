@@ -4,7 +4,6 @@ var locH, locV;                         // location of the circle
 var circleColor = 255;                  // color of the circle
 
 function setup() {
-  createCanvas(640, 480);             // make canvas
   smooth();                           // antialias drawing lines
   serial = new p5.SerialPort();       // make a new instance of the serialport library
   serial.on('list', printList);       // set a callback function for the serialport list event

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 812.7 594.8"
+	 style="enable-background:new 0 0 812.7 594.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:10.3254px;}
+	.st3{font-size:18px;}
+	.st4{font-size:14.4px;}
+	.st5{fill:none;}
+	.st6{font-size:7.9488px;}
+	.st7{font-size:9.936px;}
+	.st8{font-size:16.4475px;}
+	.st9{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;}
+	.st10{font-family:'Helvetica';}
+	.st11{font-size:14px;}
+</style>
+<g>
+	<g transform="translate(524.225,126.511)">
+		<g id="schematic">
+			<rect x="-8.5" y="99.6" class="st0" width="147.4" height="191.2"/>
+			<text id="label" transform="matrix(1 0 0 1 52.6815 153.5428)" class="st1 st2">Motor</text>
+			<text id="label_1_" transform="matrix(1 0 0 1 52.1122 163.868)" class="st1 st2">Driver</text>
+			<text id="label_4_" transform="matrix(1 0 0 1 36.8964 174.8427)" class="st1 st2">TB6612FNG</text>
+			<line class="st0" x1="-49.9" y1="142" x2="-8.5" y2="142"/>
+			<rect id="connector10pin" x="-50.9" y="141" width="42.5" height="2.1"/>
+			<text id="label10" transform="matrix(1 0 0 1 -4.337 144.1034)" class="st1 st2">A01</text>
+			<line class="st0" x1="-49.9" y1="163.3" x2="-8.5" y2="163.3"/>
+			<rect id="connector9pin" x="-50.9" y="162.2" width="42.5" height="2.1"/>
+			<text id="label9" transform="matrix(1 0 0 1 -4.337 165.3446)" class="st1 st2">A02</text>
+			<line class="st0" x1="-49.9" y1="184.5" x2="-8.5" y2="184.5"/>
+			<rect id="connector16pin" x="-50.9" y="183.5" width="42.5" height="2.1"/>
+			<text id="label16" transform="matrix(1 0 0 1 -4.337 186.5819)" class="st1 st2">AIN1</text>
+			<line class="st0" x1="-49.9" y1="205.8" x2="-8.5" y2="205.8"/>
+			<rect id="connector15pin" x="-50.9" y="204.7" width="42.5" height="2.1"/>
+			<text id="label15" transform="matrix(1 0 0 1 -4.337 207.8241)" class="st1 st2">AIN2</text>
+			<line class="st0" x1="-49.9" y1="227" x2="-8.5" y2="227"/>
+			<rect id="connector7pin" x="-50.9" y="226" width="42.5" height="2.1"/>
+			<text id="label7" transform="matrix(1 0 0 1 -4.337 229.0643)" class="st1 st2">B01</text>
+			<line class="st0" x1="139.2" y1="142" x2="181.7" y2="142"/>
+			<rect id="connector17pin" x="140.2" y="141" width="42.5" height="2.1"/>
+			<text id="label17" transform="matrix(1 0 0 1 109.1229 144.1034)" class="st1 st2">STBY</text>
+			<line class="st0" x1="139.2" y1="163.3" x2="181.7" y2="163.3"/>
+			<rect id="connector20pin" x="140.2" y="162.2" width="42.5" height="2.1"/>
+			<text id="label20" transform="matrix(1 0 0 1 103.9686 165.3446)" class="st1 st2">PWMB</text>
+			<line class="st0" x1="139.2" y1="184.5" x2="181.7" y2="184.5"/>
+			<rect id="connector14pin" x="140.2" y="183.5" width="42.5" height="2.1"/>
+			<text id="label14" transform="matrix(1 0 0 1 103.9686 186.5819)" class="st1 st2">PWMA</text>
+			<line class="st0" x1="139.2" y1="205.8" x2="181.7" y2="205.8"/>
+			<rect id="connector19pin" x="140.2" y="204.7" width="42.5" height="2.1"/>
+			<text id="label19" transform="matrix(1 0 0 1 113.1356 207.8241)" class="st1 st2">BIN2</text>
+			<line class="st0" x1="139.2" y1="227" x2="181.7" y2="227"/>
+			<rect id="connector18pin" x="140.2" y="226" width="42.5" height="2.1"/>
+			<text id="label18" transform="matrix(1 0 0 1 113.1356 229.0643)" class="st1 st2">BIN1</text>
+			<line class="st0" x1="139.2" y1="248.2" x2="181.7" y2="248.2"/>
+			<rect id="connector8pin" x="140.2" y="247.2" width="42.5" height="2.1"/>
+			<text id="label8" transform="matrix(1 0 0 1 117.7186 250.3055)" class="st1 st2">B02</text>
+			<line class="st0" x1="55.3" y1="58.1" x2="55.3" y2="99.6"/>
+			<rect id="connector12pin" x="54.2" y="57.1" width="2.1" height="42.5"/>
+			<g transform="matrix(1, 0, 0, 1, 37.4, 16)">
+				<g>
+					<g transform="rotate(270)">
+						<g>
+							<text id="label12" transform="matrix(1 0 0 1 -110.079 21.9866)" class="st1 st2">VCC</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<line class="st0" x1="76.5" y1="58.1" x2="76.5" y2="99.6"/>
+			<rect id="connector13pin" x="75.5" y="57.1" width="2.1" height="42.5"/>
+			<g transform="matrix(1, 0, 0, 1, 44.6, 16)">
+				<g>
+					<g transform="rotate(270)">
+						<g>
+							<text id="label13" transform="matrix(1 0 0 1 -103.7675 36.0278)" class="st1 st2">VM</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<line class="st0" x1="55.3" y1="290.7" x2="55.3" y2="332.2"/>
+			<g transform="matrix(1, 0, 0, 1, 37.4, 77.6002)">
+				<g>
+					<g transform="rotate(270)">
+						<g>
+							<text id="label6" transform="matrix(1 0 0 1 -208.4007 21.9866)" class="st1 st2">GND</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="connector21terminal">
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(122.529,1.98736)">
+		<g id="schematic_1_">
+			<rect id="rect11" x="-76.5" y="53.5" class="st0" width="233.9" height="467.7"/>
+			<text id="label_5_" transform="matrix(1 0 0 1 9.368 95.9898)" class="st1 st3">Arduino</text>
+			<text id="text14" transform="matrix(1 0 0 1 8.3722 117.2497)" class="st1 st4">MKR Zero</text>
+			<line id="line20" class="st0" x1="-97.8" y1="96" x2="-77.7" y2="96"/>
+			<rect id="connector53pin" x="-99" y="94.8" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector53terminal" x="-99" y="94.8" class="st5" width="2.4" height="2.4"/>
+			<text id="label53" transform="matrix(1 0 0 1 -71.2601 98.3898)" class="st1 st6">Reset</text>
+			<rect id="connector46pin" x="-99" y="116" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector46terminal" x="-99" y="116" class="st5" width="2.4" height="2.4"/>
+			<rect id="connector49pin" x="-99" y="137.3" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector49terminal" x="-99" y="137.3" class="st5" width="2.4" height="2.4"/>
+			<rect id="connector66pin" x="-99" y="158.6" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector66terminal" x="-99" y="158.6" class="st5" width="2.4" height="2.4"/>
+			<line id="line40" class="st0" x1="-97.8" y1="202.3" x2="-77.7" y2="202.3"/>
+			<rect id="connector54pin" x="-99" y="201.1" class="st5" width="21.3" height="2.4"/>
+			<g id="connector54terminal">
+			</g>
+			<text id="label54" transform="matrix(1 0 0 1 -71.2601 204.6882)" class="st1 st6">AREF</text>
+			<line id="line45" class="st0" x1="-97.8" y1="223.5" x2="-77.7" y2="223.5"/>
+			<rect id="connector55pin" x="-99" y="222.3" class="st5" width="21.3" height="2.4"/>
+			<g id="connector55terminal">
+			</g>
+			<text id="label55" transform="matrix(1 0 0 1 -71.2601 225.9492)" class="st1 st6">DAC0/A0</text>
+			<line id="line50" class="st0" x1="-97.8" y1="244.8" x2="-77.7" y2="244.8"/>
+			<rect id="connector56pin" x="-99" y="243.6" class="st5" width="21.3" height="2.4"/>
+			<g id="connector56terminal">
+			</g>
+			<text id="label56" transform="matrix(1 0 0 1 -71.2601 247.2092)" class="st1 st6">A1</text>
+			<line id="line55" class="st0" x1="-97.8" y1="266.1" x2="-77.7" y2="266.1"/>
+			<rect id="connector57pin" x="-99" y="264.9" class="st5" width="21.3" height="2.4"/>
+			<g id="connector57terminal">
+			</g>
+			<text id="label57" transform="matrix(1 0 0 1 -71.2601 268.4682)" class="st1 st6">A2</text>
+			<line id="line60" class="st0" x1="-97.8" y1="287.3" x2="-77.7" y2="287.3"/>
+			<rect id="connector58pin" x="-99" y="286.1" class="st5" width="21.3" height="2.4"/>
+			<g id="connector58terminal">
+			</g>
+			<text id="label58" transform="matrix(1 0 0 1 -71.2601 289.7282)" class="st1 st6">A3</text>
+			<line id="line65" class="st0" x1="-97.8" y1="308.6" x2="-77.7" y2="308.6"/>
+			<rect id="connector59pin" x="-99" y="307.4" class="st5" width="21.3" height="2.4"/>
+			<g id="connector59terminal">
+			</g>
+			<text id="label59" transform="matrix(1 0 0 1 -71.2601 310.9882)" class="st1 st6">A4</text>
+			<line id="line70" class="st0" x1="-97.8" y1="329.8" x2="-77.7" y2="329.8"/>
+			<rect id="connector60pin" x="-99" y="328.6" class="st5" width="21.3" height="2.4"/>
+			<g id="connector60terminal">
+			</g>
+			<text id="label60" transform="matrix(1 0 0 1 -71.2601 332.2482)" class="st1 st6">A5</text>
+			<line id="line75" class="st0" x1="-97.8" y1="351.1" x2="-77.7" y2="351.1"/>
+			<rect x="-99" y="349.9" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector61terminal" x="-99" y="349.9" class="st5" width="2.4" height="2.4"/>
+			<text id="label61" transform="matrix(1 0 0 1 -71.2601 353.5072)" class="st1 st6">A6</text>
+			<rect id="connector64pin" x="-99" y="413.7" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector64terminal" x="-99" y="413.7" class="st5" width="2.4" height="2.4"/>
+			<rect id="connector65pin" x="-99" y="434.9" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector65terminal" x="-99" y="434.9" class="st5" width="2.4" height="2.4"/>
+			<rect id="connector67pin" x="-99" y="477.5" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector67terminal" x="-99" y="477.5" class="st5" width="2.4" height="2.4"/>
+			<line id="line95" class="st0" x1="157.3" y1="96" x2="178.6" y2="96"/>
+			<rect id="connector35pin" x="158.5" y="94.8" class="st5" width="21.3" height="2.4"/>
+			<g id="connector35terminal">
+			</g>
+			<text id="label35" transform="matrix(1 0 0 1 124.2055 98.3898)" class="st1 st6">D13/RX</text>
+			<line id="line100" class="st0" x1="157.3" y1="117.2" x2="178.6" y2="117.2"/>
+			<rect id="connector34pin" x="158.5" y="116" class="st5" width="21.3" height="2.4"/>
+			<g id="connector34terminal">
+			</g>
+			<text id="label34" transform="matrix(1 0 0 1 125.0904 119.6495)" class="st1 st6">D14/TX</text>
+			<line id="line105" class="st0" x1="157.3" y1="138.5" x2="178.6" y2="138.5"/>
+			<rect id="connector33pin" x="158.5" y="137.3" class="st5" width="21.3" height="2.4"/>
+			<g id="connector33terminal">
+			</g>
+			<text id="label33" transform="matrix(1 0 0 1 119.7848 140.9092)" class="st1 st6">D12/SCL</text>
+			<line id="line110" class="st0" x1="157.3" y1="181" x2="178.6" y2="181"/>
+			<rect id="connector32pin" x="158.5" y="179.8" class="st5" width="21.3" height="2.4"/>
+			<g id="connector32terminal">
+			</g>
+			<text id="label32" transform="matrix(1 0 0 1 119.4937 183.4292)" class="st1 st6">D11/SDA</text>
+			<line id="line115" class="st0" x1="157.3" y1="202.3" x2="178.6" y2="202.3"/>
+			<rect id="connector31pin" x="158.5" y="201.1" class="st5" width="21.3" height="2.4"/>
+			<g id="connector31terminal">
+			</g>
+			<text id="label31" transform="matrix(1 0 0 1 114.9332 204.6882)" class="st1 st6">D10/MISO</text>
+			<line id="line120" class="st0" x1="157.3" y1="223.5" x2="178.6" y2="223.5"/>
+			<rect id="connector30pin" x="158.5" y="222.3" class="st5" width="21.3" height="2.4"/>
+			<g id="connector30terminal">
+			</g>
+			<text id="label30" transform="matrix(1 0 0 1 123.3245 225.9492)" class="st1 st6">D9/SCK</text>
+			<line id="line125" class="st0" x1="157.3" y1="244.8" x2="178.6" y2="244.8"/>
+			<rect id="connector29pin" x="158.5" y="243.6" class="st5" width="21.3" height="2.4"/>
+			<g id="connector29terminal">
+			</g>
+			<text id="label29" transform="matrix(1 0 0 1 119.3539 247.2092)" class="st1 st6">D8/MOSI</text>
+			<line id="line130" class="st0" x1="157.3" y1="266.1" x2="178.6" y2="266.1"/>
+			<rect id="connector28pin" x="158.5" y="264.9" class="st5" width="21.3" height="2.4"/>
+			<g id="connector28terminal">
+			</g>
+			<text id="label28" transform="matrix(1 0 0 1 141.8769 268.4682)" class="st1 st6">D7</text>
+			<line id="line135" class="st0" x1="157.3" y1="287.3" x2="178.6" y2="287.3"/>
+			<rect id="connector27pin" x="158.5" y="286.1" class="st5" width="21.3" height="2.4"/>
+			<g id="connector27terminal">
+			</g>
+			<text id="label27" transform="matrix(1 0 0 1 141.8769 289.7282)" class="st1 st6">D6</text>
+			<line id="line140" class="st0" x1="157.3" y1="308.6" x2="178.6" y2="308.6"/>
+			<rect id="connector26pin" x="158.5" y="307.4" class="st5" width="21.3" height="2.4"/>
+			<g id="connector26terminal">
+			</g>
+			<text id="label26" transform="matrix(1 0 0 1 120.2427 310.9882)" class="st1 st6">D5 PWM</text>
+			<line id="line145" class="st0" x1="157.3" y1="329.8" x2="178.6" y2="329.8"/>
+			<rect id="connector25pin" x="158.5" y="328.6" class="st5" width="21.3" height="2.4"/>
+			<g id="connector25terminal">
+			</g>
+			<text id="label25" transform="matrix(1 0 0 1 120.2427 332.2482)" class="st1 st6">D4 PWM</text>
+			<line id="line150" class="st0" x1="157.3" y1="351.1" x2="178.6" y2="351.1"/>
+			<rect id="connector24pin" x="158.5" y="349.9" class="st5" width="21.3" height="2.4"/>
+			<g id="connector24terminal">
+			</g>
+			<text id="label24" transform="matrix(1 0 0 1 120.2427 353.5072)" class="st1 st6">D3 PWM</text>
+			<line id="line155" class="st0" x1="157.3" y1="393.6" x2="178.6" y2="393.6"/>
+			<rect id="connector51pin" x="158.5" y="392.4" class="st5" width="21.3" height="2.4"/>
+			<g id="connector51terminal">
+			</g>
+			<text id="label51" transform="matrix(1 0 0 1 120.2427 396.0282)" class="st1 st6">D2 PWM</text>
+			<line id="line160" class="st0" x1="157.3" y1="414.9" x2="178.6" y2="414.9"/>
+			<rect id="connector52pin" x="158.5" y="413.7" class="st5" width="21.3" height="2.4"/>
+			<g id="connector52terminal">
+			</g>
+			<text id="label52" transform="matrix(1 0 0 1 120.2427 417.2872)" class="st1 st6">D1 PWM</text>
+			<line id="line165" class="st0" x1="-12.8" y1="32.2" x2="-12.8" y2="52.3"/>
+			<rect id="connector22pin" x="-14" y="31" class="st5" width="2.4" height="21.3"/>
+			<g id="connector22terminal">
+			</g>
+			<text id="label22" transform="matrix(1 0 0 1 -23.2496 64.8701)" class="st1 st7">VCC</text>
+			<line id="line170" class="st0" x1="29.8" y1="32.2" x2="29.8" y2="52.3"/>
+			<rect id="connector61pin" x="28.6" y="31" class="st5" width="2.4" height="21.3"/>
+			<polygon id="connector37terminal" class="st5" points="28.6,31 31,31 31,31 			"/>
+			<text id="label37" transform="matrix(1 0 0 1 23.1337 64.8701)" class="st1 st6">VIN</text>
+			<line id="line175" class="st0" x1="72.3" y1="32.2" x2="72.3" y2="52.3"/>
+			<rect id="connector63pin" x="71.1" y="31" class="st5" width="2.4" height="21.3"/>
+			<polygon id="connector63terminal" class="st5" points="71.1,31 73.5,31 73.5,31 			"/>
+			<text id="label63" transform="matrix(1 0 0 1 67.4177 64.8701)" class="st1 st6">5V</text>
+			<line id="line180" class="st0" x1="40.4" y1="522.4" x2="40.4" y2="542.4"/>
+			<rect id="connector23pin" x="39.2" y="522.4" class="st5" width="2.4" height="21.3"/>
+			<g id="connector23terminal">
+			</g>
+			<text id="label23" transform="matrix(1 0 0 1 29.3492 516.6262)" class="st1 st7">GND</text>
+			<rect id="connector43pin" x="-14" y="31" class="st5" width="2.4" height="21.3"/>
+			<polygon id="connector43terminal" class="st5" points="-14,31 -11.6,31 -11.6,31 			"/>
+			<rect id="connector50pin" x="-14" y="31" class="st5" width="2.4" height="21.3"/>
+			<polygon id="connector50terminal" class="st5" points="-14,31 -11.6,31 -11.6,31 			"/>
+			<rect id="connector36pin" x="39.2" y="522.4" class="st5" width="2.4" height="21.3"/>
+			<polygon id="connector36terminal" class="st5" points="39.2,543.6 41.6,543.6 41.6,543.6 			"/>
+			<rect id="connector47pin" x="39.2" y="522.4" class="st5" width="2.4" height="21.3"/>
+			<polygon id="connector47terminal" class="st5" points="39.2,543.6 41.6,543.6 41.6,543.6 			"/>
+			<rect id="connector48pin" x="39.2" y="522.4" class="st5" width="2.4" height="21.3"/>
+			<polygon id="connector48terminal" class="st5" points="39.2,543.6 41.6,543.6 41.6,543.6 			"/>
+			<rect id="connector62pin" x="39.2" y="522.4" class="st5" width="2.4" height="21.3"/>
+			<polygon id="connector62terminal" class="st5" points="39.2,543.6 41.6,543.6 41.6,543.6 			"/>
+			<rect id="connector44pin" x="158.5" y="94.8" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector44terminal" x="177.4" y="94.8" class="st5" width="2.4" height="2.4"/>
+			<rect id="connector45pin" x="158.5" y="137.3" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector45terminal" x="177.4" y="137.3" class="st5" width="2.4" height="2.4"/>
+			<rect id="connector42pin" x="158.5" y="116" class="st5" width="21.3" height="2.4"/>
+			<rect id="connector42terminal" x="177.4" y="116" class="st5" width="2.4" height="2.4"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(630.637,225.411)">
+		<g id="schematic_3_">
+			<path class="st0" d="M-174,9c0.1-8.4-4.4-15.8-11.2-19.7l3.1,0l0.3-22.3l-13.9-0.2l-13.9-0.2L-210-11l3.1,0
+				c-6.9,3.7-11.7,10.9-11.8,19.3c-0.1,8.4,4.4,15.8,11.2,19.7l-3.1,0l-0.3,22.3l13.9,0.2l13.9,0.2l0.3-22.3l-3.1,0
+				C-178.9,24.6-174.2,17.4-174,9z"/>
+			<g transform="matrix(1, 0, 0, 1, 4.3203, 16.2754)">
+				<text id="label_6_" transform="matrix(0.9999 1.371168e-02 -1.371168e-02 0.9999 -207.6972 -1.7833)" class="st1 st8">M</text>
+			</g>
+			<line class="st0" x1="-209.7" y1="-33.3" x2="-210" y2="-11"/>
+			<line class="st0" x1="-209.7" y1="-33.3" x2="-195.8" y2="-33.1"/>
+			<line class="st0" x1="-195.8" y1="-33.1" x2="-181.8" y2="-32.9"/>
+			<line class="st0" x1="-181.8" y1="-32.9" x2="-182.1" y2="-10.6"/>
+			<line class="st0" x1="-183" y1="50.7" x2="-182.7" y2="28.4"/>
+			<line class="st0" x1="-183" y1="50.7" x2="-196.9" y2="50.5"/>
+			<line class="st0" x1="-196.9" y1="50.5" x2="-210.8" y2="50.3"/>
+			<line class="st0" x1="-210.8" y1="50.3" x2="-210.5" y2="28"/>
+			<line id="connector0pin_1_" class="st0" x1="-195.6" y1="-47" x2="-195.8" y2="-33.1"/>
+			<line id="connector1pin_1_" class="st0" x1="-197.1" y1="64.4" x2="-196.9" y2="50.5"/>
+			
+				<ellipse transform="matrix(1.371168e-02 -0.9999 0.9999 1.371168e-02 -202.3235 -187.7359)" class="st0" cx="-196.3" cy="8.7" rx="22.3" ry="22.3"/>
+			<g id="connector0terminal_1_">
+			</g>
+			<g id="connector1terminal_1_">
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<line class="st9" x1="756.9" y1="283.4" x2="762.7" y2="285.6"/>
+	<line class="st9" x1="762.7" y1="285.6" x2="751.1" y2="289.2"/>
+	<line class="st9" x1="751.1" y1="289.2" x2="762.7" y2="292.9"/>
+	<line class="st9" x1="762.7" y1="292.9" x2="751.1" y2="296.5"/>
+	<line class="st9" x1="751.1" y1="296.5" x2="762.7" y2="300.1"/>
+	<line class="st9" x1="762.7" y1="300.1" x2="751.1" y2="303.7"/>
+	<line class="st9" x1="751.1" y1="303.7" x2="762.7" y2="307.4"/>
+	<line class="st9" x1="762.7" y1="307.4" x2="751.1" y2="311"/>
+	<line class="st9" x1="751.1" y1="311" x2="756.9" y2="312.5"/>
+	<line id="connector1pin_7_" class="st9" x1="756.9" y1="327" x2="756.9" y2="312.5"/>
+	<line id="connector0pin_10_" class="st9" x1="756.9" y1="268.9" x2="756.9" y2="283.4"/>
+</g>
+<g>
+	<g>
+		<g transform="translate(79.2002,172.9)">
+			<g id="schematic_21_">
+				<line class="st9" x1="601.3" y1="-60.2" x2="569.2" y2="-60.2"/>
+				<line class="st9" x1="590.6" y1="-54.9" x2="579.9" y2="-54.9"/>
+				<line class="st9" x1="601.3" y1="-49.5" x2="569.2" y2="-49.5"/>
+				<line class="st9" x1="590.6" y1="-44.2" x2="579.9" y2="-44.2"/>
+				<line class="st9" x1="585.3" y1="-65.6" x2="585.3" y2="-61.2"/>
+				<line id="connector0pin_20_" class="st9" x1="585.3" y1="-33.5" x2="585.3" y2="-44.2"/>
+				<g id="connector0terminal_21_">
+				</g>
+				<line id="connector1pin_20_" class="st9" x1="585.3" y1="-76.2" x2="585.3" y2="-65.6"/>
+				<g id="connector1terminal_21_">
+				</g>
+			</g>
+		</g>
+	</g>
+	<rect x="654.4" y="104.6" class="st9" width="5.9" height="0.9"/>
+	<rect x="654.4" y="134.6" class="st9" width="5.9" height="0.9"/>
+	<rect x="656.9" y="102" class="st9" width="0.8" height="5.9"/>
+</g>
+<line class="st9" x1="301.1" y1="331.8" x2="474.3" y2="332.3"/>
+<line class="st9" x1="301.1" y1="310.6" x2="474.3" y2="311"/>
+<line class="st9" x1="474.3" y1="268.5" x2="474.3" y2="179.4"/>
+<line class="st9" x1="433.5" y1="289.8" x2="474.3" y2="289.8"/>
+<line class="st9" x1="435.1" y1="178.4" x2="474.3" y2="178.4"/>
+<line class="st9" x1="664.5" y1="96.7" x2="601.8" y2="96.7"/>
+<line class="st9" x1="600.7" y1="184.6" x2="600.7" y2="96.7"/>
+<line class="st9" x1="705.9" y1="268.5" x2="756.9" y2="268.5"/>
+<g>
+	<g>
+		<g transform="translate(191.548,91.3167)">
+			<g id="schematic_9_">
+				<path id="connector0pin_9_" class="st9" d="M388,394.4v-14.5"/>
+				<g id="connector0terminal_9_">
+				</g>
+				<path id="path4098_2_" class="st9" d="M374.4,394.7h27"/>
+				<path id="path4100_2_" class="st9" d="M379,400.2h18"/>
+				<path id="path4102_2_" class="st9" d="M392.5,405.7h-9"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st9" x1="579.6" y1="477.1" x2="579.5" y2="458.7"/>
+	</g>
+</g>
+<g>
+	<g>
+		<g transform="translate(191.548,91.3167)">
+			<g id="schematic_2_">
+				<path id="connector0pin_2_" class="st9" d="M473.1,75.1V60.6"/>
+				<g id="connector0terminal_2_">
+				</g>
+				<path id="path4098_1_" class="st9" d="M459.5,75.4h27"/>
+				<path id="path4100_1_" class="st9" d="M464.1,80.9h18"/>
+				<path id="path4102_1_" class="st9" d="M477.5,86.4h-9"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st9" x1="664.7" y1="157.8" x2="664.6" y2="139.4"/>
+	</g>
+</g>
+<g>
+	<g>
+		<g transform="translate(191.548,91.3167)">
+			<g id="schematic_6_">
+				<path id="connector0pin_5_" class="st9" d="M565.4,262.8v-14.5"/>
+				<g id="connector0terminal_5_">
+				</g>
+				<path id="path4098_5_" class="st9" d="M551.9,263h27"/>
+				<path id="path4100_5_" class="st9" d="M556.4,268.5h18"/>
+				<path id="path4102_5_" class="st9" d="M569.9,274h-9"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st9" x1="757" y1="345.4" x2="756.9" y2="327"/>
+	</g>
+</g>
+<g>
+	<g>
+		<g transform="translate(191.548,91.3167)">
+			<g id="schematic_4_">
+				<path id="connector0pin_3_" class="st9" d="M-28.6,480.2v-14.5"/>
+				<g id="connector0terminal_3_">
+				</g>
+				<path id="path4098_3_" class="st9" d="M-42.1,480.4h27"/>
+				<path id="path4100_3_" class="st9" d="M-37.6,486h18"/>
+				<path id="path4102_3_" class="st9" d="M-24.1,491.5h-9"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st9" x1="163.1" y1="562.8" x2="162.9" y2="544.4"/>
+	</g>
+</g>
+<line class="st9" x1="109.8" y1="34.2" x2="109.8" y2="12"/>
+<line class="st9" x1="579.5" y1="184.6" x2="579.5" y2="12"/>
+<line class="st9" x1="109.8" y1="12" x2="579.5" y2="12"/>
+<text transform="matrix(1 0 0 1 695 123.4059)" class="st10 st11">9V</text>
+<text transform="matrix(1 0 0 1 770.4495 301.9339)" class="st10 st11">10kΩ</text>
+<line class="st9" x1="301.1" y1="353.1" x2="354" y2="353.1"/>
+<line class="st9" x1="705.9" y1="311" x2="731.4" y2="311"/>
+<line class="st9" x1="731.4" y1="62.1" x2="731.4" y2="311"/>
+<line class="st9" x1="354" y1="353.1" x2="354" y2="62.1"/>
+<line class="st9" x1="731.4" y1="62.1" x2="354" y2="62.1"/>
+</svg>
