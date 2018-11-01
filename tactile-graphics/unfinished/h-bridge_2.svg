@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st2{font-family:'AppleBraille';}
+	.st3{font-size:30px;}
+	.st4{fill:#AAAAAA;}
+	.st5{font-family:'HelveticaNeue';}
+	.st6{font-size:24px;}
+</style>
+<g id="Layer_1">
+	<g>
+		<line class="st0" x1="221.2" y1="248.4" x2="221.2" y2="299.1"/>
+		<line class="st0" x1="221.2" y1="350.4" x2="221.2" y2="401.1"/>
+		<line class="st0" x1="221.2" y1="299.1" x2="251.5" y2="350.4"/>
+	</g>
+	<g>
+		<line class="st0" x1="363.5" y1="248.4" x2="363.5" y2="299.1"/>
+		<line class="st0" x1="363.5" y1="350.4" x2="363.5" y2="401.1"/>
+		<line class="st0" x1="363.5" y1="299.1" x2="393.9" y2="350.4"/>
+	</g>
+	<g>
+		<line class="st0" x1="363.5" y1="401.1" x2="363.5" y2="451.7"/>
+		<line class="st0" x1="363.5" y1="503.1" x2="363.5" y2="553.7"/>
+		<line class="st0" x1="363.5" y1="451.7" x2="393.9" y2="503.1"/>
+	</g>
+	<g>
+		<line class="st0" x1="221.2" y1="401.1" x2="221.2" y2="451.7"/>
+		<line class="st0" x1="221.2" y1="503.1" x2="221.2" y2="553.7"/>
+		<line class="st0" x1="221.2" y1="451.7" x2="251.5" y2="503.1"/>
+	</g>
+	<circle class="st0" cx="292.2" cy="401.1" r="30"/>
+	<line class="st0" x1="221.2" y1="401.1" x2="262.2" y2="401.1"/>
+	<line class="st0" x1="322.2" y1="401.1" x2="363.5" y2="401.1"/>
+	<line class="st0" x1="221.2" y1="248.4" x2="363.5" y2="248.4"/>
+	<line class="st0" x1="221.2" y1="553.7" x2="363.5" y2="553.7"/>
+	<line class="st0" x1="292.4" y1="553.7" x2="292.4" y2="583.7"/>
+	<line class="st0" x1="292.4" y1="248.4" x2="292.4" y2="221.1"/>
+	<line class="st0" x1="278.9" y1="584.1" x2="305.5" y2="584.1"/>
+	<line class="st0" x1="285.2" y1="592.7" x2="299.5" y2="592.7"/>
+	<line class="st0" x1="288.2" y1="602.7" x2="296.2" y2="602.7"/>
+	<circle cx="221.2" cy="401.1" r="4.2"/>
+	<circle cx="292.4" cy="553.7" r="4.2"/>
+	<circle cx="363.5" cy="401.1" r="4.2"/>
+	<circle cx="292.2" cy="248.4" r="4.2"/>
+</g>
+<g id="Braille">
+	<line class="st1" x1="26.4" y1="1.9" x2="4.2" y2="24.2"/>
+	<line class="st1" x1="40.8" y1="-1.6" x2="-0.8" y2="40.1"/>
+	<text transform="matrix(1 0 0 1 272.9249 410.5769)" class="st2 st3">⠠⠍</text>
+	<text transform="matrix(1 0 0 1 172.6979 337.9095)" class="st2 st3">⠼⠁</text>
+	<text transform="matrix(1 0 0 1 397.3644 337.9095)" class="st2 st3">⠼⠉</text>
+	<text transform="matrix(1 0 0 1 397.3644 483.2424)" class="st2 st3">⠼⠙</text>
+	<text transform="matrix(1 0 0 1 172.6979 483.2424)" class="st2 st3">⠼⠃</text>
+	<text transform="matrix(1 0 0 1 278.8448 205.5769)" class="st2 st3">⠐⠖⠠⠧</text>
+	<text transform="matrix(1 0 0 1 62.8448 45.5769)" class="st2 st3">⠠⠓⠤⠠⠃⠗⠊⠙⠛⠑</text>
+</g>
+<g id="plaintext">
+	<text transform="matrix(1 0 0 1 262.9249 365.5769)" class="st4 st5 st6">M</text>
+	<text transform="matrix(1 0 0 1 182.6979 307.9095)" class="st4 st5 st6">1</text>
+	<text transform="matrix(1 0 0 1 377.3644 307.9095)" class="st4 st5 st6">3</text>
+	<text transform="matrix(1 0 0 1 377.3644 453.2424)" class="st4 st5 st6">4</text>
+	<text transform="matrix(1 0 0 1 182.6979 453.2424)" class="st4 st5 st6">2</text>
+	<text transform="matrix(1 0 0 1 258.8448 175.5769)" class="st4 st5 st6">+V</text>
+	<text transform="matrix(1 0 0 1 64.8448 83.5769)" class="st4 st5 st6">H-Bridge</text>
+</g>
+</svg>
