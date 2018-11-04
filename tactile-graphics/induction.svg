@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B1B3B5;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:21px;}
+	.st3{font-family:'AppleBraille';}
+	.st4{font-size:30px;}
+	.st5{enable-background:new    ;}
+	.st6{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g id="partLabel_6_">
+	<g transform="translate(0.4,0)">
+		<g id="schematicLabel_6_">
+			<text transform="matrix(1 0 0 1 45.6489 164.7051)" class="st0 st1 st2">Induction</text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 46.001 132.5957)" class="st3 st4">⠠⠔⠙⠥⠉⠰⠝</text>
+<g>
+	<rect x="-4.1" y="9.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -4.4547 11.463)" width="31.4" height="4"/>
+</g>
+<g>
+	<rect x="-13.1" y="15.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -7.4637 16.6053)" width="58.9" height="4"/>
+</g>
+<text transform="matrix(1 0 0 1 2412 3276)" style="font-family:'MyriadPro-Regular'; font-size:12px;">⠠⠓⠤⠠⠃⠗⠊⠙⠛⠑</text>
+<text transform="matrix(1 0 0 1 371.7969 565.8203)" class="st3 st4">⠠⠙⠊⠗⠑⠉⠰⠝⠀⠷⠀</text>
+<text transform="matrix(1 0 0 1 371.7969 601.8203)" class="st3 st4">⠉⠥⠗⠗⠢⠞⠀⠋⠇⠪</text>
+<text transform="matrix(1 0 0 1 256.3032 286.834)" class="st3 st4">⠠⠙⠊⠗⠑⠉⠰⠝⠀⠷⠀</text>
+<text transform="matrix(1 0 0 1 256.3032 322.834)" class="st3 st4">⠍⠁⠛⠝⠑⠞⠊⠉⠀⠋⠊⠑⠇⠙</text>
+<line class="st6" x1="29.5" y1="348.4" x2="485.9" y2="525.9"/>
+<path class="st6" d="M301,443.6c4-14.9-4.9-27-19.7-27c-14.9,0-30.2,12.1-34.1,27s4.9,27,19.7,27C281.8,470.4,297.1,458.4,301,443.6
+	z"/>
+<path class="st6" d="M321.7,443.6c7.1-26.3-8.5-47.7-34.9-47.7c-26.3,0-53.4,21.3-60.4,47.7c-7.1,26.3,8.5,47.7,34.9,47.7
+	C287.6,491.2,314.7,469.8,321.7,443.6z"/>
+<path class="st6" d="M342.4,443.6c10.1-37.8-12.3-68.4-50.1-68.4c-37.8,0-76.6,30.6-86.7,68.4c-10.1,37.8,12.3,68.4,50.1,68.4
+	C293.5,512,332.4,481.3,342.4,443.6z"/>
+<path class="st6" d="M363.2,443.6c13.2-49.2-16-89.1-65.2-89.1c-49.2,0-99.7,39.9-113,89.1c-13.2,49.2,16,89.1,65.2,89.1
+	C299.3,532.6,349.9,492.7,363.2,443.6z"/>
+<path class="st6" d="M379.7,443.6c15.6-58.4-18.9-105.7-77.4-105.7c-58.4,0-118.4,47.3-134,105.7c-15.6,58.4,18.9,105.7,77.4,105.7
+	C304.1,549.3,364.1,501.9,379.7,443.6z"/>
+<line class="st6" x1="437.5" y1="507.1" x2="402.9" y2="506.9"/>
+<line class="st6" x1="437.5" y1="507.1" x2="414.6" y2="485.8"/>
+<text transform="matrix(1 0 0 1 456.0195 470.4824)" class="st0 st1 st2">Direction of </text>
+<text transform="matrix(1 0 0 1 456.0195 495.6824)" class="st0 st1 st2">current flow</text>
+<text transform="matrix(1 0 0 1 247.9238 243.4814)" class="st0 st1 st2">Direction of magnetic field</text>
+<line class="st6" x1="306.7" y1="337.9" x2="296.8" y2="332.1"/>
+<line class="st6" x1="306.7" y1="337.9" x2="296.8" y2="342.5"/>
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B1B3B5;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:21px;}
+	.st3{font-family:'AppleBraille';}
+	.st4{font-size:30px;}
+	.st5{enable-background:new    ;}
+	.st6{stroke:#000000;stroke-width:2;}
+	.st7{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st8{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4,4;}
+	.st9{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="partLabel_6_">
+	<g transform="translate(0.4,0)">
+		<g id="schematicLabel_6_">
+			<text transform="matrix(1 0 0 1 45.6489 164.7051)" class="st0 st1 st2">Peak Explained</text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 46.001 132.5957)" class="st3 st4">⠠⠏⠂⠅⠀⠠⠑⠭⠏⠇⠁⠔⠫</text>
+<g>
+	<rect x="-4.1" y="9.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -4.4547 11.463)" width="31.4" height="4"/>
+</g>
+<g>
+	<rect x="-13.1" y="15.3" transform="matrix(0.7072 -0.707 0.707 0.7072 -7.4634 16.6022)" width="58.9" height="4"/>
+</g>
+<text transform="matrix(1 0 0 1 2412 3276)" style="font-family:'MyriadPro-Regular'; font-size:12px;">⠠⠓⠤⠠⠃⠗⠊⠙⠛⠑</text>
+<text transform="matrix(1 0 0 1 331.2988 378.3301)" class="st3 st4">⠠⠋⠁⠇⠇⠬</text>
+<text transform="matrix(1 0 0 1 212.8047 295.834)" class="st3 st4">⠠⠏⠂⠅</text>
+<text transform="matrix(1 0 0 1 94.3105 337.8315)" class="st3 st4">⠠⠗⠊⠎⠬</text>
+<text transform="matrix(1 0 0 1 424.2939 481.8252)" class="st3 st4">⠠⠹⠗⠑⠩⠕⠇⠙</text>
+<path class="st6" d="M585.8,620.3l-13.6-5.1v10.2L585.8,620.3z"/>
+<path marker-end="url(#FilledArrow_Marker)" class="st6" d="M572.2,620.3"/>
+<path class="st7" d="M25.3,620.3c75.1-97.3,154.4-284.7,225.2-291.8c70.8-7.1,143.1,207.9,199.7,249.3c56.7,41.4,93.5-1,140.2-1.4"
+	/>
+<text transform="matrix(1 0 0 1 227.9121 316.5835)" class="st0 st1 st2">Peak</text>
+<path class="st6" d="M25.3,282.2l-5.1,13.6h10.2L25.3,282.2z"/>
+<path marker-end="url(#FilledArrow_Marker)" class="st6" d="M25.3,295.8"/>
+<line class="st8" x1="25.3" y1="499.9" x2="421.9" y2="499.9"/>
+<text transform="matrix(1 0 0 1 447.418 507.082)" class="st0 st1 st2">Thr</text>
+<text transform="matrix(1 0 0 1 480.2588 507.082)" class="st0 st1 st2">eshold</text>
+<circle cx="200.9" cy="358.2" r="4.2"/>
+<circle class="st7" cx="200.9" cy="358.2" r="4.2"/>
+<circle cx="257.6" cy="327.8" r="4.2"/>
+<circle class="st7" cx="257.6" cy="327.8" r="4.2"/>
+<text transform="matrix(1 0 0 1 347.8184 404.8438)" class="st0 st1 st2">Falling</text>
+<text transform="matrix(1 0 0 1 116.2441 363.7681)" class="st0 st1 st2">Rising</text>
+<circle cx="331.2" cy="397.2" r="4.2"/>
+<circle class="st7" cx="331.2" cy="397.2" r="4.2"/>
+<line class="st9" x1="25.3" y1="295.8" x2="25.3" y2="620.3"/>
+<line class="st9" x1="25.3" y1="620.3" x2="572.2" y2="620.3"/>
+</svg>

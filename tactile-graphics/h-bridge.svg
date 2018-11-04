@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B1B3B5;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:21px;}
+	.st3{font-family:'AppleBraille';}
+	.st4{font-size:30px;}
+	.st5{enable-background:new    ;}
+	.st6{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:#939597;}
+	.st8{font-family:'HelveticaNeue';}
+	.st9{font-size:34.0473px;}
+</style>
+<g id="partLabel_6_">
+	<g transform="translate(0.4,0)">
+		<g id="schematicLabel_6_">
+			<text transform="matrix(1 0 0 1 45.6489 164.7051)" class="st0 st1 st2">H-Bridge</text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 46.001 132.5957)" class="st3 st4">⠠⠓⠤⠠⠃⠗⠊⠙⠛⠑</text>
+<g>
+	<rect x="-4.1" y="9.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -4.455 11.4631)" width="31.4" height="4"/>
+</g>
+<g>
+	<rect x="-13.1" y="15.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -7.4639 16.6053)" width="58.9" height="4"/>
+</g>
+<text transform="matrix(1 0 0 1 2412 3276)" style="font-family:'MyriadPro-Regular'; font-size:12px;">⠠⠓⠤⠠⠃⠗⠊⠙⠛⠑</text>
+<text transform="matrix(1 0 0 1 132.5117 389.3994)" class="st3 st4">⠼⠁</text>
+<text transform="matrix(1 0 0 1 468.3467 391.3994)" class="st3 st4">⠼⠉</text>
+<text transform="matrix(1 0 0 1 466.8467 595.4873)" class="st3 st4">⠼⠙</text>
+<text transform="matrix(1 0 0 1 129.0142 594.9863)" class="st3 st4">⠼⠃</text>
+<text transform="matrix(1 0 0 1 273.0142 492.9863)" class="st3 st4">⠠⠍</text>
+<text transform="matrix(1 0 0 1 246.3027 214.8379)" class="st3 st4">⠐⠖⠠⠧</text>
+<g>
+	<line class="st6" x1="194.1" y1="264.9" x2="194.1" y2="336.7"/>
+	<line class="st6" x1="194.1" y1="409.6" x2="194.1" y2="481.4"/>
+	<line class="st6" x1="194.1" y1="336.7" x2="237.2" y2="409.6"/>
+</g>
+<g>
+	<line class="st6" x1="396.1" y1="264.9" x2="396.1" y2="336.7"/>
+	<line class="st6" x1="396.1" y1="409.6" x2="396.1" y2="481.4"/>
+	<line class="st6" x1="396.1" y1="336.7" x2="439.1" y2="409.6"/>
+</g>
+<g>
+	<line class="st6" x1="396.1" y1="481.4" x2="396.1" y2="553.3"/>
+	<line class="st6" x1="396.1" y1="626.1" x2="396.1" y2="698"/>
+	<line class="st6" x1="396.1" y1="553.3" x2="439.1" y2="626.1"/>
+</g>
+<g>
+	<line class="st6" x1="194.1" y1="481.4" x2="194.1" y2="553.3"/>
+	<line class="st6" x1="194.1" y1="626.1" x2="194.1" y2="698"/>
+	<line class="st6" x1="194.1" y1="553.3" x2="237.2" y2="626.1"/>
+</g>
+<circle class="st6" cx="294.8" cy="481.4" r="42.6"/>
+<line class="st6" x1="194.1" y1="481.4" x2="252.3" y2="481.4"/>
+<line class="st6" x1="337.4" y1="481.4" x2="396.1" y2="481.4"/>
+<line class="st6" x1="194.1" y1="264.9" x2="396.1" y2="264.9"/>
+<line class="st6" x1="194.1" y1="698" x2="396.1" y2="698"/>
+<line class="st6" x1="295.1" y1="698" x2="295.1" y2="740.6"/>
+<line class="st6" x1="295.1" y1="264.9" x2="295.1" y2="226"/>
+<line class="st6" x1="276" y1="741" x2="313.8" y2="741"/>
+<line class="st6" x1="284.9" y1="753.3" x2="305.3" y2="753.3"/>
+<line class="st6" x1="289.2" y1="767.5" x2="300.5" y2="767.5"/>
+<circle cx="194.1" cy="481.4" r="6"/>
+<circle cx="295.1" cy="698" r="6"/>
+<circle cx="396.1" cy="481.4" r="6"/>
+<circle cx="294.8" cy="264.9" r="6"/>
+<text transform="matrix(1 0 0 1 280.2661 563.4902)" class="st7 st8 st9">M</text>
+<text transform="matrix(1 0 0 1 166.4541 390.4014)" class="st7 st8 st9">1</text>
+<text transform="matrix(1 0 0 1 442.6152 390.4014)" class="st7 st8 st9">3</text>
+<text transform="matrix(1 0 0 1 442.6152 596.5762)" class="st7 st8 st9">4</text>
+<text transform="matrix(1 0 0 1 166.4541 596.5762)" class="st7 st8 st9">2</text>
+<text transform="matrix(1 0 0 1 275.478 174.6699)" class="st7 st8 st9">+V</text>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#00FF00;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:24px;}
+</style>
+<path class="st0" d="M207.1,108.9c0,44.7-36.3,81-81,81c-44.7,0-81-36.3-81-81c0-44.7,36.3-81,81-81
+	C170.8,27.9,207.1,64.1,207.1,108.9"/>
+<path class="st0" d="M130,180.8c0,2.2-1.8,4-4,4c-2.2,0-4-1.8-4-4c0-2.2,1.8-4,4-4C128.2,176.9,130,178.6,130,180.8"/>
+<path class="st0" d="M130,36.8c0,2.2-1.8,4-4,4c-2.2,0-4-1.8-4-4c0-2.2,1.8-4,4-4C128.2,32.9,130,34.6,130,36.8"/>
+<path class="st0" d="M131.2,114.4c-0.7,0.7-1.5,1.2-2.4,1.5c-0.9,0.3-1.8,0.5-2.8,0.5c-1,0-1.9-0.2-2.8-0.5
+	c-0.9-0.4-1.7-0.9-2.4-1.5l0,0v-11.2c0.7-0.6,1.5-1.1,2.4-1.5c0.9-0.4,1.9-0.6,2.8-0.6c0.9,0,1.9,0.2,2.8,0.6
+	c0.9,0.4,1.7,0.8,2.4,1.5l0,0V114.4"/>
+<text transform="matrix(1 0 0 1 241.1851 51.9629)"><tspan x="0" y="0" class="st1 st2 st3">Shaft template for DAGU DC Gearbox motor, </tspan><tspan x="0" y="28.8" class="st1 st2 st3">e.g.</tspan><tspan x="0" y="57.6" class="st1 st2 st3">https://www.sparkfun.com/products/13260</tspan><tspan x="0" y="86.4" class="st1 st2 st3">or</tspan><tspan x="0" y="115.2" class="st1 st2 st3">https://www.adafruit.com/product/3777</tspan></text>
+</svg>

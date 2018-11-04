@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#B1B3B5;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:21px;}
+	.st4{font-family:'AppleBraille';}
+	.st5{font-size:30px;}
+	.st6{font-size:24px;}
+	.st7{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st9{stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st10{font-family:'HelveticaNeue';}
+	.st11{font-size:13.2628px;}
+</style>
+<g id="Layer_1_1_">
+	<g>
+		<rect x="-5.6" y="9.1" transform="matrix(0.7072 -0.707 0.707 0.7072 -4.8954 10.4041)" width="31.4" height="4"/>
+	</g>
+	<g>
+		<rect x="-14.6" y="15.3" transform="matrix(0.7072 -0.707 0.707 0.7072 -7.9027 15.5446)" width="58.9" height="4"/>
+	</g>
+	<rect id="connector40terminal" x="170.7" y="115.7" class="st0" width="1.8" height="1.8"/>
+	<rect id="connector46terminal" x="170.7" y="115.7" class="st0" width="1.8" height="1.8"/>
+</g>
+<g id="Layer_2">
+</g>
+<g id="partLabel_6_">
+	<g transform="translate(0.4,0)">
+		<g id="schematicLabel_6_">
+			<text transform="matrix(1 0 0 1 59.6527 76.2051)" class="st1 st2 st3">Stepper Wiring</text>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 60.0049 44.0957)" class="st4 st5">⠠⠌⠑⠏⠏⠻⠀⠠⠺⠊⠗⠬</text>
+<text transform="matrix(1 0 0 1 49.0049 221.0957)" class="st4 st6">⠠⠃⠊⠏⠕⠇⠜⠀⠌⠑⠏⠏⠻⠀⠍⠕⠞⠕⠗⠎</text>
+<text transform="matrix(1 0 0 1 424.0049 192.0957)" class="st4 st6">⠠⠥⠝⠊⠏⠕⠇⠜⠀⠌⠑⠏⠏⠻⠀⠍⠕⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 477.0049 478.0957)" class="st4 st6">⠉⠕⠊⠇⠀⠼⠉</text>
+<text transform="matrix(1 0 0 1 649.0049 415.0957)" class="st4 st6">⠉⠕⠊⠇⠀⠼⠃</text>
+<text transform="matrix(1 0 0 1 490.0049 385.0957)" class="st4 st6">⠉⠕⠊⠇⠀⠼⠙</text>
+<text transform="matrix(1 0 0 1 440.0049 268.0957)" class="st4 st6">⠉⠢⠞⠻⠀⠺⠊⠗⠑</text>
+<text transform="matrix(1 0 0 1 252.0049 281.0957)" class="st4 st6">⠼⠋⠤⠺⠊⠗⠑</text>
+<text transform="matrix(1 0 0 1 40.0049 281.0957)" class="st4 st6">⠼⠙⠤⠺⠊⠗⠑</text>
+<text transform="matrix(1 0 0 1 23.0049 337.0957)" class="st4 st6">⠉⠕⠊⠇⠀</text>
+<text transform="matrix(1 0 0 1 23.0049 365.8957)" class="st4 st6">⠼⠁</text>
+<text transform="matrix(1 0 0 1 107.0049 337.0957)" class="st4 st6">⠉⠕⠊⠇⠀</text>
+<text transform="matrix(1 0 0 1 107.0049 365.8957)" class="st4 st6">⠼⠃</text>
+<text transform="matrix(1 0 0 1 253.0049 337.0957)" class="st4 st6">⠉⠕⠊⠇⠀</text>
+<text transform="matrix(1 0 0 1 253.0049 365.8957)" class="st4 st6">⠼⠁</text>
+<text transform="matrix(1 0 0 1 337.0049 337.0957)" class="st4 st6">⠉⠕⠊⠇⠀</text>
+<text transform="matrix(1 0 0 1 337.0049 365.8957)" class="st4 st6">⠼⠃</text>
+<text transform="matrix(1 0 0 1 648.0049 297.0957)" class="st4 st6">⠉⠕⠊⠇⠀⠼⠁</text>
+<g>
+	<path class="st7" d="M61.4,379.2c8.6,0,15.7,7,15.7,15.7s-7,15.7-15.7,15.7"/>
+	<path class="st7" d="M61.4,410.5c8.6,0,15.7,7,15.7,15.7c0,8.7-7,15.7-15.7,15.7"/>
+	<path class="st7" d="M61.4,441.8c8.6,0,15.7,7,15.7,15.7s-7,15.7-15.7,15.7"/>
+	<path class="st7" d="M61.4,473c8.6,0,15.7,7,15.7,15.7c0,8.6-7,15.7-15.7,15.7"/>
+</g>
+<line class="st8" x1="61.4" y1="379.2" x2="26.2" y2="379.2"/>
+<line class="st8" x1="61.4" y1="504.3" x2="26.2" y2="504.3"/>
+<g>
+	<path class="st7" d="M618.5,207.7c8.6,0,15.7,7,15.7,15.7c0,8.6-7,15.7-15.7,15.7"/>
+	<path class="st7" d="M618.5,239.1c8.6,0,15.7,7,15.7,15.7c0,8.7-7,15.7-15.7,15.7"/>
+	<path class="st7" d="M618.5,270.4c8.6,0,15.7,7,15.7,15.7c0,8.6-7,15.7-15.7,15.7"/>
+	<path class="st7" d="M618.5,301.6c8.6,0,15.7,7,15.7,15.7c0,8.7-7,15.7-15.7,15.7"/>
+</g>
+<g>
+	<path class="st7" d="M475.6,358.2c0-8.6,7-15.7,15.7-15.7c8.6,0,15.7,7,15.7,15.7"/>
+	<path class="st7" d="M506.9,358.2c0-8.6,7-15.7,15.7-15.7c8.6,0,15.7,7,15.7,15.7"/>
+	<path class="st7" d="M538.2,358.2c0-8.6,7-15.7,15.7-15.7c8.6,0,15.7,7,15.7,15.7"/>
+	<path class="st7" d="M569.5,358.2c0-8.6,7-15.7,15.7-15.7c8.6,0,15.7,7,15.7,15.7"/>
+</g>
+<g>
+	<path class="st7" d="M618.5,508.6c-8.6,0-15.7-7-15.7-15.7s7-15.7,15.7-15.7"/>
+	<path class="st7" d="M618.5,477.3c-8.6,0-15.7-7-15.7-15.7c0-8.7,7-15.7,15.7-15.7"/>
+	<path class="st7" d="M618.5,446.1c-8.6,0-15.7-7-15.7-15.7c0-8.6,7-15.7,15.7-15.7"/>
+	<path class="st7" d="M618.5,414.8c-8.6,0-15.7-7-15.7-15.7s7-15.7,15.7-15.7"/>
+</g>
+<g>
+	<path class="st7" d="M761.4,358.2c0,8.6-7,15.7-15.7,15.7c-8.6,0-15.7-7-15.7-15.7"/>
+	<path class="st7" d="M730.2,358.2c0,8.6-7,15.7-15.7,15.7c-8.6,0-15.7-7-15.7-15.7"/>
+	<path class="st7" d="M698.8,358.2c0,8.6-7,15.7-15.7,15.7c-8.6,0-15.7-7-15.7-15.7"/>
+	<path class="st7" d="M667.6,358.2c0,8.6-7,15.7-15.7,15.7c-8.6,0-15.7-7-15.7-15.7"/>
+</g>
+<g>
+	<path class="st7" d="M122.6,379.2c-8.6,0-15.7,7-15.7,15.7s7,15.7,15.7,15.7"/>
+	<path class="st7" d="M122.6,410.5c-8.6,0-15.7,7-15.7,15.7c0,8.7,7,15.7,15.7,15.7"/>
+	<path class="st7" d="M122.6,441.8c-8.6,0-15.7,7-15.7,15.7s7,15.7,15.7,15.7"/>
+	<path class="st7" d="M122.6,473c-8.6,0-15.7,7-15.7,15.7c0,8.6,7,15.7,15.7,15.7"/>
+</g>
+<line class="st8" x1="122.6" y1="379.2" x2="157.7" y2="379.2"/>
+<line class="st8" x1="122.6" y1="504.3" x2="157.7" y2="504.3"/>
+<g>
+	<path class="st7" d="M290,379.2c8.6,0,15.7,7,15.7,15.7s-7,15.7-15.7,15.7"/>
+	<path class="st7" d="M290,410.5c8.6,0,15.7,7,15.7,15.7c0,8.7-7,15.7-15.7,15.7"/>
+	<path class="st7" d="M290,441.8c8.6,0,15.7,7,15.7,15.7s-7,15.7-15.7,15.7"/>
+	<path class="st7" d="M290,473c8.6,0,15.7,7,15.7,15.7c0,8.6-7,15.7-15.7,15.7"/>
+</g>
+<line class="st8" x1="290" y1="379.2" x2="254.9" y2="379.2"/>
+<line class="st8" x1="290" y1="504.3" x2="254.9" y2="504.3"/>
+<g>
+	<path class="st7" d="M351.2,379.2c-8.6,0-15.7,7-15.7,15.7s7,15.7,15.7,15.7"/>
+	<path class="st7" d="M351.2,410.5c-8.6,0-15.7,7-15.7,15.7c0,8.7,7,15.7,15.7,15.7"/>
+	<path class="st7" d="M351.2,441.8c-8.6,0-15.7,7-15.7,15.7s7,15.7,15.7,15.7"/>
+	<path class="st7" d="M351.2,473c-8.6,0-15.7,7-15.7,15.7c0,8.6,7,15.7,15.7,15.7"/>
+</g>
+<line class="st8" x1="351.2" y1="379.2" x2="386.3" y2="379.2"/>
+<line class="st8" x1="351.2" y1="504.3" x2="386.3" y2="504.3"/>
+<line class="st8" x1="290" y1="441.8" x2="254.9" y2="441.8"/>
+<line class="st8" x1="351.2" y1="441.8" x2="386.3" y2="441.8"/>
+<line class="st8" x1="636.3" y1="358.2" x2="600.8" y2="358.2"/>
+<line class="st8" x1="618.5" y1="332.9" x2="618.5" y2="383.5"/>
+<line class="st8" x1="475.6" y1="358.2" x2="475.6" y2="377.8"/>
+<line class="st8" x1="761.4" y1="338.6" x2="761.4" y2="358.2"/>
+<line class="st8" x1="638.2" y1="508.6" x2="618.5" y2="508.6"/>
+<line class="st8" x1="618.5" y1="207.7" x2="599" y2="207.7"/>
+<line class="st8" x1="618.5" y1="358.2" x2="559.8" y2="288.9"/>
+<circle class="st9" cx="618.5" cy="358.2" r="3.7"/>
+<g>
+	<text transform="matrix(1 0 0 1 149.061 190.6831)" class="st1 st10 st11">Bipolar stepper motors</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 77.5527 257.334)" class="st1 st10 st11">4-wire</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 293.3789 256.334)" class="st1 st10 st11">6-wire</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 45.5557 313.0508)" class="st1 st10 st11">coil 1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 648.3613 270.334)" class="st1 st10 st11">coil 1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 117.8359 309.0508)" class="st1 st10 st11">coil 2</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 679.6406 389.8105)" class="st1 st10 st11">coil 2</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 540.5537 453.1035)" class="st1 st10 st11">coil 3</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 518.9814 328.6924)" class="st1 st10 st11">coil 4</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 498.4385 285.9731)" class="st1 st10 st11">center wire</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 253.9194 309.0508)" class="st1 st10 st11">coil 1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 349.5513 309.0508)" class="st1 st10 st11">coil 2</text>
+</g>
+<text transform="matrix(1 0 0 1 525.3057 163.6831)" class="st1 st10 st11">Unipolar stepper motor</text>
+</svg>
