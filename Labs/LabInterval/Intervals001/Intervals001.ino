@@ -9,12 +9,12 @@
 
 // set pin numbers for three buttons, and three LEDs.
 // the LEDs should be om PWM pins.
-const int redButtonPin = 2;
-const int greenButtonPin = 3;
-const int blueButtonPin = 4;
-const int redLed = 9;
-const int greenLed = 10;
-const int blueLed = 11;
+const int redButtonPin = 0;
+const int greenButtonPin = 1;
+const int blueButtonPin = 2;
+const int redLed = 3;
+const int greenLed = 4;
+const int blueLed = 5;
 
 // create variables for LED brightnesses:
 int redBrightness, greenBrightness, blueBrightness = 0;
@@ -23,9 +23,9 @@ int redBrightness, greenBrightness, blueBrightness = 0;
 long lastRedFade, lastGreenFade, lastBlueFade = 0;
 
 // create variables for LED fade intervals:
-long redInterval = 1000;
-long greenInterval = 3000;
-long blueInterval = 5000;
+long redInterval = 20;
+long greenInterval = 10;
+long blueInterval = 30;
 
 void setup() {
   // set the input and output pin modes:
@@ -36,6 +36,7 @@ void setup() {
   pinMode(redLed, OUTPUT);
   pinMode(greenLed, OUTPUT);
   pinMode(blueLed, OUTPUT);
+  Serial.begin(9600);
 }
 
 void loop() {
@@ -43,6 +44,7 @@ void loop() {
   int redButtonState = digitalRead(redButtonPin);
   int greenButtonState = digitalRead(greenButtonPin);
   int blueButtonState = digitalRead(blueButtonPin);
+
 
   // if any button is pressed,
   // bump the corresponding LED brightness to full:
@@ -55,7 +57,7 @@ void loop() {
   if (blueButtonState == HIGH) {
     blueBrightness = 255;
   }
-
+  
   // get the current time in millis:
   long now = millis();
 
@@ -75,7 +77,7 @@ void loop() {
   }
   if (now - lastBlueFade > blueInterval) {
     blueBrightness = max(blueBrightness--, 0);
-    analogWrite(greenLed, blueBrightness);
+    analogWrite(blueLed, blueBrightness);
     lastBlueFade = now;
   }
 }
