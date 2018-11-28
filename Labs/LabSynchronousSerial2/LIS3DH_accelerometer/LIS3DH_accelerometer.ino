@@ -2,6 +2,8 @@
   Accelerometer
 
   This example reads an LIS3DH accelerometer using I2C
+  Uses Sparkfun's LIS3DH library:
+  https://github.com/sparkfun/SparkFun_LIS3DH_Arduino_Library
 
   The circuit:
    - LIS3DH accelerometer attached to SDA and SCL
