@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="792px" height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<line fill="none" stroke="#010101" stroke-width="4" stroke-miterlimit="10" x1="27.219" y1="3.5" x2="5" y2="25.719"/>
+<line fill="none" stroke="#010101" stroke-width="4" stroke-miterlimit="10" x1="41.625" y1="0" x2="0" y2="41.625"/>
+<text transform="matrix(1 0 0 1 41.625 90)" fill="#010101" font-family="'AppleBraille'" font-size="30">⠅⠑⠽</text>
+<text transform="matrix(1 0 0 1 41.625 126)" fill="#010101" font-family="'AppleBraille'" font-size="30">⠏⠏⠼⠁⠀⠤⠀⠙⠉⠀⠏⠪⠻⠀⠏⠇⠥⠛</text>
+<text transform="matrix(1 0 0 1 41.625 162)" fill="#010101" font-family="'AppleBraille'" font-size="30">⠊⠉⠼⠁⠤⠀⠼⠛⠓⠚⠑⠀⠼⠑⠤⠧⠕⠇⠞⠀⠗⠑⠛⠥⠇⠁⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 41.625 198)" fill="#010101" font-family="'AppleBraille'" font-size="30">⠗⠼⠁⠀⠤⠀⠼⠃⠃⠚⠤⠕⠓⠍⠀⠗⠑⠎⠊⠌⠕⠗</text>
+<text transform="matrix(1 0 0 1 41.625 234)" fill="#010101" font-family="'AppleBraille'" font-size="30">⠇⠫⠼⠁⠀⠤⠀⠼⠑⠍⠍⠀⠗⠫⠀⠇⠫</text>
+<text transform="matrix(1 0 0 1 41.625 397.8994)" fill="#BBBDC0" font-family="'ArialMT'" font-size="19.0417">Key</text>
+<text transform="matrix(1 0 0 1 74.4355 397.8994)" fill="#BBBDC0" font-family="'ArialMT'" font-size="19.0417">:</text>
+<text transform="matrix(1 0 0 1 41.625 420.7471)" enable-background="new    "><tspan x="0" y="0" fill="#BBBDC0" font-family="'ArialMT'" font-size="19.0417">PP1 - DC power plug</tspan><tspan x="0" y="22.85" fill="#BBBDC0" font-family="'ArialMT'" font-size="19.0417">IC1- 7805 5-volt regulator</tspan><tspan x="0" y="45.7" fill="#BBBDC0" font-family="'ArialMT'" font-size="19.0417">R1 - 220-ohm resistor</tspan><tspan x="0" y="68.55" fill="#BBBDC0" font-family="'ArialMT'" font-size="19.0417">LED1 - 5mm red LED</tspan></text>
+<g>
+	<circle fill="#D1D2D4" stroke="#FFFFFF" stroke-miterlimit="10" cx="89.486" cy="571.44" r="9.212"/>
+	<circle fill="#D1D2D4" stroke="#FFFFFF" stroke-miterlimit="10" cx="702.479" cy="572.94" r="9.212"/>
+	<circle fill="#D1D2D4" stroke="#FFFFFF" stroke-miterlimit="10" cx="395.628" cy="574.44" r="9.213"/>
+</g>
+<rect x="41.625" y="522.5" fill="none" width="505" height="20"/>
+<text transform="matrix(1 0 0 1 8.6372 709.5059)" fill="#939597" font-family="'ArialMT'" font-size="14">PP1 - DC power plug</text>
+<text transform="matrix(1 0 0 1 8.6372 726.4863)" fill="#939597" font-family="'ArialMT'" font-size="14">IC1- 7805 5-volt regulator</text>
+<text transform="matrix(1 0 0 1 8.6372 743.4688)" fill="#939597" font-family="'ArialMT'" font-size="14">R1 - 220-ohm resistor</text>
+</svg>
