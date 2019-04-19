@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="792px" height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<text transform="matrix(1 0 0 1 41.625 236.3994)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠀</text>
+<polygon fill="none" points="41.625,504.098 546.625,522.5 546.625,542.5 41.625,524.098 "/>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="755.229" y1="0.772" x2="791.227" y2="36.771"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="738" y1="0" x2="792" y2="54"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="772.457" y1="1.543" x2="790.457" y2="19.543"/>
+</g>
+<text transform="matrix(1 0 0 1 41.625 90)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠅⠑⠽</text>
+<text transform="matrix(1 0 0 1 41.625 208.3994)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠀</text>
+<text transform="matrix(1 0 0 1 41.625 301.6748)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">Key:</text>
+<text transform="matrix(1 0 0 1 41.625 324.5225)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">MC1 - Arduino MKR Zero</text>
+<text transform="matrix(1 0 0 1 41.625 347.374)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">R1 - 10kΩ Resistor</text>
+<text transform="matrix(1 0 0 1 41.625 370.2236)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">MD1 - Motor Driver TB6612FNG</text>
+<text transform="matrix(1 0 0 1 41.625 393.0742)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">M1- Motor</text>
+<text transform="matrix(1 0 0 1 41.625 415.9238)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">B1 - 9V Battery  </text>
+<text transform="matrix(1 0 0 1 41.625 118.7998)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠍⠉⠼⠁⠀⠤⠀⠁⠗⠙⠥⠊⠝⠕⠀⠍⠅⠗⠀⠵⠻⠕</text>
+<text transform="matrix(1 0 0 1 41.625 147.5996)" font-family="'AppleBraille'" font-size="26">⠗⠼⠁⠀⠤⠀⠼⠁⠚⠨⠺ ⠗⠑⠎⠊⠎⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 41.625 176.3994)" font-family="'AppleBraille'" font-size="26">⠍⠙⠼⠁⠀⠤⠀⠍⠕⠞⠕⠗⠀⠙⠗⠊⠧⠻⠀⠞⠃⠼⠋⠋⠁⠃⠰⠋⠝⠛</text>
+<text transform="matrix(1 0 0 1 41.625 205.1992)" font-family="'AppleBraille'" font-size="26">⠍⠼⠁⠀⠤⠀⠍⠕⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 41.625 234)" font-family="'AppleBraille'" font-size="26">⠃⠼⠁⠀⠤⠀⠼⠊⠧⠀⠃⠁⠞⠞⠻⠽⠀⠀⠀</text>
+<g id="label">
+</g>
+<g id="label_1_">
+</g>
+<g id="label_4_">
+</g>
+</svg>
