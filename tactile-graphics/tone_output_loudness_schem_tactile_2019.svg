@@ -18,7 +18,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠞⠕⠝⠑⠀⠕⠥⠞⠏⠥⠞⠀⠇⠕⠥⠙⠝⠑⠎⠎</text>
 </g>
-<text transform="matrix(1 0 0 1 416.2021 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Tone Output Loudness</text>
+<text transform="matrix(1 0 0 1 416.2021 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Tone Output Loudness</text>
 <path id="connector2pin_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M377.817,194.482"/>
 <g>
 	<g id="schematic_3_">
@@ -32,7 +32,7 @@
 </g>
 <g>
 	<g id="schematicText">
-		<text id="label_1_" transform="matrix(1 0 0 1 102.8721 267.9131)" fill="#000099" font-family="'ArialMT'" font-size="12">Tone Output</text>
+		<text id="label_1_" transform="matrix(1 0 0 1 102.8721 267.9131)" fill="#532E85" font-family="'ArialMT'" font-size="12">Tone Output</text>
 	</g>
 </g>
 <g>
@@ -65,7 +65,7 @@
 	<g>
 		<g transform="translate(160.733,140.378)">
 			<g id="schematicLabel_2_">
-				<text transform="matrix(1 0 0 1 407.2455 242.3719)" fill="#000099" font-family="'ArialMT'" font-size="12">Speaker</text>
+				<text transform="matrix(1 0 0 1 407.2455 242.3719)" fill="#532E85" font-family="'ArialMT'" font-size="12">Speaker</text>
 			</g>
 		</g>
 	</g>
@@ -112,8 +112,8 @@
 <g id="partLabel_5_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_3_">
-			<text transform="matrix(1 0 0 1 170.7089 288.8931)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">R1</text>
-			<text transform="matrix(1 0 0 1 191.2079 288.8931)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
+			<text transform="matrix(1 0 0 1 170.7089 288.8931)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R1</text>
+			<text transform="matrix(1 0 0 1 191.2079 288.8931)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
 		</g>
 	</g>
 </g>

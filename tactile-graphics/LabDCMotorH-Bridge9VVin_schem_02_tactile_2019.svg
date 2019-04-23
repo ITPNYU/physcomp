@@ -8,19 +8,23 @@
 	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="738" y1="0" x2="792" y2="54"/>
 	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="772.457" y1="1.543" x2="790.457" y2="19.543"/>
 </g>
-<text transform="matrix(1 0 0 1 41.625 90)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠅⠑⠽</text>
-<text transform="matrix(1 0 0 1 41.625 208.3994)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠀</text>
-<text transform="matrix(1 0 0 1 41.625 291.2471)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">Key:</text>
-<text transform="matrix(1 0 0 1 41.625 314.0947)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">MC1 - Arduino Uno (Rev 3)</text>
-<text transform="matrix(1 0 0 1 41.625 336.9463)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">HB1 - H-Bridge L293D</text>
-<text transform="matrix(1 0 0 1 41.625 359.7959)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">S1 - Switch</text>
-<text transform="matrix(1 0 0 1 41.625 382.6465)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">R1 - 10kΩ Resistor</text>
-<text transform="matrix(1 0 0 1 41.625 405.4961)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">B1 - VCC1 9V Battery</text>
-<text transform="matrix(1 0 0 1 41.625 428.3457)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">M1- Motor</text>
-<text transform="matrix(1 0 0 1 41.625 118.7998)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠍⠉⠼⠁⠀⠤⠀⠁⠗⠙⠥⠊⠝⠕⠀⠥⠝⠕⠀⠐⠣⠗⠑⠧⠼⠉⠐⠜</text>
-<text transform="matrix(1 0 0 1 41.625 147.5996)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠓⠃⠼⠁⠀⠤⠀⠓⠤⠃⠗⠊⠙⠛⠑⠀⠇⠼⠃⠊⠉⠰⠙</text>
-<text transform="matrix(1 0 0 1 41.625 176.3994)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠎⠼⠁⠀⠤⠀⠎⠺⠊⠞⠉⠓</text>
-<text transform="matrix(1 0 0 1 41.625 205.2002)" font-family="'AppleBraille'" font-size="26">⠗⠼⠁⠀⠤⠀⠼⠁⠚⠨⠺ ⠗⠑⠎⠊⠎⠞⠕⠗</text>
-<text transform="matrix(1 0 0 1 41.625 234)" font-family="'AppleBraille'" font-size="26">⠃⠼⠁⠀⠤⠀⠧⠉⠉⠼⠁⠀⠼⠊⠧⠀⠃⠁⠞⠞⠑⠗⠽</text>
-<text transform="matrix(1 0 0 1 41.625 262.7998)" font-family="'AppleBraille'" font-size="26">⠍⠼⠁⠀⠤⠀⠍⠕⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 41.625 145.4219)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠅⠑⠽</text>
+<text transform="matrix(1 0 0 1 41.625 263.8213)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠀</text>
+<text transform="matrix(1 0 0 1 42.125 347.1689)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">Key:</text>
+<text transform="matrix(1 0 0 1 42.125 370.0166)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">MC1 - Arduino Uno (Rev 3)</text>
+<text transform="matrix(1 0 0 1 42.125 392.8682)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">HB1 - H-Bridge L293D</text>
+<text transform="matrix(1 0 0 1 42.125 415.7178)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">S1 - Switch</text>
+<text transform="matrix(1 0 0 1 42.125 438.5684)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">R1 - 10kΩ Resistor</text>
+<text transform="matrix(1 0 0 1 42.125 461.418)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">B1 - VCC1 9V Battery</text>
+<text transform="matrix(1 0 0 1 41.625 483.7676)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">M1- Motor</text>
+<text transform="matrix(1 0 0 1 41.625 174.2217)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠍⠉⠼⠁⠀⠤⠀⠁⠗⠙⠥⠊⠝⠕⠀⠥⠝⠕⠀⠐⠣⠗⠑⠧⠼⠉⠐⠜</text>
+<text transform="matrix(1 0 0 1 41.625 203.0215)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠓⠃⠼⠁⠀⠤⠀⠓⠤⠃⠗⠊⠙⠛⠑⠀⠇⠼⠃⠊⠉⠰⠙</text>
+<text transform="matrix(1 0 0 1 41.625 231.8213)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠎⠼⠁⠀⠤⠀⠎⠺⠊⠞⠉⠓</text>
+<text transform="matrix(1 0 0 1 41.625 260.6221)" font-family="'AppleBraille'" font-size="26">⠗⠼⠁⠀⠤⠀⠼⠁⠚⠨⠺ ⠗⠑⠎⠊⠎⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 41.625 289.4219)" font-family="'AppleBraille'" font-size="26">⠃⠼⠁⠀⠤⠀⠧⠉⠉⠼⠁⠀⠼⠊⠧⠀⠃⠁⠞⠞⠑⠗⠽</text>
+<text transform="matrix(1 0 0 1 41.625 318.2217)" font-family="'AppleBraille'" font-size="26">⠍⠼⠁⠀⠤⠀⠍⠕⠞⠕⠗</text>
+<g id="Braille_1_">
+	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠙⠉⠀⠍⠕⠞⠕⠗⠀⠓⠤⠃⠗⠊⠙⠛⠑⠀⠼⠊⠧⠀⠧⠊⠝</text>
+</g>
+<text transform="matrix(1 0 0 1 497.5303 75.002)" fill="#000099" font-family="'ArialMT'" font-size="21">DC Motor, H-Bridge, 9V, Vin</text>
 </svg>

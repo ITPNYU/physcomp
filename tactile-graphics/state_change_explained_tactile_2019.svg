@@ -23,7 +23,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠎⠞⠁⠞⠑⠀⠉⠓⠁⠝⠛⠑⠀⠑⠭⠏⠇⠁⠊⠝⠑⠙</text>
 </g>
-<text transform="matrix(1 0 0 1 456.5967 75)" fill="#000099" font-family="'ArialMT'" font-size="21">State Change Explained</text>
+<text transform="matrix(1 0 0 1 456.5967 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">State Change Explained</text>
 <path marker-end="url(#FilledArrow_Marker)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="
 	M699.812,544.518"/>
 <path marker-end="url(#FilledArrow_Marker)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="
@@ -31,10 +31,10 @@
 <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="294.536" cy="236.306" r="4.814"/>
 <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="294.536" cy="236.306" r="4.814"/>
 <g>
-	<text transform="matrix(1 0 0 1 449.4863 261.2881)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Falling</text>
+	<text transform="matrix(1 0 0 1 449.4863 261.2881)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Falling</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 164.5 266.6211)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Rising</text>
+	<text transform="matrix(1 0 0 1 164.5 266.6211)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Rising</text>
 </g>
 <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="427.602" cy="235.199" r="4.814"/>
 <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="427.602" cy="235.199" r="4.814"/>

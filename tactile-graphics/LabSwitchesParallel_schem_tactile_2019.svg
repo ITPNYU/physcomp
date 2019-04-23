@@ -18,7 +18,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠏⠁⠗⠁⠇⠇⠑⠇⠀⠎⠺⠊⠞⠉⠓⠑⠎</text>
 </g>
-<text transform="matrix(1 0 0 1 364.4424 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Parallel Switches</text>
+<text transform="matrix(1 0 0 1 364.4424 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Parallel Switches</text>
 <g>
 	<g transform="translate(206.562,24.4619)">
 		<g transform="matrix(-1,0,0,-1,0,0)">
@@ -111,11 +111,11 @@
 			<g id="schematic_5_">
 				<g id="connector0terminal_5_">
 					
-						<rect x="403.36" y="-464.245" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -60.8845 -867.6016)" fill="#231F20" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="0" height="0.003"/>
+						<rect x="403.359" y="-464.243" transform="matrix(2.578893e-06 1 -1 2.578893e-06 -60.8835 -867.5986)" fill="#231F20" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="0" height="0.003"/>
 				</g>
 				<g id="connector1pin_5_">
 					<path fill="#231F20" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M370.867-532.125
-						c0-0.605,0.487-1.098,1.103-1.098c0.607,0,1.099,0.491,1.099,1.098"/>
+						c0-0.605,0.487-1.098,1.103-1.098c0.607,0,1.1,0.49,1.1,1.098"/>
 				</g>
 				<g id="connector1terminal_5_">
 					<path fill="#231F20" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M371.969-532.125L371.969-532.125
@@ -162,7 +162,7 @@
 	<g>
 		<g transform="translate(209.775,10.7113)">
 			<g id="schematicLabel_17_">
-				<text transform="matrix(1 0 0 1 425.1342 105.0836)" fill="#000099" font-family="'ArialMT'" font-size="13">S1</text>
+				<text transform="matrix(1 0 0 1 425.1342 105.0836)" fill="#532E85" font-family="'ArialMT'" font-size="13">S1</text>
 			</g>
 		</g>
 	</g>
@@ -198,7 +198,7 @@
 		<g>
 			<g transform="translate(141.845,94.5703)">
 				<g id="schematicLabel_21_">
-					<text transform="matrix(1 0 0 1 262.7565 466.5234)" fill="#000099" font-family="'ArialMT'" font-size="13">LED1</text>
+					<text transform="matrix(1 0 0 1 262.7565 466.5234)" fill="#532E85" font-family="'ArialMT'" font-size="13">LED1</text>
 				</g>
 			</g>
 		</g>
@@ -208,7 +208,7 @@
 	<g>
 		<g transform="translate(0.4,0)">
 			<g id="schematicLabel_20_">
-				<text transform="matrix(1 0 0 1 67.0375 129.9814)" fill="#000099" font-family="'ArialMT'" font-size="13">PP1</text>
+				<text transform="matrix(1 0 0 1 67.0375 129.9814)" fill="#532E85" font-family="'ArialMT'" font-size="13">PP1</text>
 			</g>
 		</g>
 	</g>
@@ -223,7 +223,7 @@
 <line id="connector0pin_7_" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="324.717" y1="261.148" x2="324.717" y2="234.02"/>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 185.7895 137.5352)" fill="#000099" font-family="'ArialMT'" font-size="13">In</text>
+		<text transform="matrix(1 0 0 1 185.7895 137.5352)" fill="#532E85" font-family="'ArialMT'" font-size="13">In</text>
 	</g>
 </g>
 <g>
@@ -231,7 +231,7 @@
 		<g>
 			<g transform="rotate(270)">
 				<g>
-					<text transform="matrix(0 1 -1 0 -561.4844 188.7895)" fill="#000099" font-family="'ArialMT'" font-size="13">GND</text>
+					<text transform="matrix(0 1 -1 0 -561.4844 188.7895)" fill="#532E85" font-family="'ArialMT'" font-size="13">GND</text>
 				</g>
 			</g>
 		</g>
@@ -239,7 +239,7 @@
 </g>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 466.9541 129.9814)" fill="#000099" font-family="'ArialMT'" font-size="13">Out</text>
+		<text transform="matrix(1 0 0 1 466.9541 129.9814)" fill="#532E85" font-family="'ArialMT'" font-size="13">Out</text>
 	</g>
 </g>
 <g id="partLabel_4_">
@@ -247,7 +247,7 @@
 		<g>
 			<g transform="translate(92.289,5.73757)">
 				<g id="schematicLabel_19_">
-					<text transform="matrix(1 0 0 1 55.1128 334.6277)" fill="#000099" font-family="'ArialMT'" font-size="13">Regulator</text>
+					<text transform="matrix(1 0 0 1 55.1128 334.6277)" fill="#532E85" font-family="'ArialMT'" font-size="13">Regulator</text>
 				</g>
 			</g>
 		</g>
@@ -269,7 +269,7 @@
 	<g>
 		<g transform="translate(209.775,10.7113)">
 			<g id="schematicLabel_16_">
-				<text transform="matrix(1 0 0 1 425.1342 216.9108)" fill="#000099" font-family="'ArialMT'" font-size="13">S2</text>
+				<text transform="matrix(1 0 0 1 425.1342 216.9108)" fill="#532E85" font-family="'ArialMT'" font-size="13">S2</text>
 			</g>
 		</g>
 	</g>
@@ -281,7 +281,7 @@
 	<g>
 		<g transform="translate(209.775,10.7113)">
 			<g id="schematicLabel_18_">
-				<text transform="matrix(1 0 0 1 425.1342 353.4166)" fill="#000099" font-family="'ArialMT'" font-size="13">S3</text>
+				<text transform="matrix(1 0 0 1 425.1342 353.4166)" fill="#532E85" font-family="'ArialMT'" font-size="13">S3</text>
 			</g>
 		</g>
 	</g>
@@ -327,7 +327,7 @@
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M174.79,218.145"/>
 </g>
 <g id="connector0pin_1_">
-	<path d="M398.094,491.899c-0.778-0.134-1.304-0.653-1.304-1.31c0-0.66,0.519-1.309,1.304-1.309"/>
+	<path d="M398.094,491.899c-0.777-0.135-1.304-0.653-1.304-1.311c0-0.66,0.519-1.309,1.304-1.309"/>
 </g>
 <g id="connector1terminal_1_">
 	<path fill="none" d="M476.452,490.591L476.452,490.591L476.452,490.591z"/>
@@ -395,8 +395,8 @@
 <g id="partLabel_3_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_2_">
-			<text transform="matrix(1 0 0 1 188.5829 238.2612)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">R1</text>
-			<text transform="matrix(1 0 0 1 188.5829 256.7583)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">220Ω</text>
+			<text transform="matrix(1 0 0 1 188.5829 238.2612)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R1</text>
+			<text transform="matrix(1 0 0 1 188.5829 256.7583)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">220Ω</text>
 		</g>
 	</g>
 </g>
@@ -423,34 +423,34 @@
 </g>
 <g>
 	<polygon fill="#FFFFFF" points="425.416,490.84 455.834,475.628 455.834,490.84 455.834,506.05 	"/>
-	<path d="M422.217,490.84l35.142-17.646v35.138L422.217,490.84z M454.465,477.911l-25.711,12.771l25.711,12.777V477.911z"/>
+	<path d="M422.217,490.84l35.143-17.646v35.138L422.217,490.84z M454.465,477.911l-25.711,12.771l25.711,12.777V477.911z"/>
 </g>
 <g>
-	<path d="M439.103,448.264c0-0.354,0.185-0.544,0.359-0.726c0.363-0.368,1.1-0.368,1.641,0l10.662,10.665
-		c0.358,0.363,0.358,1.091,0,1.638c-0.362,0.37-1.097,0.37-1.641,0l-10.655-10.657C439.281,448.812,439.103,448.449,439.103,448.264
+	<path d="M439.103,448.264c0-0.354,0.185-0.544,0.358-0.726c0.363-0.368,1.101-0.368,1.642,0l10.661,10.665
+		c0.358,0.363,0.358,1.091,0,1.638c-0.361,0.37-1.097,0.37-1.641,0l-10.655-10.657C439.281,448.812,439.103,448.449,439.103,448.264
 		z"/>
 </g>
 <g>
-	<path d="M408.199,450.003c0-0.367,0.176-0.55,0.354-0.729c0.368-0.359,1.099-0.359,1.646,0l10.723,10.747
-		c0.366,0.369,0.366,1.104,0,1.646c-0.356,0.368-1.097,0.368-1.636,0l-10.729-10.753
+	<path d="M408.199,450.003c0-0.367,0.176-0.55,0.354-0.729c0.368-0.359,1.1-0.359,1.646,0l10.723,10.747
+		c0.366,0.368,0.366,1.104,0,1.646c-0.355,0.368-1.097,0.368-1.636,0l-10.729-10.753
 		C408.384,450.549,408.199,450.182,408.199,450.003z"/>
 </g>
 <g id="connector0pin_14_">
-	<path d="M393.625,490.84c0-0.768,0.605-1.521,1.52-1.521h30.423c0.77,0,1.52,0.604,1.52,1.521c0,0.762-0.604,1.521-1.52,1.521
-		h-30.423C394.234,492.208,393.625,491.602,393.625,490.84z"/>
+	<path d="M393.625,490.84c0-0.768,0.605-1.521,1.52-1.521h30.424c0.77,0,1.52,0.604,1.52,1.521c0,0.762-0.604,1.521-1.52,1.521
+		h-30.424C394.234,492.208,393.625,491.602,393.625,490.84z"/>
 </g>
 <g id="connector0terminal_7_">
 	<path fill="none" d="M448.23,490.84L448.23,490.84L448.23,490.84z"/>
 </g>
 <g id="connector1pin_1_">
-	<path d="M454.465,490.84c0-0.768,0.605-1.521,1.521-1.521h30.422c0.771,0,1.521,0.604,1.521,1.521c0,0.762-0.61,1.521-1.521,1.521
+	<path d="M454.465,490.84c0-0.768,0.605-1.521,1.521-1.521h30.422c0.771,0,1.521,0.604,1.521,1.521c0,0.762-0.609,1.521-1.521,1.521
 		h-30.422C455.072,492.208,454.465,491.602,454.465,490.84z"/>
 </g>
 <g id="connector1terminal_8_">
 	<path fill="none" d="M486.256,490.84L486.256,490.84L486.256,490.84z"/>
 </g>
 <g>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M430.774,438.847l12.773,5.479l-7.308,7.301
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M430.774,438.847l12.772,5.479l-7.308,7.301
 		L430.774,438.847z"/>
 </g>
 <g>

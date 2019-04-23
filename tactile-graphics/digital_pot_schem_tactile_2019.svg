@@ -25,117 +25,117 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠙⠊⠛⠊⠞⠁⠇⠀⠏⠕⠞</text>
 </g>
-<text transform="matrix(1 0 0 1 254.5967 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Digital Pot</text>
+<text transform="matrix(1 0 0 1 254.5967 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Digital Pot</text>
 <rect x="334.09" y="160.741" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" width="219.745" height="411.517"/>
 <line id="connector23pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="190.705" x2="618.199" y2="190.705"/>
 <g>
-	<text transform="matrix(1 0 0 1 531.0576 193.8154)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">B4</text>
+	<text transform="matrix(1 0 0 1 531.0576 193.8154)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">B4</text>
 </g>
 <line id="connector22pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="222.67" x2="618.199" y2="222.67"/>
 <g>
-	<text transform="matrix(1 0 0 1 526.7539 225.7754)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">W4</text>
+	<text transform="matrix(1 0 0 1 526.7539 225.7754)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">W4</text>
 </g>
 <line id="connector21pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="254.632" x2="618.199" y2="254.632"/>
 <g>
-	<text transform="matrix(1 0 0 1 531.0576 257.7383)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">A4</text>
+	<text transform="matrix(1 0 0 1 531.0576 257.7383)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">A4</text>
 </g>
 <line id="connector20pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="286.59" x2="618.199" y2="286.59"/>
 <g>
-	<text transform="matrix(1 0 0 1 531.0576 289.7012)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">B2</text>
+	<text transform="matrix(1 0 0 1 531.0576 289.7012)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">B2</text>
 </g>
 <line id="connector19pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="318.554" x2="618.199" y2="318.554"/>
 <g>
-	<text transform="matrix(1 0 0 1 526.7539 321.6641)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">W2</text>
+	<text transform="matrix(1 0 0 1 526.7539 321.6641)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">W2</text>
 </g>
 <line id="connector18pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="350.518" x2="618.199" y2="350.518"/>
 <g>
-	<text transform="matrix(1 0 0 1 531.0576 353.624)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">A2</text>
+	<text transform="matrix(1 0 0 1 531.0576 353.624)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">A2</text>
 </g>
 <line id="connector17pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="382.482" x2="618.199" y2="382.482"/>
 <g>
-	<text transform="matrix(1 0 0 1 531.0576 385.5869)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">A1</text>
+	<text transform="matrix(1 0 0 1 531.0576 385.5869)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">A1</text>
 </g>
 <line id="connector16pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="414.446" x2="618.199" y2="414.446"/>
 <g>
-	<text transform="matrix(1 0 0 1 526.7539 417.5498)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">W1</text>
+	<text transform="matrix(1 0 0 1 526.7539 417.5498)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">W1</text>
 </g>
 <line id="connector15pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="446.405" x2="618.199" y2="446.405"/>
 <g>
-	<text transform="matrix(1 0 0 1 531.0576 449.5156)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">B1</text>
+	<text transform="matrix(1 0 0 1 531.0576 449.5156)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">B1</text>
 </g>
 <line id="connector14pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="478.365" x2="618.199" y2="478.365"/>
 <g>
-	<text transform="matrix(1 0 0 1 531.0576 481.4775)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">A3</text>
+	<text transform="matrix(1 0 0 1 531.0576 481.4775)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">A3</text>
 </g>
 <line id="connector13pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="510.328" x2="618.199" y2="510.328"/>
 <g>
-	<text transform="matrix(1 0 0 1 526.7539 513.4355)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">W3</text>
+	<text transform="matrix(1 0 0 1 526.7539 513.4355)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">W3</text>
 </g>
 <line id="connector12pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="554.277" y1="542.294" x2="618.199" y2="542.294"/>
 <g>
-	<text transform="matrix(1 0 0 1 531.0576 545.3984)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">B3</text>
+	<text transform="matrix(1 0 0 1 531.0576 545.3984)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">B3</text>
 </g>
 <line id="connector0pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="190.705" x2="333.646" y2="190.705"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 193.8154)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">A6</text>
+	<text transform="matrix(1 0 0 1 341.8623 193.8154)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">A6</text>
 </g>
 <line id="connector1pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="222.67" x2="333.646" y2="222.67"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 225.7754)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">W6</text>
+	<text transform="matrix(1 0 0 1 341.8623 225.7754)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">W6</text>
 </g>
 <line id="connector2pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="254.632" x2="333.646" y2="254.632"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 257.7383)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">B6</text>
+	<text transform="matrix(1 0 0 1 341.8623 257.7383)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">B6</text>
 </g>
 <line id="connector3pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="286.59" x2="333.646" y2="286.59"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 289.7012)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Gnd</text>
+	<text transform="matrix(1 0 0 1 341.8623 289.7012)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Gnd</text>
 </g>
 <line id="connector4pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="318.554" x2="333.646" y2="318.554"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 321.6641)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">CS</text>
+	<text transform="matrix(1 0 0 1 341.8623 321.6641)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">CS</text>
 </g>
 <line id="connector5pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="350.518" x2="333.646" y2="350.518"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 353.624)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Vdd</text>
+	<text transform="matrix(1 0 0 1 341.8623 353.624)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Vdd</text>
 </g>
 <line id="connector6pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="382.482" x2="333.646" y2="382.482"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 385.5869)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">SDI</text>
+	<text transform="matrix(1 0 0 1 341.8623 385.5869)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">SDI</text>
 </g>
 <line id="connector7pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="414.446" x2="333.646" y2="414.446"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 417.5498)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">CLK</text>
+	<text transform="matrix(1 0 0 1 341.8623 417.5498)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">CLK</text>
 </g>
 <line id="connector8pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="446.405" x2="333.646" y2="446.405"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 449.5156)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Vss</text>
+	<text transform="matrix(1 0 0 1 341.8623 449.5156)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Vss</text>
 </g>
 <line id="connector9pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="478.365" x2="333.646" y2="478.365"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 481.4775)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">B5</text>
+	<text transform="matrix(1 0 0 1 341.8623 481.4775)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">B5</text>
 </g>
 <line id="connector10pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="510.328" x2="333.646" y2="510.328"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 513.4355)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">W5</text>
+	<text transform="matrix(1 0 0 1 341.8623 513.4355)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">W5</text>
 </g>
 <line id="connector11pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="269.723" y1="542.294" x2="333.646" y2="542.294"/>
 <g>
-	<text transform="matrix(1 0 0 1 341.8623 545.3984)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">A5</text>
+	<text transform="matrix(1 0 0 1 341.8623 545.3984)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">A5</text>
 </g>
 <g id="label">
-	<text transform="matrix(1 0 0 1 288.8643 121.5645)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">AD5206 Digital Potentiometer</text>
+	<text transform="matrix(1 0 0 1 288.8643 121.5645)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">AD5206 Digital Potentiometer</text>
 </g>
 <g id="label_1_">
 </g>
 <g id="label_2_">
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 171.2554 400.0762)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Power and </text>
-	<text transform="matrix(1 0 0 1 146.6084 413.4902)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">SPI connections</text>
+	<text transform="matrix(1 0 0 1 171.2554 400.0762)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Power and </text>
+	<text transform="matrix(1 0 0 1 146.6084 413.4902)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">SPI connections</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 650.2578 228.0859)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Pot 4</text>
+	<text transform="matrix(1 0 0 1 650.2578 228.0859)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Pot 4</text>
 </g>
 <g>
 	
@@ -193,14 +193,14 @@
 </g>
 <text transform="matrix(1 0 0 1 646 212.3594)" font-family="'AppleBraille'" font-size="26">⠏⠕⠞⠀⠼⠙</text>
 <g>
-	<text transform="matrix(1 0 0 1 136.2578 228.0859)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Pot 6</text>
+	<text transform="matrix(1 0 0 1 136.2578 228.0859)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Pot 6</text>
 </g>
 <text transform="matrix(1 0 0 1 132 212.3594)" font-family="'AppleBraille'" font-size="26">⠏⠕⠞⠀⠼⠋</text>
 <text transform="matrix(1 0 0 1 45 321.6641)" font-family="'AppleBraille'" font-size="26">⠏⠕⠺⠑⠗⠀</text>
 <text transform="matrix(1 0 0 1 45 352.8633)" font-family="'AppleBraille'" font-size="26">⠁⠝⠙⠀⠎⠏⠊⠀</text>
 <text transform="matrix(1 0 0 1 45 384.0645)" font-family="'AppleBraille'" font-size="26">⠉⠕⠝⠝⠑⠉⠞⠊⠕⠝⠎</text>
 <g>
-	<text transform="matrix(1 0 0 1 136.2578 529.1621)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Pot 5</text>
+	<text transform="matrix(1 0 0 1 136.2578 529.1621)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Pot 5</text>
 </g>
 <text transform="matrix(1 0 0 1 132 513.4355)" font-family="'AppleBraille'" font-size="26">⠏⠕⠞⠀⠼⠑</text>
 <text transform="matrix(1 0 0 1 369.4878 552.3984)" font-family="'AppleBraille'" font-size="26">⠁⠼⠑</text>
@@ -229,15 +229,15 @@
 <text transform="matrix(1 0 0 1 468.4824 196.8154)" font-family="'AppleBraille'" font-size="26">⠃⠼⠙</text>
 <text transform="matrix(1 0 0 1 288.8643 146.0732)" font-family="'AppleBraille'" font-size="26">⠁⠙⠼⠑⠃⠚⠋ ⠙⠊⠛⠊⠞⠁⠇ ⠏⠕⠞⠀</text>
 <g>
-	<text transform="matrix(1 0 0 1 650.2578 329.5273)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Pot 2</text>
+	<text transform="matrix(1 0 0 1 650.2578 329.5273)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Pot 2</text>
 </g>
 <text transform="matrix(1 0 0 1 646 313.8008)" font-family="'AppleBraille'" font-size="26">⠏⠕⠞⠀⠼⠃</text>
 <g>
-	<text transform="matrix(1 0 0 1 650.2578 425.4141)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Pot 1</text>
+	<text transform="matrix(1 0 0 1 650.2578 425.4141)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Pot 1</text>
 </g>
 <text transform="matrix(1 0 0 1 646 409.6855)" font-family="'AppleBraille'" font-size="26">⠏⠕⠞⠀⠼⠁</text>
 <g>
-	<text transform="matrix(1 0 0 1 650.2578 521.2988)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Pot 3</text>
+	<text transform="matrix(1 0 0 1 650.2578 521.2988)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Pot 3</text>
 </g>
 <text transform="matrix(1 0 0 1 646 505.5723)" font-family="'AppleBraille'" font-size="26">⠏⠕⠞⠀⠼⠉</text>
 </svg>

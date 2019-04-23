@@ -67,12 +67,12 @@
 </g>
 <g transform="matrix(1, 0, 0, 1, 22.6406, 75.9354)">
 	<g>
-		<text transform="matrix(1 0 0 1 126.2276 335.3019)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Microcontroller</text>
+		<text transform="matrix(1 0 0 1 126.2276 335.3019)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Microcontroller</text>
 	</g>
 </g>
 <g transform="matrix(1, 0, 0, 1, 22.6406, 75.9354)">
 	<g>
-		<text transform="matrix(1 0 0 1 489.3555 334.1368)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">TIP120 Darlington Transistor</text>
+		<text transform="matrix(1 0 0 1 489.3555 334.1368)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">TIP120 Darlington Transistor</text>
 	</g>
 </g>
 <path stroke="#010101" stroke-width="2" stroke-linecap="round" d="M425.807,486.427"/>
@@ -91,7 +91,7 @@
 <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M477.788,450.25"/>
 <g>
 	<polygon fill="#FFFFFF" points="475.409,435.57 492.076,465.213 476.883,465.95 461.69,466.688 	"/>
-	<path d="M475.253,432.374l19.329,34.246l-35.098,1.702L475.253,432.374z M489.73,463.959l-14.02-25.062L464.2,465.199
+	<path d="M475.253,432.374l19.329,34.246l-35.098,1.702L475.253,432.374z M489.73,463.959l-14.021-25.062l-11.51,26.303
 		L489.73,463.959z"/>
 </g>
 <g id="connector0terminal_2_">
@@ -107,7 +107,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠞⠗⠁⠝⠎⠊⠌⠕⠗⠀⠯⠀⠍⠕⠞⠕⠗</text>
 </g>
-<text transform="matrix(1 0 0 1 358.5967 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Transistor and Motor</text>
+<text transform="matrix(1 0 0 1 358.5967 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Transistor and Motor</text>
 <path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" d="M400.434,401.266"/>
 <path id="connector2pin_2_" fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" d="M399.434,510.396"/>
 <path id="connector2pin_1_" fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" d="M399.434,533.037"/>
@@ -153,10 +153,10 @@
 <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M384.718,487.205"/>
 <g>
 	<polygon fill="#FFFFFF" points="398.616,492.494 364.611,492.084 371.578,478.562 378.546,465.041 	"/>
-	<path d="M401.462,493.959l-39.322-0.409l16.104-31.229L401.462,493.959z M366.872,490.682l28.707,0.428l-17.001-23.143
+	<path d="M401.462,493.959l-39.322-0.409l16.104-31.229L401.462,493.959z M366.872,490.682l28.707,0.429l-17.001-23.144
 		L366.872,490.682z"/>
 </g>
-<path d="M397.789,493.779c-0.684-0.354-1.072-1.236-0.655-2.049c0.354-0.686,1.236-1.072,2.052-0.652"/>
+<path d="M397.789,493.779c-0.684-0.354-1.072-1.236-0.655-2.049c0.354-0.687,1.236-1.072,2.052-0.652"/>
 <g id="connector0terminal_4_">
 	<path fill="none" d="M378.337,482.045L378.337,482.045L378.337,482.045z"/>
 </g>
@@ -188,9 +188,9 @@
 </g>
 <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="425.566,536.672 401.102,579.047 
 	376.637,536.672 "/>
-<path fill="#FFFFFF" stroke="#010101" stroke-width="2" d="M443.67,257.386c0-16.257-8.896-30.366-22.238-37.728h6.14v-42.942
-	h-26.843h-26.989v42.942h6.146c-13.354,7.362-22.236,21.471-22.236,37.728c0,16.256,8.896,30.366,22.236,37.729h-6.146v42.938
-	h26.989h26.843v-42.938h-6.14C434.774,287.752,443.67,273.642,443.67,257.386z"/>
+<path fill="#FFFFFF" stroke="#010101" stroke-width="2" d="M443.67,257.386c0-16.257-8.896-30.366-22.238-37.728h6.141v-42.942
+	h-26.844H373.74v42.942h6.146c-13.354,7.362-22.235,21.471-22.235,37.728c0,16.256,8.896,30.366,22.235,37.729h-6.146v42.938h26.988
+	h26.844v-42.938h-6.141C434.774,287.752,443.67,273.642,443.67,257.386z"/>
 <line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="373.735" y1="176.716" x2="373.735" y2="219.658"/>
 <line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="373.735" y1="176.716" x2="400.575" y2="176.716"/>
 <line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="400.575" y1="176.716" x2="427.567" y2="176.716"/>
@@ -209,7 +209,7 @@
 </g>
 <g transform="matrix(1, 0, 0, 1, 22.6406, 75.9354)">
 	<g>
-		<text transform="matrix(1 0 0 1 437.0576 203.84)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Motor</text>
+		<text transform="matrix(1 0 0 1 437.0576 203.84)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Motor</text>
 	</g>
 </g>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M429.763,150.286"/>
@@ -219,6 +219,6 @@
 <line id="connector2pin_4_" fill="none" stroke="#020202" stroke-width="2" stroke-miterlimit="10" x1="400.585" y1="147.683" x2="400.585" y2="176.716"/>
 <text transform="matrix(1 0 0 1 373.0283 129.7119)" font-family="'AppleBraille'" font-size="26">⠬ ⠧</text>
 <g>
-	<text id="label" transform="matrix(1 0 0 1 433.4238 129.7119)" fill="#000099" font-family="'ArialMT'" font-size="14">+V</text>
+	<text id="label" transform="matrix(1 0 0 1 433.4238 129.7119)" fill="#532E85" font-family="'ArialMT'" font-size="14">+V</text>
 </g>
 </svg>

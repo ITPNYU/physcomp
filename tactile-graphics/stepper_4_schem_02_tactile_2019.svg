@@ -9,17 +9,21 @@
 	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="738" y1="0" x2="792" y2="54"/>
 	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="772.457" y1="1.543" x2="790.457" y2="19.543"/>
 </g>
-<text transform="matrix(1 0 0 1 41.625 90)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠅⠑⠽</text>
-<text transform="matrix(1 0 0 1 41.625 147.5996)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠍⠼⠁⠀⠤⠀⠥⠝⠊⠏⠕⠇⠁⠗⠀⠎⠞⠑⠏⠏⠑⠗⠀⠍⠕⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 41.625 162)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠅⠑⠽</text>
+<text transform="matrix(1 0 0 1 41.625 219.5996)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠍⠼⠁⠀⠤⠀⠥⠝⠊⠏⠕⠇⠁⠗⠀⠎⠞⠑⠏⠏⠑⠗⠀⠍⠕⠞⠕⠗</text>
 <text transform="matrix(1 0 0 1 540 960)" font-family="'MyriadPro-Regular'" font-size="12">⠓⠃⠼⠁⠀⠤⠀⠓⠤⠃⠗⠊⠙⠛⠑⠀⠇⠼⠃⠊⠉⠰⠙</text>
-<text transform="matrix(1 0 0 1 41.625 176.3994)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠏⠏⠼⠁⠀⠤⠀⠼⠁⠃⠧⠀⠏⠕⠺⠑⠗⠀⠎⠥⠏⠏⠇⠽⠀⠺⠊⠞⠓⠀</text>
-<text transform="matrix(1 0 0 1 41.625 205.1992)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠼⠁⠲⠃⠍⠍⠀⠃⠁⠗⠗⠑⠇⠀⠚⠁⠉⠅</text>
-<text transform="matrix(1 0 0 1 41.625 233.999)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠓⠃⠼⠁⠀⠤⠀⠓⠤⠃⠗⠊⠙⠛⠑⠀⠇⠼⠃⠊⠉⠰⠙</text>
-<text transform="matrix(1 0 0 1 74.4355 237.8994)" fill="#BBBDC0" font-family="'ArialMT'" font-size="19.0417">:</text>
-<text transform="matrix(1 0 0 1 41.625 266.8994)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">Key</text>
-<text transform="matrix(1 0 0 1 41.625 289.7471)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">MC1 - Arduino Uno (Rev 3)</text>
-<text transform="matrix(1 0 0 1 41.625 312.5986)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">M1 - Unipolar Stepper Motor</text>
-<text transform="matrix(1 0 0 1 41.625 335.4482)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">PP1 - 12V Power Supply with 1.2mm Barrel Jack</text>
-<text transform="matrix(1 0 0 1 41.625 358.2979)" fill="#000099" font-family="'ArialMT'" font-size="19.0417">HB1 - H-Bridge L293D</text>
-<text transform="matrix(1 0 0 1 41.625 118.7998)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠍⠉⠼⠁⠀⠤⠀⠁⠗⠙⠥⠊⠝⠕⠀⠥⠝⠕⠀⠐⠣⠗⠑⠧⠼⠉⠐⠜</text>
+<text transform="matrix(1 0 0 1 41.625 248.3994)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠏⠏⠼⠁⠀⠤⠀⠼⠁⠃⠧⠀⠏⠕⠺⠑⠗⠀⠎⠥⠏⠏⠇⠽⠀⠺⠊⠞⠓⠀</text>
+<text transform="matrix(1 0 0 1 41.625 277.1992)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠼⠁⠲⠃⠍⠍⠀⠃⠁⠗⠗⠑⠇⠀⠚⠁⠉⠅</text>
+<text transform="matrix(1 0 0 1 41.625 305.999)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠓⠃⠼⠁⠀⠤⠀⠓⠤⠃⠗⠊⠙⠛⠑⠀⠇⠼⠃⠊⠉⠰⠙</text>
+<text transform="matrix(1 0 0 1 74.4355 309.8994)" fill="#BBBDC0" font-family="'ArialMT'" font-size="19.0417">:</text>
+<text transform="matrix(1 0 0 1 41.625 338.8994)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">Key:</text>
+<text transform="matrix(1 0 0 1 41.625 361.7471)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">MC1 - Arduino Uno (Rev 3)</text>
+<text transform="matrix(1 0 0 1 41.625 384.5986)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">M1 - Unipolar Stepper Motor</text>
+<text transform="matrix(1 0 0 1 41.625 407.4482)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">PP1 - 12V Power Supply with 1.2mm Barrel Jack</text>
+<text transform="matrix(1 0 0 1 41.625 430.2979)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">HB1 - H-Bridge L293D</text>
+<text transform="matrix(1 0 0 1 41.625 190.7998)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠍⠉⠼⠁⠀⠤⠀⠁⠗⠙⠥⠊⠝⠕⠀⠥⠝⠕⠀⠐⠣⠗⠑⠧⠼⠉⠐⠜</text>
+<g id="Braille_1_">
+	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠎⠞⠑⠏⠏⠑⠗⠀⠼⠙</text>
+</g>
+<text transform="matrix(1 0 0 1 234.626 77.0645)" fill="#532E85" font-family="'ArialMT'" font-size="21">Stepper 4</text>
 </svg>

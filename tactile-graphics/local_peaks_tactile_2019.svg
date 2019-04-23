@@ -22,7 +22,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠇⠕⠉⠁⠇⠀⠏⠑⠁⠅⠎</text>
 </g>
-<text transform="matrix(1 0 0 1 254.5967 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Local Peaks</text>
+<text transform="matrix(1 0 0 1 254.5967 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Local Peaks</text>
 <path marker-end="url(#FilledArrow_Marker)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="
 	M699.812,544.518"/>
 <path marker-end="url(#FilledArrow_Marker)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="
@@ -45,19 +45,18 @@
 <text transform="matrix(1 0 0 1 149.4185 330.2109)" font-family="'AppleBraille'" font-size="26">⠇⠕⠉⠁⠇⠀⠏⠑⠁⠅</text>
 <text transform="matrix(1 0 0 1 544.8984 433.3135)" font-family="'AppleBraille'" font-size="26">⠞⠓⠗⠑⠎⠓⠕⠇⠙</text>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M80.278,543.357
-	c32.23-18.265,62.589-22.565,96.7-54.798c34.111-32.231,81.66-120.07,107.981-138.604c26.322-18.533,28.743,45.396,49.962,27.399
-	c21.219-17.998,46.742-152.033,77.362-135.381c30.619,16.651,54.529,193.405,106.369,235.304
-	c51.836,41.896,136.459,10.743,204.683,16.115"/>
+	c32.23-18.266,62.589-22.565,96.7-54.799c34.111-32.23,81.66-120.069,107.981-138.604c26.322-18.533,28.743,45.396,49.962,27.398
+	s46.742-152.033,77.362-135.38c30.619,16.651,54.529,193.405,106.369,235.304c51.836,41.896,136.459,10.742,204.683,16.114"/>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="323.64" y1="343.511" x2="262.396" y2="343.511"/>
 <g>
-	<text transform="matrix(1 0 0 1 149.4185 306)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Local Peak</text>
+	<text transform="matrix(1 0 0 1 149.4185 306)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Local Peak</text>
 </g>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="463.049" y1="237.142" x2="340.562" y2="238.752"/>
 <g>
-	<text transform="matrix(1 0 0 1 305.9111 193.6191)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Highest Peak</text>
+	<text transform="matrix(1 0 0 1 305.9111 193.6191)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Highest Peak</text>
 </g>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="0.1027,5.1335" x1="80.278" y1="422.482" x2="531.545" y2="422.482"/>
 <g>
-	<text transform="matrix(1 0 0 1 544.8984 403.6514)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">Threshold</text>
+	<text transform="matrix(1 0 0 1 544.8984 403.6514)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Threshold</text>
 </g>
 </svg>

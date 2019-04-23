@@ -13,7 +13,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠁⠗⠙⠥⠊⠝⠕⠀⠚⠕⠽⠎⠞⠊⠉⠅⠀⠏⠥⠎⠓⠃⠥⠞⠞⠕⠝⠎</text>
 </g>
-<text transform="matrix(1 0 0 1 42.626 97)" fill="#000099" font-family="'ArialMT'" font-size="21">Arduino Joystick Pushbuttons</text>
+<text transform="matrix(1 0 0 1 42.626 97)" fill="#532E85" font-family="'ArialMT'" font-size="21">Arduino Joystick Pushbuttons</text>
 <g>
 	<g transform="translate(126.231,26.6186)">
 		<g id="schematic">
@@ -43,11 +43,11 @@
 <g>
 	<g transform="translate(0,64.2787)">
 		<g id="schematic_2_">
-			<text transform="matrix(1 0 0 1 245.7866 148.9645)" fill="#000099" font-family="'ArialMT'" font-size="12">3.3V</text>
-			<text transform="matrix(1 0 0 1 450.6504 372.3698)" fill="#000099" font-family="'ArialMT'" font-size="12">D2</text>
-			<text transform="matrix(1 0 0 1 568.1553 124.5729)" fill="#000099" font-family="'ArialMT'" font-size="12">VIN</text>
-			<text transform="matrix(1 0 0 1 376.1445 298.4567)" fill="#000099" font-family="'ArialMT'" font-size="12">Arduino Leonardo</text>
-			<text transform="matrix(1 0 0 1 418.5166 198.2213)" fill="#000099" font-family="'ArialMT'" font-size="12">5V</text>
+			<text transform="matrix(1 0 0 1 245.7866 148.9645)" fill="#532E85" font-family="'ArialMT'" font-size="12">3.3V</text>
+			<text transform="matrix(1 0 0 1 450.6504 372.3698)" fill="#532E85" font-family="'ArialMT'" font-size="12">D2</text>
+			<text transform="matrix(1 0 0 1 568.1553 124.5729)" fill="#532E85" font-family="'ArialMT'" font-size="12">VIN</text>
+			<text transform="matrix(1 0 0 1 376.1445 298.4567)" fill="#532E85" font-family="'ArialMT'" font-size="12">Arduino Leonardo</text>
+			<text transform="matrix(1 0 0 1 418.5166 198.2213)" fill="#532E85" font-family="'ArialMT'" font-size="12">5V</text>
 		</g>
 	</g>
 </g>
@@ -60,7 +60,7 @@
 </g>
 <text transform="matrix(1 0 0 1 485.7519 538.4297)" font-family="'AppleBraille'" font-size="26">⠛⠝⠙</text>
 <text transform="matrix(1 0 0 1 476.1367 444.3691)" font-family="'AppleBraille'" font-size="26">⠙⠼⠃</text>
-<text transform="matrix(1 0 0 1 450.6503 411.1611)" fill="#000099" font-family="'ArialMT'" font-size="12">D3</text>
+<text transform="matrix(1 0 0 1 450.6503 411.1611)" fill="#532E85" font-family="'ArialMT'" font-size="12">D3</text>
 <text transform="matrix(1 0 0 1 472.1367 418.8818)" font-family="'AppleBraille'" font-size="26">⠙⠼⠉</text>
 <text transform="matrix(1 0 0 1 671.4286 241.126)" font-family="'AppleBraille'" font-size="26">⠎⠼⠁</text>
 <text transform="matrix(1 0 0 1 620.5712 488.5488)" fill="#010201" font-family="'AppleBraille'" font-size="26">⠗⠼⠁</text>
@@ -70,7 +70,7 @@
 <text transform="matrix(1 0 0 1 251.7846 198.2842)" font-family="'AppleBraille'" font-size="26">⠼⠉⠲⠉⠧</text>
 <text transform="matrix(1 0 0 1 376.1445 319.0586)" font-family="'AppleBraille'" font-size="26">⠁⠗⠙⠥⠊⠝⠕</text>
 <text transform="matrix(1 0 0 1 376.1445 347.8574)" font-family="'AppleBraille'" font-size="26">⠇⠑⠕⠝⠁⠗⠙⠕</text>
-<text transform="matrix(1 0 0 1 549.2988 531.7578)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">GND</text>
+<text transform="matrix(1 0 0 1 549.2988 531.7578)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">GND</text>
 <g>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M728.211,250.07"/>
 </g>
@@ -83,7 +83,7 @@
 </g>
 <g>
 	<polyline fill="none" stroke="#010101" stroke-width="2" stroke-miterlimit="10" points="347.85,261.935 305.852,261.935 
-		234.01,261.935 234.01,135.062 736.894,134.877 	"/>
+		234.01,261.935 234.01,135.062 736.893,134.877 	"/>
 </g>
 <g>
 	
@@ -98,15 +98,15 @@
 <g id="partLabel_1_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_1_">
-			<text transform="matrix(1 0 0 1 443.9481 227.0952)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">S1</text>
+			<text transform="matrix(1 0 0 1 443.9481 227.0952)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">S1</text>
 		</g>
 	</g>
 </g>
 <g id="partLabel_2_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_2_">
-			<text transform="matrix(1 0 0 1 426.3777 436.7329)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">R1</text>
-			<text transform="matrix(1 0 0 1 426.3777 455.23)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
+			<text transform="matrix(1 0 0 1 426.3777 436.7329)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R1</text>
+			<text transform="matrix(1 0 0 1 426.3777 455.23)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
 		</g>
 	</g>
 </g>
@@ -237,19 +237,19 @@
 	442.98,516.107 "/>
 <polyline fill="none" stroke="#010101" stroke-width="2" stroke-miterlimit="10" points="234.01,261.935 130.045,261.935 
 	130.045,383.441 "/>
-<text transform="matrix(1 0 0 1 66.6259 317.3027)" fill="#000099" font-family="'ArialMT'" font-size="12">VCC</text>
-<text transform="matrix(1 0 0 1 82.1249 443.3691)" fill="#000099" font-family="'ArialMT'" font-size="12">SEL</text>
+<text transform="matrix(1 0 0 1 66.6259 317.3027)" fill="#532E85" font-family="'ArialMT'" font-size="12">VCC</text>
+<text transform="matrix(1 0 0 1 82.1249 443.3691)" fill="#532E85" font-family="'ArialMT'" font-size="12">SEL</text>
 <text transform="matrix(1 0 0 1 65.6259 344.7656)" font-family="'AppleBraille'" font-size="26">⠧⠉⠉</text>
 <text transform="matrix(1 0 0 1 82.1249 429.7852)" font-family="'AppleBraille'" font-size="26">⠎⠑⠇</text>
-<text transform="matrix(1 0 0 1 326.8505 492.4023)" fill="#000099" font-family="'ArialMT'" font-size="12">Y OUT</text>
+<text transform="matrix(1 0 0 1 326.8505 492.4023)" fill="#532E85" font-family="'ArialMT'" font-size="12">Y OUT</text>
 <text transform="matrix(1 0 0 1 233.6015 500.4258)" font-family="'AppleBraille'" font-size="26">⠽⠀⠕⠥⠞</text>
-<text transform="matrix(1 0 0 1 286.5136 556.8486)" fill="#000099" font-family="'ArialMT'" font-size="12">Thumb Joystick</text>
+<text transform="matrix(1 0 0 1 286.5136 556.8486)" fill="#532E85" font-family="'ArialMT'" font-size="12">Thumb Joystick</text>
 <text transform="matrix(1 0 0 1 37.1088 566.1641)" font-family="'AppleBraille'" font-size="26">⠞⠓⠥⠍⠃⠀⠚⠕⠽⠎⠞⠊⠉⠅</text>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="0.1027,5.1335" x1="196.385" y1="435.648" x2="245.787" y2="363.418"/>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="0.1027,5.1335" x1="226.818" y1="491.701" x2="193.18" y2="459.986"/>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="0.1027,5.1335" x1="120.576" y1="369.273" x2="98.222" y2="341.295"/>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="0.1027,5.1335" x1="146.603" y1="435.648" x2="154.103" y2="536.758"/>
-<text transform="matrix(1 0 0 1 237.5698 332.2969)" fill="#000099" font-family="'ArialMT'" font-size="12">X OUT</text>
+<text transform="matrix(1 0 0 1 237.5698 332.2969)" fill="#532E85" font-family="'ArialMT'" font-size="12">X OUT</text>
 <text transform="matrix(1 0 0 1 237.5698 356.2344)" font-family="'AppleBraille'" font-size="26">⠭⠀⠕⠥⠞</text>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="320.521" y1="443.369" x2="187.965" y2="443.369"/>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="320.521" y1="456.377" x2="187.965" y2="456.377"/>

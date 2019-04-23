@@ -21,7 +21,7 @@
 	<g id="plaintext_9_">
 		<g>
 			<g>
-				<text transform="matrix(1 0 0 1 180.7607 228.4941)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Microphone</text>
+				<text transform="matrix(1 0 0 1 180.7607 228.4941)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Microphone</text>
 			</g>
 		</g>
 	</g>
@@ -32,7 +32,7 @@
 <g id="plaintext_1_">
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 180.7607 353.7266)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Speaker</text>
+			<text transform="matrix(1 0 0 1 180.7607 353.7266)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Speaker</text>
 		</g>
 	</g>
 </g>
@@ -42,7 +42,7 @@
 <g id="plaintext_2_">
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 180.7607 504.9004)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Relay</text>
+			<text transform="matrix(1 0 0 1 180.7607 504.9004)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Relay</text>
 		</g>
 	</g>
 </g>
@@ -52,7 +52,7 @@
 <g id="plaintext_4_">
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 180.0171 137.166)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Connection Point</text>
+			<text transform="matrix(1 0 0 1 180.0171 137.166)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Connection Point</text>
 		</g>
 	</g>
 </g>
@@ -62,7 +62,7 @@
 <g id="plaintext_3_">
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 180.7607 655.0557)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Motor</text>
+			<text transform="matrix(1 0 0 1 180.7607 655.0557)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Motor</text>
 		</g>
 	</g>
 </g>
@@ -96,7 +96,7 @@
 	<path id="path3892" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M48.987,546.85h26.189v-11.932h0.227
 		c2.675,0,4.896-2.229,4.896-4.896c0-2.676-2.228-4.896-4.896-4.896c2.675,0,4.896-2.229,4.896-4.898
 		c0-2.676-2.228-4.896-4.896-4.896c2.675,0,4.896-2.229,4.896-4.9c0-2.674-2.228-4.896-4.896-4.896c2.675,0,4.896-2.229,4.896-4.9
-		s-2.228-4.895-4.896-4.895c2.675,0,4.896-2.23,4.896-4.896c0-2.674-2.228-4.899-4.896-4.899h-0.227v-8.476H48.987"/>
+		s-2.228-4.895-4.896-4.895c2.675,0,4.896-2.23,4.896-4.896c0-2.674-2.228-4.898-4.896-4.898h-0.227v-8.477H48.987"/>
 	<path id="path3934_3_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="6,6" d="
 		M116.237,534.256"/>
 	<path id="path3934_2_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="6,6" d="
@@ -130,9 +130,9 @@
 <g id="Braille_3_">
 	<text transform="matrix(1 0 0 1 42.6259 78.0645)" font-family="'AppleBraille'" font-size="26">⠠⠎⠉⠓⠑⠍⠁⠞⠊⠉⠀⠠⠎⠽⠍⠃⠕⠇⠎⠀⠼⠉</text>
 </g>
-<text transform="matrix(1 0 0 1 42.6259 99)" fill="#000099" font-family="'ArialMT'" font-size="21">Schematic Symbols 3</text>
-<path fill="#FFFFFF" stroke="#010101" stroke-width="2" d="M135.518,669.729c0-16.257-8.896-30.364-22.238-37.728h6.136v-42.942
-	h-26.84H65.583v42.942h6.146c-13.354,7.361-22.238,21.471-22.238,37.728c0,16.259,8.896,30.366,22.238,37.729h-6.146v42.938h26.992
+<text transform="matrix(1 0 0 1 42.6259 99)" fill="#532E85" font-family="'ArialMT'" font-size="21">Schematic Symbols 3</text>
+<path fill="#FFFFFF" stroke="#010101" stroke-width="2" d="M135.518,669.729c0-16.257-8.896-30.363-22.238-37.728h6.136v-42.942
+	h-26.84H65.583v42.942h6.146c-13.354,7.361-22.238,21.471-22.238,37.728c0,16.26,8.896,30.366,22.238,37.729h-6.146v42.938h26.992
 	h26.84v-42.938h-6.136C126.623,700.095,135.518,685.985,135.518,669.729z"/>
 <line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="65.583" y1="589.059" x2="65.583" y2="632.001"/>
 <line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" x1="65.583" y1="589.059" x2="92.423" y2="589.059"/>

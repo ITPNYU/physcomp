@@ -56,7 +56,7 @@
 	<g>
 		<g transform="translate(141.845,94.5703)">
 			<g id="schematicLabel_13_">
-				<text transform="matrix(1 0 0 1 358.6618 402.4756)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">LED1</text>
+				<text transform="matrix(1 0 0 1 358.6618 402.4756)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">LED1</text>
 			</g>
 		</g>
 	</g>
@@ -64,7 +64,7 @@
 <g id="partLabel_12_">
 	<g transform="translate(0.4,0)">
 		<g id="schematicLabel_12_">
-			<text transform="matrix(1 0 0 1 72.9023 154.1475)" fill="#000099" font-family="'ArialMT'" font-size="14.247">PP1</text>
+			<text transform="matrix(1 0 0 1 72.9023 154.1475)" fill="#532E85" font-family="'ArialMT'" font-size="14.247">PP1</text>
 		</g>
 	</g>
 </g>
@@ -75,25 +75,25 @@
 <line fill="none" stroke="#010101" stroke-width="8" stroke-linecap="round" x1="262.869" y1="180.942" x2="262.869" y2="275.121"/>
 <line id="connector0pin_2_" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="325.65" y1="306.667" x2="325.65" y2="275.121"/>
 <g>
-	<text transform="matrix(1 0 0 1 221.4219 163.5938)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">IN</text>
+	<text transform="matrix(1 0 0 1 221.4219 163.5938)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">IN</text>
 </g>
 <g>
 	<g>
 		<g transform="rotate(270)">
 			<g>
-				<text transform="matrix(0 1 -1 0 -551.5781 186.9238)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">GND</text>
+				<text transform="matrix(0 1 -1 0 -551.5781 186.9238)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">GND</text>
 			</g>
 		</g>
 	</g>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 618.752 169.2412)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">OUT</text>
+	<text transform="matrix(1 0 0 1 618.752 169.2412)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">OUT</text>
 </g>
 <g id="partLabel_1_">
 	<g>
 		<g transform="translate(92.289,5.73757)">
 			<g id="schematicLabel_11_">
-				<text transform="matrix(1 0 0 1 358.4717 330.8191)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Regulator</text>
+				<text transform="matrix(1 0 0 1 358.4717 330.8191)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Regulator</text>
 			</g>
 		</g>
 	</g>
@@ -171,7 +171,7 @@
 		"/>
 </g>
 <g>
-	<path d="M503.03,379.714c0-0.366,0.176-0.55,0.354-0.729c0.368-0.356,1.104-0.356,1.646,0l10.723,10.748
+	<path d="M503.03,379.714c0-0.366,0.176-0.55,0.354-0.729c0.368-0.355,1.104-0.355,1.646,0l10.723,10.748
 		c0.366,0.369,0.366,1.104,0,1.646c-0.354,0.368-1.097,0.368-1.636,0l-10.732-10.753C503.215,380.26,503.03,379.893,503.03,379.714z
 		"/>
 </g>
@@ -183,8 +183,8 @@
 	<path fill="none" d="M543.062,420.551L543.062,420.551L543.062,420.551z"/>
 </g>
 <g id="connector1pin_3_">
-	<path d="M549.297,420.551c0-0.767,0.604-1.521,1.516-1.521h30.435c0.762,0,1.521,0.604,1.521,1.521
-		c0,0.762-0.604,1.521-1.521,1.521h-30.435C549.904,421.919,549.297,421.312,549.297,420.551z"/>
+	<path d="M549.297,420.551c0-0.767,0.604-1.521,1.516-1.521h30.436c0.762,0,1.521,0.604,1.521,1.521
+		c0,0.762-0.604,1.521-1.521,1.521h-30.436C549.904,421.919,549.297,421.312,549.297,420.551z"/>
 </g>
 <g id="connector1terminal_1_">
 	<path fill="none" d="M581.088,420.551L581.088,420.551L581.088,420.551z"/>
@@ -208,7 +208,7 @@
 	<g>
 		<g transform="translate(141.845,94.5703)">
 			<g id="schematicLabel_1_">
-				<text transform="matrix(1 0 0 1 247.3894 402.4756)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">LED2</text>
+				<text transform="matrix(1 0 0 1 247.3894 402.4756)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">LED2</text>
 			</g>
 		</g>
 	</g>
@@ -217,11 +217,11 @@
 	<text transform="matrix(1 0 0 1 372.3037 472.6309)" font-family="'AppleBraille'" font-size="26">⠇⠑⠙⠼⠃</text>
 </g>
 <g>
-	<path d="M407.604,435.761v-15.21c0-0.767,0.604-1.521,1.52-1.521c0.771,0,1.521,0.604,1.521,1.521v15.21
+	<path d="M407.604,435.761v-15.21c0-0.767,0.604-1.521,1.521-1.521c0.771,0,1.521,0.604,1.521,1.521v15.21
 		c0,0.761-0.604,1.521-1.521,1.521C408.212,437.128,407.604,436.521,407.604,435.761z"/>
 </g>
 <g>
-	<path d="M407.604,420.551v-15.212c0-0.763,0.604-1.521,1.52-1.521c0.771,0,1.521,0.604,1.521,1.521v15.212
+	<path d="M407.604,420.551v-15.212c0-0.763,0.604-1.521,1.521-1.521c0.771,0,1.521,0.604,1.521,1.521v15.212
 		c0,0.762-0.604,1.521-1.521,1.521C408.212,421.919,407.604,421.312,407.604,420.551z"/>
 </g>
 <g>
@@ -229,24 +229,24 @@
 	<path d="M405.776,420.551l35.146-17.646v35.137L405.776,420.551z M438.024,407.622l-25.712,12.774l25.712,12.771V407.622z"/>
 </g>
 <g>
-	<path d="M422.662,377.975c0-0.354,0.187-0.543,0.363-0.725c0.361-0.369,1.097-0.369,1.638,0l10.662,10.664
-		c0.359,0.363,0.359,1.091,0,1.638c-0.354,0.37-1.095,0.37-1.638,0l-10.658-10.657C422.84,378.523,422.662,378.16,422.662,377.975z"
+	<path d="M422.662,377.975c0-0.354,0.187-0.543,0.363-0.725c0.36-0.369,1.097-0.369,1.638,0l10.662,10.664
+		c0.358,0.363,0.358,1.091,0,1.638c-0.354,0.37-1.095,0.37-1.638,0l-10.658-10.657C422.84,378.523,422.662,378.16,422.662,377.975z"
 		/>
 </g>
 <g>
-	<path d="M391.758,379.714c0-0.366,0.176-0.55,0.354-0.729c0.368-0.356,1.104-0.356,1.646,0l10.723,10.748
-		c0.366,0.369,0.366,1.104,0,1.646c-0.354,0.368-1.097,0.368-1.636,0l-10.73-10.753C391.942,380.26,391.758,379.893,391.758,379.714
-		z"/>
+	<path d="M391.758,379.714c0-0.366,0.176-0.55,0.354-0.729c0.368-0.355,1.104-0.355,1.646,0l10.723,10.748
+		c0.366,0.369,0.366,1.104,0,1.646c-0.354,0.368-1.097,0.368-1.636,0l-10.729-10.753
+		C391.942,380.26,391.758,379.893,391.758,379.714z"/>
 </g>
 <g id="connector0pin_10_">
-	<path d="M377.185,420.551c0-0.767,0.604-1.521,1.518-1.521h30.422c0.771,0,1.521,0.604,1.521,1.521
+	<path d="M377.185,420.551c0-0.767,0.604-1.521,1.519-1.521h30.422c0.771,0,1.521,0.604,1.521,1.521
 		c0,0.762-0.605,1.521-1.521,1.521H378.7C377.794,421.919,377.185,421.312,377.185,420.551z"/>
 </g>
 <g id="connector0terminal_2_">
 	<path fill="none" d="M431.79,420.551L431.79,420.551L431.79,420.551z"/>
 </g>
 <g id="connector1pin_5_">
-	<path d="M438.024,420.551c0-0.767,0.604-1.521,1.516-1.521h30.433c0.764,0,1.521,0.604,1.521,1.521
+	<path d="M438.024,420.551c0-0.767,0.604-1.521,1.516-1.521h30.433c0.765,0,1.521,0.604,1.521,1.521
 		c0,0.762-0.605,1.521-1.521,1.521H439.54C438.632,421.919,438.024,421.312,438.024,420.551z"/>
 </g>
 <g id="connector1terminal_2_">
@@ -257,7 +257,7 @@
 		L414.333,368.559z"/>
 </g>
 <g>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M383.505,370.383l12.771,5.475l-7.303,7.312
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M383.505,370.383l12.771,5.475l-7.304,7.312
 		L383.505,370.383z"/>
 </g>
 <g>
@@ -271,7 +271,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠼⠃⠀⠇⠑⠙⠂⠀⠗⠑⠎⠊⠎⠞⠕⠗⠂⠀⠎⠺⠊⠞⠉⠓</text>
 </g>
-<text transform="matrix(1 0 0 1 488.457 75)" fill="#000099" font-family="'ArialMT'" font-size="21">2 LED, Resistor, Switch </text>
+<text transform="matrix(1 0 0 1 488.457 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">2 LED, Resistor, Switch </text>
 <g>
 	<g>
 		<g transform="translate(191.548,91.3167)">
@@ -296,7 +296,7 @@
 	<g>
 		<g transform="translate(209.775,10.7113)">
 			<g id="schematicLabel_17_">
-				<text transform="matrix(1 0 0 1 444.1557 246.0143)" fill="#000099" font-family="'ArialMT'" font-size="13">S1</text>
+				<text transform="matrix(1 0 0 1 444.1557 246.0143)" fill="#532E85" font-family="'ArialMT'" font-size="13">S1</text>
 			</g>
 		</g>
 	</g>
@@ -314,8 +314,8 @@
 <g id="partLabel_4_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_2_">
-			<text transform="matrix(1 0 0 1 402.0175 383.5024)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">R1</text>
-			<text transform="matrix(1 0 0 1 402.0175 401.9995)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">220Ω</text>
+			<text transform="matrix(1 0 0 1 402.0175 383.5024)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R1</text>
+			<text transform="matrix(1 0 0 1 402.0175 401.9995)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">220Ω</text>
 		</g>
 	</g>
 </g>

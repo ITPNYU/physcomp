@@ -47,7 +47,7 @@
 	</g>
 	<g id="plaintext_1_">
 		<g>
-			<text transform="matrix(1 0 0 1 470.709 191.9375)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Input to microcontroller </text>
+			<text transform="matrix(1 0 0 1 470.709 191.9375)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Input to microcontroller </text>
 		</g>
 	</g>
 	<g id="Braille">
@@ -75,7 +75,7 @@
 <g id="partLabel_4_">
 	<g transform="translate(179.719,67.2344)">
 		<g id="schematicLabel_3_">
-			<text transform="matrix(1 0 0 1 -25.3557 302.5986)" fill="#000099" font-family="'ArialMT'" font-size="15.3501">R1</text>
+			<text transform="matrix(1 0 0 1 -25.3557 302.5986)" fill="#532E85" font-family="'ArialMT'" font-size="15.3501">R1</text>
 		</g>
 	</g>
 </g>
@@ -92,7 +92,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠠⠏⠕⠞⠑⠝⠞⠊⠕⠍⠑⠞⠑⠗</text>
 </g>
-<text transform="matrix(1 0 0 1 308.3984 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Potentiometer</text>
+<text transform="matrix(1 0 0 1 308.3984 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Potentiometer</text>
 <g>
 	<g>
 		<g transform="translate(191.548,91.3167)">
@@ -120,11 +120,11 @@
 </g>
 <g transform="matrix(1, 0, 0, 1, 22.6406, 75.9354)">
 	<g>
-		<text transform="matrix(1 0 0 1 508.2276 339.2325)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Microcontroller</text>
+		<text transform="matrix(1 0 0 1 508.2276 339.2325)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Microcontroller</text>
 	</g>
 </g>
 <text transform="matrix(1 0 0 1 209.457 143.7119)" font-family="'AppleBraille'" font-size="26">⠬ ⠧</text>
 <g>
-	<text id="label" transform="matrix(1 0 0 1 269.853 143.7119)" fill="#000099" font-family="'ArialMT'" font-size="14">+V</text>
+	<text id="label" transform="matrix(1 0 0 1 269.853 143.7119)" fill="#532E85" font-family="'ArialMT'" font-size="14">+V</text>
 </g>
 </svg>

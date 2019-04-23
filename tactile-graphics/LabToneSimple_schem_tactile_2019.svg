@@ -13,7 +13,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠞⠕⠝⠑⠀⠎⠊⠍⠏⠇⠑</text>
 </g>
-<text transform="matrix(1 0 0 1 246.7222 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Tone Simple</text>
+<text transform="matrix(1 0 0 1 246.7222 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Tone Simple</text>
 <g>
 	<g transform="translate(126.231,26.6186)">
 		<g id="schematic">
@@ -25,9 +25,9 @@
 			
 				<line id="connector86pin" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="170.53" y1="109.988" x2="170.53" y2="139.504"/>
 			<line id="connector40pin" fill="none" x1="205.937" y1="103.988" x2="205.937" y2="139.504"/>
-			<rect id="connector40terminal" x="205.076" y="102.269" fill="none" width="1.726" height="1.719"/>
+			<rect id="connector40terminal" x="205.076" y="102.269" fill="none" width="1.727" height="1.719"/>
 			<line id="connector46pin" fill="none" x1="205.937" y1="103.988" x2="205.937" y2="139.504"/>
-			<rect id="connector46terminal" x="205.076" y="102.269" fill="none" width="1.726" height="1.719"/>
+			<rect id="connector46terminal" x="205.076" y="102.269" fill="none" width="1.727" height="1.719"/>
 			
 				<line id="connector87pin" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="205.937" y1="95.109" x2="205.937" y2="139.504"/>
 			
@@ -38,18 +38,18 @@
 <g>
 	<g transform="translate(0,64.2787)">
 		<g id="schematic_2_">
-			<text transform="matrix(1 0 0 1 103.1357 426.9703)" fill="#000099" font-family="'ArialMT'" font-size="12">R2</text>
+			<text transform="matrix(1 0 0 1 103.1357 426.9703)" fill="#532E85" font-family="'ArialMT'" font-size="12">R2</text>
 			<text transform="matrix(1 0 0 1 175.8286 461.9703)" fill="#BBBDC0" font-family="'ArialMT'" font-size="12"> </text>
-			<text transform="matrix(1 0 0 1 103.1357 206.4303)" fill="#000099" font-family="'ArialMT'" font-size="12">R1 </text>
-			<text transform="matrix(1 0 0 1 323.4609 209.7184)" fill="#000099" font-family="'ArialMT'" font-size="12">Arduino Uno </text>
-			<text transform="matrix(1 0 0 1 323.4609 224.1188)" fill="#000099" font-family="'ArialMT'" font-size="12">(Rev 3)</text>
-			<text transform="matrix(1 0 0 1 324.5327 150.1881)" fill="#000099" font-family="'ArialMT'" font-size="12">5V</text>
+			<text transform="matrix(1 0 0 1 103.1357 206.4303)" fill="#532E85" font-family="'ArialMT'" font-size="12">R1 </text>
+			<text transform="matrix(1 0 0 1 323.4609 209.7184)" fill="#532E85" font-family="'ArialMT'" font-size="12">Arduino Uno </text>
+			<text transform="matrix(1 0 0 1 323.4609 224.1188)" fill="#532E85" font-family="'ArialMT'" font-size="12">(Rev 3)</text>
+			<text transform="matrix(1 0 0 1 324.5327 150.1881)" fill="#532E85" font-family="'ArialMT'" font-size="12">5V</text>
 		</g>
 	</g>
 </g>
 <text transform="matrix(1 0 0 1 367.5747 530.9209)" font-family="'AppleBraille'" font-size="26">⠛⠝⠙</text>
-<text transform="matrix(1 0 0 1 404.959 341.9238)" fill="#000099" font-family="'ArialMT'" font-size="12">D8</text>
-<text transform="matrix(1 0 0 1 315.4688 433.4668)" fill="#000099" font-family="'ArialMT'" font-size="12">A0</text>
+<text transform="matrix(1 0 0 1 404.959 341.9238)" fill="#532E85" font-family="'ArialMT'" font-size="12">D8</text>
+<text transform="matrix(1 0 0 1 315.4688 433.4668)" fill="#532E85" font-family="'ArialMT'" font-size="12">A0</text>
 <text transform="matrix(1 0 0 1 375.9595 329.9258)" font-family="'AppleBraille'" font-size="26">⠙⠼⠓</text>
 <text transform="matrix(1 0 0 1 254.4643 437.498)" font-family="'AppleBraille'" font-size="26">⠁⠼⠚</text>
 <text transform="matrix(1 0 0 1 306.3999 201.4336)" font-family="'AppleBraille'" font-size="26">⠼⠑⠧</text>
@@ -59,7 +59,7 @@
 <text transform="matrix(1 0 0 1 263.4629 256.1973)" font-family="'AppleBraille'" font-size="26">⠁⠗⠙⠥⠊⠝⠕</text>
 <text transform="matrix(1 0 0 1 261.9629 284.9971)" font-family="'AppleBraille'" font-size="26">⠥⠝⠕</text>
 <text transform="matrix(1 0 0 1 263.4629 313.7969)" font-family="'AppleBraille'" font-size="26">⠗⠑⠧⠀⠼⠉</text>
-<text transform="matrix(1 0 0 1 428.123 524.249)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">GND</text>
+<text transform="matrix(1 0 0 1 428.123 524.249)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">GND</text>
 <g>
 	<path fill="none" stroke="#414141" stroke-width="2" stroke-linecap="round" d="M332.137,110.509"/>
 	<path fill="none" stroke="#414141" stroke-width="2" stroke-linecap="round" d="M331.06,114.062"/>
@@ -230,7 +230,7 @@
 <path id="connector0pin_10_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M594.72,499.157"/>
 <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="619.185,499.155 594.72,541.53 
 	570.255,499.155 "/>
-<text transform="matrix(1 0 0 1 643.1396 261.4541)" fill="#000099" font-family="'ArialMT'" font-size="12">SPKR1</text>
+<text transform="matrix(1 0 0 1 643.1396 261.4541)" fill="#532E85" font-family="'ArialMT'" font-size="12">SPKR1</text>
 <text transform="matrix(1 0 0 1 643.1396 247.4951)" font-family="'AppleBraille'" font-size="26">⠎⠏⠅⠗⠼⠁</text>
 <polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="77.581,426.468 77.581,288.175 
 	85.23,283.439 68.025,272.794 85.23,263.234 68.025,253.677 85.23,244.032 68.025,234.473 85.23,224.914 77.581,219.175 
@@ -291,12 +291,12 @@
 <g id="partLabel_2_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_2_">
-			<text transform="matrix(1 0 0 1 355.6747 413.5151)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">R3</text>
-			<text transform="matrix(1 0 0 1 376.1737 413.5151)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
+			<text transform="matrix(1 0 0 1 355.6747 413.5151)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R3</text>
+			<text transform="matrix(1 0 0 1 376.1737 413.5151)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
 		</g>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 482.7343 158.3438)" fill="#000099" font-family="'ArialMT'" font-size="12">VIN</text>
-<text transform="matrix(1 0 0 1 108.102 160.3438)" fill="#000099" font-family="'ArialMT'" font-size="12">3.3V</text>
+<text transform="matrix(1 0 0 1 482.7343 158.3438)" fill="#532E85" font-family="'ArialMT'" font-size="12">VIN</text>
+<text transform="matrix(1 0 0 1 108.102 160.3438)" fill="#532E85" font-family="'ArialMT'" font-size="12">3.3V</text>
 <text transform="matrix(1 0 0 1 483.7343 142.3848)" font-family="'AppleBraille'" font-size="26">⠧⠊⠝</text>
 </svg>

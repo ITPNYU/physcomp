@@ -16,18 +16,18 @@
 <text transform="matrix(1 0 0 1 354.9531 377.7139)" font-family="'AppleBraille'" font-size="26">⠍⠊⠉⠗⠕⠉⠕⠝⠞⠗⠕⠇⠇⠑⠗</text>
 <text transform="matrix(1 0 0 1 263.1777 450.4102)" font-family="'AppleBraille'" font-size="26">⠗⠼⠁</text>
 <g>
-	<text id="label" transform="matrix(1 0 0 1 269.853 151.7119)" fill="#000099" font-family="'ArialMT'" font-size="14">+V</text>
+	<text id="label" transform="matrix(1 0 0 1 269.853 151.7119)" fill="#532E85" font-family="'ArialMT'" font-size="14">+V</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 353.9531 399.1309)" fill="#000099" font-family="'ArialMT'" font-size="14">Input to microcontroller </text>
+	<text transform="matrix(1 0 0 1 353.9531 399.1309)" fill="#532E85" font-family="'ArialMT'" font-size="14">Input to microcontroller </text>
 </g>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 284.6382 298.4395)" fill="#000099" font-family="'ArialMT'" font-size="14">VR1</text>
+		<text transform="matrix(1 0 0 1 284.6382 298.4395)" fill="#532E85" font-family="'ArialMT'" font-size="14">VR1</text>
 	</g>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 263.1777 465.6846)" fill="#000099" font-family="'ArialMT'" font-size="14">R1</text>
+	<text transform="matrix(1 0 0 1 263.1777 465.6846)" fill="#532E85" font-family="'ArialMT'" font-size="14">R1</text>
 </g>
 <g>
 	<g transform="translate(91.6785,50.587)">
@@ -119,7 +119,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠠⠁⠝⠁⠇⠕⠛⠀⠠⠊⠝</text>
 </g>
-<text transform="matrix(1 0 0 1 260.1118 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Analog In</text>
+<text transform="matrix(1 0 0 1 260.1118 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Analog In</text>
 <g>
 	<g>
 		<g transform="translate(191.548,91.3167)">

@@ -18,7 +18,7 @@
 	<g>
 		<g transform="translate(141.845,94.5703)">
 			<g id="schematicLabel_13_">
-				<text transform="matrix(1 0 0 1 349.8943 421.4756)" fill="#000099" font-family="'ArialMT'" font-size="14">LED1</text>
+				<text transform="matrix(1 0 0 1 349.8943 421.4756)" fill="#532E85" font-family="'ArialMT'" font-size="14">LED1</text>
 			</g>
 		</g>
 	</g>
@@ -27,7 +27,7 @@
 	<g>
 		<g transform="translate(141.845,94.5703)">
 			<g id="schematicLabel_2_">
-				<text transform="matrix(1 0 0 1 132.8943 451.3369)" fill="#000099" font-family="'ArialMT'" font-size="14">GND</text>
+				<text transform="matrix(1 0 0 1 132.8943 451.3369)" fill="#532E85" font-family="'ArialMT'" font-size="14">GND</text>
 			</g>
 		</g>
 	</g>
@@ -35,7 +35,7 @@
 <g id="partLabel_12_">
 	<g transform="translate(0.4,0)">
 		<g id="schematicLabel_12_">
-			<text transform="matrix(1 0 0 1 36.226 206.4248)" fill="#000099" font-family="'ArialMT'" font-size="14">Battery</text>
+			<text transform="matrix(1 0 0 1 36.226 206.4248)" fill="#532E85" font-family="'ArialMT'" font-size="14">Battery</text>
 		</g>
 	</g>
 </g>
@@ -53,7 +53,7 @@
 <g id="partLabel_1_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_1_">
-			<text transform="matrix(1 0 0 1 370.2928 256.2515)" fill="#000099" font-family="'ArialMT'" font-size="14">S1</text>
+			<text transform="matrix(1 0 0 1 370.2928 256.2515)" fill="#532E85" font-family="'ArialMT'" font-size="14">S1</text>
 		</g>
 	</g>
 </g>
@@ -127,7 +127,7 @@
 <g id="partLabel_4_">
 	<g transform="translate(179.719,67.2344)">
 		<g id="schematicLabel_3_">
-			<text transform="matrix(1 0 0 1 452.1482 331.4844)" fill="#000099" font-family="'ArialMT'" font-size="14">R1</text>
+			<text transform="matrix(1 0 0 1 452.1482 331.4844)" fill="#532E85" font-family="'ArialMT'" font-size="14">R1</text>
 		</g>
 	</g>
 </g>
@@ -220,12 +220,12 @@
 	<path d="M483.14,434.862l35.146-17.646v35.138L483.14,434.862z M515.388,421.934l-25.711,12.774l25.711,12.777V421.934z"/>
 </g>
 <g>
-	<path d="M500.025,392.286c0-0.361,0.176-0.543,0.354-0.726c0.363-0.369,1.104-0.369,1.646,0l10.655,10.656
-		c0.359,0.363,0.359,1.1,0,1.646c-0.356,0.37-1.096,0.37-1.64,0l-10.658-10.657C500.203,392.835,500.025,392.473,500.025,392.286z"
-		/>
+	<path d="M500.025,392.286c0-0.361,0.176-0.543,0.354-0.726c0.363-0.369,1.104-0.369,1.646,0l10.654,10.655
+		c0.359,0.363,0.359,1.101,0,1.646c-0.355,0.37-1.096,0.37-1.64,0l-10.658-10.657C500.203,392.835,500.025,392.473,500.025,392.286z
+		"/>
 </g>
 <g>
-	<path d="M469.121,394.025c0-0.367,0.176-0.551,0.359-0.729c0.36-0.369,1.096-0.369,1.646,0l10.723,10.748
+	<path d="M469.121,394.025c0-0.367,0.176-0.551,0.359-0.729c0.359-0.369,1.096-0.369,1.646,0l10.723,10.748
 		c0.366,0.369,0.366,1.095,0,1.644c-0.354,0.367-1.097,0.367-1.636,0l-10.729-10.754
 		C469.306,394.571,469.121,394.204,469.121,394.025z"/>
 </g>
@@ -245,7 +245,7 @@
 		L491.696,382.869z"/>
 </g>
 <g>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M460.868,384.693l12.776,5.475l-7.31,7.303
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M460.868,384.693l12.776,5.475l-7.311,7.303
 		L460.868,384.693z"/>
 </g>
 <g>
@@ -259,7 +259,7 @@
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠠⠃⠁⠞⠞⠑⠗⠽⠂⠀⠠⠎⠺⠊⠞⠉⠓⠂</text>
 	<text transform="matrix(1 0 0 1 42.626 106.8643)" font-family="'AppleBraille'" font-size="26">⠠⠗⠑⠎⠊⠎⠞⠕⠗⠂⠀⠠⠠⠇⠑⠙</text>
 </g>
-<text transform="matrix(1 0 0 1 369.8311 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Battery, Switch, Resistor, LED</text>
+<text transform="matrix(1 0 0 1 369.8311 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Battery, Switch, Resistor, LED</text>
 <g>
 	<g>
 		<g transform="translate(191.548,91.3167)">

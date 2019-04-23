@@ -15,15 +15,15 @@
 <text transform="matrix(1 0 0 1 209.457 151.7119)" font-family="'AppleBraille'" font-size="26">⠼⠑⠧</text>
 <text transform="matrix(1 0 0 1 354.9531 359.6582)" font-family="'AppleBraille'" font-size="26">⠞⠕⠀⠙⠊⠛⠊⠞⠁⠇⠀⠊⠝⠏⠥⠞</text>
 <g>
-	<text id="label" transform="matrix(1 0 0 1 269.853 151.7119)" fill="#000099" font-family="'ArialMT'" font-size="14">5V</text>
+	<text id="label" transform="matrix(1 0 0 1 269.853 151.7119)" fill="#532E85" font-family="'ArialMT'" font-size="14">5V</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 353.9531 377.3555)" fill="#000099" font-family="'ArialMT'" font-size="14">To Digital Input</text>
+	<text transform="matrix(1 0 0 1 353.9531 377.3555)" fill="#532E85" font-family="'ArialMT'" font-size="14">To Digital Input</text>
 </g>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 260.145 280.7344)" fill="#000099" font-family="'ArialMT'" font-size="14">R1 Pull-up resistor </text>
-		<text transform="matrix(1 0 0 1 260.145 296.2314)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
+		<text transform="matrix(1 0 0 1 260.145 280.7344)" fill="#532E85" font-family="'ArialMT'" font-size="14">R1 Pull-up resistor </text>
+		<text transform="matrix(1 0 0 1 260.145 296.2314)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
 	</g>
 </g>
 <g>
@@ -98,7 +98,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠙⠊⠛⠊⠞⠁⠇⠀⠊⠝⠀⠏⠥⠇⠇⠤⠥⠏</text>
 </g>
-<text transform="matrix(1 0 0 1 375.9536 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Digital In Pull-Up</text>
+<text transform="matrix(1 0 0 1 375.9536 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Digital In Pull-Up</text>
 <g>
 	<g>
 		<g transform="translate(191.548,91.3167)">
@@ -147,7 +147,7 @@
 <g id="partLabel_1_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_1_">
-			<text transform="matrix(1 0 0 1 9.848 446.7173)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">S1</text>
+			<text transform="matrix(1 0 0 1 9.848 446.7173)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">S1</text>
 		</g>
 	</g>
 </g>

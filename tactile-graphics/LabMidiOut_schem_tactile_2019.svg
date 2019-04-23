@@ -13,7 +13,7 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠍⠊⠙⠊⠀⠕⠥⠞</text>
 </g>
-<text transform="matrix(1 0 0 1 200.6108 75)" fill="#000099" font-family="'ArialMT'" font-size="21">Midi Out</text>
+<text transform="matrix(1 0 0 1 200.6108 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Midi Out</text>
 <g>
 	<g transform="translate(126.231,26.6186)">
 		<g id="schematic">
@@ -25,9 +25,9 @@
 			
 				<line id="connector86pin" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="154.446" y1="109.988" x2="154.446" y2="139.504"/>
 			<line id="connector40pin" fill="none" x1="189.853" y1="103.988" x2="189.853" y2="139.504"/>
-			<rect id="connector40terminal" x="188.992" y="102.269" fill="none" width="1.728" height="1.719"/>
+			<rect id="connector40terminal" x="188.992" y="102.269" fill="none" width="1.729" height="1.719"/>
 			<line id="connector46pin" fill="none" x1="189.853" y1="103.988" x2="189.853" y2="139.504"/>
-			<rect id="connector46terminal" x="188.992" y="102.269" fill="none" width="1.728" height="1.719"/>
+			<rect id="connector46terminal" x="188.992" y="102.269" fill="none" width="1.729" height="1.719"/>
 			
 				<line id="connector87pin" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="189.853" y1="95.109" x2="189.853" y2="139.504"/>
 			
@@ -39,27 +39,27 @@
 	<g transform="translate(0,64.2787)">
 		<g id="schematic_2_">
 			<text transform="matrix(1 0 0 1 159.7446 461.9703)" fill="#BBBDC0" font-family="'ArialMT'" font-size="12"> </text>
-			<text transform="matrix(1 0 0 1 87.0517 460.9948)" fill="#000099" font-family="'ArialMT'" font-size="12">R1 </text>
-			<text transform="matrix(1 0 0 1 105.7256 460.9948)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
+			<text transform="matrix(1 0 0 1 87.0517 460.9948)" fill="#532E85" font-family="'ArialMT'" font-size="12">R1 </text>
+			<text transform="matrix(1 0 0 1 105.7256 460.9948)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
 			<text transform="matrix(1 0 0 1 129.7446 460.9948)" fill="#BBBDC0" font-family="'ArialMT'" font-size="12"> </text>
-			<text transform="matrix(1 0 0 1 307.377 294.1324)" fill="#000099" font-family="'ArialMT'" font-size="12">Arduino Uno </text>
-			<text transform="matrix(1 0 0 1 307.377 308.5328)" fill="#000099" font-family="'ArialMT'" font-size="12">(Rev 3)</text>
-			<text transform="matrix(1 0 0 1 308.4492 150.1881)" fill="#000099" font-family="'ArialMT'" font-size="12">5V</text>
+			<text transform="matrix(1 0 0 1 307.377 294.1324)" fill="#532E85" font-family="'ArialMT'" font-size="12">Arduino Uno </text>
+			<text transform="matrix(1 0 0 1 307.377 308.5328)" fill="#532E85" font-family="'ArialMT'" font-size="12">(Rev 3)</text>
+			<text transform="matrix(1 0 0 1 308.4492 150.1881)" fill="#532E85" font-family="'ArialMT'" font-size="12">5V</text>
 		</g>
 	</g>
 </g>
 <text transform="matrix(1 0 0 1 351.4902 530.9209)" font-family="'AppleBraille'" font-size="26">⠛⠝⠙</text>
-<text transform="matrix(1 0 0 1 299.3848 433.4668)" fill="#000099" font-family="'ArialMT'" font-size="12">A0</text>
-<text transform="matrix(1 0 0 1 308.3848 293.2637)" fill="#000099" font-family="'ArialMT'" font-size="12">D10</text>
+<text transform="matrix(1 0 0 1 299.3848 433.4668)" fill="#532E85" font-family="'ArialMT'" font-size="12">A0</text>
+<text transform="matrix(1 0 0 1 308.3848 293.2637)" fill="#532E85" font-family="'ArialMT'" font-size="12">D10</text>
 <text transform="matrix(1 0 0 1 238.3804 437.498)" font-family="'AppleBraille'" font-size="26">⠁⠼⠚</text>
 <text transform="matrix(1 0 0 1 336.6108 303.125)" font-family="'AppleBraille'" font-size="26">⠙⠼⠁⠚</text>
 <text transform="matrix(1 0 0 1 290.3164 201.4336)" font-family="'AppleBraille'" font-size="26">⠼⠑⠧</text>
-<text transform="matrix(1 0 0 1 87.0517 268.5195)" fill="#000099" font-family="'ArialMT'" font-size="12">FSR</text>
+<text transform="matrix(1 0 0 1 87.0517 268.5195)" fill="#532E85" font-family="'ArialMT'" font-size="12">FSR</text>
 <text transform="matrix(1 0 0 1 86.0517 253.875)" font-family="'AppleBraille'" font-size="26">⠋⠎⠗</text>
 <text transform="matrix(1 0 0 1 86.0517 480.0391)" font-family="'AppleBraille'" font-size="26">⠗⠼⠁</text>
 <text transform="matrix(1 0 0 1 86.0517 508.8398)" fill="#010201" font-family="'AppleBraille'" font-size="26">⠼⠁⠚⠨⠺</text>
-<text transform="matrix(1 0 0 1 529.1113 252.9727)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">R3 10Ω</text>
-<text transform="matrix(1 0 0 1 621.6064 390.2646)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">DIN1</text>
+<text transform="matrix(1 0 0 1 529.1113 252.9727)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R3 10Ω</text>
+<text transform="matrix(1 0 0 1 621.6064 390.2646)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">DIN1</text>
 <text transform="matrix(1 0 0 1 528.2744 207.7383)" font-family="'AppleBraille'" font-size="26">⠗⠼⠉</text>
 <text transform="matrix(1 0 0 1 528.2744 236.5381)" fill="#010201" font-family="'AppleBraille'" font-size="26">⠼⠃⠃⠚⠨⠺</text>
 <text transform="matrix(1 0 0 1 589.4326 369.7129)" font-family="'AppleBraille'" font-size="26">⠙⠊⠝</text>
@@ -68,7 +68,7 @@
 <text transform="matrix(1 0 0 1 247.3789 340.6113)" font-family="'AppleBraille'" font-size="26">⠁⠗⠙⠥⠊⠝⠕</text>
 <text transform="matrix(1 0 0 1 245.8789 369.4111)" font-family="'AppleBraille'" font-size="26">⠥⠝⠕</text>
 <text transform="matrix(1 0 0 1 247.3789 398.2109)" font-family="'AppleBraille'" font-size="26">⠗⠑⠧⠀⠼⠉</text>
-<text transform="matrix(1 0 0 1 412.0391 524.249)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">GND</text>
+<text transform="matrix(1 0 0 1 412.0391 524.249)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">GND</text>
 <g>
 	<path fill="none" stroke="#414141" stroke-width="2" stroke-linecap="round" d="M316.053,110.509"/>
 	<path fill="none" stroke="#414141" stroke-width="2" stroke-linecap="round" d="M314.976,114.062"/>
@@ -242,7 +242,7 @@
 <path id="connector0pin_5_" fill="none" stroke="#7B7B7B" stroke-width="2" stroke-linecap="round" d="M61.498,289.997"/>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M63.166,437.971"/>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M63.166,447.702"/>
-<text transform="matrix(1 0 0 1 441.3027 158.3438)" fill="#000099" font-family="'ArialMT'" font-size="12">VIN</text>
+<text transform="matrix(1 0 0 1 441.3027 158.3438)" fill="#532E85" font-family="'ArialMT'" font-size="12">VIN</text>
 <text transform="matrix(1 0 0 1 442.3027 142.3848)" font-family="'AppleBraille'" font-size="26">⠧⠊⠝</text>
 <g>
 	<g transform="translate(283.421,55.4048)">
@@ -283,15 +283,15 @@
 <g id="partLabel_1_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_1_">
-			<text transform="matrix(1 0 0 1 436.8348 206.0952)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">S1</text>
+			<text transform="matrix(1 0 0 1 436.8348 206.0952)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">S1</text>
 		</g>
 	</g>
 </g>
 <g id="partLabel_2_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_2_">
-			<text transform="matrix(1 0 0 1 417.7635 427.7329)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">R2</text>
-			<text transform="matrix(1 0 0 1 417.7635 446.23)" fill="#000099" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
+			<text transform="matrix(1 0 0 1 417.7635 427.7329)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R2</text>
+			<text transform="matrix(1 0 0 1 417.7635 446.23)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
 		</g>
 	</g>
 </g>
@@ -354,39 +354,39 @@
 		<g transform="matrix(0,-1,1,0,0,0)">
 			<g id="schematic_5_">
 				
-					<rect id="connector1pin" x="-325.074" y="342.938" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -666.4512 21.2303)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.927" height="1.805"/>
+					<rect id="connector1pin" x="-325.074" y="342.939" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -666.4521 21.2313)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.927" height="1.805"/>
 				<g id="connector1terminal">
 				</g>
 				
-					<rect id="connector2pin" x="-304.817" y="342.938" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -646.1938 41.4896)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.929" height="1.806"/>
+					<rect id="connector2pin" x="-304.817" y="342.939" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -646.1953 41.4901)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.929" height="1.807"/>
 				<g id="connector2terminal">
 				</g>
 				
-					<rect id="connector3pin" x="-284.545" y="342.939" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -625.9218 61.7616)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.929" height="1.805"/>
+					<rect id="connector3pin" x="-284.545" y="342.94" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -625.9228 61.7625)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.929" height="1.805"/>
 				<g id="connector3terminal">
 				</g>
 				
-					<rect id="connector4pin" x="-264.31" y="342.937" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -605.6874 81.9959)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.929" height="1.809"/>
+					<rect id="connector4pin" x="-264.311" y="342.937" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -605.6879 81.9964)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.93" height="1.809"/>
 				<g id="connector4terminal">
 				</g>
 				
-					<rect id="connector5pin" x="-244.036" y="342.937" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -585.4119 102.2674)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.927" height="1.805"/>
+					<rect id="connector5pin" x="-244.036" y="342.938" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -585.4129 102.2684)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="4.927" height="1.805"/>
 				<g id="connector5terminal">
 				</g>
 				
-					<rect id="connector6pin" x="-286.712" y="496.773" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -779.7275 215.6262)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="9.321" height="1.805"/>
+					<rect id="connector6pin" x="-286.713" y="496.775" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -779.7304 215.6272)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="9.321" height="1.805"/>
 				<g id="connector6terminal">
 				</g>
 				
-					<rect id="connector7pin" x="-286.712" y="496.773" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -779.7275 215.6262)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="9.321" height="1.805"/>
+					<rect id="connector7pin" x="-286.713" y="496.775" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -779.7304 215.6272)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="9.321" height="1.805"/>
 				<g id="connector7terminal">
 				</g>
 				
-					<rect id="connector8pin" x="-286.712" y="496.773" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -779.7275 215.6262)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="9.321" height="1.805"/>
+					<rect id="connector8pin" x="-286.713" y="496.775" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -779.7304 215.6272)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="9.321" height="1.805"/>
 				<g id="connector8terminal">
 				</g>
 				
-					<rect id="connector9pin" x="-286.712" y="496.773" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -779.7275 215.6262)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="9.321" height="1.805"/>
+					<rect id="connector9pin" x="-286.713" y="496.775" transform="matrix(-2.547107e-06 -1 1 -2.547107e-06 -779.7304 215.6272)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="9.321" height="1.805"/>
 				<g id="connector9terminal">
 				</g>
 				<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="-282.082" cy="422.082" r="60.521"/>
@@ -394,10 +394,10 @@
 				<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="-305.252" cy="381.95" r="5.717"/>
 				<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="-322.212" cy="398.912" r="5.718"/>
 				<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M-239.089,403.859
-					c-2.733,1.579-6.228,0.641-7.806-2.089c-1.58-2.741-0.645-6.238,2.089-7.811c2.741-1.579,6.233-0.646,7.809,2.093
+					c-2.733,1.579-6.228,0.641-7.806-2.089c-1.58-2.741-0.646-6.238,2.089-7.812c2.741-1.578,6.233-0.646,7.809,2.094
 					C-235.415,398.783-236.35,402.284-239.089,403.859z"/>
 				<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M-253.963,384.806
-					c-1.581,2.733-5.072,3.671-7.804,2.093c-2.743-1.582-3.673-5.08-2.095-7.808c1.586-2.735,5.072-3.674,7.81-2.096
+					c-1.581,2.732-5.072,3.671-7.804,2.093c-2.743-1.582-3.673-5.08-2.095-7.808c1.586-2.735,5.071-3.675,7.81-2.097
 					C-253.318,378.576-252.378,382.07-253.963,384.806z"/>
 				
 					<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="-322.611" y1="393.192" x2="-322.611" y2="341.377"/>
@@ -443,5 +443,5 @@
 <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M506.549,252.659"/>
 <path id="connector0pin_15_" fill="none" stroke="#7B7B7B" stroke-width="2" stroke-linecap="round" d="M506.902,252.659"/>
 <circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="507.819" cy="114.062" r="7.668"/>
-<text transform="matrix(1 0 0 1 92.018 164.3379)" fill="#000099" font-family="'ArialMT'" font-size="12">3.3V</text>
+<text transform="matrix(1 0 0 1 92.018 164.3379)" fill="#532E85" font-family="'ArialMT'" font-size="12">3.3V</text>
 </svg>

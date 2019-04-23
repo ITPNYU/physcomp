@@ -57,7 +57,7 @@
 	<g id="plaintext_9_">
 		<g>
 			<g>
-				<text transform="matrix(1 0 0 1 180.7607 172.624)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Battery</text>
+				<text transform="matrix(1 0 0 1 180.7607 172.624)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Battery</text>
 			</g>
 		</g>
 	</g>
@@ -71,7 +71,7 @@
 <g id="plaintext_1_">
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 180.7607 295.6182)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Ground</text>
+			<text transform="matrix(1 0 0 1 180.7607 295.6182)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Ground</text>
 		</g>
 	</g>
 </g>
@@ -81,7 +81,7 @@
 <g id="plaintext_2_">
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 180.7607 391.1641)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Transistor (NPN)</text>
+			<text transform="matrix(1 0 0 1 180.7607 391.1641)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Transistor (NPN)</text>
 		</g>
 	</g>
 </g>
@@ -91,7 +91,7 @@
 <g id="plaintext_3_">
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 180.7607 574.9746)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Transistor (PNP)</text>
+			<text transform="matrix(1 0 0 1 180.7607 574.9746)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Transistor (PNP)</text>
 		</g>
 	</g>
 </g>
@@ -130,7 +130,7 @@
 	<path d="M126.409,464.41L87.087,464l16.096-31.234L126.409,464.41z M91.819,461.133l28.707,0.418l-17.001-23.133L91.819,461.133z"
 		/>
 </g>
-<path d="M122.736,464.23c-0.683-0.354-1.072-1.236-0.655-2.053c0.354-0.676,1.236-1.068,2.051-0.648"/>
+<path d="M122.736,464.23c-0.683-0.354-1.072-1.236-0.655-2.054c0.354-0.676,1.236-1.067,2.051-0.647"/>
 <g id="connector0terminal_2_">
 	<path fill="none" d="M103.284,452.496L103.284,452.496L103.284,452.496z"/>
 </g>
@@ -158,21 +158,21 @@
 </g>
 <g>
 	<polygon fill="#FFFFFF" points="79.121,566.191 99.096,538.668 106.11,552.166 113.125,565.662 	"/>
-	<path d="M76.281,567.666l23.046-31.863l16.203,31.184L76.281,567.666z M98.936,541.322l-16.923,23.191l28.705-0.52L98.936,541.322z
-		"/>
+	<path d="M76.281,567.666l23.046-31.863l16.203,31.185L76.281,567.666z M98.936,541.322l-16.923,23.19l28.705-0.52L98.936,541.322z"
+		/>
 </g>
 <path d="M78.549,564.773c0.682-0.354,1.63-0.162,2.052,0.646c0.354,0.676,0.161,1.627-0.646,2.049"/>
 <g id="Braille_3_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠠⠎⠉⠓⠑⠍⠁⠞⠊⠉⠀⠠⠎⠽⠍⠃⠕⠇⠎⠀⠼⠃</text>
 </g>
-<text transform="matrix(1 0 0 1 42.626 99)" fill="#000099" font-family="'ArialMT'" font-size="21">Schematic Symbols 2</text>
+<text transform="matrix(1 0 0 1 42.626 99)" fill="#532E85" font-family="'ArialMT'" font-size="21">Schematic Symbols 2</text>
 <g>
 	<text transform="matrix(1 0 0 1 176.1177 716.5312)" font-family="'AppleBraille'" font-size="26">⠧⠕⠇⠞⠁⠛⠑ ⠗⠑⠛⠥⠇⠁⠞⠕⠗</text>
 </g>
 <g id="plaintext_4_">
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 180.6396 687.1855)" fill="#000099" font-family="'ArialMT'" font-size="13.9091">Voltage Regulator</text>
+			<text transform="matrix(1 0 0 1 180.6396 687.1855)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Voltage Regulator</text>
 		</g>
 	</g>
 </g>
