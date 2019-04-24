@@ -26,5 +26,5 @@
 <g id="Braille_1_">
 	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠙⠉⠀⠍⠕⠞⠕⠗⠀⠓⠤⠃⠗⠊⠙⠛⠑⠀⠼⠊⠧⠀⠧⠊⠝</text>
 </g>
-<text transform="matrix(1 0 0 1 497.5303 75.002)" fill="#000099" font-family="'ArialMT'" font-size="21">DC Motor, H-Bridge, 9V, Vin</text>
+<text transform="matrix(1 0 0 1 497.5303 75.002)" fill="#532E85" font-family="'ArialMT'" font-size="21">DC Motor, H-Bridge, 9V, Vin</text>
 </svg>
