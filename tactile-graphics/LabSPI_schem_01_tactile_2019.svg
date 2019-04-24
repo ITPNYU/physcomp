@@ -214,7 +214,7 @@
 </g>
 <path id="connector0pin_1_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="
 	M461.857,64.031"/>
-<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M434.82,63.128h54.07"/>
+<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M434.82,63.128h54.069"/>
 <line id="connector2pin_1_" fill="none" stroke="#020202" stroke-width="2" stroke-miterlimit="10" x1="461.857" y1="64.031" x2="461.857" y2="247.469"/>
 <g>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M698.204,44.954"/>
@@ -224,17 +224,19 @@
 	<polyline fill="none" stroke="#020202" stroke-width="2" stroke-miterlimit="10" points="275.789,303.826 317.787,303.826 
 		341.834,303.826 341.834,539.321 671.706,539.013 	"/>
 </g>
-<text transform="matrix(1 0 0 1 498.8242 493.4355)" fill="#010201" font-family="'AppleBraille'" font-size="26">⠗⠼⠁ </text>
+<text transform="matrix(1 0 0 1 558.7832 493.4355)" fill="#010201" font-family="'AppleBraille'" font-size="26">⠗⠼⠁ </text>
 <g id="partLabel_3_">
 	<g transform="translate(260.005,35.4048)">
 		<g id="schematicLabel_3_">
-			<text transform="matrix(1 0 0 1 238.8182 432.8452)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R1 </text>
+			<text transform="matrix(1 0 0 1 298.7772 432.8452)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R1 </text>
 		</g>
 	</g>
 </g>
 <path id="connector0pin_12_" fill="none" stroke="#020202" stroke-width="2" stroke-miterlimit="10" d="M370.5,488.027"/>
 <text transform="matrix(1 0 0 1 170.1982 250.9707)" fill="#532E85" font-family="'ArialMT'" font-size="12">D13</text>
 <text transform="matrix(1 0 0 1 195.0122 260.75)" font-family="'AppleBraille'" font-size="26">⠙⠼⠁⠉</text>
+<text transform="matrix(1 0 0 1 139.6416 379.082)" fill="#532E85" font-family="'ArialMT'" font-size="12">A1</text>
+<text transform="matrix(1 0 0 1 161.4555 388.8613)" font-family="'AppleBraille'" font-size="26">⠁⠼⠁</text>
 <text transform="matrix(1 0 0 1 170.1982 292.4697)" fill="#532E85" font-family="'ArialMT'" font-size="12">D10</text>
 <text transform="matrix(1 0 0 1 195.0122 302.249)" font-family="'AppleBraille'" font-size="26">⠙⠼⠁⠚</text>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M659.676,497.295"/>
@@ -280,9 +282,9 @@
 	"/>
 <path id="connector0pin_11_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M538.463,515.729"/>
 <path id="connector0pin_5_" fill="none" stroke="#020202" stroke-width="2" stroke-miterlimit="10" d="M516.735,387.027h-35.823
-	H370.5v128.698h167.963"/>
+	H370.5v128.697h167.963"/>
 <text transform="matrix(1 0 0 1 640.9921 117.0088)" fill="#532E85" font-family="'ArialMT'" font-size="12">DP1</text>
 <text transform="matrix(1 0 0 1 572.0986 120.0088)" font-family="'AppleBraille'" font-size="26">⠙⠏⠼⠁</text>
-<text transform="matrix(1 0 0 1 582.0351 561.6875)" fill="#532E85" font-family="'ArialMT'" font-size="12">S1</text>
-<text transform="matrix(1 0 0 1 605.7831 570.6875)" font-family="'AppleBraille'" font-size="26">⠎⠼⠁</text>
+<text transform="matrix(1 0 0 1 505.0351 561.6875)" fill="#532E85" font-family="'ArialMT'" font-size="12">SPKR1</text>
+<text transform="matrix(1 0 0 1 558.7831 570.6875)" font-family="'AppleBraille'" font-size="26">⠎⠏⠅⠗⠼⠁</text>
 </svg>
