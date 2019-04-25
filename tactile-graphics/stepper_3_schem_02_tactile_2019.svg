@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="792px" height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<text transform="matrix(1 0 0 1 41.625 155.5977)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠅⠑⠽</text>
+<text transform="matrix(1 0 0 1 41.625 184.3984)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠍⠉⠼⠁⠀⠤⠀⠁⠗⠙⠥⠊⠝⠕⠀⠥⠝⠕⠀⠐⠣⠗⠑⠧⠼⠉⠐⠜</text>
+<text transform="matrix(1 0 0 1 41.625 213.1973)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠍⠼⠁⠀⠤⠀⠥⠝⠊⠏⠕⠇⠁⠗⠀⠎⠞⠑⠏⠏⠑⠗⠀⠍⠕⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 540 960)" font-family="'MyriadPro-Regular'" font-size="12">⠓⠃⠼⠁⠀⠤⠀⠓⠤⠃⠗⠊⠙⠛⠑⠀⠇⠼⠃⠊⠉⠰⠙</text>
+<text transform="matrix(1 0 0 1 41.625 241.998)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠏⠏⠼⠁⠀⠤⠀⠼⠁⠃⠧⠀⠏⠕⠺⠑⠗⠀⠎⠥⠏⠏⠇⠽⠀⠺⠊⠞⠓⠀</text>
+<text transform="matrix(1 0 0 1 41.625 270.7969)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠼⠁⠲⠃⠍⠍⠀⠃⠁⠗⠗⠑⠇⠀⠚⠁⠉⠅</text>
+<text transform="matrix(1 0 0 1 41.625 299.5977)" fill="#010101" font-family="'AppleBraille'" font-size="26">⠓⠃⠼⠁⠀⠤⠀⠓⠤⠃⠗⠊⠙⠛⠑⠀⠇⠼⠃⠊⠉⠰⠙</text>
+<text transform="matrix(1 0 0 1 74.4355 303.498)" fill="#BBBDC0" font-family="'ArialMT'" font-size="19.0417">:</text>
+<rect x="41.625" y="522.5" fill="none" width="505" height="20"/>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="755.229" y1="0.772" x2="791.227" y2="36.771"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="738" y1="0" x2="792" y2="54"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="772.457" y1="1.543" x2="790.457" y2="19.543"/>
+</g>
+<text transform="matrix(1 0 0 1 41.625 332.498)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">Key:</text>
+<text transform="matrix(1 0 0 1 41.625 355.3457)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">MC1 - Arduino Uno (Rev 3)</text>
+<text transform="matrix(1 0 0 1 41.625 378.1973)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">M1 - Unipolar Stepper Motor</text>
+<text transform="matrix(1 0 0 1 41.625 401.0469)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">PP1 - 12V Power Supply with 1.2mm Barrel Jack</text>
+<text transform="matrix(1 0 0 1 41.625 423.8965)" fill="#532E85" font-family="'ArialMT'" font-size="19.0417">HB1 - H-Bridge L293D</text>
+<g id="Braille_1_">
+	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠎⠞⠑⠏⠏⠑⠗⠀⠼⠉</text>
+</g>
+<text transform="matrix(1 0 0 1 236.5303 75.002)" fill="#532E85" font-family="'ArialMT'" font-size="21">Stepper 3</text>
+</svg>

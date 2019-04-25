@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="792px" height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<g id="plaintext" display="none">
+	<text transform="matrix(1 0 0 1 262.8433 340.8613)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Output</text>
+	<text transform="matrix(1 0 0 1 162.7798 362.1406)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">from microcontroller</text>
+	<text transform="matrix(1 0 0 1 29.8711 236.959)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Digital Output</text>
+	<text transform="matrix(1 0 0 1 404.5684 400.3926)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">220Ω</text>
+	<text transform="matrix(1 0 0 1 413.8398 467.625)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">LED</text>
+</g>
+<g>
+	
+		<text transform="matrix(1 0 0 1 392.8594 139.6191)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="11"> </text>
+</g>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="755.229" y1="0.772" x2="791.227" y2="36.771"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="738" y1="0" x2="792" y2="54"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="772.457" y1="1.543" x2="790.457" y2="19.543"/>
+</g>
+<g id="Braille_1_">
+	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠇⠕⠉⠁⠇⠀⠏⠑⠁⠅⠎</text>
+</g>
+<text transform="matrix(1 0 0 1 254.5967 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Local Peaks</text>
+<path marker-end="url(#FilledArrow_Marker)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="
+	M699.812,544.518"/>
+<path marker-end="url(#FilledArrow_Marker)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="
+	M80.278,176.904"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="80.278" y1="176.904" x2="80.278" y2="544.518"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="80.278" y1="544.518" x2="699.812" y2="544.518"/>
+<g>
+	<g>
+		<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="74.468,176.904 80.278,155.223 
+			86.089,176.904 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="699.812,538.707 721.494,544.518 
+			699.812,550.328 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 305.9111 223.2148)" font-family="'AppleBraille'" font-size="26">⠓⠊⠛⠓⠑⠎⠞⠀⠏⠑⠁⠅</text>
+<text transform="matrix(1 0 0 1 149.4185 330.2109)" font-family="'AppleBraille'" font-size="26">⠇⠕⠉⠁⠇⠀⠏⠑⠁⠅</text>
+<text transform="matrix(1 0 0 1 544.8984 433.3135)" font-family="'AppleBraille'" font-size="26">⠞⠓⠗⠑⠎⠓⠕⠇⠙</text>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M80.278,543.357
+	c32.23-18.266,62.589-22.565,96.7-54.799c34.111-32.23,81.66-120.069,107.981-138.604c26.322-18.533,28.743,45.396,49.962,27.398
+	s46.742-152.033,77.362-135.38c30.619,16.651,54.529,193.405,106.369,235.304c51.836,41.896,136.459,10.742,204.683,16.114"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="323.64" y1="343.511" x2="262.396" y2="343.511"/>
+<g>
+	<text transform="matrix(1 0 0 1 149.4185 306)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Local Peak</text>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="463.049" y1="237.142" x2="340.562" y2="238.752"/>
+<g>
+	<text transform="matrix(1 0 0 1 305.9111 193.6191)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Highest Peak</text>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="0.1027,5.1335" x1="80.278" y1="422.482" x2="531.545" y2="422.482"/>
+<g>
+	<text transform="matrix(1 0 0 1 544.8984 403.6514)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Threshold</text>
+</g>
+</svg>

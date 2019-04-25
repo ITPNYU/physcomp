@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="792px" height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<g id="plaintext" display="none">
+	<text transform="matrix(1 0 0 1 262.8433 340.8613)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Output</text>
+	<text transform="matrix(1 0 0 1 162.7798 362.1406)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">from microcontroller</text>
+	<text transform="matrix(1 0 0 1 29.8711 236.959)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Digital Output</text>
+	<text transform="matrix(1 0 0 1 404.5684 400.3926)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">220Ω</text>
+	<text transform="matrix(1 0 0 1 413.8398 467.625)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">LED</text>
+</g>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="755.229" y1="0.772" x2="791.227" y2="36.771"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="738" y1="0" x2="792" y2="54"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="772.457" y1="1.543" x2="790.457" y2="19.543"/>
+</g>
+<g id="Braille_1_">
+	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠎⠺⠊⠞⠉⠓⠀⠁⠝⠙⠀⠏⠥⠎⠓⠃⠥⠞⠞⠕⠝</text>
+</g>
+<g id="Braille_2_">
+	<text transform="matrix(1 0 0 1 193.2197 494.0654)" font-family="'AppleBraille'" font-size="26">⠎⠺⠊⠞⠉⠓</text>
+</g>
+<g id="Braille_3_">
+	<text transform="matrix(1 0 0 1 436.3838 494.0654)" font-family="'AppleBraille'" font-size="26">⠏⠥⠎⠓⠃⠥⠞⠞⠕⠝</text>
+</g>
+<text transform="matrix(1 0 0 1 431.5967 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Switch and Pushbutton</text>
+<g id="schematic_4_">
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="252.975" y1="248.792" x2="252.975" y2="229.911"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="252.975" y1="381.074" x2="215.204" y2="248.792"/>
+	<path fill="#231F20" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M252.975,377.288
+		c2.089,0,3.791,1.694,3.791,3.782c0,2.082-1.701,3.771-3.791,3.771c-2.082,0-3.773-1.688-3.773-3.771
+		C249.204,378.982,250.893,377.288,252.975,377.288z"/>
+	<path fill="#231F20" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M252.975,226.128
+		c2.089,0,3.791,1.703,3.791,3.781c0,2.091-1.701,3.782-3.791,3.782c-2.082,0-3.773-1.691-3.773-3.782
+		C249.204,227.831,250.893,226.128,252.975,226.128z"/>
+	
+		<line id="connector0pin_4_" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="252.975" y1="456.664" x2="252.975" y2="381.074"/>
+	<g id="connector0terminal_4_">
+	</g>
+	
+		<line id="connector1pin_4_" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="252.975" y1="154.321" x2="252.975" y2="229.911"/>
+	<g id="connector1terminal_4_">
+	</g>
+</g>
+<path fill="#231F20" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M515.041,338.285c2.091,0,3.79,1.691,3.79,3.781
+	c0,2.082-1.699,3.771-3.79,3.771c-2.084,0-3.771-1.689-3.771-3.771C511.27,339.977,512.961,338.285,515.041,338.285z"/>
+<path fill="#231F20" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M515.041,262.058c2.091,0,3.79,1.702,3.79,3.782
+	c0,2.091-1.699,3.782-3.79,3.782c-2.084,0-3.771-1.691-3.771-3.782C511.27,263.758,512.961,262.058,515.041,262.058z"/>
+<line id="connector0pin_2_" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="515.036" y1="456.747" x2="515.045" y2="342.064"/>
+<line id="connector1pin_1_" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="515.041" y1="154.401" x2="515.041" y2="268.13"/>
+<line id="connector1pin_3_" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="490.154" y1="261.051" x2="490.154" y2="348.082"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="490.154" y1="304.566" x2="436.384" y2="304.566"/>
+<g>
+	<text transform="matrix(1 0 0 1 221.2197 518.9092)" fill="#532E85" font-family="'ArialMT'" font-size="21">Switch</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 474.0049 518.9092)" fill="#532E85" font-family="'ArialMT'" font-size="21">Pushbutton</text>
+</g>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="252.975" cy="229.91" r="7.668"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="515.051" cy="342.064" r="7.668"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="515.051" cy="265.84" r="7.668"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="252.983" cy="381.074" r="7.668"/>
+</svg>

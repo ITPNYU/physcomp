@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="792px" height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<g id="plaintext" display="none">
+	<text transform="matrix(1 0 0 1 262.8433 340.8613)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Output</text>
+	<text transform="matrix(1 0 0 1 162.7798 362.1406)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">from microcontroller</text>
+	<text transform="matrix(1 0 0 1 29.8711 236.959)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Digital Output</text>
+	<text transform="matrix(1 0 0 1 404.5684 400.3926)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">220Ω</text>
+	<text transform="matrix(1 0 0 1 413.8398 467.625)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">LED</text>
+</g>
+<rect x="43.5" y="97.5" fill="none" width="242" height="20"/>
+<g>
+	
+		<text transform="matrix(1 0 0 1 392.8594 139.6191)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="11"> </text>
+</g>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="755.229" y1="0.772" x2="791.227" y2="36.771"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="738" y1="0" x2="792" y2="54"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="772.457" y1="1.543" x2="790.457" y2="19.543"/>
+</g>
+<path marker-end="url(#FilledArrow_Marker)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="
+	M699.812,544.518"/>
+<path marker-end="url(#FilledArrow_Marker)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="
+	M80.278,176.904"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="80.278" y1="176.904" x2="80.278" y2="544.518"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="80.278" y1="544.518" x2="699.812" y2="544.518"/>
+<g>
+	<g>
+		<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="74.468,176.904 80.278,155.223 
+			86.089,176.904 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="699.812,538.707 721.494,544.518 
+			699.812,550.328 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 153.5 255.6758)" font-family="'AppleBraille'" font-size="26">⠗⠊⠎⠊⠝⠛</text>
+<text transform="matrix(1 0 0 1 318.2686 196.2168)" font-family="'AppleBraille'" font-size="26">⠏⠑⠁⠅</text>
+<text transform="matrix(1 0 0 1 449.8789 299.1309)" font-family="'AppleBraille'" font-size="26">⠋⠁⠇⠇⠊⠝⠛</text>
+<text transform="matrix(1 0 0 1 539.874 414.9844)" font-family="'AppleBraille'" font-size="26">⠞⠓⠗⠑⠎⠓⠕⠇⠙</text>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M81.278,543.543
+	c85.097-110.305,175.012-322.728,255.293-330.756c80.277-8.028,162.166,235.703,226.392,282.59
+	c64.225,46.883,105.97-1.127,158.955-1.607"/>
+<g>
+	<text transform="matrix(1 0 0 1 318.2686 173.9043)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Peak</text>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="0.1027,5.1335" x1="81.278" y1="407.067" x2="530.85" y2="407.067"/>
+<g>
+	<text transform="matrix(1 0 0 1 539.874 433.4941)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Threshold</text>
+</g>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="280.374" cy="246.344" r="4.817"/>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="280.374" cy="246.344" r="4.817"/>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="344.599" cy="211.984" r="4.817"/>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="344.599" cy="211.984" r="4.817"/>
+<g>
+	<text transform="matrix(1 0 0 1 454.5967 315.4111)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Falling</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 153.5 269.707)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">Rising</text>
+</g>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="428.09" cy="290.659" r="4.817"/>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="428.09" cy="290.659" r="4.817"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="344.6" cy="211.984" r="7.668"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="280.375" cy="246.344" r="7.668"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="428.091" cy="290.66" r="7.668"/>
+<g id="Braille_1_">
+	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠏⠑⠁⠅⠀⠑⠭⠏⠇⠁⠊⠝⠑⠙</text>
+</g>
+<text transform="matrix(1 0 0 1 311.5967 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Peak Explained</text>
+</svg>

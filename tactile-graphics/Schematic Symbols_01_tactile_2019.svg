@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<g id="Layer_2" display="none">
+</g>
+<g id="Layer_1_1_">
+	<g id="plaintext" display="none">
+		<text transform="matrix(1 0 0 1 262.8433 340.8613)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Output</text>
+		<text transform="matrix(1 0 0 1 162.7798 362.1406)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">from microcontroller</text>
+		<text transform="matrix(1 0 0 1 29.8711 236.959)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Digital Output</text>
+		<text transform="matrix(1 0 0 1 404.5684 400.3926)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">220Ω</text>
+		<text transform="matrix(1 0 0 1 413.8398 467.625)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">LED</text>
+	</g>
+	<g id="Braille_1_">
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M122.427,133.64"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M55.201,133.64"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 178.7383 335.6758)" font-family="'AppleBraille'" font-size="26">⠗⠑⠎⠊⠎⠞⠕⠗</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 180.7607 468.2598)" font-family="'AppleBraille'" font-size="26">⠧⠁⠗⠊⠁⠃⠇⠑  ⠗⠑⠎⠊⠎⠞⠕⠗</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 178.1509 595.0859)" font-family="'AppleBraille'" font-size="26">⠇⠊⠛⠓⠞⠤⠙⠑⠏⠑⠝⠙⠑⠝⠞</text>
+		<text transform="matrix(1 0 0 1 178.1509 623.8867)" font-family="'AppleBraille'" font-size="26">⠗⠑⠎⠊⠎⠞⠕⠗</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 176.2388 166.2031)" font-family="'AppleBraille'" font-size="26">⠧⠕⠇⠞⠁⠛⠑ ⠎⠕⠥⠗⠉⠑</text>
+	</g>
+	<g id="plaintext_9_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 180.7607 136.8574)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Voltage Source</text>
+			</g>
+		</g>
+	</g>
+	<g id="plaintext_6_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 178.7383 307.8691)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Resistor</text>
+			</g>
+		</g>
+	</g>
+	<g id="plaintext_7_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 180.7607 438.4551)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Variable Resistor</text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 180.7607 727.3164)" font-family="'AppleBraille'" font-size="26">⠏⠕⠺⠑⠗⠀⠏⠇⠥⠛</text>
+	</g>
+	<g id="plaintext_1_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 180.7607 697.5098)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Power Plug</text>
+			</g>
+		</g>
+	</g>
+	<g id="plaintext_8_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 178.1509 565.2812)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Light-Dependent Resistor</text>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 177.1509 237.873)" font-family="'AppleBraille'" font-size="26">⠺⠊⠗⠑⠀⠚⠥⠍⠏</text>
+	<g id="plaintext_3_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 182.3706 205.7656)" fill="#532E85" font-family="'ArialMT'" font-size="13.9091">Wire Jump</text>
+			</g>
+		</g>
+	</g>
+	<path id="connector1pin_5_" fill="none" stroke="#797979" stroke-width="2" stroke-linecap="round" d="M175.488,452.846"/>
+	<path fill="none" stroke="#414141" stroke-width="2" stroke-linecap="round" d="M175.488,452.846"/>
+	<g>
+		
+			<line id="connector0pin_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="92.909" y1="270.433" x2="92.909" y2="289.635"/>
+		<polyline fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" points="92.909,383.887 92.909,362.456 
+			85.26,356.718 102.465,347.159 85.26,337.602 102.465,327.956 85.26,318.396 102.465,308.838 85.26,299.193 92.909,293.458 
+			92.909,289.635 		"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				
+					<line id="connector0pin_2_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="92.773" y1="404.52" x2="92.773" y2="423.723"/>
+				<polyline fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" points="92.773,517.975 92.773,496.543 
+					85.125,490.805 102.333,481.246 85.125,471.688 102.333,462.043 85.125,452.484 102.333,442.926 85.125,433.281 92.773,427.545 
+					92.773,423.723 				"/>
+			</g>
+			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="63.671,448.604 122.375,483.553 
+				122.375,512.213 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line id="connector0pin_4_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="92.084" y1="538.281" x2="92.084" y2="557.484"/>
+			<polyline fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" points="92.084,651.736 92.084,630.305 
+				84.436,624.568 101.641,615.008 84.436,605.451 101.641,595.805 84.436,586.246 101.641,576.688 84.436,567.043 92.084,561.307 
+				92.084,557.484 			"/>
+		</g>
+	</g>
+	<path id="connector0pin_3_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="
+		M93.249,131.037"/>
+	<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M66.212,130.135h54.072"/>
+	
+		<line id="connector2pin_2_" fill="none" stroke="#020202" stroke-width="2" stroke-miterlimit="10" x1="93.249" y1="131.037" x2="93.249" y2="170.025"/>
+</g>
+<g>
+	<path d="M53.54,569.816l-10.657-10.658c-0.37-0.543-0.37-1.271,0-1.64c0.547-0.358,1.271-0.358,1.638,0l10.664,10.662
+		c0.369,0.541,0.369,1.271,0,1.64c-0.182,0.188-0.363,0.36-0.725,0.36C54.274,570.184,53.91,570.008,53.54,569.816z"/>
+</g>
+<g>
+	<path d="M51.812,600.729L41.06,589.996c-0.368-0.539-0.368-1.271,0-1.639c0.548-0.365,1.273-0.365,1.646,0l10.745,10.725
+		c0.364,0.559,0.364,1.275,0,1.646c-0.185,0.188-0.359,0.354-0.729,0.354C52.542,601.088,52.175,600.904,51.812,600.729z"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M51.101,573.043l7.301-7.309l5.479,12.774
+		L51.101,573.043z"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M49.275,603.865l7.311-7.301l5.47,12.774
+		L49.275,603.865z"/>
+</g>
+<path d="M63.189,449.59c-0.504-0.438-0.699-1.139-0.443-1.586c0.124-0.229,0.252-0.445,0.606-0.543
+	c0.172-0.055,0.575,0.023,0.971,0.104"/>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M65.923,443.859l-5.069,8.994l-8.709-10.832
+		L65.923,443.859z"/>
+</g>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="92.863" y1="190.286" x2="92.863" y2="248.734"/>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="79.933" y1="227.902" x2="80.395" y2="227.902"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="79.933" y1="227.902" x2="37.454" y2="227.902"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M104.407,227.902"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M104.793,227.902"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="147.116" y1="227.902" x2="104.588" y2="227.902"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M104.832,227.902
+			c0-6.864-5.604-12.428-12.468-12.428c-6.864,0-12.198,5.562-12.198,12.428"/>
+	</g>
+</g>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="574.404" y1="0.772" x2="610.402" y2="36.771"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="557.176" y1="0" x2="611.176" y2="54"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="591.633" y1="1.543" x2="609.633" y2="19.543"/>
+</g>
+<g id="Braille_2_">
+</g>
+<g id="Braille_3_">
+	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠠⠎⠉⠓⠑⠍⠁⠞⠊⠉⠀⠠⠎⠽⠍⠃⠕⠇⠎⠀⠼⠁</text>
+</g>
+<text transform="matrix(1 0 0 1 42.626 99)" fill="#532E85" font-family="'ArialMT'" font-size="21">Schematic Symbols 1</text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="151.435" y1="694.287" x2="123.311" y2="694.287"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="68.02,695.734 82.147,695.734 
+	92.701,706.115 105.471,706.115 122.834,694.543 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="68.02,722.797 85.555,722.797 
+	151.435,722.797 "/>
+<polyline id="box_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="122.834,753.438 
+	68.02,753.438 68.02,671.391 122.834,671.391 "/>
+<line id="connector2pin_7_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="68.02" y1="722.797" x2="40.784" y2="722.797"/>
+<line id="connector0pin_19_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="68.02" y1="696.072" x2="40.784" y2="696.072"/>
+<line id="connector1pin_19_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="68.02" y1="722.797" x2="40.784" y2="722.797"/>
+<rect x="142.99" y="670.52" width="16.889" height="2.445"/>
+<rect x="140.99" y="739.109" width="16.889" height="2.444"/>
+<rect x="150.322" y="663.184" width="2.45" height="16.896"/>
+</svg>
