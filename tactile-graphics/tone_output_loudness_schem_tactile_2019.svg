@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="792px" height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<g id="plaintext" display="none">
+	<text transform="matrix(1 0 0 1 262.8433 340.8613)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Output</text>
+	<text transform="matrix(1 0 0 1 162.7798 362.1406)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">from microcontroller</text>
+	<text transform="matrix(1 0 0 1 29.8711 236.959)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Digital Output</text>
+	<text transform="matrix(1 0 0 1 404.5684 400.3926)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">220Ω</text>
+	<text transform="matrix(1 0 0 1 413.8398 467.625)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">LED</text>
+</g>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="755.229" y1="0.772" x2="791.227" y2="36.771"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="738" y1="0" x2="792" y2="54"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="772.457" y1="1.543" x2="790.457" y2="19.543"/>
+</g>
+<g id="Braille_1_">
+	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠞⠕⠝⠑⠀⠕⠥⠞⠏⠥⠞⠀⠇⠕⠥⠙⠝⠑⠎⠎</text>
+</g>
+<text transform="matrix(1 0 0 1 416.2021 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Tone Output Loudness</text>
+<path id="connector2pin_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M377.817,194.482"/>
+<g>
+	<g id="schematic_3_">
+		<path id="connector0pin_4_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M226.454,176"/>
+		<path id="connector0pin_2_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M226.454,209.807"/>
+		<g id="connector0terminal_3_">
+		</g>
+		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="242.828,192.905 226.491,176.563 
+			101.178,176.563 101.178,209.243 226.491,209.243 		"/>
+	</g>
+</g>
+<g>
+	<g id="schematicText">
+		<text id="label_1_" transform="matrix(1 0 0 1 102.8721 267.9131)" fill="#532E85" font-family="'ArialMT'" font-size="12">Tone Output</text>
+	</g>
+</g>
+<g>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="382.817" y1="192.836" x2="243.411" y2="192.919"/>
+</g>
+<g id="partLabel_1_">
+</g>
+<g>
+	<g>
+		<g>
+			
+				<line id="connector0pin_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="383.331" y1="193.482" x2="383.331" y2="260.913"/>
+			<polyline fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" points="383.331,384.863 383.331,333.732 
+				375.683,327.995 392.891,318.438 375.683,308.878 392.891,299.233 375.683,289.675 392.891,280.116 375.683,270.472 
+				383.331,264.735 383.331,260.913 			"/>
+		</g>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="354.229,285.794 412.933,320.743 
+			412.933,349.402 		"/>
+	</g>
+</g>
+<path d="M353.747,286.78c-0.504-0.438-0.699-1.139-0.443-1.586c0.124-0.229,0.252-0.445,0.606-0.543
+	c0.172-0.055,0.575,0.023,0.971,0.104"/>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M356.48,281.05l-5.069,8.994l-8.709-10.832
+		L356.48,281.05z"/>
+</g>
+<text transform="matrix(1 0 0 1 561.9795 409.6172)" font-family="'AppleBraille'" font-size="26">⠎⠏⠑⠁⠅⠑⠗</text>
+<g id="partLabel_2_">
+	<g>
+		<g transform="translate(160.733,140.378)">
+			<g id="schematicLabel_2_">
+				<text transform="matrix(1 0 0 1 407.2455 242.3719)" fill="#532E85" font-family="'ArialMT'" font-size="12">Speaker</text>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.9" stroke-linecap="round" x1="514.852" y1="423.499" x2="514.852" y2="368.095"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="542.594" y1="340.432" x2="514.852" y2="368.095"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="514.852" y1="423.499" x2="514.852" y2="368.095"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="542.594" y1="451.241" x2="514.852" y2="423.499"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="542.594" y1="340.432" x2="542.594" y2="451.241"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="514.852" y1="423.499" x2="502.413" y2="423.499"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="514.852" y1="368.095" x2="502.413" y2="368.869"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="502.413" y1="423.499" x2="502.413" y2="368.869"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="383.581" y1="384.863" x2="502.413" y2="384.863"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="423.484" y1="407.504" x2="502.413" y2="407.195"/>
+</g>
+<g>
+	<g>
+		<g transform="translate(191.548,91.3167)">
+			<g id="schematic_9_">
+				<path id="connector0pin_9_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M231.936,365.832v-49.645
+					"/>
+				<g id="connector0terminal_9_">
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="447.949,457.146 423.484,499.521 
+	399.02,457.146 "/>
+<text transform="matrix(1 0 0 1 430.7139 279.2119)" fill="#010201" font-family="'AppleBraille'" font-size="26">⠧⠗⠼⠁</text>
+<text transform="matrix(1 0 0 1 101.1782 245.7139)" fill="#010201" font-family="'AppleBraille'" font-size="26">⠞⠕⠝⠑⠀⠕⠥⠞⠏⠥⠞</text>
+<text transform="matrix(1 0 0 1 430.7139 308.0117)" fill="#010201" font-family="'AppleBraille'" font-size="26">⠼⠁⠚⠨⠺</text>
+<g id="partLabel_5_">
+	<g transform="translate(260.005,35.4048)">
+		<g id="schematicLabel_3_">
+			<text transform="matrix(1 0 0 1 170.7089 288.8931)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">R1</text>
+			<text transform="matrix(1 0 0 1 191.2079 288.8931)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
+		</g>
+	</g>
+</g>
+</svg>

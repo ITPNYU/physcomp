@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="792px" height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<g id="plaintext" display="none">
+	<text transform="matrix(1 0 0 1 262.8433 340.8613)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Output</text>
+	<text transform="matrix(1 0 0 1 162.7798 362.1406)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">from microcontroller</text>
+	<text transform="matrix(1 0 0 1 29.8711 236.959)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">Digital Output</text>
+	<text transform="matrix(1 0 0 1 404.5684 400.3926)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">220Ω</text>
+	<text transform="matrix(1 0 0 1 413.8398 467.625)" display="inline" font-family="'MyriadPro-Regular'" font-size="17.7326">LED</text>
+</g>
+<text transform="matrix(1 0 0 1 260.145 235.7812)" font-family="'AppleBraille'" font-size="26">⠗⠼⠁ ⠏⠥⠇⠇⠤⠥⠏⠀⠗⠑⠎⠊⠎⠞⠕⠗</text>
+<text transform="matrix(1 0 0 1 260.145 264.582)" fill="#010201" font-family="'AppleBraille'" font-size="26">⠼⠁⠚⠨⠺</text>
+<text transform="matrix(1 0 0 1 209.457 151.7119)" font-family="'AppleBraille'" font-size="26">⠼⠑⠧</text>
+<text transform="matrix(1 0 0 1 354.9531 359.6582)" font-family="'AppleBraille'" font-size="26">⠞⠕⠀⠙⠊⠛⠊⠞⠁⠇⠀⠊⠝⠏⠥⠞</text>
+<g>
+	<text id="label" transform="matrix(1 0 0 1 269.853 151.7119)" fill="#532E85" font-family="'ArialMT'" font-size="14">5V</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 353.9531 377.3555)" fill="#532E85" font-family="'ArialMT'" font-size="14">To Digital Input</text>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 260.145 280.7344)" fill="#532E85" font-family="'ArialMT'" font-size="14">R1 Pull-up resistor </text>
+		<text transform="matrix(1 0 0 1 260.145 296.2314)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">10Ω</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(91.6785,50.587)">
+		<g id="schematic_5_">
+			<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M141.821,326.768"/>
+			<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M141.821,411.262"/>
+			<path id="connector1pin_1_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" d="M141.821,411.262"/>
+			<g id="connector1terminal_5_">
+			</g>
+			<path id="connector0pin_4_" fill="none" stroke="#231F20" stroke-width="2" stroke-linecap="round" d="M141.821,301.403"/>
+			<g id="connector0terminal_5_">
+			</g>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#231F20" stroke-width="2" stroke-linecap="round" x1="233.493" y1="351.982" x2="335.783" y2="351.982"/>
+<g id="schematic_6_">
+	<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" d="M233.078,344.314"/>
+	<g id="connector1terminal_6_">
+	</g>
+	<path id="connector0pin_7_" fill="none" stroke="#231F20" stroke-width="2" stroke-linecap="round" d="M233.078,351.982"/>
+	<g id="connector0terminal_6_">
+	</g>
+	<g id="connector2terminal_2_">
+	</g>
+</g>
+<g>
+	<g>
+		<g transform="translate(191.548,91.3167)">
+			<g id="schematic_9_">
+				<path id="connector0pin_6_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M41.805,403.816"/>
+				<g id="connector0terminal_9_">
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path id="connector0pin_12_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M233.266,356.936"/>
+</g>
+<g>
+	<g>
+		<g>
+			<path id="connector0pin_3_" fill="none" stroke="#231F20" stroke-width="2" stroke-linecap="round" d="M233.03,202.106"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path id="connector0pin_5_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M232.764,208.521"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" d="M232.922,169.533"/>
+			<path fill="none" stroke="#030303" stroke-width="2" stroke-linecap="round" d="M232.922,347.434"/>
+		</g>
+	</g>
+</g>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="233" cy="351.99" r="7.668"/>
+<g>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="755.229" y1="0.772" x2="791.227" y2="36.771"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="738" y1="0" x2="792" y2="54"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="772.457" y1="1.543" x2="790.457" y2="19.543"/>
+</g>
+<g id="Braille_2_">
+</g>
+<g id="Braille_1_">
+	<text transform="matrix(1 0 0 1 42.626 78.0645)" font-family="'AppleBraille'" font-size="26">⠙⠊⠛⠊⠞⠁⠇⠀⠊⠝⠀⠏⠥⠇⠇⠤⠥⠏</text>
+</g>
+<text transform="matrix(1 0 0 1 375.9536 75)" fill="#532E85" font-family="'ArialMT'" font-size="21">Digital In Pull-Up</text>
+<g>
+	<g>
+		<g transform="translate(191.548,91.3167)">
+			<g id="schematic_1_">
+				<path id="connector0pin_11_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M41.374,443.184"/>
+				<g id="connector0terminal_1_">
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" points="257.387,534.5 232.922,576.875 
+	208.457,534.5 "/>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M262.288,172.136"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M195.298,172.136"/>
+</g>
+<path id="connector0pin_2_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="
+	M233.11,169.533"/>
+<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M206.073,168.63h54.072"/>
+<path id="connector2pin_1_" fill="none" stroke="#020202" stroke-width="2" stroke-miterlimit="10" d="M233.11,169.533"/>
+<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M234.5,185.954"/>
+<path fill="none" stroke="#020202" stroke-width="2" stroke-linecap="round" d="M234.5,287.447"/>
+<path id="connector1pin_2_" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" d="M234.5,287.447"/>
+<g>
+	<path fill="none" stroke="#231F20" stroke-width="2" stroke-linecap="round" d="M234.285,280.735"/>
+</g>
+<line id="connector0pin_10_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="234.266" y1="169.534" x2="234.266" y2="207.915"/>
+<polyline fill="none" stroke="#231F20" stroke-width="2" stroke-linecap="round" points="234.266,280.735 226.618,274.999 
+	243.822,265.438 226.618,255.881 243.822,246.235 226.618,236.676 243.822,227.118 226.618,217.473 234.266,211.737 
+	234.266,207.915 "/>
+<path id="connector0pin_8_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M233.922,343.1v-62.365"/>
+<g>
+	<g transform="translate(283.421,55.4048)">
+		<g transform="matrix(-1,0,0,-1,0,0)">
+			<g id="schematic_2_">
+				<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M57.425-379.104"/>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 268.376 463.2295)" font-family="'AppleBraille'" font-size="26">⠎⠼⠁</text>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M225.97,457.667"/>
+</g>
+<g id="partLabel_1_">
+	<g transform="translate(260.005,35.4048)">
+		<g id="schematicLabel_1_">
+			<text transform="matrix(1 0 0 1 9.848 446.7173)" fill="#532E85" font-family="'ArialMT'" font-size="12.9143">S1</text>
+		</g>
+	</g>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M269.853,493.307"/>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="233.161" y1="461.023" x2="233.161" y2="465.436"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="233.161" y1="430.03" x2="255.377" y2="456.097"/>
+<line id="connector0pin_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="233.161" y1="359.658" x2="233.161" y2="430.03"/>
+<line id="connector1pin_6_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" x1="233.161" y1="534.501" x2="233.161" y2="465.436"/>
+</svg>
