@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="215.667px"
+	 height="244.031px" viewBox="-0.982 3.038 215.667 244.031" enable-background="new -0.982 3.038 215.667 244.031"
+	 xml:space="preserve">
+<g transform="translate(174.557,29.2357)">
+	<g id="schematicLabel">
+		<text transform="matrix(1 0 0 1 5.0001 62.7506)" font-family="'DroidSans'" font-size="9">R1</text>
+	</g>
+</g>
+<g transform="translate(161.998,58.0357)">
+	<g id="schematic">
+		<rect id="connector0pin" x="5.474" y="1.089" width="1.893" height="9.783"/>
+		<rect id="connector0terminal" x="5.953" y="0.406" width="0.865" height="0.686"/>
+		<rect id="connector1pin" x="5.477" y="54.369" width="1.894" height="9.783"/>
+		<rect id="connector1terminal" x="5.957" y="64.082" width="0.865" height="0.688"/>
+		<g>
+			<polyline fill="#FFFFFF" stroke="#000000" stroke-width="2.2284" stroke-linecap="round" points="6.405,1.132 6.405,20.392 
+				9.905,22.255 2.655,26.291 9.905,30.324 2.655,34.359 9.905,38.392 2.655,42.427 6.405,44.599 6.405,63.861 			"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(97.8022,29.2808)">
+	<g id="schematicLabel_1_">
+		<text transform="matrix(1 0 0 1 9.0001 64.7163)" font-family="'DroidSans'" font-size="9">R2</text>
+	</g>
+</g>
+<g transform="translate(85.2432,58.0808)">
+	<g id="schematic_1_">
+		<rect id="connector0pin_1_" x="5.474" y="1.089" width="1.893" height="9.783"/>
+		<rect id="connector0terminal_1_" x="5.952" y="0.406" width="0.866" height="0.686"/>
+		<rect id="connector1pin_1_" x="5.477" y="54.369" width="1.894" height="9.783"/>
+		<rect id="connector1terminal_1_" x="5.956" y="64.082" width="0.866" height="0.688"/>
+		<g>
+			<polyline fill="#FFFFFF" stroke="#000000" stroke-width="2.2284" stroke-linecap="round" points="6.405,1.132 6.405,20.392 
+				9.905,22.255 2.655,26.291 9.905,30.324 2.655,34.359 9.905,38.392 2.655,42.427 6.405,44.599 6.405,63.861 			"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(17.2388,30.2573)">
+	<g id="schematicLabel_2_">
+		<text transform="matrix(1 0 0 1 10 65.7505)" font-family="'DroidSans'" font-size="9">R3</text>
+	</g>
+</g>
+<g transform="translate(4.67981,59.0573)">
+	<g id="schematic_2_">
+		<rect id="connector0pin_2_" x="5.474" y="1.089" width="1.893" height="9.783"/>
+		<rect id="connector0terminal_2_" x="5.952" y="0.406" width="0.866" height="0.686"/>
+		<rect id="connector1pin_2_" x="5.477" y="54.369" width="1.894" height="9.783"/>
+		<rect id="connector1terminal_2_" x="5.956" y="64.082" width="0.866" height="0.688"/>
+		<g>
+			<polyline fill="#FFFFFF" stroke="#000000" stroke-width="2.2284" stroke-linecap="round" points="6.405,1.132 6.405,20.392 
+				9.905,22.255 2.655,26.291 9.905,30.324 2.655,34.359 9.905,38.392 2.655,42.427 6.405,44.599 6.405,63.861 			"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(194.399,118.43)">
+	<g id="schematicLabel_3_">
+		<text transform="matrix(1 0 0 1 -6.103516e-05 56.7497)" font-family="'DroidSans'" font-size="9">LED1</text>
+	</g>
+</g>
+<g transform="translate(157.833,138.43)">
+	<g id="schematic_3_">
+		<rect id="connector1terminal_3_" x="10.631" y="0.525" width="0.209" height="0.208"/>
+		<rect id="connector0terminal_3_" x="10.648" y="64.314" width="0.208" height="0.207"/>
+		<rect id="connector1pin_3_" x="10.028" y="0.422" width="1.375" height="10.338"/>
+		<rect id="connector0pin_3_" x="10.028" y="53" width="1.375" height="11.768"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="10.752" y1="41.172" x2="10.752" y2="64.123"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="21.17" y1="41.683" x2="0.333" y2="41.683"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="10.752" y1="0.731" x2="10.752" y2="22.393"/>
+		<polygon fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" points="10.752,41.638 
+			5.486,32.515 0.217,23.393 10.752,23.393 21.286,23.393 16.02,32.515 		"/>
+		<path d="M27.775,47.148l2.558-2.037l1.465-1.169l1.092-0.871l3.461,9.58L27.775,47.148L27.775,47.148z"/>
+		<path d="M21.226,52.138l2.556-2.039l1.465-1.168l1.09-0.87l3.469,9.581L21.226,52.138L21.226,52.138z"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="24.281" y1="37.578" x2="32.948" y2="48.061"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="19.948" y1="45.541" x2="25.515" y2="52.274"/>
+	</g>
+</g>
+<g transform="translate(117.099,118.058)">
+	<g id="schematicLabel_4_">
+		<text transform="matrix(1 0 0 1 1.220703e-04 56.7506)" font-family="'DroidSans'" font-size="9">LED2</text>
+	</g>
+</g>
+<g transform="translate(80.5333,138.058)">
+	<g id="schematic_4_">
+		<rect id="connector1terminal_4_" x="10.632" y="0.525" width="0.208" height="0.208"/>
+		<rect id="connector0terminal_4_" x="10.648" y="64.314" width="0.208" height="0.207"/>
+		<rect id="connector1pin_4_" x="10.028" y="0.421" width="1.375" height="10.34"/>
+		<rect id="connector0pin_4_" x="10.028" y="53.001" width="1.375" height="11.767"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="10.752" y1="41.171" x2="10.752" y2="64.124"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="21.171" y1="41.683" x2="0.333" y2="41.683"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="10.752" y1="0.731" x2="10.752" y2="22.393"/>
+		<polygon fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" points="10.752,41.638 
+			5.486,32.515 0.218,23.393 10.752,23.393 21.285,23.393 16.02,32.515 		"/>
+		<path d="M27.775,47.148l2.558-2.037l1.465-1.169l1.091-0.871l3.461,9.58L27.775,47.148L27.775,47.148z"/>
+		<path d="M21.226,52.138l2.556-2.039l1.464-1.168l1.09-0.87l3.469,9.581L21.226,52.138L21.226,52.138z"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="24.281" y1="37.577" x2="32.948" y2="48.061"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="19.948" y1="45.54" x2="25.515" y2="52.274"/>
+	</g>
+</g>
+<g transform="translate(36.566,118.088)">
+	<g id="schematicLabel_5_">
+		<text transform="matrix(1 0 0 1 -9.155273e-05 56.9061)" font-family="'DroidSans'" font-size="9">LED3</text>
+	</g>
+</g>
+<g transform="translate(0,138.088)">
+	<g id="schematic_5_">
+		<rect id="connector1terminal_5_" x="10.632" y="0.525" width="0.208" height="0.208"/>
+		<rect id="connector0terminal_5_" x="10.648" y="64.314" width="0.208" height="0.207"/>
+		<rect id="connector1pin_5_" x="10.028" y="0.422" width="1.375" height="10.338"/>
+		<rect id="connector0pin_5_" x="10.028" y="53" width="1.375" height="11.768"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="10.752" y1="41.172" x2="10.752" y2="64.123"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="21.171" y1="41.683" x2="0.333" y2="41.683"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="10.752" y1="0.731" x2="10.752" y2="22.392"/>
+		<polygon fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" points="10.752,41.639 
+			5.486,32.516 0.218,23.392 10.752,23.392 21.285,23.392 16.02,32.516 		"/>
+		<path d="M27.775,47.148l2.558-2.037l1.465-1.169l1.091-0.871l3.461,9.58L27.775,47.148L27.775,47.148z"/>
+		<path d="M21.226,52.139l2.556-2.039l1.464-1.168l1.09-0.871l3.469,9.582L21.226,52.139L21.226,52.139z"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="24.281" y1="37.577" x2="32.948" y2="48.06"/>
+		<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="19.948" y1="45.54" x2="25.515" y2="52.274"/>
+	</g>
+</g>
+<g transform="translate(79.5305,0)">
+	<g id="schematic_6_">
+		<rect id="connector0pin_6_" x="11.555" y="15.739" width="2.4" height="10.836"/>
+		<rect id="connector0terminal_6_" x="12.755" y="25.775" width="0" height="0.8"/>
+		<path fill="none" stroke="#000000" stroke-width="2.3998" d="M0,15.739h25.51"/>
+		<text id="label" transform="matrix(1 0 0 1 1.4998 10.75)" font-family="'DroidSans'" font-size="8.9992">5V</text>
+	</g>
+</g>
+<g transform="translate(82.3174,222.791)">
+	<g id="schematic_7_">
+		<path id="connector0pin_7_" fill="none" stroke="#000000" stroke-width="1.92" d="M8.971,17.008V0"/>
+		<rect id="connector0terminal_7_" x="8.592" fill="none" width="0.756" height="0.763"/>
+		<path id="path4098" fill="none" stroke="#000000" stroke-width="1.92" d="M0,17.008h17.941"/>
+		<path id="path4100" fill="none" stroke="#000000" stroke-width="1.92" d="M2.989,20.164H14.95"/>
+		<path id="path4102" fill="none" stroke="#000000" stroke-width="1.92" d="M11.956,23.318H5.981"/>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="168.387" y1="122.462" x2="168.569" y2="139.059"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="91.632" y1="122.507" x2="91.27" y2="138.688"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="11.069" y1="123.483" x2="10.736" y2="138.717"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="168.585" y1="202.848" x2="91.285" y2="202.477"/>
+<circle cx="91.285" cy="202.476" r="3.6"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="10.752" y1="202.506" x2="91.285" y2="202.477"/>
+<circle cx="91.285" cy="202.476" r="3.6"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="11.065" y1="59.807" x2="91.628" y2="58.83"/>
+<circle cx="91.628" cy="58.83" r="3.6"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="168.382" y1="58.785" x2="91.628" y2="58.83"/>
+<circle cx="91.628" cy="58.83" r="3.6"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="91.288" y1="223.172" x2="91.285" y2="202.477"/>
+<circle cx="91.285" cy="202.476" r="3.6"/>
+<line fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" x1="92.285" y1="26.175" x2="91.628" y2="58.83"/>
+<circle cx="91.628" cy="58.83" r="3.6"/>
+</svg>
