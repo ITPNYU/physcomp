@@ -101,13 +101,20 @@ void updateOrientation() {
     filter.updateIMU(xGyro, yGyro, zGyro, xAcc, yAcc, zAcc);
 
     // update the heading, pitch and roll:
-    roll = filter.getRoll();
-    pitch = filter.getPitch();
-    heading = filter.getYaw();
+    roll = 359.5;//filter.getRoll();
+    pitch = -1.1;//filter.getPitch();
+    heading = 2.2;//filter.getYaw();
+    Serial.print("Orientation: ");
+    Serial.print(heading);
+    Serial.print(" ");
+    Serial.print(pitch);
+    Serial.print(" ");
+    Serial.println(roll);
 
     // update the BLE characteristics with the orientation values:
     headingCharacteristic.writeValue(heading);
     pitchCharacteristic.writeValue(pitch);
     rollCharacteristic.writeValue(roll);
+
   }
 }
