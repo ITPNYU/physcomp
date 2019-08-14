@@ -101,9 +101,9 @@ void updateOrientation() {
     filter.updateIMU(xGyro, yGyro, zGyro, xAcc, yAcc, zAcc);
 
     // update the heading, pitch and roll:
-    roll = 359.5;//filter.getRoll();
-    pitch = -1.1;//filter.getPitch();
-    heading = 2.2;//filter.getYaw();
+    roll = filter.getRoll();
+    pitch = filter.getPitch();
+    heading = filter.getYaw();
     Serial.print("Orientation: ");
     Serial.print(heading);
     Serial.print(" ");
