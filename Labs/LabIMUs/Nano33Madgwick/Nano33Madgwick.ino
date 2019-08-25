@@ -5,7 +5,8 @@
 
   For big fun, connect this to p5.js sketch MadgwickVisualizer
 
-  created 4 aug 2019
+  created 4 Aug 2019
+  updated 25 Aug 2019
   by Tom Igoe
 */
 
@@ -35,15 +36,6 @@ void setup() {
 }
 
 void loop() {
-  if (Serial.available()) {
-    char input = Serial.read();
-    Serial.print("Orientation: ");
-    Serial.print(heading);
-    Serial.print(" ");
-    Serial.print(pitch);
-    Serial.print(" ");
-    Serial.println(roll);
-  }
   // values for acceleration & rotation:
   float xAcc, yAcc, zAcc;
   float xGyro, yGyro, zGyro;
@@ -62,6 +54,16 @@ void loop() {
     roll = filter.getRoll();
     pitch = filter.getPitch();
     heading = filter.getYaw();
+  }
 
+  // if you get a byte in the serial port,
+  // send the latest heading, pitch, and roll:
+  if (Serial.available()) {
+    char input = Serial.read();   
+    Serial.print(heading);
+    Serial.print(",");
+    Serial.print(pitch);
+    Serial.print(",");
+    Serial.println(roll);
   }
 }
