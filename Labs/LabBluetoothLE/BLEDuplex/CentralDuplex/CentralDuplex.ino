@@ -25,14 +25,17 @@
 const int buttonPin = 2;
 int oldButtonState = LOW;
 
+BLECharacteristic ledCharacteristic;
+BLECharacteristic buttonCharacteristic;
+
 // peripheral characteristic flags:
 bool ledAvailable = false;
 bool buttonSubscribed = false;
 void setup() {
   Serial.begin(9600);
-
+  while (!Serial);
   // configure the button pin as input:
-  pinMode(buttonPin, INPUT);
+  pinMode(buttonPin, INPUT_PULLUP);
   // configure the built-in LED as an output:
   pinMode(LED_BUILTIN, OUTPUT);
 
@@ -41,21 +44,24 @@ void setup() {
 
   // start scanning for peripherals
   BLE.scanForUuid("473da924-c93a-11e9-a32f-2a2ae2dbcce4");
+  Serial.println("central is scanning");
 }
 
 void loop() {
   // check if a peripheral has been discovered
+
   BLEDevice peripheral = BLE.available();
 
   if (peripheral) {
+    Serial.println("Got a peripheral");
     // peripheral detected, see if it's the right one:
     if (peripheral.localName() == "duplexPeripheral") {
+      Serial.println("Got the right peripheral");
       // If so, stop scanning and start communicating with it:
       BLE.stopScan();
       communicateWith(peripheral);
     }
-    // if there's no perhpheral, keep scanning:
-  } else {
+    // when the peripheral disconnects, resume scanning:
     // reset the peripheral characteristic flags:
     ledAvailable = false;
     buttonSubscribed = false;
@@ -64,40 +70,62 @@ void loop() {
   }
 }
 
+
+void exploreService(BLEService service) {
+  // print the UUID of the service
+  Serial.print("Service ");
+  Serial.println(service.uuid());
+
+  // loop the characteristics of the service and explore each
+  for (int i = 0; i < service.characteristicCount(); i++) {
+    BLECharacteristic characteristic = service.characteristic(i);
+    exploreCharacteristic(characteristic);
+  }
+}
+
+
+void exploreCharacteristic(BLECharacteristic characteristic) {
+  // print the UUID and properies of the characteristic
+  Serial.print("Characteristic ");
+  Serial.print(characteristic.uuid());
+
+  // check if the characteristic is readable
+  if (characteristic.canSubscribe()) {
+    Serial.println("can subscribe");
+     // read the characteristic value
+      buttonCharacteristic = characteristic;
+    if (buttonCharacteristic.subscribe()) {
+      Serial.println("button subscribed");
+    }
+  }
+
+  if (characteristic.canWrite()) {
+    ledCharacteristic = characteristic;
+    Serial.println("led available");
+  }
+}
+
+
 void communicateWith(BLEDevice peripheral) {
   // connect to the peripheral
   Serial.println("Connecting ...");
   // if you can't connect, go back to the main loop:
   if (!peripheral.connect()) {
+    Serial.println("Can't connect");
     return;
   }
   // If you can't discover peripheral attributes
   // go back to the main loop:
   if (!peripheral.discoverAttributes()) {
+    Serial.println("Didn't discover attributes");
     peripheral.disconnect();
     return;
   }
-  // retrieve the characteristics:
-  BLECharacteristic buttonCharacteristic =
-    peripheral.characteristic("473dab7c-c93a-11e9-a32f-2a2ae2dbcce4");
-  BLECharacteristic ledCharacteristic =
-    peripheral.characteristic("473dacc6-c93a-11e9-a32f-2a2ae2dbcce4");
 
-  if (ledCharacteristic) {
-    if (ledCharacteristic.canWrite()) {
-      // you're in business with the LED
-      ledAvailable = true;
-    }
-  }
-
-  // subscribe to the simple key characteristic
-  Serial.println("Subscribing to simple key characteristic ...");
-  if (buttonCharacteristic) {
-    if (buttonCharacteristic.canSubscribe()) {
-      if (buttonCharacteristic.subscribe()) {
-        buttonSubscribed = true;
-      }
-    }
+  // loop the services of the peripheral and explore each
+  for (int i = 0; i < peripheral.serviceCount(); i++) {
+    BLEService service = peripheral.service(i);
+    exploreService(service);
   }
 
   // this while loop will run as long as you're connected to the peripheral:
@@ -108,27 +136,29 @@ void communicateWith(BLEDevice peripheral) {
     // if the button has changed:
     if (oldButtonState != buttonState) {
       // if the LED characteristic is available, change it:
-      if (ledAvailable) {
+      if (ledCharacteristic) {
         // change the peripheral's LED:
         ledCharacteristic.writeValue(buttonState);
+        Serial.println("writing to remote LED");
       }
       // save current button state for next check:
       oldButtonState = buttonState;
     }
 
-
-    if (buttonSubscribed) {
+    if (buttonCharacteristic) {
       // check the peripheral's button characteristic:
       if (buttonCharacteristic.valueUpdated()) {
+        Serial.println("remote button pressed");
         //if it's changed, read it:
         byte value = 0;
         buttonCharacteristic.readValue(value);
         // set the local LED to the state of the peripheral button characteristic:
         digitalWrite(LED_BUILTIN, value);
+        Serial.println("changing led");
       }
     }  // end of while peripheral connected
-    // turn the LED off for good measure:
-    digitalWrite(LED_BUILTIN, LOW);
-    Serial.println("Peripheral disconnected");
   }
+  // turn the LED off for good measure:
+  digitalWrite(LED_BUILTIN, LOW);
+  Serial.println("Peripheral disconnected");
 }
