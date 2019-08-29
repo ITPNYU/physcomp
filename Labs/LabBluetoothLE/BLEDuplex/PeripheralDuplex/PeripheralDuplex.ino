@@ -1,5 +1,4 @@
 /*
-  Button LED
 
   Peripheral duplex communication.
 
@@ -38,9 +37,9 @@ BLEByteCharacteristic ledCharacteristic("473dacc6-c93a-11e9-a32f-2a2ae2dbcce4",
 
 void setup() {
   Serial.begin(9600);
-
+  while (!Serial);
   pinMode(LED_BUILTIN, OUTPUT); // use the LED as an output
-  pinMode(buttonPin, INPUT); // use button pin as an input
+  pinMode(buttonPin, INPUT_PULLUP); // use button pin as an input
 
   // begin initialization
   BLE.begin();
@@ -62,24 +61,36 @@ void setup() {
 
   // start advertising
   BLE.advertise();
+  Serial.println("Peripheral is running");
 }
 
 void loop() {
-  // poll for BLE events
-  BLE.poll();
 
-  // read the current button pin state
-  char buttonValue = digitalRead(buttonPin);
+  BLEDevice central = BLE.central();
 
-  // if the button has changed since the last read:
-  if (buttonCharacteristic.value() != buttonValue) {
-    // update button characteristic:
-    buttonCharacteristic.writeValue(buttonValue);
-  }
+  if (central) {
+    Serial.println("Got a central");
+    while (central.connected()) {
+      // read the current button pin state
+      char buttonValue = digitalRead(buttonPin);
 
-  if (ledCharacteristic.written()) {
-    // update LED when central writes to characteristic:
-    byte ledState = ledCharacteristic.value();
-    digitalWrite(LED_BUILTIN, ledState);
+      // if the button has changed since the last read:
+      if (buttonCharacteristic.value() != buttonValue) {
+        // update button characteristic:
+        buttonCharacteristic.writeValue(buttonValue);
+        Serial.println("writing to button char..");
+      }
+
+      if (ledCharacteristic.written()) {
+        // update LED when central writes to characteristic:
+        byte ledState = ledCharacteristic.value();
+        digitalWrite(LED_BUILTIN, ledState);
+        Serial.println("changing LED");
+      }
+    }
+    
+    // when the central disconnects, print it out:
+    Serial.print(F("Disconnected from central: "));
+    Serial.println(central.address());
   }
 }
