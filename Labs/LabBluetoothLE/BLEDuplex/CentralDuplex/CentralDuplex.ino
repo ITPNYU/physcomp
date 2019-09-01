@@ -27,7 +27,11 @@ int oldButtonState = LOW;
 
 BLECharacteristic ledCharacteristic;
 BLECharacteristic buttonCharacteristic;
-long changeCount = 0;
+
+// kluge for valueUpdated() issue. Refers to the remote button,
+// not the local one:
+byte prevButtonValue = 0;
+
 
 // peripheral characteristic flags:
 bool ledAvailable = false;
@@ -70,37 +74,6 @@ void loop() {
   }
 }
 
-void exploreService(BLEService service) {
-  // loop the characteristics of the service and explore each
-  for (int i = 0; i < service.characteristicCount(); i++) {
-    BLECharacteristic characteristic = service.characteristic(i);
-    exploreCharacteristic(characteristic);
-  }
-}
-
-void exploreCharacteristic(BLECharacteristic characteristic) {
-  // check if the characteristic is readable
-  String thisUuid = String(characteristic.uuid());
-  if (characteristic.canSubscribe() &&
-      thisUuid == "473dab7c-c93a-11e9-a32f-2a2ae2dbcce4") {
-    Serial.println("can subscribe");
-    // read the characteristic value
-    buttonCharacteristic = characteristic;
-    if (buttonCharacteristic.subscribe()) {
-      Serial.println("button subscribed");
-    }
-  }
-  // Check if it's writable:
-  if (characteristic.canWrite() &&
-      thisUuid == "473dacc6-c93a-11e9-a32f-2a2ae2dbcce4") {
-    ledCharacteristic = characteristic;
-    Serial.println("led available");
-  }
-}
-
-// kluge for valueUpdated() issue:
-byte prevButtonValue = 0;
-
 void communicateWith(BLEDevice peripheral) {
   // connect to the peripheral
   Serial.println("Connecting ...");
@@ -116,13 +89,17 @@ void communicateWith(BLEDevice peripheral) {
     peripheral.disconnect();
     return;
   }
-
+  // if you don't know the UUIDs of the characteristics you want
+  // you can loop over the service and explore each service
+  // to see if it matches what you need:
   //  // loop the services of the peripheral and explore each
   //  for (int i = 0; i < peripheral.serviceCount(); i++) {
   //    BLEService service = peripheral.service(i);
   //    exploreService(service);
   //  }
 
+  // when you know the UUIDs of the characteristics you want,
+  // you can just pull them out of the remote peripheral like this:
   buttonCharacteristic = peripheral.characteristic("473dab7c-c93a-11e9-a32f-2a2ae2dbcce4");
   ledCharacteristic = peripheral.characteristic("473dacc6-c93a-11e9-a32f-2a2ae2dbcce4");
 
@@ -168,4 +145,36 @@ void communicateWith(BLEDevice peripheral) {
   // turn the LED off for good measure:
   digitalWrite(LED_BUILTIN, LOW);
   Serial.println("Peripheral disconnected");
+}
+
+// these functions ar for exploring a remote peripheral's
+// services and characteristics:
+void exploreService(BLEService service) {
+  // loop the characteristics of the service and explore each
+  for (int i = 0; i < service.characteristicCount(); i++) {
+    BLECharacteristic characteristic = service.characteristic(i);
+    exploreCharacteristic(characteristic);
+  }
+}
+
+void exploreCharacteristic(BLECharacteristic characteristic) {
+  // check if the characteristic is readable
+  String thisUuid = String(characteristic.uuid());
+  if (characteristic.canSubscribe() &&
+      // does it match the UUID you care about?
+      thisUuid == "473dab7c-c93a-11e9-a32f-2a2ae2dbcce4") {
+    Serial.println("can subscribe");
+    // read the characteristic value
+    buttonCharacteristic = characteristic;
+    if (buttonCharacteristic.subscribe()) {
+      Serial.println("button subscribed");
+    }
+  }
+  // Check if it's writable:
+  if (characteristic.canWrite() &&
+      // does it match the UUID you care about?
+      thisUuid == "473dacc6-c93a-11e9-a32f-2a2ae2dbcce4") {
+    ledCharacteristic = characteristic;
+    Serial.println("led available");
+  }
 }
