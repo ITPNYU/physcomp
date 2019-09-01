@@ -65,14 +65,13 @@ void setup() {
 }
 
 void loop() {
-
   BLEDevice central = BLE.central();
 
   if (central) {
     Serial.println("Got a central");
     while (central.connected()) {
       // read the current button pin state
-      char buttonValue = digitalRead(buttonPin);
+      byte buttonValue = digitalRead(buttonPin);
 
       // if the button has changed since the last read:
       if (buttonCharacteristic.value() != buttonValue) {
@@ -90,7 +89,7 @@ void loop() {
     }
 
     // when the central disconnects, print it out:
-    Serial.print(F("Disconnected from central: "));
+    Serial.print("Disconnected from central: ");
     Serial.println(central.address());
   }
 }

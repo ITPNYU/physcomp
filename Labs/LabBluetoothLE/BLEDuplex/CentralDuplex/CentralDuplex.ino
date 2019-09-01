@@ -98,7 +98,8 @@ void exploreCharacteristic(BLECharacteristic characteristic) {
   }
 }
 
-byte value = 0;
+// kluge for valueUpdated() issue:
+byte prevButtonValue = 0;
 
 void communicateWith(BLEDevice peripheral) {
   // connect to the peripheral
@@ -151,15 +152,16 @@ void communicateWith(BLEDevice peripheral) {
     if (buttonCharacteristic) {
       // check the peripheral's button characteristic:
       if (buttonCharacteristic.valueUpdated()) {
-        Serial.println("remote button pressed");
-        //if it's changed, read it:
-        // byte value = 0;
+        // if it's changed, read it:
+        // this is a kluge until valueUpdated() issue is solved:
+        byte value = 0;
         buttonCharacteristic.readValue(value);
-        changeCount += value;
-        Serial.println(changeCount);
-
-        // set the local LED to the state of the peripheral button characteristic:
-        digitalWrite(LED_BUILTIN, value);
+        if (prevButtonValue != value) {
+          Serial.println("remote button changed");
+          // set the local LED to the state of the peripheral button characteristic:
+          digitalWrite(LED_BUILTIN, value);
+          prevButtonValue = value;
+        }
       }
     }  // end of while peripheral connected
   }
