@@ -88,7 +88,7 @@ void loop() {
         Serial.println("changing LED");
       }
     }
-    
+
     // when the central disconnects, print it out:
     Serial.print(F("Disconnected from central: "));
     Serial.println(central.address());
