@@ -28,14 +28,10 @@ int oldButtonState = LOW;
 BLECharacteristic ledCharacteristic;
 BLECharacteristic buttonCharacteristic;
 
-// kluge for valueUpdated() issue. Refers to the remote button,
-// not the local one:
-byte prevButtonValue = 0;
-
-
 // peripheral characteristic flags:
 bool ledAvailable = false;
 bool buttonSubscribed = false;
+
 void setup() {
   Serial.begin(9600);
   while (!Serial);
@@ -115,33 +111,28 @@ void communicateWith(BLEDevice peripheral) {
     // read the button pin:
     byte buttonState = digitalRead(buttonPin);
     // if the button has changed:
-    if (oldButtonState != buttonState) {
-      // if the LED characteristic is available, change it:
-      if (ledCharacteristic) {
-        // change the peripheral's LED:
-        ledCharacteristic.writeValue(buttonState);
-        Serial.println("writing to remote LED");
-      }
-      // save current button state for next check:
-      oldButtonState = buttonState;
+    //    if (oldButtonState != buttonState) {
+    // if the LED characteristic is available, change it:
+    if (ledCharacteristic) {
+      // change the peripheral's LED:
+      ledCharacteristic.writeValue(buttonState);
+      Serial.println("writing to remote LED");
     }
-
-    if (buttonCharacteristic) {
-      // check the peripheral's button characteristic:
-      if (buttonCharacteristic.valueUpdated()) {
-        // if it's changed, read it:
-        // this is a kluge until valueUpdated() issue is solved:
-        byte value = 0;
-        buttonCharacteristic.readValue(value);
-        if (prevButtonValue != value) {
-          Serial.println("remote button changed");
-          // set the local LED to the state of the peripheral button characteristic:
-          digitalWrite(LED_BUILTIN, value);
-          prevButtonValue = value;
-        }
-      }
-    }  // end of while peripheral connected
+    // save current button state for next check:
+    oldButtonState = buttonState;
   }
+
+  if (buttonCharacteristic) {
+    // check the peripheral's button characteristic:
+    if (buttonCharacteristic.valueUpdated()) {
+      // if it's changed, read it:
+      byte value = 0;
+      buttonCharacteristic.readValue(value);
+      Serial.println("remote button changed");
+      // set the local LED to the state of the peripheral button characteristic:
+      digitalWrite(LED_BUILTIN, value);
+    }
+  }  // end of while peripheral connected
   // turn the LED off for good measure:
   digitalWrite(LED_BUILTIN, LOW);
   Serial.println("Peripheral disconnected");
