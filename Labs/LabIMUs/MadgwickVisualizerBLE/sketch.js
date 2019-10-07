@@ -6,7 +6,15 @@
 	Uses these numbers (all floats)
 	to position a 3D model of an Arduino Nano onscreen
 
+	Note: this sketch currently uses a MODIFIED version of p5.ble.min.js. it replaces 
+	r=n.getFloat32(0);
+	with
+	r=n.getFloat32(0, true);
+
+	Watch https://github.com/ITPNYU/p5.ble.js for updates.
+
 	created 13 Aug 2019
+	modified 7 Oct 2019
 	by Tom Igoe
 */
 // UUIDs for the service and the three characteristics:

@@ -85,6 +85,8 @@ void loop() {
   }
 }
 
+long lastUpdate = 0;
+
 void updateOrientation() {
   // values for acceleration & rotation:
   float xAcc, yAcc, zAcc;
@@ -99,22 +101,23 @@ void updateOrientation() {
 
     // update the filter, which computes orientation:
     filter.updateIMU(xGyro, yGyro, zGyro, xAcc, yAcc, zAcc);
+    if (millis() -lastUpdate > 3000) {
+      lastUpdate = millis();
+      // update the heading, pitch and roll:
+      roll = filter.getRoll();
+      pitch = filter.getPitch();
+      heading = filter.getYaw();
+      Serial.print("Orientation: ");
+      Serial.print(heading);
+      Serial.print(" ");
+      Serial.print(pitch);
+      Serial.print(" ");
+      Serial.println(roll);
 
-    // update the heading, pitch and roll:
-    roll = filter.getRoll();
-    pitch = filter.getPitch();
-    heading = filter.getYaw();
-    Serial.print("Orientation: ");
-    Serial.print(heading);
-    Serial.print(" ");
-    Serial.print(pitch);
-    Serial.print(" ");
-    Serial.println(roll);
-
-    // update the BLE characteristics with the orientation values:
-    headingCharacteristic.writeValue(heading);
-    pitchCharacteristic.writeValue(pitch);
-    rollCharacteristic.writeValue(roll);
-
+      // update the BLE characteristics with the orientation values:
+      headingCharacteristic.writeValue(heading);
+      pitchCharacteristic.writeValue(pitch);
+      rollCharacteristic.writeValue(roll);
+    }
   }
 }
