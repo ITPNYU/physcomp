@@ -66,7 +66,7 @@ function draw() {
 
 		pop(); // end of object
 		// you've used the new data:
-		console.log(heading + "   " + pitch + "   " + roll);
+		// console.log(heading + "   " + pitch + "   " + roll);
 		newData = false;
 	}
 }
