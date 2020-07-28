@@ -15,15 +15,9 @@
   - Any Arduino and APDS9960 breakout board, with:
     - APDS9960 SDA connected to Arduino SDA (A4)
     - APDS9960 SCL connected to Arduino SCL (A5)
-    - APDS9960 INT connected to Arduino Digital 2
 */
 
 #include <Arduino_APDS9960.h>
-
-// interrupt pin:
-const int interruptPin = 2;
-// interrupt flag:
-volatile bool sensorReady = false;
 
 void setup() {
   Serial.begin(9600);
@@ -37,35 +31,26 @@ void setup() {
   }
 
   Serial.println("Sensor is working");
-  APDS.setInterruptPin(interruptPin);
-  attachInterrupt(digitalPinToInterrupt(interruptPin), sensorChange, FALLING);
 }
 
 void loop() {
-  // don't do anything until the sensor's ready:
-  if (sensorReady) {
-    // red, green, blue, clear channels:
-    int r, g, b, c;
+  // red, green, blue, clear channels:
+  int r, g, b, c;
 
-    // if the sensor has a reading:
-    if (APDS.colorAvailable()) {
-        // read the color
-      APDS.readColor(r, g, b, c);
+  // if the sensor has a reading:
+  if (APDS.colorAvailable()) {
 
-      // print the values
-      Serial.print(r);
-      Serial.print(",");
-      Serial.print(g);
-      Serial.print(",");
-      Serial.print(b);
-      Serial.print(",");
-      Serial.println(c);
-      // reset the interrupt flag:
-      sensorReady = false;
-    }
+    // read the color
+    APDS.readColor(r, g, b, c);
+
+    // print the values
+    Serial.print(r);
+    Serial.print(",");
+    Serial.print(g);
+    Serial.print(",");
+    Serial.print(b);
+    Serial.print(",");
+    Serial.println(c);
   }
-}
 
-void sensorChange() {
-  sensorReady = true;
 }

@@ -1,5 +1,6 @@
 /*
   APDS9960 - Proximity Sensor
+  Uses the Arduino_APDS9960 library
 
   This example reads proximity data from  an APDS9960 sensor
   and prints  detected gestures to the Serial Monitor.
@@ -40,5 +41,4 @@ void loop() {
     int proximity = APDS.readProximity();
     Serial.println(proximity);
   }
-    delay(2000);
 }

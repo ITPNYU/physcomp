@@ -1,60 +1,62 @@
 /*
   APDS9960 - Gesture Sensor
-
+  Uses the Sparkfun_APDS9960 library
+  
   This example reads gesture data from  an APDS9960 sensor
   and prints  detected gestures to the Serial Monitor.
 
   Gesture directions are as follows: UP (1), DOWN (1), LEFT (2), RIGHT (3)
+  NEAR(4), FAR (5)
   Works at about 10cm or less.
 
-  Works with Nano 33 BLE Sense, and Sparkfun and Adafruit APDS9960 breakout boards
-
   The circuit:
-  - Arduino Nano 33 BLE Sense
-  or
   - Any Arduino and APDS9960 breakout board, with:
     - APDS9960 SDA connected to Arduino SDA (A4)
     - APDS9960 SCL connected to Arduino SCL (A5)
 */
 
-#include <Arduino_APDS9960.h>
+
+#include <SparkFun_APDS9960.h>
+SparkFun_APDS9960 apds = SparkFun_APDS9960();
 
 void setup() {
   Serial.begin(9600);
   // wait for Serial Monitor to open:
   while (!Serial);
   // if the sensor doesn't initialize, let the user know:
-  if (!APDS.begin()) {
+  if ( !apds.init()) {
     Serial.println("APDS9960 sensor not working. Check your wiring.");
     // stop the sketch:
     while (true);
   }
 
-  // gesture sensitivity range: 1 - 100. Default: 80
-  // higher means more sensitivity, more errors.
-  // lower means less sensitivity, less errors.
-  APDS.setGestureSensitivity(80);
+  apds.enableGestureSensor(true);
   Serial.println("Sensor is working");
 }
 void loop() {
   // if the sensor has a reading:
-  if (APDS.gestureAvailable()) {
+  if (apds.isGestureAvailable()) {
     // and a gesture was detected:
-    int gesture = APDS.readGesture();
-    Serial.println(gesture);
+    uint8_t gesture = apds.readGesture();
     // gestures have numeric values and constant names:
     switch (gesture) {
-      case GESTURE_UP:   // 0
+      case DIR_UP:   // 0
         Serial.println("UP");
         break;
-      case GESTURE_DOWN: // 1
+      case DIR_DOWN: // 1
         Serial.println("DOWN");
         break;
-      case GESTURE_LEFT: // 2
+      case DIR_LEFT: // 2
         Serial.println("LEFT");
         break;
-      case GESTURE_RIGHT: // 3
+      case DIR_RIGHT: // 3
         Serial.println("RIGHT");
+        break;
+      case DIR_NEAR:
+        Serial.println("NEAR");
+        break;
+      case DIR_FAR:
+        Serial.println("FAR");
         break;
     }
   }
