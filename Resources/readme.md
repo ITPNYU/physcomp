@@ -24,24 +24,21 @@ How to share your circuits live via Video
 * a [less expensive alternative](https://smile.amazon.com/gp/product/B072KNBV21/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) from Amazon
 * [Gorillapod flexible tripods](https://joby.com/us-en/gorillapod-flexible-camera-tripods/)
 * [Gooseneck phone holder](https://www.amazon.com/Phone-Holder-Bed-Gooseneck-Mount/dp/B07PLF1KMB/) from Amazon
-* [Gooseneck phone holder with Selfie Ring Light(https://www.amazon.com/dp/B07BTH1F3M/)] from Amazon
+* [Gooseneck phone holder with Selfie Ring Light](https://www.amazon.com/dp/B07BTH1F3M/) from Amazon
 
 
 
 
 ### Document cameras
 
-[IPevo document cameras](https://www.ipevo.com/products/vz-r
+* [IPevo document cameras](https://www.ipevo.com/products/vz-r
 ). We have used these on the floor at ITP. They are good for circuit sharing in a studio or classroom setup.
 
 ## Text Tools
 
-[codeshare.io](https://codeshare.io/) A shared code editing site. It's very barebones, but it's fast and easy to get set up and edit together in real time. 
-
-Microsoft [Visual Studio Code](https://code.visualstudio.com/) is a decent text editor that is optimized for screen readers. If you have the Arduino IDE installed on your machine, the [Arduino Plugin for VS Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) makes a good screen reader-friendly editor. The Arduino plugin gives you access to most of the tools in the Arduino IDE: boards manager, library manager, examples, compile and upload, and serial monitor. The [VS Live Share Plugin](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) allows you to share code live with other users over a network in real time as well. Setup time for a group is not fast, though, and requires a login.
-
-
-[github](https://github.com/) - Github is the most common code management platform used at ITP. It's very useful for managing code and circuit drawing versioning among a group. You're probably using it right now, if you're reading this. 
+* [codeshare.io](https://codeshare.io/) A shared code editing site. It's very barebones, but it's fast and easy to get set up and edit together in real time. 
+* Microsoft [Visual Studio Code](https://code.visualstudio.com/) is a decent text editor that is optimized for screen readers. If you have the Arduino IDE installed on your machine, the [Arduino Plugin for VS Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) makes a good screen reader-friendly editor. The Arduino plugin gives you access to most of the tools in the Arduino IDE: boards manager, library manager, examples, compile and upload, and serial monitor. The [VS Live Share Plugin](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) allows you to share code live with other users over a network in real time as well. Setup time for a group is not fast, though, and requires a login.
+* [github](https://github.com/) - Github is the most common code management platform used at ITP. It's very useful for managing code and circuit drawing versioning among a group. You're probably using it right now, if you're reading this. 
 
 ## Drawing Tools
 
