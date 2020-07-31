@@ -2,7 +2,7 @@
 
 Here are some tools for sharing circuits, code, and fabrication techniques with your classmates and instructors when you can't be physically in the same place together. 
 
-These have been collected from a number of sources. Thanks especially to the tangible tactics group, a loose collection of faculty and staff from  Ryerson University, OCADU, Sheridan College, NYU, and others.  
+These have been collected from a number of sources. Thanks especially to the tangible tactics group, a loose collection of faculty and staff from  [Ryerson University School of Media](https://www.ryerson.ca/rta/About/), [OCAD University Digital Futures](https://www.ocadu.ca/academics/undergraduate-studies/digital-futures) program, [Sheridan College Interaction design](https://academics.sheridancollege.ca/programs/bachelor-of-interaction-design) program, [NYU ITP/IMA](https://itp.nyu.edu), and others.  
 
 ## Video Tools
 
