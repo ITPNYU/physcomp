@@ -145,7 +145,7 @@ float readSensor( int thisValue) {
   if (isnan(result)) {
     // an impossible result for either reading
     // so it'll work as an error:
-    result = -273.0;
+    result = -273.15;
   }
   return result;
 }
