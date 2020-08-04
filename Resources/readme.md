@@ -27,8 +27,6 @@ How to share your circuits live via Video
 * [Gooseneck phone holder with Selfie Ring Light](https://www.amazon.com/dp/B07BTH1F3M/) from Amazon
 
 
-
-
 ### Document cameras
 
 * [IPevo document cameras](https://www.ipevo.com/products/vz-r
@@ -55,7 +53,7 @@ When drawing circuits, using common [electronic schematic symbols] and sharing y
 
 The [TS04 Multimeter](https://www.generaltools.com/ts04-digitalmultimeter) ([Amazon Canada link](https://www.amazon.ca/General-Tools-TS04-Multimeter-Auto-Ranging/dp/B01FHQ3V8O), thanks Steve Daniels) is a multimeter that connects to an Android/iOS app that works through a screen reader. It is possible to [write your own HTML interface](https://github.com/tigoe/TS04-Bluetooth-Meter) for the TS04 meter as well, using the web-bluetooth JavaScript framework. Here are some [details on the TS04 protocol](https://www.tigoe.com/pcomp/code/javascript/1309/). You can connect to the connect to the TS04 meter from [this link](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tigoe/TS04-Bluetooth-Meter/master/index.html) if you have one. This only works on the Chrome browser, as of this writing. 
 
-##  Keyboard control 
+##  Keyboard Control 
 
 [Arduino sketch to control Zoom](https://github.com/ITPNYU/physcomp/tree/master/Labs/LabKeyboardZoom/KeyboardPushbuttonZoomControl) via a USB-native Arduino
 
