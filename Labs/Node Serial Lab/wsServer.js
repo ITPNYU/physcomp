@@ -8,24 +8,24 @@ node wsServer.js portName
 where portname is the name of your serial port, e.g. /dev/tty.usbserial-xxxx (on OSX)
 
 created 28 Aug 2015
-modified 5 Nov 2017
+modified 6 Aug 2020
 by Tom Igoe
 
 */
 
 // include the various libraries that you'll use:
-var SerialPort = require('serialport');			// include the serialport library
-var	portName =  process.argv[2];						// get the port name from the command line
-var WebSocketServer = require('ws').Server;   // include the webSocket library
+let SerialPort = require('serialport');			// include the serialport library
+let	portName =  process.argv[2];						// get the port name from the command line
+let WebSocketServer = require('ws').Server;   // include the webSocket library
 
 // configure the webSocket server:
-var SERVER_PORT = 8081;                 // port number for the webSocket server
-var wss = new WebSocketServer({port: SERVER_PORT}); // the webSocket server
-var connections = new Array;            // list of connections to the server
+const SERVER_PORT = 8081;                 // port number for the webSocket server
+let wss = new WebSocketServer({port: SERVER_PORT}); // the webSocket server
+let connections = new Array;            // list of connections to the server
 
-var myPort = new SerialPort(portName, 9600);// open the port
-var Readline = SerialPort.parsers.Readline;	// make instance of Readline parser
-var parser = new Readline();								// make a new parser to read ASCII lines
+let myPort = new SerialPort(portName, 9600);// open the port
+let Readline = SerialPort.parsers.Readline;	// make instance of Readline parser
+let parser = new Readline();								// make a new parser to read ASCII lines
 myPort.pipe(parser);													// pipe the serial stream to the parser
 
 // these are the definitions for the serial events:
@@ -75,7 +75,7 @@ function handleConnection(client) {
 
   client.on('close', function() {           // when a client closes its connection
     console.log("connection closed");       // print it out
-    var position = connections.indexOf(client); // get the client's position in the array
+    let position = connections.indexOf(client); // get the client's position in the array
     connections.splice(position, 1);        // and delete it from the array
   });
 }

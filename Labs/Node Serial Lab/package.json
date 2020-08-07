@@ -3,9 +3,9 @@
   "version": "0.0.5",
   "author": "Tom Igoe",
   "dependencies": {
-    "serialport": "*",
-    "ws": "*",
-    "express": "*"
+    "express": "*",
+    "serialport": "^9.0.0",
+    "ws": "^7.3.1"
   },
   "engines": {
     "node": "0.10.x",
