@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 576 359" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;">
+    <g>
+        <g transform="matrix(1,0,0,1,74.9353,12.6912)">
+            <rect x="172.092" y="28.866" width="86.674" height="65.002" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,74.9353,12.6912)">
+            <path d="M172.092,93.868L258.766,93.868" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,74.9353,12.6912)">
+            <path d="M258.766,93.868L258.766,28.866" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,74.9353,12.6912)">
+            <path d="M258.766,28.866L172.092,28.866" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,74.9353,12.6912)">
+            <path d="M172.092,28.866L172.092,93.868" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g id="connector1pin_1_" transform="matrix(1,0,0,1,74.9353,12.6912)">
+            <path d="M150.426,50.534L172.092,50.534" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:2px;"/>
+        </g>
+        <g id="connector0pin_1_" transform="matrix(1,0,0,1,74.9353,12.6912)">
+            <path d="M215.428,115.539L215.428,93.868" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:2px;"/>
+        </g>
+        <g id="connector2pin_1_" transform="matrix(1,0,0,1,74.9353,12.6912)">
+            <path d="M280.434,50.534L258.766,50.534" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:2px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,28.4785,-61.4012)">
+        <g>
+            <g transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <path d="M292.706,-131.233L298.124,-131.233" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <path d="M254.789,-131.233L292.706,-142.067" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <circle cx="254.789" cy="-131.237" r="1.084" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <circle cx="298.124" cy="-131.237" r="1.084" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <path d="M298.124,-152.899L298.124,-109.569" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <path d="M254.789,-152.899L254.789,-109.569" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g id="connector3pin" transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <path d="M234.091,-109.569L254.789,-109.569" style="fill:none;fill-rule:nonzero;stroke:rgb(85,85,85);stroke-width:2px;"/>
+            </g>
+            <g id="connector2pin_2_" transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <path d="M234.091,-152.899L254.789,-152.899" style="fill:none;fill-rule:nonzero;stroke:rgb(85,85,85);stroke-width:2px;"/>
+            </g>
+            <g id="connector1pin_2_" transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <path d="M318.74,-109.569L298.124,-109.569" style="fill:none;fill-rule:nonzero;stroke:rgb(85,85,85);stroke-width:2px;"/>
+            </g>
+            <g id="connector0pin_2_" transform="matrix(0,1,-1,0,342.47,-109.534)">
+                <path d="M318.74,-152.899L298.124,-152.899" style="fill:none;fill-rule:nonzero;stroke:rgb(85,85,85);stroke-width:2px;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,116.157,100.733)">
+        <g>
+            <g transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M34.654,161.115L37.904,152.445" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M37.904,152.445L43.32,169.779" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M43.32,169.779L48.736,152.445" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M48.736,152.445L54.153,169.779" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M54.153,169.779L59.569,152.445" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M59.569,152.445L64.988,169.779" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M64.988,169.779L70.404,152.445" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M70.404,152.445L75.821,169.779" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M75.821,169.779L77.986,161.115" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g id="connector1pin_3_" transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M99.654,161.115L77.986,161.115" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:2px;"/>
+            </g>
+            <g id="connector0pin_3_" transform="matrix(0,-1,1,0,246.897,180.345)">
+                <path d="M12.983,161.115L34.654,161.115" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:2px;"/>
+            </g>
+        </g>
+    </g>
+    <g>
+        <g transform="matrix(-1,2.57889e-06,-2.57889e-06,-1,426.131,196.223)">
+            <g id="connector0terminal_4_">
+                <rect x="381.309" y="-71.538" width="0.003" height="0.006" style="fill:none;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0.352431,2.20052)">
+            <g transform="matrix(0,1,-1,0,357.286,-114.566)">
+                <path d="M381.31,-93.206L370.474,-114.876L392.142,-114.876L381.31,-93.206Z" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M381.31,-90.855L368.773,-115.929L393.846,-115.929L381.31,-90.855ZM372.179,-113.825L381.31,-95.563L390.438,-113.825L372.179,-113.825Z" style="fill-rule:nonzero;"/>
+            </g>
+            <g>
+                <g transform="matrix(1,0,0,1,6.64323,7.65017)">
+                    <g transform="matrix(0,1,-1,0,445.134,-118.58)">
+                        <path d="M353.518,6.31L356.768,-1.276L361.096,3.05L353.518,6.31Z" style="fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1.34332,0,0,1.33319,-151.921,-79.4464)">
+                        <path d="M442.512,238.44L447.657,243.585" style="fill:none;stroke:black;stroke-width:1.49px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,12.5712,2.49219)">
+                    <g transform="matrix(0,1,-1,0,445.134,-118.58)">
+                        <path d="M353.518,6.31L356.768,-1.276L361.096,3.05L353.518,6.31Z" style="fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1.34332,0,0,1.33319,-151.921,-79.4464)">
+                        <path d="M442.512,238.44L447.657,243.585" style="fill:none;stroke:black;stroke-width:1.49px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(4.58231e-17,0.748348,-0.854921,5.23488e-17,679.979,-113.97)">
+                <path d="M523.847,268.482L493.63,268.841" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-1.67547)">
+                <path d="M428.942,268.419L493.29,268.419" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-136.094,2.65279)">
+            <g transform="matrix(0,1,-1,0,357.286,-114.566)">
+                <path d="M381.31,-93.206L370.474,-114.876L392.142,-114.876L381.31,-93.206Z" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M381.31,-90.855L368.773,-115.929L393.846,-115.929L381.31,-90.855ZM372.179,-113.825L381.31,-95.563L390.438,-113.825L372.179,-113.825Z" style="fill-rule:nonzero;"/>
+            </g>
+            <g>
+                <g transform="matrix(1,0,0,1,6.64323,7.65017)">
+                    <g transform="matrix(0,1,-1,0,445.134,-118.58)">
+                        <path d="M353.518,6.31L356.768,-1.276L361.096,3.05L353.518,6.31Z" style="fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1.34332,0,0,1.33319,-151.921,-79.4464)">
+                        <path d="M442.512,238.44L447.657,243.585" style="fill:none;stroke:black;stroke-width:1.49px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,12.5712,2.49219)">
+                    <g transform="matrix(0,1,-1,0,445.134,-118.58)">
+                        <path d="M353.518,6.31L356.768,-1.276L361.096,3.05L353.518,6.31Z" style="fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1.34332,0,0,1.33319,-151.921,-79.4464)">
+                        <path d="M442.512,238.44L447.657,243.585" style="fill:none;stroke:black;stroke-width:1.49px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(4.58231e-17,0.748348,-0.854921,5.23488e-17,679.979,-113.97)">
+                <path d="M523.847,268.482L493.63,268.841" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-1.67547)">
+                <path d="M428.942,268.419L493.29,268.419" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
+    </g>
+    <g>
+        <path d="M225.361,63.225L83.548,64.1" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+    </g>
+    <g>
+        <path d="M355.37,63.225L480.364,62.991" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+    </g>
+    <g>
+        <path d="M523.741,146.767L523.847,181.811" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+    </g>
+    <g>
+        <path d="M523.847,268.482L493.63,268.841" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+    </g>
+    <g>
+        <path d="M83.548,85.344L83.548,128.229" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+        <g>
+            <g>
+                <path d="M64.424,85.428L18.722,85.428" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(1,0,0,0.850853,0,14.5149)">
+                    <path d="M9.823,43.537L62.86,43.537L62.86,97.319L8.74,97.319" style="fill:none;stroke:black;stroke-width:2.15px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-20,0.253071)">
+                    <path d="M83.357,64.047L71.733,64.047L65.955,69.826L54.261,69.826L48.369,63.933L37.091,63.933" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,0.269673)">
+                    <path d="M62.674,63.917L83.577,63.917" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <path d="M63.3,85.372L83.378,85.372" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,6.49759,69.5426)">
+                <g id="schematicLabel_1_">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15.047px;">+</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,8.49759,89.8317)">
+                <g id="schematicLabel_1_1" serif:id="schematicLabel_1_">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15.047px;">-</text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g>
+        <path d="M83.548,128.229L290.365,128.229" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+    </g>
+    <circle cx="290.365" cy="128.229" r="4.334"/>
+    <g>
+        <path d="M428.627,268.841L354.324,269.41" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+    </g>
+    <g>
+        <path d="M289.317,269.41L290.365,128.229" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+    </g>
+    <circle cx="290.365" cy="128.229" r="4.334"/>
+    <circle cx="289.319" cy="268.482" r="4.334"/>
+    <g transform="matrix(1,0,0,1,0.4,0)">
+        <g>
+            <g id="partLabel">
+            </g>
+        </g>
+    </g>
+    <g id="partLabel_1_">
+        <g transform="matrix(1,0,0,1,278.943,77.2275)">
+            <g id="schematicLabel_1_2" serif:id="schematicLabel_1_">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15.047px;">IC1</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,25.847,41.8551)">
+            <g id="schematicLabel_1_3" serif:id="schematicLabel_1_">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15.047px;">U1</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,450.62,108.674)">
+        <g id="partLabel_2_">
+            <g>
+                <g id="schematicLabel_2_">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15.047px;">S1</text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,491.268,230.599)">
+        <g id="partLabel_3_">
+            <g>
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15.047px;">R1</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,447.727,302.058)">
+        <g id="partLabel_4_">
+            <g>
+                <g id="schematicLabel_4_">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15.047px;">LED1</text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="partLabel_5_">
+        <g transform="matrix(1,0,0,1,307.149,302.058)">
+            <g id="schematicLabel_5_">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15.047px;">LED2</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,317.967,350.912)">
+            <g id="schematicLabel_5_1" serif:id="schematicLabel_5_">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:15.047px;">G</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,150.149,113.38)">
+        <g>
+            <g id="schematic_6_">
+                <path id="connector0pin_6_" d="M139.119,226.026L139.119,202.345" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:2px;"/>
+                <path id="path4098" d="M117.078,226.475L161.155,226.475" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+                <path id="path4100" d="M124.419,235.502L153.808,235.502" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+                <path id="path4102" d="M146.455,244.447L131.769,244.447" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,0,2)">
+        <path d="M289.318,268.355L289.318,315.725" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2px;"/>
+    </g>
+</svg>
