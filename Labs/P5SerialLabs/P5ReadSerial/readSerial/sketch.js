@@ -1,7 +1,8 @@
-var serial;                             // variable to hold an instance of the serialport library
-var portName = '/dev/cu.usbmodem1412301';  // fill in your serial port name here
-var inData;                             // for incoming serial data
-var serialDiv;                        // an HTML div to show incoming serial data
+let serial;                             // variable to hold an instance of the serialport library
+let portName = '/dev/cu.usbmodem1412301';  // fill in your serial port name here
+let inData;                             // for incoming serial data
+let serialDiv;                        // an HTML div to show incoming serial data
+
 function setup() {
   createCanvas(400, 300);
   createHTML();                       // make some HTML to place incoming data into
