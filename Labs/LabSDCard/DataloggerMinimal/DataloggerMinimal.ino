@@ -36,11 +36,13 @@ void setup() {
   int ledState = HIGH;
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(cardDetect, INPUT);
-
+  Serial.begin(9600);
+  
   // if the card detect pin is false, no card:
   while (digitalRead(cardDetect) == LOW) {
     // toggle LED every 1/4 second while the SD card's not present:
     digitalWrite(LED_BUILTIN, HIGH);
+    Serial.println("no card");
   }
   // give the reader 5 seconds to settle the card once it's detected:
   delay(5000);
@@ -52,9 +54,11 @@ void setup() {
     // change the LED state:
     ledState = !ledState;
     delay(250);
+    Serial.println("no reader respnonseing");
   }
   // turn the LED off:
   digitalWrite(LED_BUILTIN, LOW);
+
 }
 
 void loop() {
@@ -71,7 +75,7 @@ void loop() {
     dataString += String(",");
     int sensorTwo = analogRead(A1);
     dataString += String(sensorTwo);
-
+Serial.println("writing");
     // open the file. Only one file can be open at a time,
     // so you have to close this one before opening another.
     File dataFile = SD.open(fileName, FILE_WRITE);

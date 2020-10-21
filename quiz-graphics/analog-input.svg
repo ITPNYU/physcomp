@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1385 1599" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:bevel;">
+    <g id="Artboard2" transform="matrix(1,0,0,1,-5309.38,-4292.43)">
+        <rect x="5309.38" y="4292.43" width="1384.38" height="1598.21" style="fill:none;"/>
+        <g id="path3970" transform="matrix(2.55135e-16,-4.16667,4.16667,2.55135e-16,3118.89,5636.63)">
+            <path d="M182,710.417L171.5,710.417L168,703.417L161,717.417L154,703.417L147,717.417L140,703.417L133,717.417L129.5,710.417L119,710.417" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,51.6895,39.751)">
+            <g id="path1006" transform="matrix(2.55135e-16,-4.16667,4.16667,2.55135e-16,2744.45,5182.81)">
+                <path d="M147,787.417L136.5,787.417L133,780.417L126,794.417L119,780.417L112,794.417L105,780.417L98,794.417L94.5,787.417L84,787.417" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g id="path1010" transform="matrix(2.55135e-16,-4.16667,4.16667,2.55135e-16,2744.45,5182.81)">
+                <path d="M126,801.417L105,773.417" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linejoin:miter;"/>
+            </g>
+            <g id="path1012" transform="matrix(2.55135e-16,-4.16667,4.16667,2.55135e-16,2744.45,5182.81)">
+                <path d="M122.5,804.042L129.5,798.792L131.25,808.417L122.5,804.042Z" style="fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+        </g>
+        <g id="g2396" transform="matrix(4.16667,0,0,4.16667,5283.39,4360.56)">
+            <path id="path3980" d="M211.937,201.258L169.937,201.258" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:square;stroke-linejoin:miter;"/>
+            <path id="path3984" d="M190.937,187.258L190.937,201.258" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linejoin:miter;"/>
+            <path id="path3994" d="M204.937,208.258L176.937,208.258" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:square;stroke-linejoin:miter;"/>
+            <path id="path3996" d="M197.937,215.258L183.937,215.258" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:square;stroke-linejoin:miter;"/>
+        </g>
+        <g id="path1300" transform="matrix(4.16667,0,0,4.16667,4735.48,2816.65)">
+            <path d="M322,430.417L322,414.667" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linejoin:miter;"/>
+        </g>
+        <g id="circle1302" transform="matrix(-1.59524e-15,4.16667,-4.16667,-1.59524e-15,4732.48,2816.65)">
+            <circle cx="409.417" cy="-322" r="5.25" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+        <g transform="matrix(4.16667,0,0,4.16667,6074.15,4464.22)">
+            <text x="-20.199px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:13.333px;">+3.3V</text>
+        </g>
+        <g transform="matrix(4.16667,0,0,4.16667,5699.94,4587.35)">
+            <g id="text1317">
+                <text x="-49.167px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:13.333px;">Microcontroller</text>
+            </g>
+        </g>
+        <g transform="matrix(4.16667,0,0,4.16667,6383.59,4762.38)">
+            <text x="-52.806px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:13.333px;">Variable resistor</text>
+        </g>
+        <g transform="matrix(4.16667,0,0,4.16667,6342.37,5046.9)">
+            <text x="-40.778px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:13.333px;">ﬁxed resistor</text>
+        </g>
+        <g id="circle1050" transform="matrix(4.16667,0,0,4.16667,5696.44,2647.4)">
+            <circle cx="91" cy="535.417" r="4.375"/>
+        </g>
+        <g transform="matrix(1,0,0,1,42.3536,-239.246)">
+            <path d="M6033.25,5117.55L5781.18,5117.55" style="fill:none;stroke:black;stroke-width:8.33px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,42.3536,-239.246)">
+            <rect x="5538.05" y="4866.87" width="243.127" height="461.785" style="fill:none;stroke:black;stroke-width:8.33px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+    </g>
+</svg>
