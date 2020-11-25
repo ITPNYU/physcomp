@@ -1,0 +1,3 @@
+div {
+  font-size: calc(24px + 6 * ((100vw - 320px) / 680));
+}
