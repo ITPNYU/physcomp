@@ -9,12 +9,12 @@ node index.js portName
 where portname is the name of your serial port, e.g. /dev/tty.usbserial-xxxx (on OSX)
 
 created 19 Sept 2014
-modified 5 Nov 2017
+modified 26 July 2021
 by Tom Igoe
 */
 
-let SerialPort = require('serialport');			// include the serialport library
-let	portName =  process.argv[2];						// get the port name from the command line
+let SerialPort = require('serialport');     // include the serialport library
+let	portName =  process.argv[2];            // get the port name from the command line
 
 // if they didn't give a port name, tell them so, then quit:
 if (!portName) {
