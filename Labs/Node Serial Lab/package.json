@@ -4,8 +4,8 @@
   "author": "Tom Igoe",
   "dependencies": {
     "express": "*",
-    "serialport": "^9.0.0",
-    "ws": "^7.4.6"
+    "serialport": "^9.2.0",
+    "ws": "^7.5.3"
   },
   "engines": {
     "node": "0.10.x",

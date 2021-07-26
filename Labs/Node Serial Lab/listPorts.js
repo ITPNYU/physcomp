@@ -1,8 +1,7 @@
-var serialport = require('serialport');
+let serialport = require('serialport');
 
 // list serial ports:
-serialport.list(function (err, ports) {
-  ports.forEach(function(port) {
-    console.log(port.comName);
-  });
-});
+serialport.list().then (
+  ports => ports.forEach(port =>console.log(port.path)),
+  err => console.log(err)
+)
