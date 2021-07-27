@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 173 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;">
+    <g id="partLabel">
+    </g>
+    <g id="Artboard1" transform="matrix(1,0,0,1,-33.2201,3.99142)">
+        <rect x="33.22" y="-3.991" width="172.228" height="196.551" style="fill:none;"/>
+        <g transform="matrix(0,-1,1,0,133.027,87.6296)">
+            <g>
+                <g>
+                    <g id="schematic">
+                        <path d="M7.5,3.1L8.6,0.2" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                        <path d="M8.6,0.2L10.4,6" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                        <path d="M10.4,6L12.2,0.2" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                        <path d="M12.2,0.2L14,6" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                        <path d="M14,6L15.8,0.2" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                        <path d="M15.8,0.2L17.6,6" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                        <path d="M17.6,6L19.4,0.2" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                        <path d="M19.4,0.2L21.2,6" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                        <path d="M21.2,6L22,3.1" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                        <path id="connector1pin" d="M29.2,3.1L22,3.1" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                        <path id="connector0pin" d="M0.3,3.1L7.5,3.1" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,-1,136.194,60.0086)">
+            <g>
+                <g>
+                    <g id="schematic_1_">
+                        <path d="M50.8,0.4L36.3,14.8L14.8,14.8L14.8,43.6L36.3,43.6L50.8,58L50.8,0.4Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:0.9px;stroke-linejoin:round;"/>
+                        <path id="connector0pin_1_" d="M0.4,22L14.8,22" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.75px;"/>
+                        <path id="connector1pin_1_" d="M0.4,36.4L14.8,36.4" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.75px;"/>
+                        <path d="M36.3,43.6L36.3,14.8" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,128.943,170.627)">
+            <g>
+                <g id="schematic_2_">
+                    <path id="connector0pin_2_" d="M7.2,7.6L7.2,0.4" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.75px;"/>
+                    <path id="path4098" d="M0.5,7.7L13.9,7.7" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                    <path id="path4100" d="M2.7,10.5L11.6,10.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                    <path id="path4102" d="M9.4,13.2L5,13.2" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-55.2469,-77.7504)">
+            <path d="M191.8,101.4L169,101.5" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-55.2469,-77.7504)">
+            <path d="M191.4,136.2L191.8,115.8" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-957.622,-581.39)">
+            <g id="g3319">
+                <circle id="circle3193" cx="1079.75" cy="710.417" r="28" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;"/>
+                <path id="path3203" d="M1037.75,710.417L1072.75,710.417" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.7px;"/>
+                <path id="path3205" d="M1072.75,692.917L1072.75,727.917" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+                <path id="path3207" d="M1072.75,701.667L1093.75,685.917L1093.75,668.417" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.7px;"/>
+                <path id="path3209" d="M1093.75,752.417L1093.75,734.917L1072.75,719.167" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.7px;"/>
+                <path id="path3211" d="M1081.5,731.417L1086.75,724.417L1091.12,733.167L1081.5,731.417Z" style="fill-rule:nonzero;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+        </g>
+        <g id="partLabel_1_" transform="matrix(1,0,0,1,0.220084,0.00857508)">
+            <g transform="matrix(1,0,0,1,139.808,76.271)">
+                <g id="schematicLabel_1_">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:5px;">100Ω</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,47.7708,125.808)">
+                <g id="schematicLabel_1_1" serif:id="schematicLabel_1_">
+                    <g>
+                        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:5px;">T<tspan x="2.5px 5.281px 6.394px 9.729px " y="0px 0px 0px 0px ">o Ar</tspan>duino</text>
+                        <text x="0px" y="5px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:5px;">T<tspan x="2.5px 5.281px " y="5px 5px ">on</tspan>e Output</text>
+                        <text x="0px" y="10px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:5px;">Pin</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,88.0731,23.145)">
+                <g id="schematicLabel_1_2" serif:id="schematicLabel_1_">
+                    <g>
+                        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:5px;">T<tspan x="2.5px 5.281px 6.394px 9.729px " y="0px 0px 0px 0px ">o Ar</tspan>duino</text>
+                        <text x="0px" y="5px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:5px;">3.3V</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="partLabel_2_">
+    </g>
+    <g id="partLabel_3_">
+    </g>
+    <g id="partLabel_4_">
+    </g>
+</svg>
