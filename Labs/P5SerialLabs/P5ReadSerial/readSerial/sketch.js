@@ -1,7 +1,9 @@
 let serial;                             // variable to hold an instance of the serialport library
-let portName = '/dev/cu.usbmodem1412301';  // fill in your serial port name here
+// let portName = '/dev/cu.usbmodem1412301';  // fill in your serial port name here
 let inData;                             // for incoming serial data
 let serialDiv;                        // an HTML div to show incoming serial data
+// HTML Select option object:
+let portSelector;
 
 function setup() {
   createCanvas(400, 300);
@@ -15,7 +17,7 @@ function setup() {
   serial.on('close', portClose);      // callback for the port closing
 
   serial.list();                      // list the serial ports
-  serial.open(portName);              // open a serial port
+  // serial.open(portName);              // open a serial port
 }
 
 function draw() {
@@ -23,16 +25,32 @@ function draw() {
   background(0);
   fill(255);
   // display the incoming serial data as a string:
-  text("sensor value: " + inData, 30, 30);
+  text("sensor value: " + inData, 30, 50);
   printData("sensor value: " + inData);
 }
-// get the list of ports:
+
+// make a serial port selector object:
 function printList(portList) {
+  // create a select object:
+  portSelector = createSelect();
+  portSelector.position(10, 10);
   // portList is an array of serial port names
   for (var i = 0; i < portList.length; i++) {
-    // Display the list the console:
-    console.log(i + " " + portList[i]);
+    // add this port name to the select object:
+    portSelector.option(portList[i]);
   }
+  // set an event listener for when the port is changed:
+  portSelector.changed(mySelectEvent);
+}
+
+function mySelectEvent() {
+  let item = portSelector.value();
+  // if there's a port open, close it:
+  if (serial.serialport != null) {
+    serial.close();
+  }
+  // open the new port:
+  serial.open(item);
 }
 
 function serverConnected() {
@@ -63,7 +81,7 @@ function createHTML() {
   serialDiv.attribute('aria-role', 'alert');
   serialDiv.attribute('aria-live', 'polite');
   serialDiv.style('color', 'white');
-  serialDiv.position(10, 40);
+  serialDiv.position(10, 60);
 }
 
 function printData(inString) {
