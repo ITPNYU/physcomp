@@ -4,10 +4,10 @@ var portSelector; // a select menu for the port list
 var locH = 0;
 var locV = 0; // location of the circle
 var circleColor = 255; // color of the circle
-
+var portSelector; // a select menu for the port list
 
 function setup() {
-  createCanvas(640, 480); // make canvas
+  createCanvas(800, 600); // make canvas
   smooth(); // antialias drawing lines
   serial = new p5.SerialPort(); // make a new instance of the serialport library
   serial.on('list', printList); // set a callback function for the serialport list event
@@ -31,8 +31,8 @@ function draw() {
 function printList(portList) {
   // make a select menu and position it:
   portSelector = createSelect();
-  portSelector.position(10, 10);
-
+  portSelector.position(10,10);
+  
   // portList is an array of serial port names
   for (var i = 0; i < portList.length; i++) {
     // Display the list the console:
@@ -41,14 +41,17 @@ function printList(portList) {
     portSelector.option(portList[i]);
   }
   // set a handler for when a port is selected from the menu:
-  portSelector.changed(openPort);
+  portSelector.changed(mySelectEvent);
 }
 
-function openPort() {
-  var thisPort = portSelector.value();
-  if (thisPort != null) {
-    serial.open(thisPort);
+function mySelectEvent() {
+  let item = portSelector.value();
+   // if there's a port open, close it:
+  if (serial.serialport != null) {
+    serial.close();
   }
+  // open the new port:
+  serial.open(item);
 }
 
 function serverConnected() {
