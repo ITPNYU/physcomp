@@ -7,14 +7,15 @@
   - pushbutton with 10K pulldown resistor on pin 3. Button is connected to voltage
  
   created 1 Dec 2020
+  updated 5 Aug 2021
   by Tom Igoe
 */
 // the input pin:
-const int buttonPin = 3;
+int buttonPin = 3;
 
 // the length of the presses in ms:
-const int longPress = 750;
-const int shortPress = 250;
+int longPress = 750;
+int shortPress = 250;
 // variable for how long the user actually presses:
 long pressTime = 0;
 
