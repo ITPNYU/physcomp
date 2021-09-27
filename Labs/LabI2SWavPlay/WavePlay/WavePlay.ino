@@ -88,15 +88,25 @@ void setup() {
 }
 
 void loop() {
+  // the play function is non-blocking, so you can do
+  // other things while the file plays. Here are a few examples:
+
+  // print the current playing time, once a second:
   if (millis() - lastPrintTime > 1000) {
     Serial.print(waveFile.currentTime());
     Serial.println( " seconds");
     lastPrintTime = millis();
   }
+  
+  // if the file is no longer playing, print that:
   if (!AudioOutI2S.isPlaying()) {
     Serial.println("File has stopped");
     while (true); // do nothing
   }
+  
+  // if the file is paused, print that
+  // (n.b. nothing in this sketch can cause a pause,
+  // but you could add one):
   if (AudioOutI2S.isPaused()) {
     Serial.println("File is paused");
   }
