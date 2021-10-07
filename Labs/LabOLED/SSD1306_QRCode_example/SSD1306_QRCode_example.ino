@@ -1,7 +1,7 @@
 /*
   QR Code generator for SSD1306 Display
    Displays a QR code on a SSD1306 128x64 pixel display
-   Uses Adafruit EPD library: http://librarymanager/All#Adafruit_SSD1306
+   Uses Adafruit OLED library: http://librarymanager/All#Adafruit_SSD1306
    and Richard Moore's qrcode library: http://librarymanager/All#qrcode
    Code is based on qrcode library example and Adafruit_SSD1306 example.
    Circuit:
@@ -20,6 +20,7 @@
 #include <qrcode.h>
 #include <Wire.h>
 #include <Adafruit_SSD1306.h>
+#include <Adafruit_GFX.h>
 
 const int SCREEN_WIDTH = 128; // OLED display width, in pixels
 const int SCREEN_HEIGHT = 64; // OLED display height, in pixels
