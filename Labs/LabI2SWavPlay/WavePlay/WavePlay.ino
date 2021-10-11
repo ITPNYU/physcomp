@@ -10,8 +10,7 @@
      SD breakout or shield connected. If using the MKRZero,
    the on-board SD card will work.
      .wav file called SOUND.WAV on the card
-     pushbutton on the board connected to ground and pin 7.
-     Pressing it toggled play/pause
+     
      Amp wiring:
      GND connected GND
      VIN connected Vdd
@@ -29,12 +28,13 @@
         - pin 4 (Nano 33 IoT)
 
   created 24 Sep 2021
+  modified 11 Oct 2021
   by Tom Igoe
 */
 
 #include <SD.h>
 #include <ArduinoSound.h>
-#define I2S_DEVICE 1 .  // this enables the I2C bus
+#define I2S_DEVICE 1   // this enables the I2C bus
 
 // filename of wave file to play
 // file name must be 8chars . 3 chars
