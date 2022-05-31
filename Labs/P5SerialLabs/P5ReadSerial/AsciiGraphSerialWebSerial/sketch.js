@@ -89,8 +89,14 @@ function choosePort() {
 // open the selected port, and make the port 
 // button invisible:
 function openPort() {
-  serial.open();
-  console.log("port open")
+  // wait for the serial.open promise to return,
+  // then call the initiateSerial function
+  serial.open().then(initiateSerial);
+
+  // once the port opens, let the user know:
+  function initiateSerial() {
+    console.log("port open");
+  }
   // hide the port button once a port is chosen:
   if (portButton) portButton.hide();
 }
