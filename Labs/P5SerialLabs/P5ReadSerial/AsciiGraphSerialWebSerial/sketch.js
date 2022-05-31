@@ -24,7 +24,7 @@ function setup() {
 
    // check to see if serial is available:
    if (!navigator.serial) {
-    alert("WebSerial is not supported.");
+    alert("WebSerial is not supported in this browser. Try Chrome or MS Edge.");
   }
   // if serial is available, add connect/disconnect listeners:
   navigator.serial.addEventListener("connect", portConnect);
