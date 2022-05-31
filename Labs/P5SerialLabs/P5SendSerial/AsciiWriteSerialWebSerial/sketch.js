@@ -65,13 +65,6 @@ function keyPressed() {
   }
 }
 
-function serialEvent() {
-  // read a byte from the serial port:
-  var inByte = serial.read();
-  // store it in a global variable:
-  inData = inByte;
-}
-
 // if there's no port selected, 
 // make a port select button appear:
 function makePortButton() {
