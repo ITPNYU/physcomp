@@ -1,5 +1,5 @@
 /*
-Serial list ports using p5.webserial
+Serial read using p5.webserial
 
 Lists serial ports in a browser selection window. 
 When you choose a port, it opens the port and 
