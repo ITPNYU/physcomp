@@ -7,25 +7,21 @@ displays any incoming strings as text in a text div. This makes
 it accessible to screen readers.
 
 created 31 May 2022
+modified 11 Jun 2022
 by Tom Igoe
 */
-
 // variable to hold an instance of the p5.webserial library:
 const serial = new p5.WebSerial();
-
-// HTML button object:
+// port chooser button:
 let portButton;
-// HTML div object for incoming text:
-let incomingDiv;
+// variable for incoming serial data:
+let inData;
 
 function setup() {
    // check to see if serial is available:
    if (!navigator.serial) {
     alert("WebSerial is not supported in this browser. Try Chrome or MS Edge.");
   }
-  // if serial is available, add connect/disconnect listeners:
-  navigator.serial.addEventListener("connect", portConnect);
-  navigator.serial.addEventListener("disconnect", portDisconnect);
   // check for any ports that are available:
   serial.getPorts();
   // if there's no port chosen, choose one:
@@ -36,9 +32,10 @@ function setup() {
   serial.on("requesterror", portError);
   // handle any incoming serial data:
   serial.on("data", serialEvent);
-
-  incomingDiv = createDiv("incoming text will go here");
-  incomingDiv.position(10, 40);
+  serial.on("close", makePortButton)
+  // add serial connect/disconnect listeners:
+  navigator.serial.addEventListener("connect", portConnect);
+  navigator.serial.addEventListener("disconnect", portDisconnect);
 }
 
 // if there's no port selected, 
@@ -53,38 +50,49 @@ function makePortButton() {
 
 // make the port selector window appear:
 function choosePort() {
+  if (portButton) portButton.show();
   serial.requestPort();
+}
+
+function draw() {
+  createCanvas(400,300);
+   background(0);
+   fill(255);
+   text("sensor value: " + inData, 30, 50);
 }
 
 // open the selected port, and make the port 
 // button invisible:
 function openPort() {
   serial.open();
-  incomingDiv.html("port open")
+  console.log("port open")
   // hide the port button once a port is chosen:
   if (portButton) portButton.hide();
-}
-
-// read incoming bytes as numbers:
-function serialEvent() {
-  receivedText = Number(serial.read());
-  incomingDiv.html(receivedText);
 }
 
 // pop up an alert if there's a port error:
 function portError(err) {
   alert("Serial port error: " + err);
 }
+// read any incoming data as a string
+// (assumes a newline at the end of it):
+function serialEvent() {
+  inData = Number(serial.read());
+}
 
 // try to connect if a new serial port 
 // gets added (i.e. plugged in via USB):
 function portConnect() {
-  incomingDiv.html("port connected");
+  console.log("port connected");
   serial.getPorts();
 }
 
 // if a port is disconnected:
 function portDisconnect() {
   serial.close();
-  incomingDiv.html("port disconnected");
+  console.log("port disconnected");
+}
+
+function closePort() {
+  serial.close();
 }
