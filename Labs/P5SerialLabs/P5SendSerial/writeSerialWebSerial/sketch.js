@@ -118,3 +118,7 @@ function portDisconnect() {
   serial.close();
   console.log("port disconnected");
 }
+
+function closePort() {
+  serial.close();
+}
