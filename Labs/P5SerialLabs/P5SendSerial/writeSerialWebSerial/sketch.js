@@ -18,8 +18,8 @@ let outByte = 0;                       // for outgoing data
 
 function setup() {
   createCanvas(400, 300);          // make the canvas
-   // check to see if serial is available:
-   if (!navigator.serial) {
+  // check to see if serial is available:
+  if (!navigator.serial) {
     alert("WebSerial is not supported in this browser. Try Chrome or MS Edge.");
   }
   // if serial is available, add connect/disconnect listeners:
@@ -35,6 +35,7 @@ function setup() {
   serial.on("requesterror", portError);
   // handle any incoming serial data:
   serial.on("data", serialEvent);
+  serial.on("close", makePortButton);
 }
 function draw() {
   // black background, white text:
@@ -52,10 +53,14 @@ function mouseDragged() {
 }
 
 function keyPressed() {
-  if (key >=0 && key <=9) {   // if the user presses 0 through 9
+  if (key >= 0 && key <= 9) {   // if the user presses 0 through 9
     outByte = byte(key * 25); // map the key to a range from 0 to 225
+    serial.write(outByte);      // send it out the serial port
   }
-  serial.write(outByte);      // send it out the serial port
+  if (key === "H" || key === "L") {
+    // if the user presses H or L
+    serial.write(key); // send it out the serial port
+  }
 }
 
 // if there's no port selected, 
