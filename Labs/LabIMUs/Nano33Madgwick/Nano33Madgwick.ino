@@ -58,12 +58,12 @@ void loop() {
 
   // if you get a byte in the serial port,
   // send the latest heading, pitch, and roll:
-  if (Serial.available()) {
-    char input = Serial.read();   
+ if (Serial.available()) {
+    char input = Serial.read();  
     Serial.print(heading);
     Serial.print(",");
     Serial.print(pitch);
     Serial.print(",");
     Serial.println(roll);
-  }
+ }
 }

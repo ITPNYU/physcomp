@@ -3,7 +3,7 @@
 	Based on Helena Bisby's Processing Madgwick visualizer
 
 	Takes incoming serial data in the following form:
-   heading,pitch,roll\n
+	 heading,pitch,roll\n
 	Uses heading, pitch, and roll numbers (all floats)
 	to position a 3D model of an Arduino Nano onscreen
 
@@ -11,11 +11,11 @@
 	modified 25 Aug 2019
 	by Tom Igoe
 */
+// variable to hold an instance of the p5.webserial library:
+const serial = new p5.WebSerial();
 
-//  an instance of the serialport library:
-let serial;
-// fill in your serial port name here:
-let portName = '/dev/cu.usbmodem141301';
+// HTML button object:
+let portButton;
 
 // orientation variables:
 let heading = 0.0;
@@ -24,15 +24,27 @@ let roll = 0.0;
 
 function setup() {
 	createCanvas(500, 600, WEBGL);
-	// instantiate serial port:
-	serial = new p5.SerialPort();
-	// set callback for port open:
-	serial.on('open', startSerial);
-	// set callback for incoming data:   
-	serial.on('data', serialEvent);
-	// open serial port:
-	serial.open(portName);
+
+	// check to see if serial is available:
+	if (!navigator.serial) {
+		alert("WebSerial is not supported in this browser. Try Chrome or MS Edge.");
+	}
+	// if serial is available, add connect/disconnect listeners:
+	navigator.serial.addEventListener("connect", portConnect);
+	navigator.serial.addEventListener("disconnect", portDisconnect);
+	// check for any ports that are available:
+	serial.getPorts();
+	// if there's no port chosen, choose one:
+	serial.on("noport", makePortButton);
+	// open whatever port is available:
+	serial.on("portavailable", openPort);
+	// handle serial errors:
+	serial.on("requesterror", portError);
+	// handle any incoming serial data:
+	serial.on("data", serialEvent);
+	serial.on("close", makePortButton);
 }
+
 
 function draw() {
 	// update the drawing:
@@ -52,32 +64,6 @@ function draw() {
 	// draw arduino board:
 	drawArduino();
 	pop(); // end of object
-}
-
-// callback function for when serial port opens:
-function startSerial() {
-	// send an initial byte 
-	// to get data from the microcontroller:
-	serial.write('x');
-	console.log('serial port opened');
-}
-
-// callback function for incoming serial data:
-function serialEvent() {
-	// read from port until new line:
-	let message = serial.readStringUntil('\n');
-	if (message != null) {
-		let list = split(trim(message), ',');
-		if (list.length >= 3) {
-			// convert list items to floats:
-			heading = float(list[0]);
-			pitch = float(list[1]);
-			roll = float(list[2]);
-			//console.log(heading + ',' + pitch + ',' + roll);
-			// send a byte to the microcontroller to get new data:
-			serial.write('x');
-		}
-	}
 }
 
 // draws the Arduino Nano:
@@ -102,4 +88,71 @@ function drawArduino() {
 	// the USB connector:
 	translate(-245, 0, 0); // move to correct position
 	box(35, 15, 40);	// draw box
+}
+
+// if there's no port selected,
+// make a port select button appear:
+function makePortButton() {
+	// create and position a port chooser button:
+	portButton = createButton("choose port");
+	portButton.position(10, 10);
+	// give the port button a mousepressed handler:
+	portButton.mousePressed(choosePort);
+}
+
+// make the port selector window appear:
+function choosePort() {
+	serial.requestPort();
+}
+
+// open the selected port, and make the port
+// button invisible:
+function openPort() {
+	// wait for the serial.open promise to return,
+	// then call the initiateSerial function
+	serial.open().then(initiateSerial);
+
+	// once the port opens, let the user know:
+	function initiateSerial() {
+		console.log("port open");
+		serial.write("x");
+	}
+	// hide the port button once a port is chosen:
+	if (portButton) portButton.hide();
+}
+
+function serialEvent() {
+	// read a string from the serial port
+	// until you get carriage return and newline:
+	var inString = serial.readStringUntil("\r\n");
+	//check to see that there's actually a string there:
+	if (inString) {
+		// split the string on the commas:
+		let list = split(inString, ',');
+		if (list.length > 2) {
+			console.log(list);
+			// convert list items to floats:
+			heading = float(list[0]);
+			pitch = float(list[2]);
+			roll = float(list[1]);
+			serial.write('x');
+		}
+	}
+}
+// pop up an alert if there's a port error:
+function portError(err) {
+	alert("Serial port error: " + err);
+}
+
+// try to connect if a new serial port
+// gets added (i.e. plugged in via USB):
+function portConnect() {
+	console.log("port connected");
+	serial.getPorts();
+}
+
+// if a port is disconnected:
+function portDisconnect() {
+	serial.close();
+	console.log("port disconnected");
 }
