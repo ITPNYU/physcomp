@@ -9,6 +9,7 @@ then sends an 'x' to request another string
 from the sender.
 
 created 31 May 2022
+modified 11 Jun 2022
 by Tom Igoe
 */
 // variable to hold an instance of the p5.webserial library:
@@ -16,12 +17,14 @@ const serial = new p5.WebSerial();
 
 // HTML button object:
 let portButton;
-let locH = 0;
-let locV = 0; // location of the circle
-let circleColor = 255; // color of the circle
+let inData; // for incoming serial data
+let outData; // for outgoing data
+// variables for the circle to be drawn:
+let locH, locV;
+let circleColor = 255;
 
 function setup() {
-  createCanvas(400, 300);          // make the canvas
+  createCanvas(400, 300); // make the canvas
   // check to see if serial is available:
   if (!navigator.serial) {
     alert("WebSerial is not supported in this browser. Try Chrome or MS Edge.");
@@ -39,6 +42,7 @@ function setup() {
   serial.on("requesterror", portError);
   // handle any incoming serial data:
   serial.on("data", serialEvent);
+  serial.on("close", makePortButton);
 }
 
 function draw() {
@@ -47,31 +51,11 @@ function draw() {
   ellipse(locH, locV, 50, 50); // draw the circle
 }
 
-function serialEvent() {
-  // read a string from the serial port
-  // until you get carriage return and newline:
-  var inString = serial.readStringUntil("\r\n");
-  //check to see that there's actually a string there:
-
-  if (inString) {
-    if (inString !== 'hello') { // if you get hello, ignore it
-      var sensors = split(inString, ','); // split the string on the commas
-      if (sensors.length > 2) { // if there are three elements
-        locH = map(sensors[0], 0, 1023, 0, width); // element 0 is the locH
-        locV = map(sensors[1], 0, 1023, 0, height); // element 1 is the locV
-        circleColor = 255 - (sensors[2] * 255); // element 2 is the button
-      }
-    }
-    console.log(inString);
-    serial.write('x'); // send a byte requesting more serial data
-  }
-}
-
-// if there's no port selected, 
+// if there's no port selected,
 // make a port select button appear:
 function makePortButton() {
   // create and position a port chooser button:
-  portButton = createButton('choose port');
+  portButton = createButton("choose port");
   portButton.position(10, 10);
   // give the port button a mousepressed handler:
   portButton.mousePressed(choosePort);
@@ -82,21 +66,45 @@ function choosePort() {
   serial.requestPort();
 }
 
-// open the selected port, and make the port 
+// open the selected port, and make the port
 // button invisible:
 function openPort() {
   // wait for the serial.open promise to return,
   // then call the initiateSerial function
   serial.open().then(initiateSerial);
 
-  // send an x once the serial port is open
-  // to prompt the microcontroller to send:
+  // once the port opens, let the user know:
   function initiateSerial() {
-    serial.write('x');
     console.log("port open");
+    serial.write("x");
   }
   // hide the port button once a port is chosen:
   if (portButton) portButton.hide();
+}
+
+function serialEvent() {
+  // read a string from the serial port
+  // until you get carriage return and newline:
+  var inString = serial.readStringUntil("\r\n");
+  //check to see that there's actually a string there:
+  if (inString) {
+    if (inString !== "hello") {
+      // if you get hello, ignore it
+      // split the string on the commas:
+      var sensors = split(inString, ",");
+      if (sensors.length > 2) {
+        // if there are three elements
+        // element 0 is the locH:
+        locH = map(sensors[0], 0, 1023, 0, width);
+        // element 1 is the locV:
+        locV = map(sensors[1], 0, 1023, 0, height);
+        // element 2 is the button:
+        circleColor = 255 - sensors[2] * 255;
+        // send a byte back to prompt for more data:
+        serial.write("x");
+      }
+    }
+  }
 }
 
 // pop up an alert if there's a port error:
@@ -104,7 +112,7 @@ function portError(err) {
   alert("Serial port error: " + err);
 }
 
-// try to connect if a new serial port 
+// try to connect if a new serial port
 // gets added (i.e. plugged in via USB):
 function portConnect() {
   console.log("port connected");
