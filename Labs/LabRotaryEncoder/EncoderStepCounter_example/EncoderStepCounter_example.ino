@@ -1,3 +1,13 @@
+/*
+  Encoder Step Library
+  reads a rotary encoder and its built-in pushbutton
+
+  Uses Manuel Reimer's EncoderStepCounter library
+  https://github.com/M-Reimer/EncoderStepCounter
+
+  created 20 Jun 2022
+  by Tom Igoe
+*/
 #include <EncoderStepCounter.h>
 
 const int pin1 = 2;
@@ -13,7 +23,6 @@ const int buttonPin = 4;    // pushbutton pin
 int lastButtonState = LOW;  // last button state
 int debounceDelay = 5;      // debounce time for the button in ms
 
-
 void setup() {
   Serial.begin(9600);
   // Initialize encoder
@@ -27,7 +36,7 @@ void setup() {
 
 void loop() {
   // if you're not using interrupts, you need this in the loop:
-  encoder.tick();
+  // encoder.tick();
 
   // read encoder position:
   int position = encoder.getPosition();
