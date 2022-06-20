@@ -1,5 +1,5 @@
 /*
-  Rotary Encoder with no interrupts. 
+  Rotary Encoder with no library. 
   Based on Paul Stoffregen's algorithm in the Encoder library
   See https://github.com/PaulStoffregen/Encoder/blob/eb73cf763504c6d0159fc2326fc9142a801e4e8a/Encoder.h#L187
 
