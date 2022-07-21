@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 299 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;">
+    <g id="Artboard2" transform="matrix(1.01838,0,0,1,-4.74856,-18.1128)">
+        <rect x="4.663" y="18.113" width="293.153" height="215.649" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="4.663" y="18.113" width="293.153" height="215.649"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="Artboard1" transform="matrix(1.00928,0,0,0.93194,6.02675,0.112773)">
+                <rect x="0" y="0" width="289.752" height="288.547" style="fill:none;"/>
+                <g transform="matrix(0.325274,0,0,0.358741,232.617,96.5837)">
+                    <g>
+                        <g transform="matrix(0.25,0,0,0.25,58.4646,10.6299)">
+                            <g id="g3791">
+                                <path id="path3019" d="M106.299,42.52C117.962,42.52 127.559,52.117 127.559,63.78C127.559,75.442 117.962,85.039 106.299,85.039" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:8.38px;"/>
+                                <g transform="matrix(1,0,0,1,5.33316e-06,42.5197)">
+                                    <path id="path3789" d="M106.299,42.52C117.962,42.52 127.559,52.117 127.559,63.78C127.559,75.442 117.962,85.039 106.299,85.039" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:8.38px;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="matrix(0.25,0,0,0.25,58.4646,31.8898)">
+                            <g id="g3795">
+                                <path id="path3797" d="M106.299,42.52C117.962,42.52 127.559,52.117 127.559,63.78C127.559,75.442 117.962,85.039 106.299,85.039" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:8.38px;"/>
+                                <g transform="matrix(1,0,0,1,5.33316e-06,42.5197)">
+                                    <path id="path3799" d="M106.299,42.52C117.962,42.52 127.559,52.117 127.559,63.78C127.559,75.442 117.962,85.039 106.299,85.039" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:8.38px;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path id="path3801" d="M85.039,21.26L21.26,21.26" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linecap:butt;"/>
+                        <path id="path3803" d="M85.039,63.78L42.52,63.78L21.26,63.779" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linecap:butt;"/>
+                        <g transform="matrix(0,-0.25,0.25,0,95.6693,111.614)">
+                            <g id="g3805">
+                                <path id="path3807" d="M106.299,42.52C117.962,42.52 127.559,52.117 127.559,63.78C127.559,75.442 117.962,85.039 106.299,85.039" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:8.38px;"/>
+                                <g transform="matrix(1,0,0,1,5.33316e-06,42.5197)">
+                                    <path id="path3809" d="M106.299,42.52C117.962,42.52 127.559,52.117 127.559,63.78C127.559,75.442 117.962,85.039 106.299,85.039" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:8.38px;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="matrix(0,-0.25,0.25,0,116.929,111.614)">
+                            <g id="g3811">
+                                <path id="path3813" d="M106.299,42.52C117.962,42.52 127.559,52.117 127.559,63.78C127.559,75.442 117.962,85.039 106.299,85.039" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:8.38px;"/>
+                                <g transform="matrix(1,0,0,1,5.33316e-06,42.5197)">
+                                    <path id="path3815" d="M106.299,42.52C117.962,42.52 127.559,52.117 127.559,63.78C127.559,75.442 117.962,85.039 106.299,85.039" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:8.38px;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,21.2598,9.34594e-06)">
+                            <path id="path3825" d="M45.354,106.294L45.354,106.304C45.354,107.859 44.075,109.139 42.52,109.139C40.965,109.139 39.685,107.859 39.685,106.304L39.685,106.294C39.685,104.739 40.965,103.459 42.52,103.459C44.075,103.459 45.354,104.739 45.354,106.294Z" style="fill-rule:nonzero;"/>
+                        </g>
+                        <g transform="matrix(1.40625,0,0,1.40625,-21.9242,-17.2736)">
+                            <path id="path3827" d="M127.559,42.52C127.559,54.183 117.962,63.78 106.299,63.78C94.636,63.78 85.039,54.183 85.039,42.52C85.039,30.857 94.636,21.26 106.299,21.26C117.962,21.26 127.559,30.857 127.559,42.52Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.49px;stroke-linecap:butt;"/>
+                        </g>
+                        <g transform="matrix(1.40625,0,0,1.40625,-21.9242,-17.2736)">
+                            <path id="path3829" d="M120.95,47.852C118.714,53.997 112.839,58.11 106.3,58.11C97.747,58.11 90.709,51.072 90.709,42.52C90.709,33.967 97.747,26.929 106.3,26.929C114.852,26.929 121.89,33.967 121.89,42.52" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.49px;"/>
+                        </g>
+                        <path id="path3831" d="M149.573,42.513L151.385,40.354" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;"/>
+                        <path id="path3833" d="M149.573,42.513L147.414,40.701" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;"/>
+                        <path id="path3835" d="M106.299,85.039L106.299,127.559L21.26,127.559" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linecap:butt;stroke-linejoin:round;"/>
+                        <path id="path3837" d="M148.819,85.039L148.819,148.819L21.26,148.819" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linecap:butt;stroke-linejoin:round;"/>
+                        <path id="path3855" d="M120.472,49.606L121.889,34.016L127.559,39.685L133.228,34.016L134.645,49.606" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.4px;stroke-linecap:butt;"/>
+                        <g transform="matrix(1,0,0,1,21.2598,9.34594e-06)">
+                            <path id="path3859" d="M80.787,106.299C80.787,103.966 82.707,102.047 85.039,102.047C87.372,102.047 89.291,103.966 89.291,106.299" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linejoin:round;"/>
+                        </g>
+                        <path id="path3865" d="M127.559,85.039L127.559,106.299L110.551,106.299" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linecap:butt;stroke-linejoin:round;"/>
+                        <path id="path3869" d="M102.047,106.299L21.26,106.299" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linecap:butt;"/>
+                        <g transform="matrix(0,1,-1,0,170.079,-21.2598)">
+                            <path id="path3873" d="M80.787,106.299C80.787,103.966 82.707,102.047 85.039,102.047C87.372,102.047 89.291,103.966 89.291,106.299" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linejoin:round;"/>
+                        </g>
+                        <path id="path3875" d="M85.039,42.52L63.78,42.52L63.78,59.528" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linecap:butt;stroke-linejoin:round;"/>
+                        <path id="path3879" d="M63.78,68.031L63.78,106.299" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.09px;stroke-linecap:butt;"/>
+                        <g transform="matrix(1,0,0,1,19.5276,18.4252)">
+                            <g id="text3930">
+                                <text id="tspan3932" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:8px;">PINK</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,61.1054,1.96387)">
+                            <g id="text39301" serif:id="text3930">
+                                <text id="tspan39321" serif:id="tspan3932" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:17.947px;">Motor</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,19.8167,60.9449)">
+                            <g id="text3934">
+                                <text id="tspan3936" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:8px;">ORANGE</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,19.5276,103.465)">
+                            <g id="text3938">
+                                <text id="tspan3940" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:8px;">RED</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,20.305,124.724)">
+                            <g id="text3942">
+                                <g id="tspan3944">
+                                    <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:8px;">YELLO</text>
+                                    <g transform="matrix(1,0,0,1,22.078,0)">
+                                        <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:8px;">W</text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,19.5276,145.984)">
+                            <g id="text3946">
+                                <text id="tspan3948" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:8px;">BLUE</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,56.8575,229.627)">
+                    <g>
+                        <g id="schematic">
+                            <path id="connector0pin" d="M7.201,7.575L7.201,0.375" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.75px;"/>
+                            <path id="path4098" d="M0.5,7.711L13.9,7.711" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                            <path id="path4100" d="M2.732,10.456L11.667,10.456" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                            <path id="path4102" d="M9.431,13.175L4.967,13.175" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,173.728,52.8234)">
+                    <g>
+                        <g id="schematic1" serif:id="schematic">
+                            <path id="connector0pin1" serif:id="connector0pin" d="M7.201,7.575L7.201,0.375" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.75px;"/>
+                            <path id="path40981" serif:id="path4098" d="M0.5,7.711L13.9,7.711" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                            <path id="path41001" serif:id="path4100" d="M2.732,10.456L11.667,10.456" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                            <path id="path41021" serif:id="path4102" d="M9.431,13.175L4.967,13.175" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.9px;"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,7.84429,45.3449)">
+                    <g>
+                        <g id="schematic2" serif:id="schematic">
+                            <rect x="14.85" y="14.85" width="78.3" height="135.9" style="fill:white;stroke:black;stroke-width:0.9px;"/>
+                            <path id="connector61pin" d="M93.25,28.8L107.65,28.8" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,82.2439,29.4999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D0/RX</text>
+                            </g>
+                            <path id="connector62pin" d="M93.25,36L107.65,36" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,82.4919,36.6999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D1/TX</text>
+                            </g>
+                            <path id="connector63pin" d="M93.25,43.2L107.65,43.2" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,87.5279,43.8999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D2</text>
+                            </g>
+                            <path id="connector64pin" d="M93.25,50.4L107.65,50.4" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,78.4639,51.0999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D3 PWM</text>
+                            </g>
+                            <path id="connector65pin" d="M93.25,57.6L107.65,57.6" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,87.5279,58.2999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D4</text>
+                            </g>
+                            <path id="connector66pin" d="M93.25,64.8L107.65,64.8" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,78.4639,65.4999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D5 PWM</text>
+                            </g>
+                            <path id="connector67pin" d="M93.25,72L107.65,72" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,78.4639,72.6999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D6 PWM</text>
+                            </g>
+                            <path id="connector68pin" d="M93.25,79.2L107.65,79.2" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,87.5279,79.8999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D7</text>
+                            </g>
+                            <path id="connector51pin" d="M93.25,86.4L107.65,86.4" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,87.5279,87.0999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D8</text>
+                            </g>
+                            <path id="connector52pin" d="M93.25,93.6L107.65,93.6" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,78.4639,94.2999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D9 PWM</text>
+                            </g>
+                            <path id="connector53pin" d="M93.25,100.8L107.65,100.8" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,71.3029,101.5)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D10 PWM/CS</text>
+                            </g>
+                            <path id="connector54pin" d="M93.25,108L107.65,108" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,68.4219,108.7)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D11 PWM/SDO</text>
+                            </g>
+                            <path id="connector55pin" d="M93.25,115.2L107.65,115.2" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,78.9319,115.9)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D12/SDI</text>
+                            </g>
+                            <path id="connector41pin" d="M93.25,122.4L107.65,122.4" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector41terminal" x="107.65" y="122.05" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector56pin" d="M93.25,122.4L107.65,122.4" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,78.3409,123.1)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">D13/SCK</text>
+                            </g>
+                            <path id="connector43pin" d="M0.35,28.8L14.75,28.8" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector43terminal" x="-0.35" y="28.45" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector85pin" d="M0.35,28.8L14.75,28.8" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,29.4999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">RESET</text>
+                            </g>
+                            <path id="connector49pin" d="M0.35,36L14.75,36" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,36.6999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">RESET2</text>
+                            </g>
+                            <rect id="connector49terminal" x="-0.35" y="35.65" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector58pin" d="M0.35,43.2L14.75,43.2" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,43.8999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">AREF</text>
+                            </g>
+                            <path id="connector84pin" d="M0.35,50.4L14.75,50.4" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,51.0999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">ioref</text>
+                            </g>
+                            <path id="connector0pin2" serif:id="connector0pin" d="M0.35,64.8L14.75,64.8" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,65.4999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">A0</text>
+                            </g>
+                            <path id="connector1pin" d="M0.35,72L14.75,72" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,72.6999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">A1</text>
+                            </g>
+                            <path id="connector2pin" d="M0.35,79.2L14.75,79.2" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,79.8999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">A2</text>
+                            </g>
+                            <path id="connector3pin" d="M0.35,86.4L14.75,86.4" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,87.0999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">A3</text>
+                            </g>
+                            <path id="connector48pin" d="M0.35,93.6L14.75,93.6" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector48terminal" x="-0.35" y="93.25" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector45pin" d="M0.35,93.6L14.75,93.6" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector45terminal" x="-0.35" y="93.25" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector4pin" d="M0.35,93.6L14.75,93.6" style="fill:none;fill-rule:nonzero;"/>
+                            <path id="connector39pin" d="M0.35,93.6L14.75,93.6" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector39terminal" x="-0.35" y="93.25" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector47pin" d="M0.35,93.6L14.75,93.6" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector47terminal" x="-0.35" y="93.25" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector42pin" d="M0.35,93.6L14.75,93.6" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector42terminal" x="-0.35" y="93.25" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector59pin" d="M0.35,93.6L14.75,93.6" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,94.2999)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">A4/SDA</text>
+                            </g>
+                            <path id="connector5pin" d="M0.35,100.8L14.75,100.8" style="fill:none;fill-rule:nonzero;"/>
+                            <path id="connector60pin" d="M0.35,100.8L14.75,100.8" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(1,0,0,1,16.15,101.5)">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">A5/SCL</text>
+                            </g>
+                            <path id="connector88pin" d="M57.6,150.85L57.6,165.25" style="fill:none;fill-rule:nonzero;"/>
+                            <path id="connector57pin" d="M57.6,150.85L57.6,165.25" style="fill:none;fill-rule:nonzero;"/>
+                            <path id="connector44pin" d="M57.6,150.85L57.6,165.25" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector44terminal" x="57.25" y="165.25" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector50pin" d="M57.6,150.85L57.6,165.25" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector50terminal" x="57.25" y="165.25" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector89pin" d="M57.6,150.85L57.6,165.25" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(7.04481e-16,-1,1,7.04481e-16,58.2999,149.45)">
+                                <g>
+                                    <g>
+                                        <g>
+                                            <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">GND</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <path id="connector40pin" d="M50.4,0.35L50.4,14.75" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector40terminal" x="50.05" y="-0.35" width="0.7" height="0.7" style="fill:none;"/>
+                            <path id="connector46pin" d="M50.4,0.35L50.4,14.75" style="fill:none;fill-rule:nonzero;"/>
+                            <rect id="connector46terminal" x="50.05" y="-0.35" width="0.7" height="0.7" style="fill:none;"/>
+                            <g id="connector87pin" transform="matrix(1,0,0,1,-10,0)">
+                                <path d="M50.4,0.35L50.4,14.75" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            </g>
+                            <g transform="matrix(7.04481e-16,-1,1,7.04481e-16,41.0999,16.15)">
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g transform="matrix(1,0,0,1,-5.124,0)">
+                                                    <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">V</text>
+                                                </g>
+                                                <g transform="matrix(1,0,0,1,-3.24,0)">
+                                                    <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">cc</text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <path id="connector90pin" d="M64.8,0.35L64.8,14.75" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(7.04481e-16,-1,1,7.04481e-16,65.4999,21.875)">
+                                <g>
+                                    <g>
+                                        <g>
+                                            <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:3.5px;fill:rgb(140,140,140);">VIN</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="matrix(1,0,0,1,46.7861,76.4498)">
+                                <g id="label">
+                                    <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:4.25px;">Arduino</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,173.378,29.6728)">
+                    <g>
+                        <g id="schematic3" serif:id="schematic">
+                            <path d="M0.36,7.55L14.76,7.55" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.72px;"/>
+                            <path d="M7.56,10.43L7.56,14.75" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.43px;"/>
+                            <path d="M7.56,10.385C10.115,10.385 12.599,11.237 14.616,12.806" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.72px;stroke-linecap:butt;"/>
+                            <path d="M0.567,12.795C2.575,11.261 5.033,10.43 7.56,10.43" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.72px;stroke-linecap:butt;"/>
+                            <rect x="1.174" y="5.296" width="2.52" height="0.36"/>
+                            <rect x="2.254" y="4.216" width="0.36" height="2.52"/>
+                            <path id="connector0pin3" serif:id="connector0pin" d="M7.56,0.35L7.56,7.55" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(7.04481e-16,-1,1,7.04481e-16,6.50999,4.63799)">
+                                <g>
+                                    <g>
+                                        <g>
+                                            <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:2.5px;fill:rgb(140,140,140);">1</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <path id="connector1pin1" serif:id="connector1pin" d="M7.56,21.95L7.56,14.75" style="fill:none;fill-rule:nonzero;stroke:rgb(120,120,120);stroke-width:0.7px;"/>
+                            <g transform="matrix(7.04481e-16,-1,1,7.04481e-16,6.50999,19.038)">
+                                <g>
+                                    <g>
+                                        <g>
+                                            <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:2.5px;fill:rgb(140,140,140);">2</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,7.84429,-21.0726)">
+                    <path d="M57.578,234.113L57.6,227.497" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:0.7px;"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,7.84429,-21.0726)">
+                    <circle cx="57.6" cy="227.497" r="1.44"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,7.84429,-21.0726)">
+                    <path d="M57.6,227.497L219.987,227.497" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:0.7px;"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,7.84429,-21.0726)">
+                    <circle cx="57.6" cy="227.497" r="1.44"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,163.714,43.5534)">
+                    <g id="partLabel">
+                        <g>
+                            <g id="schematicLabel">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5px;">C1</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(0.634888,0,0,0.700214,155.638,79.9461)">
+                    <g id="schematic4" serif:id="schematic">
+                        <rect id="rect7" x="14.816" y="1.206" width="57.6" height="144" style="fill:none;stroke:black;stroke-width:2.12px;stroke-linejoin:round;"/>
+                        <g transform="matrix(1,0,0,1,19.6723,18.9536)">
+                            <text id="label1" serif:id="label" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:9.089px;">STSPIN220</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,18.1375,29.5562)">
+                            <text id="label0" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">EN</text>
+                        </g>
+                        <g>
+                            <path id="line15" d="M0.416,42.442L14.816,42.442" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="0.416" y="41.943" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <g transform="matrix(1,0,0,1,0,-14.401)">
+                                <rect x="0.416" y="41.943" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            </g>
+                            <rect id="connector1pin2" serif:id="connector1pin" x="0.416" y="41.943" width="1.516" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,18.1375,43.9751)">
+                            <text id="label11" serif:id="label1" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">MODE1</text>
+                        </g>
+                        <g>
+                            <path id="line20" d="M0.416,56.843L14.816,56.843" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="0.416" y="56.342" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector2pin1" serif:id="connector2pin" x="0.416" y="56.342" width="1.516" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,18.1375,58.3931)">
+                            <text id="label2" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">MODE2</text>
+                        </g>
+                        <g>
+                            <path id="line25" d="M0.416,71.242L14.816,71.242" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="0.416" y="70.743" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector3pin1" serif:id="connector3pin" x="0.416" y="70.743" width="1.516" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,18.1375,72.811)">
+                            <text id="label3" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">1</text>
+                        </g>
+                        <g>
+                            <path id="line30" d="M0.416,85.643L14.816,85.643" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="0.416" y="85.142" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector4pin1" serif:id="connector4pin" x="0.416" y="85.142" width="1.516" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,18.1375,88.229)">
+                            <text id="label4" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">2</text>
+                        </g>
+                        <g>
+                            <path id="line35" d="M0.416,100.042L14.816,100.042" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="0.416" y="99.542" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector5pin1" serif:id="connector5pin" x="0.416" y="99.542" width="1.516" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,18.1375,102.648)">
+                            <text id="label5" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">STDBY</text>
+                        </g>
+                        <g>
+                            <path id="line40" d="M0.416,114.443L14.816,114.443" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="0.416" y="113.943" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector6pin" x="0.416" y="113.943" width="1.516" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,18.1375,116.067)">
+                            <text id="label6" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">STEP/MODE3</text>
+                        </g>
+                        <g>
+                            <path id="line45" d="M0.416,128.844L14.816,128.844" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="0.416" y="128.343" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector7pin" x="0.416" y="128.343" width="1.516" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,18.1375,130.485)">
+                            <text id="label7" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">DIR/MODE4</text>
+                        </g>
+                        <g>
+                            <path id="line50" d="M72.416,28.042L86.817,28.042" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="72.416" y="27.542" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector15pin" x="85.301" y="27.542" width="1.517" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,55.5427,29.5562)">
+                            <g id="label15">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">VMO</text>
+                                <g transform="matrix(1,0,0,1,10.788,0)">
+                                    <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">T</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <path id="line55" d="M72.416,42.442L86.817,42.442" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="72.416" y="41.943" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector14pin" x="85.301" y="41.943" width="1.517" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,58.3835,43.9751)">
+                            <text id="label14" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">GND</text>
+                        </g>
+                        <g>
+                            <path id="line60" d="M72.416,56.843L86.817,56.843" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="72.416" y="56.342" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector13pin" x="85.301" y="56.342" width="1.517" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,63.0554,59.3931)">
+                            <text id="label13" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">B1</text>
+                        </g>
+                        <g>
+                            <path id="line65" d="M72.416,71.242L86.817,71.242" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="72.416" y="70.743" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector12pin" x="85.301" y="70.743" width="1.517" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,63.1218,72.811)">
+                            <text id="label12" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">B2</text>
+                        </g>
+                        <g>
+                            <path id="line70" d="M72.416,85.643L86.817,85.643" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="72.416" y="85.142" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector11pin" x="85.301" y="85.142" width="1.517" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,63.1218,87.229)">
+                            <text id="label111" serif:id="label11" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">A2</text>
+                        </g>
+                        <g>
+                            <path id="line75" d="M72.416,100.042L86.817,100.042" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="72.416" y="99.542" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector10pin" x="85.301" y="99.542" width="1.517" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,63.0554,101.648)">
+                            <text id="label10" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">A1</text>
+                        </g>
+                        <g>
+                            <path id="line80" d="M72.416,114.443L86.817,114.443" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="72.416" y="113.943" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector9pin" x="85.301" y="113.943" width="1.517" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,59.2214,116.067)">
+                            <text id="label9" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">VDD</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,119.773,116.067)">
+                            <g id="label91" serif:id="label9">
+                                <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">T</text>
+                                <g transform="matrix(1,0,0,1,2.303,0)">
+                                    <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">o Arduino V</text>
+                                </g>
+                                <g transform="matrix(1,0,0,1,28.598,0)">
+                                    <text x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">cc</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <path id="line85" d="M72.416,128.844L86.817,128.844" style="fill:none;fill-rule:nonzero;"/>
+                            <rect x="72.416" y="128.343" width="14.4" height="1" style="fill:rgb(102,102,102);"/>
+                            <rect id="connector8pin" x="85.301" y="128.343" width="1.517" height="1" style="fill:rgb(102,102,102);"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,58.3835,130.485)">
+                            <text id="label8" x="0px" y="0px" style="font-family:'DroidSans', 'Droid Sans', sans-serif;font-size:5.017px;fill:rgb(102,102,102);">GND</text>
+                        </g>
+                        <g id="path3071-1" transform="matrix(0.768147,0,0,1,4.33657,0)">
+                            <path d="M18.704,23.694C25.573,23.694 25.511,23.694 25.511,23.694" style="fill-rule:nonzero;stroke:rgb(102,102,102);stroke-width:0.62px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="path3071-1-1-9" transform="matrix(0.768147,0,0,1,4.33657,0)">
+                            <path d="M18.752,96.962L36.17,96.962" style="fill:none;fill-rule:nonzero;stroke:rgb(102,102,102);stroke-width:0.74px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07608,0,-0.634305)">
+                    <path d="M149,93.13L149,207.859" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M161.231,92.804L149,92.804" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M160.241,102.202L149,102.202" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0.491497,10.5486)">
+                    <path d="M160.23,101.767L148.495,101.767" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0.474199,19.8842)">
+                    <path d="M160.248,102.36L148.513,102.362" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M160.736,149.186L138.595,149.186L138.595,85.459L115.713,85.459" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M160.241,158.582L132.105,158.582L131.778,92.659L115.713,92.659" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M228.051,207.859L227.724,102.201L216.623,102.201" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M216.128,158.582L228.051,158.582" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M216.623,149.186L235.591,149.186" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M216.128,139.788L246.198,139.788" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M216.623,130.391L242.992,130.391L242.992,132.656L246.198,132.656" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M216.623,120.995L240.501,120.995L240.501,111.333L246.198,111.333" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972924,0,0,1.07303,0,0)">
+                    <path d="M216.623,111.598L235.272,111.598L235.272,97.118L246.198,97.118" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,88.925,-21.0725)">
+                    <circle cx="57.6" cy="227.497" r="1.44"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,88.925,-114.389)">
+                    <circle cx="57.6" cy="227.497" r="1.44"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,88.925,-124.363)">
+                    <circle cx="57.6" cy="227.497" r="1.44"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,88.925,-134.253)">
+                    <circle cx="57.6" cy="227.497" r="1.44"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,165.835,-73.9473)">
+                    <circle cx="57.6" cy="227.497" r="1.44"/>
+                </g>
+                <g transform="matrix(1.13775,0,0,1.07303,-35.7043,0)">
+                    <path d="M72.863,42.609L72.863,28.003L216.623,28.003L216.623,92.478" style="fill:none;stroke:black;stroke-width:0.7px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,88.925,-134.253)">
+                    <circle cx="57.6" cy="227.497" r="1.44"/>
+                </g>
+                <g transform="matrix(0.972928,0,0,1.07303,124.589,-214.063)">
+                    <circle cx="57.6" cy="227.497" r="1.44"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
