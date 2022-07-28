@@ -6,6 +6,7 @@ bool direction = HIGH;
 void setup() {
   pinMode(stepPin, OUTPUT);
   pinMode(dirPin, OUTPUT);
+
 }
 
 void loop() {
@@ -15,12 +16,12 @@ void loop() {
   for (int step = 0; step < stepsPerRevolution; step++) {
     // step the motor one step:
     digitalWrite(stepPin, HIGH);
-    delay(1);
+    delay(3);
     digitalWrite(stepPin, LOW);
     delay(1);
   }
   // wait half a second:
   delay(500);
   // change direction:
-  direction = !direction;
+    direction = !direction;
 }
