@@ -1,21 +1,16 @@
 /*
-	p5.js Madgwick visualizer
-	Based on Helena Bisby's Processing Madgwick visualizer
+  p5.js Madgwick visualizer
+  Based on Helena Bisby's Processing Madgwick visualizer
 
-	Takes incoming serial data in the following form:
+  Takes incoming serial data in the following form:
    heading,pitch,roll\n
-	Uses heading, pitch, and roll numbers (all floats)
-	to position a 3D model of an Arduino Nano onscreen
+  Uses heading, pitch, and roll numbers (all floats)
+  to position a 3D model of an Arduino Nano onscreen
 
-	created 4 Aug 2019
-	modified 25 Aug 2019
-	by Tom Igoe
+  created 4 Aug 2019
+  modified 4 Oct 2022
+  by Tom Igoe
 */
-
-// //  an instance of the serialport library:
-// let serial;
-// // fill in your serial port name here:
-// let portName = '/dev/cu.usbmodem1412201';
 
 // orientation variables:
 let heading = 0.0;
@@ -23,7 +18,7 @@ let pitch = 0.0;
 let roll = 0.0;
 let port;
 let connectButton;
-
+let msgString = "";
 let textEncoder = new TextEncoder();
 
 function setup() {
@@ -59,17 +54,9 @@ function connect() {
     // change the name of the Connect button:
     connectButton.html('Disconnect');
     // Send initial byte to start the exchange;
-    port.send(textEncoder.encode('x')).catch(error => {
-      console.log('Send error: ' + error);
-    });
     port.onReceive = serialEvent;
-    // port.onReceive = data => {
-    //   let textDecoder = new TextDecoder();
-    //   console.log(textDecoder.decode(data));
-    // };
-    port.onReceiveError = error => {
-      console.error(error);
-    };
+
+    port.onReceiveError = serialError;
   }, error => {
     console.log(error);
   });
@@ -82,39 +69,49 @@ function discoverWebUSB() {
     connectButton.html('Connect');
     port = null;
   } else {
-    serial.requestPort().then(selectedPort => {
-      port = selectedPort;
-      connect();
-    }).catch(error => {
-      console.log(error);
-    });
+    serial.requestPort()
+      .then(selectedPort => {
+        port = selectedPort;
+        connect();
+      }).catch(error => {
+        console.log(error);
+      });
   }
 }
 
 
+
 // callback function for incoming serial data:
 function serialEvent(data) {
+  // console.log(data);
   // read from port until new line:
   let textDecoder = new TextDecoder();
   let message = textDecoder.decode(data);
-console.log(message);
-  // let message = serial.readStringUntil('\n');
-  //TODO: fill in webusb serial in here
-  if (message != null) {
-    let list = split(trim(message), ',');
-    if (list.length >= 3) {
-      // convert list items to floats:
-      heading = float(list[0]);
-      pitch = float(list[1]);
-      roll = float(list[2]);
-      //console.log(heading + ',' + pitch + ',' + roll);
-      // send a byte to the microcontroller to get new data:
-      // serial.write('x');
-      port.send(textEncoder.encode('x')).catch(error => {
-        console.log('Send error: ' + error);
-      });
+  // console.log(message);
+
+  for (let c = 0; c < message.length; c++) {
+    let thisChar = message.charAt(c);
+    if (thisChar !== '\n') {
+      msgString += thisChar;
+    } else {
+      let list = split(trim(msgString), ',');
+      if (list.length >= 3) {
+        // convert list items to floats:
+        heading = float(list[0]);
+        pitch = float(list[1]);
+        roll = float(list[2]);
+      }
+      msgString = "";
+      // send out a serial "x":
+      // port.send(textEncoder.encode('x')).catch(error => {
+      //   console.log('Send error: ' + error);
+      // });
     }
   }
+}
+
+function serialError(error) {
+  console.log(error);
 }
 
 // draws the Arduino Nano:

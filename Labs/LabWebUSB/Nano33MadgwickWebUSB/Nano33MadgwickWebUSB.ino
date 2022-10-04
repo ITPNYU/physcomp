@@ -32,7 +32,8 @@ void setup() {
   if (!IMU.begin()) {
     WebUSBSerial.println("Failed to initialize IMU");
     // stop here if you can't access the IMU:
-    while (true);
+    while (true)
+      ;
   }
   // start the filter to run at the sample rate:
   filter.begin(sensorRate);
@@ -44,8 +45,7 @@ void loop() {
   float xGyro, yGyro, zGyro;
 
   // check if the IMU is ready to read:
-  if (IMU.accelerationAvailable() &&
-      IMU.gyroscopeAvailable()) {
+  if (IMU.accelerationAvailable() && IMU.gyroscopeAvailable()) {
     // read accelerometer & gyrometer:
     IMU.readAcceleration(xAcc, yAcc, zAcc);
     IMU.readGyroscope(xGyro, yGyro, zGyro);
@@ -57,13 +57,6 @@ void loop() {
     roll = filter.getRoll();
     pitch = filter.getPitch();
     heading = filter.getYaw();
-  }
-
-  // if you get a byte in the serial port,
-  // send the latest heading, pitch, and roll:
-  if (WebUSBSerial.available()) {
-    char input = WebUSBSerial.read();   
-    Serial.println(input);
     WebUSBSerial.print(heading);
     WebUSBSerial.print(",");
     WebUSBSerial.print(pitch);
