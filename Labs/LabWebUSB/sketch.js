@@ -25,7 +25,7 @@ function setup() {
   createCanvas(500, 600, WEBGL);
 
   // Create a 'Connect' button
-  connectButton = createButton('Connect')
+  connectButton = createButton('waiting')
   connectButton.mousePressed(discoverWebUSB);
 }
 
