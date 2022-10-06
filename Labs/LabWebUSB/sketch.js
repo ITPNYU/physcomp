@@ -62,7 +62,8 @@ function connect() {
   });
 }
 
-function discoverWebUSB() {
+function discoverWebUSB() { 
+  connectButton.html("you clicked");
   if (port) {
     port.disconnect();
     // change the name of the Connect button:
