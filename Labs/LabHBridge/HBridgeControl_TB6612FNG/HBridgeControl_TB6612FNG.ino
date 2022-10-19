@@ -11,7 +11,7 @@ void setup() {
   pinMode(motor1Pin, OUTPUT);
   pinMode(motor2Pin, OUTPUT);
   pinMode(enablePin, OUTPUT);
-
+Serial.begin(9600);
   // set enablePin high so that motor can turn on:
   digitalWrite(enablePin, HIGH);
 }
@@ -19,6 +19,7 @@ void setup() {
 void loop() {
   // if the switch is high, motor will turn on one direction:
   if (digitalRead(switchPin) == HIGH) {
+    Serial.println("left");
     // set leg 1 of the H-bridge low:
     digitalWrite(motor1Pin, LOW);
     // set leg 2 of the H-bridge high:
@@ -26,6 +27,7 @@ void loop() {
   }
   // if the switch is low, motor will turn in the other direction:
   else {
+    Serial.println("right");
     // set leg 1 of the H-bridge high:
     digitalWrite(motor1Pin, HIGH);
     // set leg 2 of the H-bridge low:
