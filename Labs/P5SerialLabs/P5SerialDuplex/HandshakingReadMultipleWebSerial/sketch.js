@@ -76,7 +76,7 @@ function openPort() {
   // once the port opens, let the user know:
   function initiateSerial() {
     console.log("port open");
-    serial.write("x");
+    serial.print("x");
   }
   // hide the port button once a port is chosen:
   if (portButton) portButton.hide();
@@ -101,7 +101,7 @@ function serialEvent() {
         // element 2 is the button:
         circleColor = 255 - sensors[2] * 255;
         // send a byte back to prompt for more data:
-        serial.write("x");
+        serial.print("x");
       }
     }
   }
