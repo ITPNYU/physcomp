@@ -25,7 +25,7 @@ function setup() {
   createCanvas(500, 600, WEBGL);
 
   // Create a 'Connect' button
-  connectButton = createButton('waiting')
+  connectButton = createButton('Connect')
   connectButton.mousePressed(discoverWebUSB);
 }
 
@@ -63,7 +63,6 @@ function connect() {
 }
 
 function discoverWebUSB() { 
-  connectButton.html("you clicked");
   if (port) {
     port.disconnect();
     // change the name of the Connect button:
