@@ -50,9 +50,8 @@ function draw() {
 function mouseDragged() {
   // map the mouseY to a range from 0 to 255:
   outByte = int(map(mouseY, 0, height, 0, 255));
-  // Convert it to a string with a newline at the end,
-  // and send it out the serial port:
-  serial.write(outByte + '\n');
+  // Send it out the serial port as a string:
+  serial.write(outByte);
 }
 
 // sends an H or L if you press those keys.

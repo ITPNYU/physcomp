@@ -8,6 +8,7 @@ them as binary values
 created 31 May 2022
 by Tom Igoe
 */
+
 // variable to hold an instance of the p5.webserial library:
 const serial = new p5.WebSerial();
 
@@ -37,6 +38,7 @@ function setup() {
   serial.on("data", serialEvent);
   serial.on("close", makePortButton);
 }
+
 function draw() {
   // black background, white text:
   background(0);
@@ -47,7 +49,7 @@ function draw() {
 
 function mouseDragged() {
   // map the mouseY to a range from 0 to 255:
-  outByte = int(map(mouseY, 0, height, 0, 255));
+  outByte = byte(map(mouseY, 0, height, 0, 255));
   // send it out the serial port:
   serial.write(outByte);
 }
@@ -55,11 +57,11 @@ function mouseDragged() {
 function keyPressed() {
   if (key >= 0 && key <= 9) {   // if the user presses 0 through 9
     outByte = byte(key * 25); // map the key to a range from 0 to 225
-    serial.write(outByte);      // send it out the serial port
+    serial.println(outByte);      // send it out the serial port
   }
   if (key === "H" || key === "L") {
     // if the user presses H or L
-    serial.write(key); // send it out the serial port
+    serial.println(key); // send it out the serial port
   }
 }
 
@@ -75,6 +77,7 @@ function makePortButton() {
 
 // make the port selector window appear:
 function choosePort() {
+  if (portButton) portButton.show();
   serial.requestPort();
 }
 
@@ -93,17 +96,15 @@ function openPort() {
   if (portButton) portButton.hide();
 }
 
-// read any incoming data as a byte:
-function serialEvent() {
-  // read a byte from the serial port:
-  var inByte = serial.read();
-  // store it in a global variable:
-  inData = inByte;
-}
-
 // pop up an alert if there's a port error:
 function portError(err) {
   alert("Serial port error: " + err);
+}
+// read any incoming data as a string
+// (assumes a newline at the end of it):
+function serialEvent() {
+  inData = Number(serial.read());
+  console.log(inData);
 }
 
 // try to connect if a new serial port 

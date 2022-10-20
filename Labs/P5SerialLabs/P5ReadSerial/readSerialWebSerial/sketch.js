@@ -18,6 +18,7 @@ let portButton;
 let inData;
 
 function setup() {
+  createCanvas(400, 300);          // make the canvas
    // check to see if serial is available:
    if (!navigator.serial) {
     alert("WebSerial is not supported in this browser. Try Chrome or MS Edge.");
@@ -42,7 +43,7 @@ function setup() {
 // make a port select button appear:
 function makePortButton() {
   // create and position a port chooser button:
-  portButton = createButton('choose port');
+  portButton = createButton("choose port");
   portButton.position(10, 10);
   // give the port button a mousepressed handler:
   portButton.mousePressed(choosePort);
@@ -55,7 +56,6 @@ function choosePort() {
 }
 
 function draw() {
-  createCanvas(400,300);
    background(0);
    fill(255);
    text("sensor value: " + inData, 30, 50);
