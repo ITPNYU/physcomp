@@ -12,15 +12,15 @@
 #include <Arduino_LSM6DS3.h>
 #include <MadgwickAHRS.h>
 #include <ArduinoBLE.h>
+#include <Adafruit_MMC56x3.h>
 
-BLEService orientationService("23ce3f92-be01-11e9-9cb5-2a2ae2dbcce4");
+BLEService orientationService("23CE3F92-BE01-11E9-9CB5-2A2AE2DBCCE4");
 const char localName[] = "myNano33IoT";
-
 // create characteristics for heading, pitch, roll
 // and allow remote device to read and get notifications about them:
-BLEFloatCharacteristic headingCharacteristic("23ce450a-be01-11e9-9cb5-2a2ae2dbcce4", BLERead | BLENotify);
-BLEFloatCharacteristic pitchCharacteristic("23ce4276-be01-11e9-9cb5-2a2ae2dbcce4", BLERead | BLENotify);
-BLEFloatCharacteristic rollCharacteristic("23ce43ca-be01-11e9-9cb5-2a2ae2dbcce4", BLERead | BLENotify);
+BLEFloatCharacteristic headingCharacteristic("23CE3F92-BE02-11E9-9CB5-2A2AE2DBCCE4", BLERead | BLENotify);
+BLEFloatCharacteristic pitchCharacteristic("23CE3F92-BE03-11E9-9CB5-2A2AE2DBCCE4", BLERead | BLENotify);
+BLEFloatCharacteristic rollCharacteristic("23CE3F92-BE04-11E9-9CB5-2A2AE2DBCCE4", BLERead | BLENotify);
 
 // initialize a Madgwick filter:
 Madgwick filter;
@@ -38,7 +38,8 @@ void setup() {
   if (!IMU.begin()) {
     Serial.println("Starting IMU failed.");
     // stop here if you can't access the IMU:
-    while (true);
+    while (true)
+      ;
   }
   // start the Madgwick filter to run at the sample rate:
   filter.begin(sensorRate);
@@ -60,7 +61,8 @@ void setup() {
   } else {
     Serial.println("starting BLE failed.");
     // stop here if you can't access the BLE radio:
-    while (true);
+    while (true)
+      ;
   }
 }
 
@@ -85,39 +87,35 @@ void loop() {
   }
 }
 
-long lastUpdate = 0;
-
 void updateOrientation() {
   // values for acceleration & rotation:
   float xAcc, yAcc, zAcc;
   float xGyro, yGyro, zGyro;
 
   // check if the IMU is ready to read:
-  if (IMU.accelerationAvailable() &&
-      IMU.gyroscopeAvailable()) {
+  if (IMU.accelerationAvailable() && IMU.gyroscopeAvailable()) {
     // read accelerometer & gyrometer:
     IMU.readAcceleration(xAcc, yAcc, zAcc);
     IMU.readGyroscope(xGyro, yGyro, zGyro);
 
     // update the filter, which computes orientation:
     filter.updateIMU(xGyro, yGyro, zGyro, xAcc, yAcc, zAcc);
-    if (millis() -lastUpdate > 3000) {
-      lastUpdate = millis();
-      // update the heading, pitch and roll:
-      roll = filter.getRoll();
-      pitch = filter.getPitch();
-      heading = filter.getYaw();
-      Serial.print("Orientation: ");
-      Serial.print(heading);
-      Serial.print(" ");
-      Serial.print(pitch);
-      Serial.print(" ");
-      Serial.println(roll);
 
-      // update the BLE characteristics with the orientation values:
-      headingCharacteristic.writeValue(heading);
-      pitchCharacteristic.writeValue(pitch);
-      rollCharacteristic.writeValue(roll);
-    }
+    // update the heading, pitch and roll:
+    roll = filter.getRoll();
+    pitch = filter.getPitch();
+    heading = filter.getYaw();
+
+    Serial.print("Orientation: ");
+    Serial.print(heading);
+    Serial.print(" ");
+    Serial.print(pitch);
+    Serial.print(" ");
+    Serial.println(roll);
+
+    // update the BLE characteristics with the orientation values:
+    headingCharacteristic.writeValue(heading);
+    pitchCharacteristic.writeValue(pitch);
+    rollCharacteristic.writeValue(roll);
   }
 }

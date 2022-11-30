@@ -12,6 +12,9 @@
 
 #include <Arduino_LSM6DS3.h>
 #include <MadgwickAHRS.h>
+#include <Adafruit_MMC56x3.h>
+Adafruit_MMC5603 mag = Adafruit_MMC5603(12345);
+
 
 // initialize a Madgwick filter:
 Madgwick filter;
@@ -39,6 +42,11 @@ void loop() {
   // values for acceleration & rotation:
   float xAcc, yAcc, zAcc;
   float xGyro, yGyro, zGyro;
+  float xMag, yMag, zMag;
+ sensors_event_t magEvent;
+
+  mag.getEvent(&magEvent);
+
 
   // check if the IMU is ready to read:
   if (IMU.accelerationAvailable() &&

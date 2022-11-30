@@ -19,9 +19,9 @@
 */
 // UUIDs for the service and the three characteristics:
 const serviceUuid = '23ce3f92-be01-11e9-9cb5-2a2ae2dbcce4';
-const headingUuid = '23ce450a-be01-11e9-9cb5-2a2ae2dbcce4';
-const pitchUuid = '23ce4276-be01-11e9-9cb5-2a2ae2dbcce4';
-const rollUuid = '23ce43ca-be01-11e9-9cb5-2a2ae2dbcce4';
+const headingUuid = '23ce3f92-be02-11e9-9cb5-2a2ae2dbcce4';
+const pitchUuid = '23ce3f92-be03-11e9-9cb5-2a2ae2dbcce4';
+const rollUuid = '23ce3f92-be04-11e9-9cb5-2a2ae2dbcce4';
 
 // instance of p5.ble, to access the peripheral:
 let myPeripheral;
@@ -66,7 +66,7 @@ function draw() {
 
 		pop(); // end of object
 		// you've used the new data:
-		// console.log(heading + "   " + pitch + "   " + roll);
+		  console.log(heading + "   " + pitch + "   " + roll);
 		newData = false;
 	}
 }
@@ -128,6 +128,7 @@ function gotCharacteristics(error, characteristics) {
 	// orientation characteristics' UUIDs, set listeners for them:
 	for (c in characteristics) {
 		thisUuid = characteristics[c].uuid;
+	
 		if (thisUuid === headingUuid) {
 			myPeripheral.startNotifications(characteristics[c], getHeading, 'float32');
 		} else if (thisUuid === pitchUuid) {
@@ -140,17 +141,19 @@ function gotCharacteristics(error, characteristics) {
 
 // listener for heading characteristic notifications:
 function getHeading(data) {
-	heading = data;
+	heading = data.toFixed(3);
 	newData = true;
 }
+
+
 // listener for pitch characteristic notifications:
 function getPitch(data) {
-	pitch = data;
+	pitch = data.toFixed(3);
 	newData = true;
 }
 
 // listener for roll characteristic notifications:
 function getRoll(data) {
-	roll = data;
+	roll = data.toFixed(3);
 	newData = true;
 }
