@@ -4,9 +4,10 @@
   on an Arduino Nano 33 IoT, using the onboard LSM6DS3 IMU.
   Also makes the readings available as a BLE service
 
-  For big fun, connect this to p5.js sketch MadgwickVisualizer
+  For big fun, connect this to p5.js sketch MadgwickVisualizerBLE
 
   created 13 Aug 2019
+  updated 29 Nov 2022
   by Tom Igoe
 */
 #include <Arduino_LSM6DS3.h>

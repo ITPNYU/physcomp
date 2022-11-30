@@ -4,10 +4,10 @@
   on an Arduino Nano 33 BLE Sense, using the onboard IMU.
   Also makes the readings available as a BLE service
 
-  For big fun, connect this to p5.js sketch MadgwickVisualizer
+  For big fun, connect this to p5.js sketch MadgwickVisualizerBLE
 
   created 13 Aug 2019
-  modified 15 Oct 2019 for the BLE Sense
+  updated 29 Nov 2022
   by Tom Igoe
 */
 #include <Arduino_LSM9DS1.h>

@@ -6,15 +6,10 @@
 	Uses these numbers (all floats)
 	to position a 3D model of an Arduino Nano onscreen
 
-	Note: this sketch currently uses a MODIFIED version of p5.ble.min.js. it replaces 
-	r=n.getFloat32(0);
-	with
-	r=n.getFloat32(0, true);
-
 	Watch https://github.com/ITPNYU/p5.ble.js for updates.
 
 	created 13 Aug 2019
-	modified 7 Oct 2019
+	updated 29 Nov 2022
 	by Tom Igoe
 */
 // UUIDs for the service and the three characteristics:
@@ -141,6 +136,7 @@ function gotCharacteristics(error, characteristics) {
 
 // listener for heading characteristic notifications:
 function getHeading(data) {
+	// reduce to 3 decimal points' accuracy:
 	heading = data.toFixed(3);
 	newData = true;
 }
@@ -148,12 +144,14 @@ function getHeading(data) {
 
 // listener for pitch characteristic notifications:
 function getPitch(data) {
+	// reduce to 3 decimal points' accuracy:
 	pitch = data.toFixed(3);
 	newData = true;
 }
 
 // listener for roll characteristic notifications:
 function getRoll(data) {
+	// reduce to 3 decimal points' accuracy:
 	roll = data.toFixed(3);
 	newData = true;
 }
