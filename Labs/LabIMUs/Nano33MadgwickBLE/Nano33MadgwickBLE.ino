@@ -12,7 +12,6 @@
 #include <Arduino_LSM6DS3.h>
 #include <MadgwickAHRS.h>
 #include <ArduinoBLE.h>
-#include <Adafruit_MMC56x3.h>
 
 BLEService orientationService("23CE3F92-BE01-11E9-9CB5-2A2AE2DBCCE4");
 const char localName[] = "myNano33IoT";
