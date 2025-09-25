@@ -16,6 +16,7 @@
   and running the CentralDuplex example.
 
   created 27 Aug 2019
+  updated 
   by Tom Igoe
   based on Sandeep Mistry's examples
 */
@@ -33,6 +34,9 @@ BLEByteCharacteristic buttonCharacteristic("473dab7c-c93a-11e9-a32f-2a2ae2dbcce4
     BLERead | BLENotify);
 // create LED characteristic and allow remote device to read and write
 BLEByteCharacteristic ledCharacteristic("473dacc6-c93a-11e9-a32f-2a2ae2dbcce4",
+                                        BLERead | BLEWrite);
+
+BLEByteCharacteristic sent("473dacc6-c93a-11e9-a32f-2a2ae2dbcce4",
                                         BLERead | BLEWrite);
 
 void setup() {
@@ -86,6 +90,8 @@ void loop() {
         digitalWrite(LED_BUILTIN, ledState);
         Serial.println("changing LED");
       }
+
+
     }
 
     // when the central disconnects, print it out:
